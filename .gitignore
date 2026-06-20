@@ -9,3 +9,4 @@ dossie*.html
 cache_*.json
 config.json
 logs/
+db/
