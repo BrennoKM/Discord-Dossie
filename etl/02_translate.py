@@ -81,6 +81,7 @@ def run(channel_id: str, force: bool = False):
 
     translated_now = 0
     errors         = 0
+    recent         = []  # ultimas traducoes para exibir
 
     for i, m in enumerate(pending):
         en, pt = translate(m["c"])
@@ -88,16 +89,31 @@ def run(channel_id: str, force: bool = False):
         if en or pt:
             translations[m["id"]] = {"en": en, "pt": pt}
             translated_now += 1
+            recent.append((m["c"], en, pt))
+            if len(recent) > 5:
+                recent.pop(0)
         else:
             errors += 1
 
         # Checkpoint a cada N traducoes
         if (i + 1) % CHECKPOINT_EVERY == 0:
             save_json(trans_file, translations)
-            log_progress(
-                already + i + 1, total,
-                f"traduzidas: {translated_now} | erros: {errors}"
-            )
+
+            # Limpa tela e mostra progresso + ultimas traducoes
+            print("\033[2J\033[H", end="", flush=True)
+            pct = (already + i + 1) / total * 100
+            log(f"Progresso: {already + i + 1:,}/{total:,} ({pct:.1f}%) | traduzidas: {translated_now} | erros: {errors}")
+            print(flush=True)
+            print("  Ultimas traducoes:", flush=True)
+            print(f"  {'-'*70}", flush=True)
+            for orig, ten, tpt in recent:
+                orig_short = orig[:80].replace("\n", " ")
+                en_short   = ten[:80].replace("\n", " ") if ten else "-"
+                pt_short   = tpt[:80].replace("\n", " ") if tpt else "-"
+                print(f"  OR: {orig_short}", flush=True)
+                print(f"  EN: {en_short}", flush=True)
+                print(f"  PT: {pt_short}", flush=True)
+                print(flush=True)
 
     # Salva final
     save_json(trans_file, translations)
