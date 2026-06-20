@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """
 05_ai_review.py - Envia mensagens dos suspeitos para o Groq (Llama 3) classificar.
-Resumivel: pula msgs ja classificadas. Processa em lotes de 15 msgs por chamada.
+
+Resumivel:
+  - Pula mensagens ja classificadas em ai_review.json.
+  - Checkpoint a cada 3 lotes para nao perder progresso.
 
 Uso:
-  python etl/05_ai_review.py --channel 1510279576721428612
-  python etl/05_ai_review.py --channel chat-polish --top 10
+  python etl/05_ai_review.py --channel chat-polish
+  python etl/05_ai_review.py --channel chat-polish --top 5
 """
 
 import argparse
@@ -21,7 +24,8 @@ from etl.common import (
     ALL_CHANNELS, GROQ_API_KEY,
     load_json, save_json, load_jsonl,
     messages_path, authors_path, translations_path, ai_review_path,
-    suspects_path, discord_link,
+    suspects_path,
+    log, log_section, log_progress,
 )
 
 client = Groq(api_key=GROQ_API_KEY)
@@ -40,9 +44,10 @@ Responda APENAS com JSON valido no formato:
 
 Seja objetivo. Contexto: servidor de jogo online onde ocorreram denuncias de racismo contra jogadores brasileiros."""
 
+BATCH = 15
+
 
 def review_batch(messages: list[dict], translations: dict, authors: dict) -> list[dict]:
-    """Envia um lote de mensagens para o Groq classificar."""
     if not messages:
         return []
 
@@ -61,54 +66,52 @@ def review_batch(messages: list[dict], translations: dict, authors: dict) -> lis
             line += f' | PT-BR: {pt}'
         lines.append(line)
 
-    user_msg = "Classifique as mensagens abaixo:\n\n" + "\n".join(lines)
-
     try:
         resp = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user",   "content": user_msg},
+                {"role": "user",   "content": "Classifique as mensagens abaixo:\n\n" + "\n".join(lines)},
             ],
             temperature=0.1,
             max_tokens=2000,
         )
-        raw = resp.choices[0].message.content.strip()
-
-        # Extrai o JSON da resposta
+        raw   = resp.choices[0].message.content.strip()
         start = raw.find("[")
         end   = raw.rfind("]") + 1
         if start == -1 or end == 0:
             return []
         return json.loads(raw[start:end])
-
     except Exception as e:
-        print(f"\n    Erro na chamada Groq: {e}")
+        log(f"Erro na chamada Groq: {e}")
         return []
 
 
 def run(channel_id: str, top_n: int = 0, user_id: str = ""):
+    log_section(f"ETAPA 5 - Revisao IA (Groq): canal {channel_id}")
+
     msgs     = load_jsonl(messages_path(channel_id))
     authors  = load_json(authors_path(channel_id), {})
     trans    = load_json(translations_path(channel_id), {})
     review   = load_json(ai_review_path(channel_id), {})
     suspects = load_json(suspects_path(), [])
+    ch_name  = ALL_CHANNELS.get(channel_id, channel_id)
 
-    ch_name = ALL_CHANNELS.get(channel_id, channel_id)
-    print(f"Canal: #{ch_name} | {len(msgs):,} msgs | {len(review):,} ja revisadas")
+    log(f"Canal: #{ch_name}")
+    log(f"Mensagens no canal: {len(msgs):,}")
+    log(f"Ja revisadas pela IA: {len(review):,}")
 
-    # Define quais usuarios revisar
     if user_id:
         target_ids = {user_id}
     elif top_n:
         ch_suspects = [s for s in suspects if s["channel_id"] == channel_id][:top_n]
         target_ids  = {s["user_id"] for s in ch_suspects}
     else:
-        # Todos os suspeitos do canal
         ch_suspects = [s for s in suspects if s["channel_id"] == channel_id]
         target_ids  = {s["user_id"] for s in ch_suspects}
 
-    # Filtra mensagens: so dos suspeitos, so com conteudo, so as nao revisadas
+    log(f"Usuarios-alvo: {len(target_ids)}")
+
     to_review = [
         m for m in msgs
         if m.get("a") in target_ids
@@ -117,19 +120,22 @@ def run(channel_id: str, top_n: int = 0, user_id: str = ""):
     ]
 
     if not to_review:
-        print("Nada para revisar.")
+        log("Nada para revisar. Todos ja foram classificados.")
+        # Resumo mesmo assim
+        _print_summary(review)
         return
 
-    print(f"  {len(to_review):,} mensagens para classificar ({len(target_ids)} usuarios)")
-    print(f"  Processando em lotes de 15...\n")
+    log(f"Mensagens pendentes de classificacao: {len(to_review):,}")
+    log(f"Processando em lotes de {BATCH}...\n")
 
-    BATCH = 15
     classified = 0
-    skipped    = 0
+    errors     = 0
+    batch_num  = 0
 
     for i in range(0, len(to_review), BATCH):
-        batch  = to_review[i:i + BATCH]
-        results = review_batch(batch, trans, authors)
+        batch      = to_review[i:i + BATCH]
+        results    = review_batch(batch, trans, authors)
+        batch_num += 1
 
         if results:
             for r in results:
@@ -142,39 +148,51 @@ def run(channel_id: str, top_n: int = 0, user_id: str = ""):
                     }
                     classified += 1
         else:
-            skipped += len(batch)
+            errors += len(batch)
+            log(f"  Lote {batch_num}: sem resposta valida ({len(batch)} msgs perdidas)")
 
-        # Checkpoint a cada 5 lotes
-        if (i // BATCH + 1) % 5 == 0:
+        # Checkpoint a cada 3 lotes
+        if batch_num % 3 == 0:
             save_json(ai_review_path(channel_id), review)
 
-        pct = min(100, (i + BATCH) / len(to_review) * 100)
-        print(f"  {i + len(batch):,}/{len(to_review):,} ({pct:.0f}%) | classificadas: {classified} | erros: {skipped}", end="\r")
-        time.sleep(0.5)  # respeita rate limit do Groq
+        log_progress(
+            i + len(batch), len(to_review),
+            f"classificadas: {classified} | erros: {errors} | lote {batch_num}"
+        )
+        time.sleep(0.5)
 
     save_json(ai_review_path(channel_id), review)
+    print(flush=True)
+    log(f"Concluido: {classified} classificadas | {errors} erros")
+    _print_summary(review)
 
-    # Resumo por label
+
+def _print_summary(review: dict):
     labels = {}
     for v in review.values():
-        l = v.get("label", "?")
-        labels[l] = labels.get(l, 0) + 1
+        lb = v.get("label", "?")
+        labels[lb] = labels.get(lb, 0) + 1
 
-    print(f"\n  Classificacao concluida:")
+    if not labels:
+        return
+
+    log(f"\nResumo das classificacoes:")
+    print(f"\n  {'label':<15} {'count':>6}")
+    print(f"  {'-'*22}")
     for label, count in sorted(labels.items(), key=lambda x: -x[1]):
-        print(f"    {label:<15} {count:>5}")
+        marker = " <--" if label in ("racist", "xenophobic") else ""
+        print(f"  {label:<15} {count:>6}{marker}")
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--channel", required=True)
-    ap.add_argument("--top", type=int, default=0, help="Top N suspeitos")
+    ap.add_argument("--top",  type=int, default=0)
     ap.add_argument("--user", help="User ID especifico")
     args = ap.parse_args()
 
     by_name = {v: k for k, v in ALL_CHANNELS.items()}
     ch_id   = by_name.get(args.channel, args.channel)
-
     run(ch_id, args.top, args.user)
 
 

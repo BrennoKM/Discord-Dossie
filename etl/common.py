@@ -1,20 +1,47 @@
-"""Utilitários compartilhados entre todas as etapas do ETL."""
+"""Utilitarios compartilhados entre todas as etapas do ETL."""
 
 import json
 import os
+import sys
 import time
+from datetime import datetime
 from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
 
+# ── logging ───────────────────────────────────────────────────────────────────
+
+def ts():
+    return datetime.now().strftime("%H:%M:%S")
+
+def log(msg: str):
+    print(f"[{ts()}] {msg}", flush=True)
+
+def log_progress(current: int, total: int, label: str = ""):
+    pct = current / total * 100 if total else 0
+    bar_len = 30
+    filled = int(bar_len * current / total) if total else 0
+    bar = "#" * filled + "-" * (bar_len - filled)
+    suffix = f"  {label}" if label else ""
+    print(f"\r[{ts()}] [{bar}] {current:,}/{total:,} ({pct:.1f}%){suffix}", end="", flush=True)
+
+def log_section(title: str):
+    line = "=" * 55
+    print(f"\n{line}", flush=True)
+    print(f"  {title}", flush=True)
+    print(f"{line}", flush=True)
+
 load_dotenv(Path(__file__).parent.parent / ".env")
 
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN", "")
 GROQ_API_KEY  = os.getenv("GROQ_API_KEY", "")
-GUILD_ID      = "1427722762809770126"
+GUILD_ID      = os.getenv("GUILD_ID", "1427722762809770126")
 
-ALL_CHANNELS = {
+DATA_DIR = Path(__file__).parent.parent / "data"
+
+# Canais hardcoded como fallback (Task Bar Hero)
+_CHANNELS_FALLBACK = {
     "1510279576721428612": "chat-polish",
     "1427726870564180040": "chat-english",
     "1509047425933905970": "chat-brazil",
@@ -37,7 +64,22 @@ ALL_CHANNELS = {
     "1427726995378274324": "item-info",
 }
 
-DATA_DIR = Path(__file__).parent.parent / "data"
+def _load_channels() -> dict:
+    cfg = DATA_DIR / "channels_config.json"
+    if cfg.exists():
+        try:
+            data = json.loads(cfg.read_text(encoding="utf-8"))
+            # Formato: {guild_id: {channel_id: name, ...}, ...}
+            # Pega o guild atual se existir, senao pega o primeiro disponivel
+            if GUILD_ID in data:
+                return data[GUILD_ID]
+            if data:
+                return next(iter(data.values()))
+        except Exception:
+            pass
+    return _CHANNELS_FALLBACK
+
+ALL_CHANNELS: dict = _load_channels()
 
 # ── paths ─────────────────────────────────────────────────────────────────────
 

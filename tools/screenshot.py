@@ -212,49 +212,48 @@ def main():
             ch_id = inf["channel_id"]
             author = inf["author_username"]
             ch_name = inf.get("channel_name", ch_id)
-            ts = inf["timestamp"].replace(":", "-").replace(" ", "_")
-            fname = f"{ts}_{ch_name}_{msg_id}.png"
+            ts = inf["timestamp"][:16].replace(":", "-").replace(" ", "_")
+            folder_name = f"{ts}_{msg_id}"
 
-            # Organiza por autor
-            out_dir = CARDS / author
+            # cards/autor/data_msgid/screenshot.png
+            out_dir = CARDS / author / folder_name
             out_dir.mkdir(parents=True, exist_ok=True)
-            out = out_dir / fname
+            out = out_dir / "screenshot.png"
 
-            print(f"  [{i+1}/{len(targets)}] @{author} — {inf['timestamp']}")
+            print(f"  [{i+1}/{len(targets)}] @{author} — {inf['timestamp']} #{ch_name}")
             print(f"    {inf['content'][:80]}")
 
             ok = screenshot_message(page, ch_id, msg_id, out)
 
             if ok:
-                meta = {
-                    "file": f"{author}/{fname}",
-                    "msg_id": msg_id,
-                    "discord_link": inf["discord_link"],
-                    "timestamp": inf["timestamp"],
-                    "channel": inf["channel_name"],
-                    "author_id": inf["author_id"],
+                info = {
+                    "msg_id":          msg_id,
+                    "discord_link":    inf["discord_link"],
+                    "timestamp":       inf["timestamp"],
+                    "channel_id":      ch_id,
+                    "channel_name":    ch_name,
+                    "author_id":       inf["author_id"],
                     "author_username": author,
-                    "author_display": inf["author_display"],
-                    # Texto bruto para copiar/colar na mensagem de exposição
-                    "content": inf["content"],
-                    "translation_en": inf.get("translation_en", ""),
-                    "translation_pt": inf.get("translation_pt", ""),
-                    # Texto de exposição pronto para enviar no Discord
+                    "author_display":  inf["author_display"],
+                    "content":         inf["content"],
+                    "translation_en":  inf.get("translation_en", ""),
+                    "translation_pt":  inf.get("translation_pt", ""),
+                    "ai_label":        inf.get("label", ""),
+                    "ai_confidence":   inf.get("confidence", 0),
+                    "ai_reason":       inf.get("reason", ""),
                     "expose_text": (
-                        f"**Autor:** {inf['author_display']} (@{author})\n"
-                        f"**Canal:** #{inf['channel_name']} · {inf['timestamp']} UTC\n"
-                        f"**Link:** {inf['discord_link']}\n\n"
-                        f"**Mensagem original:**\n```\n{inf['content']}\n```\n"
-                        f"**Tradução (EN):** {inf.get('translation_en','')}\n"
-                        f"**Tradução (PT-BR):** {inf.get('translation_pt','')}"
+                        f"**{inf['author_display']}** (@{author})\n"
+                        f"#{ch_name} | {inf['timestamp']} UTC\n"
+                        f"{inf['discord_link']}\n\n"
+                        f"```\n{inf['content']}\n```\n"
+                        f"**EN:** {inf.get('translation_en','')}\n"
+                        f"**PT-BR:** {inf.get('translation_pt','')}"
                     ),
-                    "flags": inf["flags"],
-                    "serious": inf.get("serious", False),
                 }
-                save_json(out_dir / fname.replace(".png", ".json"), meta)
+                save_json(out_dir / "info.json", info)
                 done.add(msg_id)
                 success += 1
-                print(f"    salvo: cards/{author}/{fname}")
+                print(f"    salvo: cards/{author}/{folder_name}/")
             else:
                 fail += 1
                 print(f"    ✗ Falhou")
