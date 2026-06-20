@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-05_ai_review.py - Envia mensagens dos suspeitos para o Groq (Llama 3) classificar.
+06_ai_review.py - Envia mensagens dos suspeitos para o Groq (Llama 3) classificar.
 
 Resumivel:
   - Pula mensagens ja classificadas em ai_review.json.
@@ -42,7 +42,7 @@ Analise cada mensagem e classifique com um dos rotulos:
 Responda APENAS com JSON valido no formato:
 [{"id": "MSG_ID", "label": "LABEL", "confidence": 0.95, "reason": "breve explicacao em portugues"}]
 
-Seja objetivo. Contexto: servidor de jogo online onde ocorreram denuncias de racismo contra jogadores brasileiros."""
+Seja objetivo. Contexto: servidor de jogo online RPG idle onde ocorreram denuncias de racismo contra jogadores brasileiros."""
 
 BATCH = 15
 
@@ -88,7 +88,7 @@ def review_batch(messages: list[dict], translations: dict, authors: dict) -> lis
 
 
 def run(channel_id: str, top_n: int = 0, user_id: str = ""):
-    log_section(f"ETAPA 5 - Revisao IA (Groq): canal {channel_id}")
+    log_section(f"ETAPA 6 - Revisao IA (Groq): canal {channel_id}")
 
     msgs     = load_jsonl(messages_path(channel_id))
     authors  = load_json(authors_path(), {})

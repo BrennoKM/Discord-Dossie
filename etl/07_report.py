@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-06_report.py - Gera relatorio HTML e arquivo de exposicao a partir das classificacoes da IA.
+07_report.py - Gera relatorio HTML e arquivo de exposicao a partir das classificacoes da IA.
 So inclui mensagens classificadas como racist ou xenophobic.
 
 Uso:
@@ -275,7 +275,7 @@ def run(channel_id: str, min_confidence: float = 0.7):
     ch_name  = ALL_CHANNELS.get(channel_id, channel_id)
 
     if not review:
-        print("Nenhuma revisao de IA encontrada. Rode 05_ai_review.py primeiro.")
+        print("Nenhuma revisao de IA encontrada. Rode 06_ai_review.py primeiro.")
         return
 
     # Indexa mensagens por ID para acesso rapido

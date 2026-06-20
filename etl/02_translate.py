@@ -29,7 +29,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from etl.common import (
     ALL_CHANNELS, load_json, save_json, load_jsonl,
     translations_path, messages_path, authors_path,
-    log, log_section, ts,
+    log, log_section, ts, to_local, discord_link, GUILD_ID,
 )
 
 CHECKPOINT_EVERY = 20
@@ -227,8 +227,8 @@ def run(channel_id: str, force: bool = False, batch_size: int = 10):
         print(flush=True)
         lines += 1
 
-        for author_e, ts_e, orig_e, en_e, pt_e in recent:
-            print(f"  @{author_e} | {ts_e[:16]}", flush=True)
+        for author_e, ts_e, orig_e, en_e, pt_e, link_e in recent:
+            print(f"  @{author_e} | {ts_e} (UTC-3) | {link_e}", flush=True)
             print(f"  OR: {orig_e[:110].replace(chr(10), ' ')}", flush=True)
             print(f"  EN: {en_e[:110] if en_e else '-'}", flush=True)
             print(f"  PT: {pt_e[:110] if pt_e else '-'}", flush=True)
@@ -260,7 +260,8 @@ def run(channel_id: str, force: bool = False, batch_size: int = 10):
                 translated_now += 1
                 tr_times.append(time.time())
                 author = authors.get(m.get("a", ""), {}).get("u", "?")
-                recent.append((author, m.get("ts", ""), m["c"], en, pt))
+                link   = discord_link(channel_id, m["id"])
+                recent.append((author, to_local(m.get("ts", "")), m["c"], en, pt, link))
                 if len(recent) > RECENT_MAX:
                     recent.pop(0)
             i += 1

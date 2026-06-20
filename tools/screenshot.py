@@ -19,6 +19,9 @@ from pathlib import Path
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from etl.common import to_local
+
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN", "")
 
@@ -229,7 +232,8 @@ def main():
                 info = {
                     "msg_id":          msg_id,
                     "discord_link":    inf["discord_link"],
-                    "timestamp":       inf["timestamp"],
+                    "timestamp_utc":   inf["timestamp"],
+                    "timestamp_local": to_local(inf["timestamp"]),
                     "channel_id":      ch_id,
                     "channel_name":    ch_name,
                     "author_id":       inf["author_id"],
@@ -243,7 +247,7 @@ def main():
                     "ai_reason":       inf.get("reason", ""),
                     "expose_text": (
                         f"**{inf['author_display']}** (@{author})\n"
-                        f"#{ch_name} | {inf['timestamp']} UTC\n"
+                        f"#{ch_name} | {to_local(inf['timestamp'])} (UTC-3)\n"
                         f"{inf['discord_link']}\n\n"
                         f"```\n{inf['content']}\n```\n"
                         f"**EN:** {inf.get('translation_en','')}\n"

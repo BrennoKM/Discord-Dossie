@@ -10,3 +10,4 @@ cache_*.json
 config.json
 logs/
 db/
+.claude/

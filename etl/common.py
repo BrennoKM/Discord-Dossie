@@ -12,8 +12,20 @@ from dotenv import load_dotenv
 
 # ── logging ───────────────────────────────────────────────────────────────────
 
+UTC_OFFSET = -3  # America/Sao_Paulo
+
 def ts():
     return datetime.now().strftime("%H:%M:%S")
+
+def to_local(utc_str: str) -> str:
+    """Converte timestamp UTC do Discord (YYYY-MM-DD HH:MM:SS) para hora local."""
+    try:
+        from datetime import timedelta
+        dt = datetime.strptime(utc_str[:16], "%Y-%m-%d %H:%M")
+        dt = dt + timedelta(hours=UTC_OFFSET)
+        return dt.strftime("%Y-%m-%d %H:%M")
+    except Exception:
+        return utc_str[:16]
 
 def log(msg: str):
     print(f"[{ts()}] {msg}", flush=True)
@@ -105,6 +117,9 @@ def meta_path(channel_id: str) -> Path:
 
 def suspects_path() -> Path:
     return DATA_DIR / "suspects.json"
+
+def pre_filtered_path(channel_id: str) -> Path:
+    return channel_dir(channel_id) / "pre_filtered.json"
 
 # ── JSON helpers ──────────────────────────────────────────────────────────────
 
