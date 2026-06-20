@@ -10,4 +10,4 @@ cache_*.json
 config.json
 logs/
 db/
-.claude/
+.claude/channels/
