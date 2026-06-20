@@ -68,10 +68,13 @@ data/
   expose_CHANNEL_ID.json <- cards prontos para exposicao
 ```
 
-## Screenshots
+## Ferramentas auxiliares
 
 ```bash
 # Tira prints reais do Discord para as mensagens confirmadas
-python screenshot.py --limit 20
+python tools/screenshot.py --limit 20
+
+# Interface de revisao manual das infracoes
+python tools/review.py --only-serious
 ```
-Na primeira execucao abre o browser para voce fazer login. Salva a sessao automaticamente.
+Na primeira execucao do screenshot, abre o browser para voce fazer login. Salva a sessao automaticamente.
