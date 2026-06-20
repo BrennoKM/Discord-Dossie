@@ -1,0 +1,157 @@
+"""Utilitários compartilhados entre todas as etapas do ETL."""
+
+import json
+import os
+import time
+from pathlib import Path
+
+import requests
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).parent.parent / ".env")
+
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN", "")
+GROQ_API_KEY  = os.getenv("GROQ_API_KEY", "")
+GUILD_ID      = "1427722762809770126"
+
+ALL_CHANNELS = {
+    "1510279576721428612": "chat-polish",
+    "1427726870564180040": "chat-english",
+    "1509047425933905970": "chat-brazil",
+    "1509047989585580112": "chat-portugal",
+    "1509469702890455110": "chat-spanish",
+    "1509889866547069059": "chat-german",
+    "1509930256046231744": "chat-russian",
+    "1510258361004982322": "chat-turkish",
+    "1427727873917059273": "chat-chinese",
+    "1427727952942075984": "chat-japanese",
+    "1428607413619003402": "chat-indonesian",
+    "1463118321439215730": "chat-french",
+    "1509630403202519161": "chat-thailand",
+    "1509910911073128669": "chat-pilipino",
+    "1510376330024452138": "chat-vietnam",
+    "1427728219301216359": "chat-korean",
+    "1427726892878004414": "tips-and-tricks",
+    "1427727044678123630": "q-and-a",
+    "1427727649156890808": "media-and-art",
+    "1427726995378274324": "item-info",
+}
+
+DATA_DIR = Path(__file__).parent.parent / "data"
+
+# ── paths ─────────────────────────────────────────────────────────────────────
+
+def channel_dir(channel_id: str) -> Path:
+    d = DATA_DIR / "channels" / channel_id
+    d.mkdir(parents=True, exist_ok=True)
+    return d
+
+def messages_path(channel_id: str) -> Path:
+    return channel_dir(channel_id) / "messages.jsonl"
+
+def authors_path(channel_id: str) -> Path:
+    return channel_dir(channel_id) / "authors.json"
+
+def translations_path(channel_id: str) -> Path:
+    return channel_dir(channel_id) / "translations.json"
+
+def ai_review_path(channel_id: str) -> Path:
+    return channel_dir(channel_id) / "ai_review.json"
+
+def meta_path(channel_id: str) -> Path:
+    return channel_dir(channel_id) / "meta.json"
+
+def suspects_path() -> Path:
+    return DATA_DIR / "suspects.json"
+
+# ── JSON helpers ──────────────────────────────────────────────────────────────
+
+def load_json(path, default=None):
+    p = Path(path)
+    if not p.exists():
+        return default if default is not None else {}
+    return json.loads(p.read_text(encoding="utf-8"))
+
+def save_json(path, data):
+    Path(path).write_text(
+        json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+def load_jsonl(path) -> list[dict]:
+    p = Path(path)
+    if not p.exists():
+        return []
+    lines = p.read_text(encoding="utf-8").splitlines()
+    return [json.loads(l) for l in lines if l.strip()]
+
+def append_jsonl(path, records: list[dict]):
+    """Acrescenta registros ao arquivo JSONL, evitando duplicatas por ID."""
+    existing_ids = {m["id"] for m in load_jsonl(path)}
+    new = [r for r in records if r["id"] not in existing_ids]
+    if not new:
+        return 0
+    with open(path, "a", encoding="utf-8") as f:
+        for r in new:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    return len(new)
+
+# ── Discord API ───────────────────────────────────────────────────────────────
+
+_HEADERS = {
+    "Authorization": DISCORD_TOKEN,
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
+}
+
+def api_get(url: str, params: dict = None) -> dict | list:
+    while True:
+        r = requests.get(url, headers=_HEADERS, params=params, timeout=15)
+        if r.status_code == 429:
+            wait = float(r.json().get("retry_after", 5)) + 0.5
+            print(f"  [rate limit] {wait:.1f}s...", end="\r")
+            time.sleep(wait)
+            continue
+        r.raise_for_status()
+        return r.json()
+
+def fetch_channel_info(channel_id: str) -> dict:
+    return api_get(f"https://discord.com/api/v10/channels/{channel_id}")
+
+def fetch_batch(channel_id: str, before: str = None, after: str = None) -> list[dict]:
+    params = {"limit": 100}
+    if before:
+        params["before"] = before
+    if after:
+        params["after"] = after
+    return api_get(
+        f"https://discord.com/api/v10/channels/{channel_id}/messages", params
+    )
+
+# ── Compact message format ────────────────────────────────────────────────────
+
+def compact(m: dict) -> dict:
+    """Converte mensagem raw da API para formato compacto."""
+    author = m.get("author", {})
+    ref    = m.get("referenced_message")
+    atts   = [a["url"] for a in m.get("attachments", []) if a.get("url")]
+
+    out = {
+        "id": m["id"],
+        "ts": m.get("timestamp", "")[:19].replace("T", " "),
+        "a":  author.get("id", ""),
+        "c":  m.get("content", ""),
+    }
+    if ref:
+        out["ref"] = ref.get("id", "")
+    if atts:
+        out["att"] = atts
+
+    return out
+
+def compact_author(author: dict) -> dict:
+    return {
+        "u": author.get("username", "?"),
+        "d": author.get("global_name") or author.get("username", "?"),
+    }
+
+def discord_link(channel_id: str, msg_id: str) -> str:
+    return f"https://discord.com/channels/{GUILD_ID}/{channel_id}/{msg_id}"

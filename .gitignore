@@ -1,0 +1,10 @@
+venv/
+.env
+session.json
+__pycache__/
+*.pyc
+data/
+cards/
+dossie*.html
+cache_*.json
+config.json
