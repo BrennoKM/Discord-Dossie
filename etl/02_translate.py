@@ -281,14 +281,31 @@ def run(channel_id: str, force: bool = False, batch_size: int = 10):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--channel", required=True)
+    ap.add_argument("--channel", default=None, help="ID ou nome do canal (omitir = todos com dados)")
     ap.add_argument("--force",   action="store_true")
     ap.add_argument("--batch",   type=int, default=10, help="Mensagens por request (padrao: 10)")
     args = ap.parse_args()
 
     by_name = {v: k for k, v in ALL_CHANNELS.items()}
-    ch_id   = by_name.get(args.channel, args.channel)
-    run(ch_id, args.force, args.batch)
+
+    if args.channel:
+        ch_id = by_name.get(args.channel, args.channel)
+        run(ch_id, args.force, args.batch)
+    else:
+        from etl.common import DATA_DIR, load_json as _lj
+        skip         = set(_lj(DATA_DIR / "channels_skip.json", []))
+        channel_dirs = sorted((DATA_DIR / "channels").iterdir()) if (DATA_DIR / "channels").exists() else []
+        candidates   = [
+            d.name for d in channel_dirs
+            if (d / "messages.jsonl").exists()
+            and ALL_CHANNELS.get(d.name, d.name) not in skip
+        ]
+        skipped = len([d for d in channel_dirs if (d / "messages.jsonl").exists()]) - len(candidates)
+        log(f"Modo todos os canais: {len(candidates)} canais com dados ({skipped} ignorados)")
+        for i, ch_id in enumerate(candidates, 1):
+            ch_name = ALL_CHANNELS.get(ch_id, ch_id)
+            log(f"\n[{i}/{len(candidates)}] #{ch_name}")
+            run(ch_id, args.force, args.batch)
 
 
 if __name__ == "__main__":

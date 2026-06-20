@@ -121,6 +121,19 @@ def suspects_path() -> Path:
 def pre_filtered_path(channel_id: str) -> Path:
     return channel_dir(channel_id) / "pre_filtered.json"
 
+
+def save_meta(channel_id: str, meta: dict = None):
+    """Salva meta.json no formato padrao, garantindo campos obrigatorios."""
+    path = meta_path(channel_id)
+    data = load_json(path, {})
+    data.update(channel_id=channel_id,
+                channel_name=ALL_CHANNELS.get(channel_id, channel_id),
+                guild_id=GUILD_ID)
+    if meta:
+        data.update(meta)
+    save_json(path, data)
+
+
 # ── JSON helpers ──────────────────────────────────────────────────────────────
 
 def load_json(path, default=None):
@@ -182,6 +195,25 @@ def fetch_batch(channel_id: str, before: str = None, after: str = None) -> list[
     return api_get(
         f"https://discord.com/api/v10/channels/{channel_id}/messages", params
     )
+
+SEARCH_URL = f"https://discord.com/api/v10/guilds/{GUILD_ID}/messages/search"
+
+
+def estimate_channel_msgs(channel_id: str) -> int | None:
+    """Retorna total de mensagens num canal via search API, ou None se falhar."""
+    try:
+        r = requests.get(
+            SEARCH_URL,
+            headers=_HEADERS,
+            params={"channel_id": channel_id, "include_nsfw": "true"},
+            timeout=10,
+        )
+        if r.status_code == 200:
+            return r.json().get("total_results")
+    except Exception:
+        pass
+    return None
+
 
 # ── Compact message format ────────────────────────────────────────────────────
 
