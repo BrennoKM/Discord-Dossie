@@ -462,8 +462,11 @@ body {
 .btn-primary { background: var(--acc); color: #fff; }
 .btn-danger  { background: var(--red); color: #fff; }
 .btn-ghost   { background: var(--card); border: 1px solid var(--bor); color: var(--txt); }
-.btn-copy    { background: var(--card); border: 1px solid var(--bor); color: var(--txt); }
+.btn-copy     { background: var(--card); border: 1px solid var(--bor); color: var(--txt); }
 .btn-copy.copied { background: var(--grn); color: #000; border-color: var(--grn); }
+.btn-copy-img { background: var(--card); border: 1px solid var(--bor); color: var(--txt); }
+.btn-copy-img:hover { border-color: var(--acc); }
+.btn-copy-img:disabled { opacity: .5; cursor: wait; }
 
 /* ── CONTEXT THREAD ── */
 .context-section {

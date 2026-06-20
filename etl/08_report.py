@@ -148,9 +148,21 @@ def collect_cases(channel_ids: list, min_confidence: float) -> tuple[list, dict]
                 "screenshot":   None,  # preenchido depois
             })
 
-    # Ordena: mais graves primeiro, depois por confianca
+    # Ordena: por infrator (pior score primeiro), dentro de cada infrator por gravidade
     label_order = {"racist": 0, "xenophobic": 1, "offensive": 2, "suspicious": 3}
-    cases.sort(key=lambda c: (label_order.get(c["label"], 9), -c["confidence"]))
+
+    # Calcula score por usuario: racist*3 + xenophobic*2 + offensive*1
+    user_scores: dict[str, int] = {}
+    for c in cases:
+        uid = c["author_id"]
+        w = {"racist": 3, "xenophobic": 2, "offensive": 1, "suspicious": 0}
+        user_scores[uid] = user_scores.get(uid, 0) + w.get(c["label"], 0)
+
+    cases.sort(key=lambda c: (
+        -user_scores.get(c["author_id"], 0),   # pior infrator primeiro
+        label_order.get(c["label"], 9),          # dentro do infrator: mais grave primeiro
+        -c["confidence"],
+    ))
 
     return cases, suspects_map
 

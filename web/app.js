@@ -39,6 +39,8 @@ const STRINGS = {
     btn_report:      'Denunciar',
     btn_copy:        'Copiar',
     btn_copied:      'Copiado!',
+    btn_copy_img:    'Copiar como imagem',
+    btn_copied_img:  'Imagem copiada!',
     ctx_title:         'CONTEXTO DA CONVERSA',
     ctx_target:        'MENSAGEM EM QUESTÃO',
     ctx_translation:   'Tradução:',
@@ -128,6 +130,8 @@ const STRINGS = {
     btn_report:      'Report',
     btn_copy:        'Copy',
     btn_copied:      'Copied!',
+    btn_copy_img:    'Copy as image',
+    btn_copied_img:  'Image copied!',
     ctx_title:         'CONVERSATION CONTEXT',
     ctx_target:        'MESSAGE IN QUESTION',
     ctx_translation:   'Translation:',
@@ -276,6 +280,12 @@ async function init() {
   state.suspects   = suspects;
   state.casesIndex = casesIndex;
 
+  // Começa num caso racismo aleatório
+  const racistCases = casesIndex.map((c, i) => ({ c, i })).filter(({ c }) => c.label === 'racist');
+  if (racistCases.length) {
+    state.wcIndex = racistCases[Math.floor(Math.random() * racistCases.length)].i;
+  }
+
   renderAll();
 
   // Aviso IA — aparece uma vez por sessão
@@ -289,6 +299,61 @@ async function init() {
 
 function copyChip(text, toastMsg) {
   navigator.clipboard.writeText(text).then(() => showToast(toastMsg || s().btn_copied));
+}
+
+async function copyCardAsImage(btn) {
+  const card = document.querySelector('#worst-case .wc-body');
+  if (!card || typeof html2canvas === 'undefined') return;
+
+  const orig = btn.textContent;
+  btn.disabled = true;
+  btn.textContent = '⏳';
+
+  // Cria um clone em largura mobile num container fora da tela
+  const MOBILE_W = 420;
+  const wrapper = document.createElement('div');
+  wrapper.style.cssText = `position:fixed;top:-9999px;left:-9999px;width:${MOBILE_W}px;background:var(--card);border-radius:12px;overflow:hidden;`;
+  const clone = card.cloneNode(true);
+  clone.querySelector('.wc-actions')?.remove();
+  clone.querySelectorAll('div[style*="font-size:11px"], div[style*="font-size: 11px"]').forEach(el => el.remove());
+  // Força layout mobile no clone
+  clone.style.cssText = `display:flex;flex-direction:column;gap:14px;padding:14px;`;
+  const meta = clone.querySelector('.wc-meta');
+  if (meta) meta.style.cssText = `display:flex;flex-wrap:wrap;gap:6px;`;
+  const aiInfo = clone.querySelector('.wc-ai-info');
+  if (aiInfo) aiInfo.style.cssText = `display:flex;flex-wrap:wrap;gap:6px;align-items:center;`;
+  wrapper.appendChild(clone);
+  document.body.appendChild(wrapper);
+
+  try {
+    const canvas = await html2canvas(wrapper, {
+      backgroundColor: '#1c2129',
+      scale: 2,
+      useCORS: true,
+      logging: false,
+      width: MOBILE_W,
+      windowWidth: MOBILE_W,
+    });
+
+    document.body.removeChild(wrapper);
+
+    canvas.toBlob(async blob => {
+      try {
+        await navigator.clipboard.write([new ClipboardItem({ 'image/png': blob })]);
+        showToast(s().btn_copied_img);
+      } catch {
+        window.open(canvas.toDataURL('image/png'));
+        showToast('Aberto em nova aba - salve a imagem manualmente');
+      }
+      btn.disabled = false;
+      btn.textContent = orig;
+    }, 'image/png');
+  } catch (e) {
+    document.body.removeChild(wrapper);
+    btn.disabled = false;
+    btn.textContent = orig;
+    showToast('Erro ao gerar imagem');
+  }
 }
 
 // ── Render ────────────────────────────────────────────────────────────────────
@@ -518,6 +583,9 @@ async function loadAndRenderWC(indexEntry) {
           </button>
           <button class="btn btn-copy" id="btn-copy-expose" onclick="copyExpose(this, '${c.msg_id}')">
             📋 ${s().btn_copy}
+          </button>
+          <button class="btn btn-copy-img" id="btn-copy-img" onclick="copyCardAsImage(this)">
+            🖼️ ${s().btn_copy_img}
           </button>
         </div>
         <div style="margin-top:8px;font-size:11px;color:var(--txt2)">${s().report_how}</div>
