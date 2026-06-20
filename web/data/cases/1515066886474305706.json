@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515066886474305706",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-12 15:54",
+  "orig": "moby powinny bić mniej i mieć w chuj więcej hp",
+  "en": "Mobs should hit less and have more HP",
+  "pt": "Mobs deveriam acertar menos e ter mais HP",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515066886474305706",
+  "context": [
+    {
+      "id": "1515066719037817002",
+      "author": "xbiedro",
+      "ts": "2026-06-12 15:54",
+      "orig": "nah",
+      "en": "",
+      "pt": "não",
+      "label": "clean"
+    },
+    {
+      "id": "1515066729477308526",
+      "author": "staszek1969",
+      "ts": "2026-06-12 15:54",
+      "orig": "Maga w nocy podciagne z lvl to może ich wymienie",
+      "en": "I'll upgrade my Maga from lvl at night and maybe I'll replace them",
+      "pt": "Vou atualizar meu Maga do nível à noite e talvez eu os substitua",
+      "label": "clean"
+    },
+    {
+      "id": "1515066747374538792",
+      "author": "xbiedro",
+      "ts": "2026-06-12 15:54",
+      "orig": "bardziej defensywy ofensywy",
+      "en": "more defensive offensive",
+      "pt": "ofensiva mais defensiva",
+      "label": "clean"
+    },
+    {
+      "id": "1515066809559289876",
+      "author": "xbiedro",
+      "ts": "2026-06-12 15:54",
+      "orig": "dmg jest dużo tańszy niż tankowatość",
+      "en": "dmg is much cheaper than tankiness",
+      "pt": "dmg é muito mais barato que tankiness",
+      "label": "clean"
+    },
+    {
+      "id": "1515066835836600441",
+      "author": "xbiedro",
+      "ts": "2026-06-12 15:54",
+      "orig": "a oni nie potrafią liczyć",
+      "en": "and they can't count",
+      "pt": "e eles não podem contar",
+      "label": "clean"
+    },
+    {
+      "id": "1515066887304642701",
+      "author": "radziol",
+      "ts": "2026-06-12 15:54",
+      "orig": "No to właśnie balans",
+      "en": "Well, that's the balance",
+      "pt": "Bem, esse é o equilíbrio",
+      "label": "clean"
+    },
+    {
+      "id": "1515066914861351132",
+      "author": "xbiedro",
+      "ts": "2026-06-12 15:55",
+      "orig": "ale nie postaci a mobów",
+      "en": "but not characters, but mobs",
+      "pt": "mas não personagens, mas mobs",
+      "label": ""
+    },
+    {
+      "id": "1515066962416369684",
+      "author": "xbiedro",
+      "ts": "2026-06-12 15:55",
+      "orig": "knight ogólnie by był spoko",
+      "en": "knight would be cool overall",
+      "pt": "cavaleiro seria legal no geral",
+      "label": ""
+    },
+    {
+      "id": "1515066969605279855",
+      "author": "radziol",
+      "ts": "2026-06-12 15:55",
+      "orig": "Całej gry chyba xd",
+      "en": "The whole game, I think. XD",
+      "pt": "O jogo inteiro, eu acho. XD",
+      "label": ""
+    },
+    {
+      "id": "1515067005747728604",
+      "author": "xbiedro",
+      "ts": "2026-06-12 15:55",
+      "orig": "ale z tego samego powodu slayer i priest są do cipy",
+      "en": "but for the same reason slayer and priest are cunts",
+      "pt": "mas pela mesma razão o assassino e o padre são viados.",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515066886474305706.png"
+}

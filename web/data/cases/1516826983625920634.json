@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516826983625920634",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-17 12:28",
+  "orig": "co to kurwa ma byc xD",
+  "en": "what the fuck is that xD",
+  "pt": "que porra é essa xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516826983625920634",
+  "context": [
+    {
+      "id": "1516826933642657844",
+      "author": "shioae",
+      "ts": "2026-06-17 12:28",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516826945025998918",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-17 12:28",
+      "orig": "no ja mam mojego na m1 maca przetyranego",
+      "en": "Well, I have mine, which is 1 m1, worn out",
+      "pt": "Bom, eu tenho o meu, que tem 1 m1, desgastado",
+      "label": ""
+    },
+    {
+      "id": "1516826964722192536",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:28",
+      "orig": "pa to xD",
+      "en": "bye xD",
+      "pt": "tchau xD",
+      "label": ""
+    },
+    {
+      "id": "1516826965795934401",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-17 12:28",
+      "orig": "no stary ja mam pc",
+      "en": "oh man, I have a pc",
+      "pt": "ah cara, eu tenho um pc",
+      "label": ""
+    },
+    {
+      "id": "1516826972020277318",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:28",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516826995726749827",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:28",
+      "orig": "nie moge tego zamknac xD",
+      "en": "I can't close it xD",
+      "pt": "não consigo fechar xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516827012440784997",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-17 12:29",
+      "orig": "a lapek spoko jak wyjezdzam",
+      "en": "and the lap is fine when I'm leaving",
+      "pt": "e o colo está bom quando estou saindo",
+      "label": "clean"
+    },
+    {
+      "id": "1516827049505984563",
+      "author": "entotus",
+      "ts": "2026-06-17 12:29",
+      "orig": "skill issue",
+      "en": "",
+      "pt": "problema de habilidade",
+      "label": "clean"
+    },
+    {
+      "id": "1516827076483612702",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:29",
+      "orig": "jakis popover ktory sie nie wyrenderowal XD",
+      "en": "some popover that didn't render XD",
+      "pt": "algum popover que não renderizou XD",
+      "label": "clean"
+    },
+    {
+      "id": "1516827084557910228",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:29",
+      "orig": "i nie znikl XD",
+      "en": "and it didn't disappear XD",
+      "pt": "e não desapareceu XD",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516826983625920634.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512459895784472659",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-05 11:15",
+  "orig": "no tymbardziej na streamie u japończyka jak nikt nic nie rozumie",
+  "en": "especially on a Japanese stream when no one understands anything",
+  "pt": "especialmente em uma transmissão japonesa quando ninguém entende nada",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512459895784472659",
+  "context": [
+    {
+      "id": "1512459790188679292",
+      "author": "lepryko",
+      "ts": "2026-06-05 11:15",
+      "orig": "wiec w sumie xd",
+      "en": "so basically xd",
+      "pt": "então basicamente xd",
+      "label": ""
+    },
+    {
+      "id": "1512459807003774996",
+      "author": "lepryko",
+      "ts": "2026-06-05 11:15",
+      "orig": "to moglbyc promil xD",
+      "en": "it could be per mille xD",
+      "pt": "pode ser por mil xD",
+      "label": ""
+    },
+    {
+      "id": "1512459807511150753",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:15",
+      "orig": "także 10% frekfencji",
+      "en": "also 10% attendance",
+      "pt": "também 10% de presença",
+      "label": "clean"
+    },
+    {
+      "id": "1512459857960374332",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 11:15",
+      "orig": "Te 100k to oglądali grę bo się bali podjąć ryzyka ją zainstalować XDD",
+      "en": "The 100k people watched the game because they were afraid to take the risk of installing it XDD",
+      "pt": "As 100 mil pessoas assistiram ao jogo porque ficaram com medo de correr o risco de instalá-lo XDD",
+      "label": "clean"
+    },
+    {
+      "id": "1512459873089093785",
+      "author": "lepryko",
+      "ts": "2026-06-05 11:15",
+      "orig": "duzo moze takich bambikow grac co se klika i na disco nie wchodzi ani nic",
+      "en": "there can be a lot of such bambiki playing that clicks and doesn't make it to the disco or anything",
+      "pt": "pode haver muitos bambiki tocando que clicam e não chegam à discoteca nem nada",
+      "label": "clean"
+    },
+    {
+      "id": "1512459901870542979",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:15",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512459916252676311",
+      "author": "lepryko",
+      "ts": "2026-06-05 11:15",
+      "orig": "no XD",
+      "en": "",
+      "pt": "não XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512459965917561112",
+      "author": "lepryko",
+      "ts": "2026-06-05 11:15",
+      "orig": "cirkawe realnie ile gra osob liczac tylko jjedno konto xd",
+      "en": "cirkawe realistically how many people play, counting only one account xd",
+      "pt": "circawe realisticamente quantas pessoas jogam, contando apenas uma conta xd",
+      "label": "clean"
+    },
+    {
+      "id": "1512459968073171074",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:15",
+      "orig": "ale mocno też nagłośnione tu przez discord",
+      "en": "but also heavily publicized here on discord",
+      "pt": "mas também bastante divulgado aqui no discord",
+      "label": "clean"
+    },
+    {
+      "id": "1512460164790353921",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:16",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512459895784472659.png"
+}

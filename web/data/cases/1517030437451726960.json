@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517030437451726960",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-18 01:57",
+  "orig": "Lubię jak małpy tańczą",
+  "en": "I like it when monkeys dance",
+  "pt": "Eu gosto quando os macacos dançam",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517030437451726960",
+  "context": [
+    {
+      "id": "1517018956706353212",
+      "author": "pentagram",
+      "ts": "2026-06-18 01:11",
+      "orig": "A bez translatora?",
+      "en": "And without a translator?",
+      "pt": "E sem tradutor?",
+      "label": "clean"
+    },
+    {
+      "id": "1517019421275590676",
+      "author": "xsangelsx",
+      "ts": "2026-06-18 01:13",
+      "orig": "co jeszcze?",
+      "en": "what else?",
+      "pt": "o que mais?",
+      "label": ""
+    },
+    {
+      "id": "1517020485303406702",
+      "author": "pentagram",
+      "ts": "2026-06-18 01:17",
+      "orig": "Tak pełne zdanie bez zbędnej interpunkcji opisującą Twoja nienawiść Na tle rasowym do innych kolorów",
+      "en": "Such a complete sentence without unnecessary punctuation describing your racial hatred towards other colors",
+      "pt": "Uma frase tão completa, sem pontuação desnecessária, descrevendo seu ódio racial por outras cores",
+      "label": "clean"
+    },
+    {
+      "id": "1517022036382449747",
+      "author": "xbiedro",
+      "ts": "2026-06-18 01:23",
+      "orig": "Ten moment kiedy każesz małpie tańczyć zanim strzelisz jej w stopę",
+      "en": "That moment when you tell a monkey to dance before you shoot it in the foot",
+      "pt": "Aquele momento em que você manda um macaco dançar antes de você atirar no pé dele",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517022082259488829",
+      "author": "xbiedro",
+      "ts": "2026-06-18 01:24",
+      "orig": "😆",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517030483198742570",
+      "author": "pentagram",
+      "ts": "2026-06-18 01:57",
+      "orig": "Mam 3 filmiki jak tańczą na głowie i łamią sobie kręgosłupy",
+      "en": "I have 3 videos of them dancing on their heads and breaking their spines",
+      "pt": "Tenho 3 vídeos deles dançando de cabeça para baixo e quebrando a espinha",
+      "label": "clean"
+    },
+    {
+      "id": "1517030504430567434",
+      "author": "pentagram",
+      "ts": "2026-06-18 01:57",
+      "orig": "Boże jakie to piękne",
+      "en": "God, it's beautiful",
+      "pt": "Deus, é lindo",
+      "label": "clean"
+    },
+    {
+      "id": "1517030585476845739",
+      "author": "pentagram",
+      "ts": "2026-06-18 01:57",
+      "orig": "Najlepsze jak jedna nie wierzyła ze tak można i spróbowała a efekt był ten sam <:pepesmile:1284163460317446195>",
+      "en": "It's best when one person didn't believe it was possible and tried it and the effect was the same <:pepesmile:1284163460317446195>",
+      "pt": "É melhor quando uma pessoa não acreditou que era possível e tentou e o efeito foi o mesmo <:pepesmile:1284163460317446195>",
+      "label": "clean"
+    },
+    {
+      "id": "1517043046263558206",
+      "author": "quentiss",
+      "ts": "2026-06-18 02:47",
+      "orig": "imo to rmg",
+      "en": "",
+      "pt": "eu vou para rmg",
+      "label": ""
+    },
+    {
+      "id": "1517043200689180794",
+      "author": "quentiss",
+      "ts": "2026-06-18 02:48",
+      "orig": "Nie wyczytałem nigdzie nic na temat dropu jest po prostu zalezyny od ulepszeń i losowości",
+      "en": "I haven't read anything about drops anywhere, it just depends on upgrades and randomness",
+      "pt": "Não li nada sobre drops em lugar nenhum, só depende de atualizações e aleatoriedade",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517030437451726960.png"
+}

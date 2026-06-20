@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516434573561696348",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-16 10:29",
+  "orig": "a u nas rasizm, konflikty, szykanowanie deweloperów",
+  "en": "and here we have racism, conflicts, harassment of developers",
+  "pt": "e aqui temos racismo, conflitos, assédio aos desenvolvedores",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516434573561696348",
+  "context": [
+    {
+      "id": "1516434395026952434",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:28",
+      "orig": "no oni tam zgłaszają bo ktoś ma negatywne nastawienie stary",
+      "en": "Well, they report there because someone has a negative attitude, man",
+      "pt": "Bem, eles denunciam lá porque alguém tem uma atitude negativa, cara",
+      "label": ""
+    },
+    {
+      "id": "1516434415969108132",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:28",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516434417659150617",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:28",
+      "orig": "jak w Wielkim Pakistanie [ Brytani] za komentarze do wiezienia ! ;'D",
+      "en": "as in Greater Pakistan [Britain] for comments to prison! ;'D",
+      "pt": "como no Grande Paquistão [Grã-Bretanha] por comentários à prisão! ;'D",
+      "label": "clean"
+    },
+    {
+      "id": "1516434428828586145",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:29",
+      "orig": "snowflake",
+      "en": "",
+      "pt": "floco de neve",
+      "label": "clean"
+    },
+    {
+      "id": "1516434517764735057",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:29",
+      "orig": "i nowak kose pod zebra",
+      "en": "and Nowak mows under zebras",
+      "pt": "e Nowak corta sob zebras",
+      "label": "clean"
+    },
+    {
+      "id": "1516434622312091730",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:29",
+      "orig": "ale jakbym miał na to reagować to za 2 dni by nie było tu nikogo",
+      "en": "but if I were to react to it, there would be no one here in 2 days",
+      "pt": "mas se eu reagisse a isso, não haveria ninguém aqui em 2 dias",
+      "label": "clean"
+    },
+    {
+      "id": "1516434634899066880",
+      "author": "definitelykniv",
+      "ts": "2026-06-16 10:29",
+      "orig": "standard",
+      "en": "",
+      "pt": "padrão",
+      "label": ""
+    },
+    {
+      "id": "1516434636228792351",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:29",
+      "orig": "ze mną włącznie",
+      "en": "including me",
+      "pt": "incluindo eu",
+      "label": "clean"
+    },
+    {
+      "id": "1516434644554354838",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:29",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516434648560042098",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:29",
+      "orig": "polski za ciezki dla nich",
+      "en": "Polish too hard for them",
+      "pt": "Polonês demais para eles",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516434573561696348.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516237971873988699",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-15 21:28",
+  "orig": "jebna zaniza w chuj",
+  "en": "fucking low as fuck",
+  "pt": "porra baixo pra caralho",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516237971873988699",
+  "context": [
+    {
+      "id": "1516237884368097301",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "pojda w gore pewnie",
+      "en": "it will go up for sure",
+      "pt": "vai subir com certeza",
+      "label": ""
+    },
+    {
+      "id": "1516237929293549629",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "i plus",
+      "en": "",
+      "pt": "eu mais",
+      "label": ""
+    },
+    {
+      "id": "1516237937166123028",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "po otwearciu",
+      "en": "after opening",
+      "pt": "depois de abrir",
+      "label": ""
+    },
+    {
+      "id": "1516237948146679820",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "na zbyciu tyle itemow",
+      "en": "so many items to sell",
+      "pt": "tantos itens para vender",
+      "label": "clean"
+    },
+    {
+      "id": "1516237962319233166",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "moze na stgart beda wysokie",
+      "en": "maybe they will be high on Stgart",
+      "pt": "talvez eles estejam chapados de Stgart",
+      "label": "clean"
+    },
+    {
+      "id": "1516237986302394449",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "i wroci na wysokie",
+      "en": "and it will go back to high",
+      "pt": "e voltará ao alto",
+      "label": "clean"
+    },
+    {
+      "id": "1516238011204108390",
+      "author": "entotus",
+      "ts": "2026-06-15 21:28",
+      "orig": "no tak bedzie",
+      "en": "well, that's how it will be",
+      "pt": "bem, é assim que vai ser",
+      "label": "clean"
+    },
+    {
+      "id": "1516238020875915264",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "skalpowac mozna xD",
+      "en": "you can scalp xD",
+      "pt": "você pode escalpelar xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516238033018683473",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:28",
+      "orig": "na itemach xD",
+      "en": "that itemach xD",
+      "pt": "aquele itemach xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516238033286861002",
+      "author": "entotus",
+      "ts": "2026-06-15 21:28",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516237971873988699.png"
+}

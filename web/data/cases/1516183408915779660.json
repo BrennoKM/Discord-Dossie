@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516183408915779660",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "220607970940157954",
+  "author": "chlorophyteore_",
+  "ts": "2026-06-15 17:51",
+  "orig": "i wiem, ze chuja z nich bedzie",
+  "en": "and I know they're going to be shit",
+  "pt": "e eu sei que eles vão ser uma merda",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516183408915779660",
+  "context": [
+    {
+      "id": "1516182947106132098",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:49",
+      "orig": "żeby ew. mieć możliwości jeszcze jakiekolwiek",
+      "en": "to possibly have any further opportunities",
+      "pt": "possivelmente ter mais oportunidades",
+      "label": ""
+    },
+    {
+      "id": "1516182965976305736",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:49",
+      "orig": "niż do końca łupać to samo",
+      "en": "than to end up looting the same thing",
+      "pt": "do que acabar saqueando a mesma coisa",
+      "label": ""
+    },
+    {
+      "id": "1516183065494556914",
+      "author": "giputako",
+      "ts": "2026-06-15 17:50",
+      "orig": "ja to tak troche duality mam bo niby studia psychologia z wykształcenia technik informatyk i jakoś tak skończyłem w tej informatyce bardziej XD",
+      "en": "I have a bit of a duality because I studied psychology, trained as an IT technician and somehow I ended up focusing more on IT XD",
+      "pt": "Tenho um pouco de dualidade porque estudei psicologia, me formei como técnico de informática e de alguma forma acabei focando mais em informática XD",
+      "label": ""
+    },
+    {
+      "id": "1516183141516054649",
+      "author": "giputako",
+      "ts": "2026-06-15 17:50",
+      "orig": "więc psychologia stała się takim planem B/z pasji nauką",
+      "en": "so psychology became a plan B/with passion for science",
+      "pt": "então a psicologia se tornou um plano B/com paixão pela ciência",
+      "label": ""
+    },
+    {
+      "id": "1516183384093757440",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:51",
+      "orig": "sorry man, znam tylko alternatyki na psychologii",
+      "en": "sorry man, I only know alternatives in psychology",
+      "pt": "desculpe cara, eu só conheço alternativas em psicologia",
+      "label": "clean"
+    },
+    {
+      "id": "1516183423960617050",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:51",
+      "orig": "😆",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516183474912886984",
+      "author": "giputako",
+      "ts": "2026-06-15 17:51",
+      "orig": "a to rel XD 3/4 tych ludzi nic nie ogarnia",
+      "en": "and that's rel XD 3/4 of these people don't care about anything",
+      "pt": "e isso é rel XD 3/4 dessas pessoas não se importam com nada",
+      "label": "suspicious"
+    },
+    {
+      "id": "1516183797727494175",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:53",
+      "orig": "w ecommerce jest zwala, pomijajac prace na uopie",
+      "en": "in e-commerce it is poor, apart from work at the UOP",
+      "pt": "no comércio eletrônico é ruim, fora o trabalho na UOP",
+      "label": "clean"
+    },
+    {
+      "id": "1516183858041585745",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:53",
+      "orig": "mialem epizod gdzie byl ten boom na karty pokemon",
+      "en": "I had an episode where there was this boom in Pokemon cards",
+      "pt": "Tive um episódio em que houve um boom nos cards de Pokémon",
+      "label": "clean"
+    },
+    {
+      "id": "1516183876395860010",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:53",
+      "orig": "dalej w sumie jest lekki",
+      "en": "it's still light overall",
+      "pt": "ainda está claro no geral",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516183408915779660.png"
+}

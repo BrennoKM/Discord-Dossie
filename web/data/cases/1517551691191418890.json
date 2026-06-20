@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517551691191418890",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 12:28",
+  "orig": "wasting oxygen too so leave ^^",
+  "en": "",
+  "pt": "desperdiçando oxigênio também, então vá embora ^^",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517551691191418890",
+  "context": [
+    {
+      "id": "1517551192668897431",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:26",
+      "orig": "you are being provocative, i kindly ask you to leave, you dont know our culture, thats how they were born sorry :/",
+      "en": "",
+      "pt": "você está sendo provocador, peço gentilmente que saia, você não conhece nossa cultura, foi assim que eles nasceram, desculpe :/",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517551292006793346",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:27",
+      "orig": "o fix wlecial",
+      "en": "",
+      "pt": "o consertar wlecial",
+      "label": "clean"
+    },
+    {
+      "id": "1517551344150380718",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:27",
+      "orig": "szkoda ze celestiala za kamien dostalem",
+      "en": "It's a pity that I got the celestial for a stone",
+      "pt": "É uma pena que eu ganhei o celestial por uma pedra",
+      "label": "clean"
+    },
+    {
+      "id": "1517551428644901007",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:27",
+      "orig": "I'm not being provocative, I'm not spamming, I sent an emote. And according to the server rules, we can speak English.",
+      "en": "",
+      "pt": "Não estou sendo provocativo, não estou enviando spam, enviei um emote. E de acordo com as regras do servidor, podemos falar inglês.",
+      "label": "clean"
+    },
+    {
+      "id": "1517551598773997659",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:28",
+      "orig": "but we dont want to talk to you, thats it rlly, dont make a sht show",
+      "en": "",
+      "pt": "mas não queremos falar com você, é isso, não faça uma merda de show",
+      "label": "clean"
+    },
+    {
+      "id": "1517551700599111821",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:28",
+      "orig": "dobrze że już mam celestiala za soulstone",
+      "en": "good thing I already have celestial for soulstone",
+      "pt": "ainda bem que eu já tenho celestial para soulstone",
+      "label": "clean"
+    },
+    {
+      "id": "1517551766496088064",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:28",
+      "orig": "`Rule 3: Be respectful and civil. No harassment, attacks, or hate speech of any kind.`",
+      "en": "",
+      "pt": "`Regra 3: Seja respeitoso e civilizado. Nenhum assédio, ataque ou discurso de ódio de qualquer tipo.`",
+      "label": ""
+    },
+    {
+      "id": "1517551830639579136",
+      "author": "shioae",
+      "ts": "2026-06-19 12:29",
+      "orig": "Rule 1: Use English in public channels when possible so everyone can understand. Other languages are welcome in dedicated language channels.",
+      "en": "",
+      "pt": "Regra 1: Use inglês em canais públicos sempre que possível para que todos possam entender. Outros idiomas são bem-vindos em canais de idiomas dedicados.",
+      "label": ""
+    },
+    {
+      "id": "1517551850113597591",
+      "author": "shioae",
+      "ts": "2026-06-19 12:29",
+      "orig": "If you can read 3 than surely you can read 1",
+      "en": "",
+      "pt": "Se você pode ler 3, certamente poderá ler 1",
+      "label": ""
+    },
+    {
+      "id": "1517551872418775193",
+      "author": "shioae",
+      "ts": "2026-06-19 12:29",
+      "orig": "Can you leave now, thanks",
+      "en": "",
+      "pt": "Você pode sair agora, obrigado",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517551691191418890.png"
+}

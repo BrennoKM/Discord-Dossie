@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517161852268974100",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "271569103859220480",
+  "author": "rayner.1986",
+  "ts": "2026-06-18 10:39",
+  "orig": "chuj po niespodziance 😄",
+  "en": "what a surprise 😄",
+  "pt": "que surpresa 😄",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517161852268974100",
+  "context": [
+    {
+      "id": "1517161690758647962",
+      "author": "rayner.1986",
+      "ts": "2026-06-18 10:38",
+      "orig": "może ci już mało brakuje 😄",
+      "en": "maybe you're missing something 😄",
+      "pt": "talvez você esteja faltando alguma coisa 😄",
+      "label": ""
+    },
+    {
+      "id": "1517161697952006225",
+      "author": "rayner.1986",
+      "ts": "2026-06-18 10:38",
+      "orig": "sprawdź",
+      "en": "check",
+      "pt": "verificar",
+      "label": "clean"
+    },
+    {
+      "id": "1517161703299612703",
+      "author": "pentagram",
+      "ts": "2026-06-18 10:38",
+      "orig": "Ograniczaja mnie",
+      "en": "They limit me",
+      "pt": "Eles me limitam",
+      "label": "clean"
+    },
+    {
+      "id": "1517161740918456340",
+      "author": "pentagram",
+      "ts": "2026-06-18 10:39",
+      "orig": "Wole mieć niespodziankę",
+      "en": "I'd rather have a surprise",
+      "pt": "Eu prefiro ter uma surpresa",
+      "label": "clean"
+    },
+    {
+      "id": "1517161804642521088",
+      "author": "pentagram",
+      "ts": "2026-06-18 10:39",
+      "orig": "I np dostać niebieski jak będę pisał jakiś rasistowski Komentarz",
+      "en": "And, for example, I will get blue if I write some racist comment",
+      "pt": "E, por exemplo, ficarei triste se escrever algum comentário racista",
+      "label": "suspicious"
+    },
+    {
+      "id": "1517161883503693945",
+      "author": "pentagram",
+      "ts": "2026-06-18 10:39",
+      "orig": "Jaki Cham",
+      "en": "What a boor",
+      "pt": "Que rude",
+      "label": "clean"
+    },
+    {
+      "id": "1517161898465034503",
+      "author": "pentagram",
+      "ts": "2026-06-18 10:39",
+      "orig": "'\n🙁",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517161947857031318",
+      "author": "rayner.1986",
+      "ts": "2026-06-18 10:39",
+      "orig": "usune żebyś zapomniał",
+      "en": "I will delete it so you forget",
+      "pt": "Vou deletar para que você esqueça",
+      "label": ""
+    },
+    {
+      "id": "1517161983072403466",
+      "author": "pentagram",
+      "ts": "2026-06-18 10:40",
+      "orig": "Będę pamiętał",
+      "en": "I will remember",
+      "pt": "eu vou lembrar",
+      "label": ""
+    },
+    {
+      "id": "1517161985148588055",
+      "author": "rayner.1986",
+      "ts": "2026-06-18 10:40",
+      "orig": "i tak musisz jeszcze napierdolic tekstu sporo",
+      "en": "you still have to write a lot of text",
+      "pt": "você ainda tem que escrever muito texto",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517161852268974100.png"
+}

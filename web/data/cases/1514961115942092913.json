@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514961115942092913",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-12 08:54",
+  "orig": "nie wiem na chuj tu w ogole pisza xd",
+  "en": "I don't know what the hell he's writing here xd",
+  "pt": "Não sei o que diabos ele está escrevendo aqui xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514961115942092913",
+  "context": [
+    {
+      "id": "1514961021163405382",
+      "author": "kraju",
+      "ts": "2026-06-12 08:54",
+      "orig": "nowy w internecie XD?",
+      "en": "new on the internet XD?",
+      "pt": "novidade na internet XD?",
+      "label": "clean"
+    },
+    {
+      "id": "1514961038200668301",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:54",
+      "orig": "ich pisanie w ogole xd",
+      "en": "their writing at all xd",
+      "pt": "a escrita deles xd",
+      "label": "clean"
+    },
+    {
+      "id": "1514961085403369583",
+      "author": "kraju",
+      "ts": "2026-06-12 08:54",
+      "orig": "no małpy do klawiatury się dostały",
+      "en": "Well, the monkeys got into the keyboard",
+      "pt": "Bem, os macacos entraram no teclado",
+      "label": "offensive"
+    },
+    {
+      "id": "1514961096904015992",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:54",
+      "orig": "przeciez to nie discord inceli nie zbaituja nikogo XD",
+      "en": "after all, it's not discord, incels won't bait anyone XD",
+      "pt": "afinal não é discórdia, incels não vão atrair ninguém XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514961109873070152",
+      "author": "kraju",
+      "ts": "2026-06-12 08:54",
+      "orig": "i google tłumacza",
+      "en": "and google translate",
+      "pt": "e google tradutor",
+      "label": "clean"
+    },
+    {
+      "id": "1514961196799885404",
+      "author": "eruun_89",
+      "ts": "2026-06-12 08:54",
+      "orig": "po expa aby moc screeny z scamow wrzucac",
+      "en": "after EXP I can post screenshots of scams",
+      "pt": "depois do EXP posso postar screenshots de golpes",
+      "label": "clean"
+    },
+    {
+      "id": "1514961199203352697",
+      "author": "kobernn",
+      "ts": "2026-06-12 08:54",
+      "orig": "Czy kraj musi być rasistowski, aby stać się krajem pierwszego świata? Ok",
+      "en": "Does a country have to be racist to become a first world country? Okay",
+      "pt": "Um país precisa ser racista para se tornar um país de primeiro mundo? OK",
+      "label": "clean"
+    },
+    {
+      "id": "1514961275636023428",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:55",
+      "orig": "ma to sens :>",
+      "en": "",
+      "pt": "ma para sentir:>",
+      "label": "clean"
+    },
+    {
+      "id": "1514961326059814975",
+      "author": "vnzmt",
+      "ts": "2026-06-12 08:55",
+      "orig": "<:rafael:1514832363719229500>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1514961396264075355",
+      "author": "penthostr0",
+      "ts": "2026-06-12 08:55",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514961115942092913.png"
+}

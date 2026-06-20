@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516181823531651182",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "271569103859220480",
+  "author": "rayner.1986",
+  "ts": "2026-06-15 17:45",
+  "orig": "żona sie ze mnie śmieje, że ja 2 tygodnie poćwicze i wyglądam jak 20 la temu 😛 a serio nic nie robie nazdwywaczjnego. Pamięć mięśniowa, ale tego kurwa też nie uczą, a powinni zamiast gówna w szkołach które przekazują.",
+  "en": "my wife laughs at me because I exercise for 2 weeks and I look like I did 20 years ago 😛 and seriously, I don't do anything extraordinary. Muscle memory, but they don't fucking teach that either, and they should instead of shit in the schools they teach.",
+  "pt": "minha esposa ri de mim porque faço exercícios há 2 semanas e pareço como era há 20 anos 😛 e sério, não faço nada de extraordinário. Memória muscular, mas eles também não ensinam isso, e deveriam em vez de cagar nas escolas que ensinam.",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516181823531651182",
+  "context": [
+    {
+      "id": "1516181308190101565",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:43",
+      "orig": "nasze cialo po prostu jest do tego przystosowane",
+      "en": "our body is simply adapted to it",
+      "pt": "nosso corpo está simplesmente adaptado a isso",
+      "label": "clean"
+    },
+    {
+      "id": "1516181424003088555",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:43",
+      "orig": "mniej tluszczy, wiecej ruchu i samo sie zrobi",
+      "en": "less fat, more exercise and it will take care of itself",
+      "pt": "menos gordura, mais exercício e ele cuidará de si mesmo",
+      "label": "clean"
+    },
+    {
+      "id": "1516181527392944338",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 17:44",
+      "orig": "ja miałem raz w życiu właśie takie parcie w więku 16-19 lat gdzie napierdzielaem 3 lata non stop. Od tamtej pory wracam do formy moment.",
+      "en": "I had this urge once in my life, when I was 16-19, and I fucked non-stop for 3 years. I've been getting back into shape ever since.",
+      "pt": "Tive essa vontade uma vez na vida, quando tinha 16-19 anos, e fodi sem parar por 3 anos. Tenho voltado à forma desde então.",
+      "label": "clean"
+    },
+    {
+      "id": "1516181556547293264",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 17:44",
+      "orig": "a za miesiac koczne 40 lat 😄",
+      "en": "and in a month I will be 40 years old 😄",
+      "pt": "e em um mês farei 40 anos 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1516181629381378269",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:44",
+      "orig": "u mnie najwiekszy problem, bo moja lubi slodycze chomikowac na chacie, i ciezko jest czegos nie zjesc jak wiesz, ze jest w szafce 😭",
+      "en": "The biggest problem for me is that my daughter likes to keep sweets at home, and it's hard not to eat something when you know it's in the cupboard 😭",
+      "pt": "O maior problema para mim é que minha filha gosta de guardar doces em casa, e é difícil não comer algo quando você sabe que está no armário 😭",
+      "label": "clean"
+    },
+    {
+      "id": "1516182011746844862",
+      "author": "giputako",
+      "ts": "2026-06-15 17:46",
+      "orig": "znaczy ja to mam dopiero 24 lata to i tak kidos jestem jeszcze 😅",
+      "en": "I mean, I'm only 24, so I'm still kidos 😅",
+      "pt": "Quer dizer, tenho apenas 24 anos, então ainda sou criança 😅",
+      "label": ""
+    },
+    {
+      "id": "1516182048732090388",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 17:46",
+      "orig": "to masz czas stary",
+      "en": "then you have time, man",
+      "pt": "então você tem tempo, cara",
+      "label": ""
+    },
+    {
+      "id": "1516182110577361026",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 17:46",
+      "orig": "jak sie zaweźmiesz to będziesz miał baję na lata",
+      "en": "If you get involved, you'll have a great time for years",
+      "pt": "Se você se envolver, você se divertirá muito por anos",
+      "label": ""
+    },
+    {
+      "id": "1516182193242898617",
+      "author": "giputako",
+      "ts": "2026-06-15 17:46",
+      "orig": "aktualnie to wiadomo grind w gierce i grind irl praca studia i siłownia",
+      "en": "Currently, we know grind in the game and grind irl, work, studios and the gym",
+      "pt": "Atualmente, conhecemos o grind no jogo e o grind irl, no trabalho, nos estúdios e na academia",
+      "label": "clean"
+    },
+    {
+      "id": "1516182228315672666",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 17:46",
+      "orig": "grind never stop",
+      "en": "",
+      "pt": "moer nunca parar",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516181823531651182.png"
+}

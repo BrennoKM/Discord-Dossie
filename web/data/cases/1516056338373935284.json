@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516056338373935284",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-15 09:26",
+  "orig": "żeby nie było, to nie chęć pomocy mną kieruje a czysty rasizm : D",
+  "en": "Anyway, it's not the desire to help that drives me, it's pure racism :D",
+  "pt": "Enfim, não é a vontade de ajudar que me move, é puro racismo :D",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516056338373935284",
+  "context": [
+    {
+      "id": "1516056136241909871",
+      "author": "qndel",
+      "ts": "2026-06-15 09:25",
+      "orig": "<@706184252772843540>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516056194333151282",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:26",
+      "orig": "qndel to juz powinien byc honorowym helperem xd",
+      "en": "qndel should already be an honorary helper xd",
+      "pt": "qndel já deveria ser um ajudante honorário xd",
+      "label": ""
+    },
+    {
+      "id": "1516056236980830318",
+      "author": "osmierk",
+      "ts": "2026-06-15 09:26",
+      "orig": "update jutro pewnie",
+      "en": "update tomorrow probably",
+      "pt": "atualize amanhã provavelmente",
+      "label": "clean"
+    },
+    {
+      "id": "1516056312419455116",
+      "author": "1_math_3",
+      "ts": "2026-06-15 09:26",
+      "orig": ".",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516056337438740611",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:26",
+      "orig": "update przelozony bo limit na generowanie w chaciegpt jest",
+      "en": "update postponed because there is a limit on generating in chat.gpt",
+      "pt": "atualização adiada porque há limite de geração no chat.gpt",
+      "label": "clean"
+    },
+    {
+      "id": "1516056345973887006",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:26",
+      "orig": "fajnie tak, nie za szybko nie za wolno ten update",
+      "en": "cool, yes, this update is not too fast, not too slow",
+      "pt": "legal, sim, essa atualização não é muito rápida, nem muito lenta",
+      "label": "clean"
+    },
+    {
+      "id": "1516056391289405632",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:26",
+      "orig": "nie ma czegos takiego jak rasizm",
+      "en": "there is no such thing as racism",
+      "pt": "não existe racismo",
+      "label": "clean"
+    },
+    {
+      "id": "1516056426492072026",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:26",
+      "orig": "rasizm to przestepstwo a te sa dla nuggetow",
+      "en": "racism is a crime and these are for nuggets",
+      "pt": "racismo é crime e isso é por pepitas",
+      "label": "clean"
+    },
+    {
+      "id": "1516056428249616394",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:26",
+      "orig": "<@191929666754314240> a skad masz pewnosc ze wsazyscy oni sa czarni?",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1516056429042335774",
+      "author": "cos8_",
+      "ts": "2026-06-15 09:26",
+      "orig": "<:alamak1:1510635679351050382>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516056338373935284.png"
+}

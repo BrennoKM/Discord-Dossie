@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510628801069973616",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-05-31 09:59",
+  "orig": "ale pierdolą generalnie napewno zmniejszyli xD",
+  "en": "but fuck, they definitely made it smaller xD",
+  "pt": "mas porra, eles definitivamente o tornaram menor xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510628801069973616",
+  "context": [
+    {
+      "id": "1510627953124573195",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:56",
+      "orig": "synteze wale żeby mieć na później t10 affixy",
+      "en": "synthesis, I want to have t10 affixes for later",
+      "pt": "síntese, quero ter afixos t10 para mais tarde",
+      "label": ""
+    },
+    {
+      "id": "1510628009395224607",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:56",
+      "orig": "a matsy tez mozna syntezowac :> ?",
+      "en": "and mats can also be synthesized :> ?",
+      "pt": "e esteiras também podem ser sintetizadas :> ?",
+      "label": ""
+    },
+    {
+      "id": "1510628061404594196",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:56",
+      "orig": "o fuck mozna xD",
+      "en": "or fuck mozna xD",
+      "pt": "ou foda-se mozna xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510628581309550723",
+      "author": "knockout7061",
+      "ts": "2026-05-31 09:58",
+      "orig": "wam tez dzisiaj leci tak mało skrzynek?",
+      "en": "Are you also getting so few mailboxes today?",
+      "pt": "Você também está recebendo tão poucas caixas de correio hoje?",
+      "label": ""
+    },
+    {
+      "id": "1510628640663277709",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:58",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510628870464733254",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:59",
+      "orig": "no xD",
+      "en": "",
+      "pt": "não xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510628881009475754",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:59",
+      "orig": "hiddne nerf polecial xD",
+      "en": "hiddne Nerf flew xD",
+      "pt": "Hiddne Nerf voou xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510629008318922780",
+      "author": "knockout7061",
+      "ts": "2026-05-31 10:00",
+      "orig": "przeiceż to leci jedna skrzynka na 20 minut XD",
+      "en": "After all, it's one box every 20 minutes XD",
+      "pt": "Afinal, é uma caixa a cada 20 minutos XD",
+      "label": ""
+    },
+    {
+      "id": "1510629040753475614",
+      "author": "xbiedro",
+      "ts": "2026-05-31 10:00",
+      "orig": "tak jak ten buff na cheaty też dziś wleciał",
+      "en": "just like this cheat buff also came in today",
+      "pt": "assim como esse cheat buff também chegou hoje",
+      "label": ""
+    },
+    {
+      "id": "1510629048991092861",
+      "author": "xferbuson",
+      "ts": "2026-05-31 10:00",
+      "orig": "siema, ktos tez ma zbugowaną skrzynie ktorej nie moze otworzyc? przez to nie dropie innych lol",
+      "en": "Hello, does anyone else have a bugged chest that they can't open? that's why I don't drop others lol",
+      "pt": "Olá, mais alguém tem um baú bugado que não consegue abrir? é por isso que não deixo cair os outros haha",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510628801069973616.png"
+}

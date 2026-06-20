@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512420141626032189",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "479042440653701164",
+  "author": "jedynak_",
+  "ts": "2026-06-05 08:37",
+  "orig": "+ ten event z a1 sobie nakurwiaj",
+  "en": "+ fuck off this event with a1",
+  "pt": "+ foda-se esse evento com a1",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512420141626032189",
+  "context": [
+    {
+      "id": "1512419723076173976",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:36",
+      "orig": "ale obecnie mag ssie bardzo",
+      "en": "but currently the magician sucks a lot",
+      "pt": "mas atualmente o mágico é uma merda",
+      "label": ""
+    },
+    {
+      "id": "1512419826889658510",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:36",
+      "orig": "a longswordy maja 120% przezywalnosci w stosunku do swordow i przez to podbija k/h na offie",
+      "en": "and longswords have 120% survivability compared to swords and therefore increase k/h on the off",
+      "pt": "e espadas longas têm 120% de capacidade de sobrevivência em comparação com espadas e, portanto, aumentam k/h quando desligadas",
+      "label": ""
+    },
+    {
+      "id": "1512419851841572955",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:36",
+      "orig": "+ bija obszarowo z AA",
+      "en": "+ beats area with AA",
+      "pt": "+ bate área com AA",
+      "label": "clean"
+    },
+    {
+      "id": "1512419981449629766",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:37",
+      "orig": "to sobie obczaj <@73518952218628096> https://discord.com/channels/1219291890940383334/1495213867649732669",
+      "en": "check it out <@73518952218628096> https://discord.com/channels/1219291890940383334/1495213867649732669",
+      "pt": "confira <@73518952218628096> https://discord.com/channels/1219291890940383334/1495213867649732669",
+      "label": "clean"
+    },
+    {
+      "id": "1512419988542062764",
+      "author": "lepryko",
+      "ts": "2026-06-05 08:37",
+      "orig": "dobra mam maina wara",
+      "en": "ok, I have the main thing",
+      "pt": "ok, eu tenho o principal",
+      "label": "clean"
+    },
+    {
+      "id": "1512420153923473429",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:37",
+      "orig": "co tera buffa daje i te duszki",
+      "en": "what tera buffa gives and these sprites",
+      "pt": "o que tera buffa dá e esses sprites",
+      "label": "clean"
+    },
+    {
+      "id": "1512420243962855645",
+      "author": "gdgameplays11",
+      "ts": "2026-06-05 08:38",
+      "orig": "kurwa przypadkowo otwarlem wszytskei normalne skrzynki ale przynajmniej takie cudo wypadlo xd",
+      "en": "Fuck, I accidentally opened all the normal mailboxes, but at least this was a miracle. XD",
+      "pt": "Porra, eu acidentalmente abri todas as caixas de correio normais, mas pelo menos isso foi um milagre. XD",
+      "label": ""
+    },
+    {
+      "id": "1512420287524634806",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:38",
+      "orig": "ladnie - max hp",
+      "en": "nice - max hp",
+      "pt": "legal - HP máximo",
+      "label": "clean"
+    },
+    {
+      "id": "1512420332261343272",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:38",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512420340528189533",
+      "author": "jedynak_",
+      "ts": "2026-06-05 08:38",
+      "orig": "tu masz na 80 immortala",
+      "en": "here you have immortal at 80",
+      "pt": "aqui você tem imortal aos 80",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512420141626032189.png"
+}

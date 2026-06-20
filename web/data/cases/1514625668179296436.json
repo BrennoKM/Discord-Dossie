@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514625668179296436",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "258891606873210880",
+  "author": "ativ3k",
+  "ts": "2026-06-11 10:41",
+  "orig": "dla mnie frontend to czarna magia",
+  "en": "For me, frontend is black magic",
+  "pt": "Para mim, frontend é magia negra",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514625668179296436",
+  "context": [
+    {
+      "id": "1514625293716029611",
+      "author": "lepryko",
+      "ts": "2026-06-11 10:40",
+      "orig": "wiesz najwiekszy syf robia tym ze chrome se webkita sforkowal x lat temu, korpo jeszcze chyb gdzie niegdzie IE uzywa a nie edge xD",
+      "en": "You know, the biggest mess they're doing is that Chrome and Webkit were hacked x years ago, and the corporation still uses IE and not Edge in some places xD",
+      "pt": "Você sabe, a maior bagunça que eles estão fazendo é que o Chrome e o Webkit foram hackeados há x anos, e a corporação ainda usa o IE e não o Edge em alguns lugares xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514625297075540141",
+      "author": "lepryko",
+      "ts": "2026-06-11 10:40",
+      "orig": "chyba",
+      "en": "I guess",
+      "pt": "Eu acho",
+      "label": ""
+    },
+    {
+      "id": "1514625313269878814",
+      "author": "lepryko",
+      "ts": "2026-06-11 10:40",
+      "orig": "nie wiem moze  juz sie zmienilo",
+      "en": "I don't know, maybe it has already changed",
+      "pt": "Não sei, talvez já tenha mudado",
+      "label": "clean"
+    },
+    {
+      "id": "1514625345930789037",
+      "author": "lepryko",
+      "ts": "2026-06-11 10:40",
+      "orig": "nie wiekm jak korpo teraz wyglada",
+      "en": "I don't know what the body looks like now",
+      "pt": "Eu não sei como é o corpo agora",
+      "label": "clean"
+    },
+    {
+      "id": "1514625425417175161",
+      "author": "lepryko",
+      "ts": "2026-06-11 10:40",
+      "orig": "ale jak sie kiedys dla nich klepalo to mieli jakies przestarzale IE XD",
+      "en": "but when I used to contact them, they had some outdated IE XD",
+      "pt": "mas quando eu entrava em contato com eles, eles tinham algum IE XD desatualizado",
+      "label": "clean"
+    },
+    {
+      "id": "1514625782494924820",
+      "author": "ativ3k",
+      "ts": "2026-06-11 10:42",
+      "orig": "ale AI ogarnia w front to jak cos potrzebuje to Claudia pomoże xDD",
+      "en": "but the AI ​​takes care of everything, so when I need something, Claudia will help me xDD",
+      "pt": "mas a IA cuida de tudo, então quando eu precisar de alguma coisa a Claudia vai me ajudar xDD",
+      "label": "clean"
+    },
+    {
+      "id": "1514627321498304662",
+      "author": "lepryko",
+      "ts": "2026-06-11 10:48",
+      "orig": "no ja przygode za dzieciaka od PHP zaczalem ale jako frontas finalnie skonczylem przez spory okres xD",
+      "en": "Well, I started my adventure with PHP when I was a kid, but I finally finished it with Frontas for a long time xD",
+      "pt": "Bem, comecei minha aventura com PHP quando era criança, mas finalmente terminei com Frontas há muito tempo xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514627413672333322",
+      "author": "lepryko",
+      "ts": "2026-06-11 10:48",
+      "orig": "jakos mocniej mnie przyciagnal bo efekty od razu widzialem a nie dwa inputy i button login xDC",
+      "en": "somehow it attracted me more because I saw the effects immediately, not two inputs and a xDC login button",
+      "pt": "de alguma forma me atraiu mais porque vi os efeitos imediatamente, não duas entradas e um botão de login xDC",
+      "label": "clean"
+    },
+    {
+      "id": "1514627463957975151",
+      "author": "ativ3k",
+      "ts": "2026-06-11 10:48",
+      "orig": "PHP to umiera już troche",
+      "en": "PHP is dying a bit now",
+      "pt": "PHP está morrendo um pouco agora",
+      "label": ""
+    },
+    {
+      "id": "1514627509075972328",
+      "author": "ativ3k",
+      "ts": "2026-06-11 10:48",
+      "orig": "wordpress go trzyma, laravel",
+      "en": "wordpress holds it, laravel",
+      "pt": "wordpress segura, laravel",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514625668179296436.png"
+}

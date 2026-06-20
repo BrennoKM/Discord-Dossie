@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512352412487254046",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-05 04:08",
+  "orig": "opierdalaj dopoki co kolwiek jest to warte Xd",
+  "en": "Fuck off for as long as it's worth it Xd",
+  "pt": "Vá se foder enquanto valer a pena Xd",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512352412487254046",
+  "context": [
+    {
+      "id": "1512352139417227304",
+      "author": "entotus",
+      "ts": "2026-06-05 04:07",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512352151798681690",
+      "author": "xbiedro",
+      "ts": "2026-06-05 04:07",
+      "orig": "hmmm",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512352248074604624",
+      "author": "xbiedro",
+      "ts": "2026-06-05 04:07",
+      "orig": "nie wiem czy sobie nie wziąć tego słabszego i nie opierdolić tej arcany za 5 dyszek w sumie",
+      "en": "I don't know if I should take the weaker one and fuck up this arcana for 5 pennies in total",
+      "pt": "Não sei se devo pegar o mais fraco e foder esse arcano por 5 centavos no total",
+      "label": "clean"
+    },
+    {
+      "id": "1512352328102056066",
+      "author": "xbiedro",
+      "ts": "2026-06-05 04:08",
+      "orig": "dps pewnie kilka% mniejszy ale i tak powinienem oneshotować",
+      "en": "dps probably a few% lower but I should still oneshot",
+      "pt": "dps provavelmente um pouco menor, mas eu ainda deveria fazer um oneshot",
+      "label": "clean"
+    },
+    {
+      "id": "1512352388613144576",
+      "author": "kraju",
+      "ts": "2026-06-05 04:08",
+      "orig": "czlowieku na co ty czekasz",
+      "en": "man what are you waiting for",
+      "pt": "cara, o que você está esperando",
+      "label": "clean"
+    },
+    {
+      "id": "1512352455134941296",
+      "author": "kraju",
+      "ts": "2026-06-05 04:08",
+      "orig": "zawsze moge ci wyslac trainera z bypassem XD",
+      "en": "I can always send you a trainer with bypass XD",
+      "pt": "Sempre posso te enviar um treinador com bypass XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512352479977672875",
+      "author": "kraju",
+      "ts": "2026-06-05 04:08",
+      "orig": "ja kci dmg zabraknie XD",
+      "en": "I will run out of dmg XD",
+      "pt": "Vou ficar sem dmg XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512352490614558801",
+      "author": "entotus",
+      "ts": "2026-06-05 04:08",
+      "orig": "https://giphy.com/gifs/pizza-devil-may-cry-dante-4dDquQRZZOPyo",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512352501783859230",
+      "author": "xbiedro",
+      "ts": "2026-06-05 04:08",
+      "orig": "nah",
+      "en": "",
+      "pt": "não",
+      "label": ""
+    },
+    {
+      "id": "1512352549699588238",
+      "author": "xbiedro",
+      "ts": "2026-06-05 04:09",
+      "orig": "ja tu jestem dla gierki nie dla szmalu lol",
+      "en": "I'm here for the game, not for the money lol",
+      "pt": "Estou aqui pelo jogo, não pelo dinheiro haha",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512352412487254046.png"
+}

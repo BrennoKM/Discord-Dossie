@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516056756487192690",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-15 09:28",
+  "orig": "Nugget Studio & ToSeRadź Studio",
+  "en": "",
+  "pt": "Nugget Studio e ToSeRadź Studio",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "clean",
+  "confidence": 0.85,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516056756487192690",
+  "context": [
+    {
+      "id": "1516056429042335774",
+      "author": "cos8_",
+      "ts": "2026-06-15 09:26",
+      "orig": "<:alamak1:1510635679351050382>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516056499607306393",
+      "author": "zieloooony",
+      "ts": "2026-06-15 09:27",
+      "orig": "kolejne nuggetsy przyleciały",
+      "en": "more nuggets arrived",
+      "pt": "chegaram mais pepitas",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1516056541885632643",
+      "author": "qndel",
+      "ts": "2026-06-15 09:27",
+      "orig": "<@726692066314158084> <-- spammer\n<@706184252772843540>",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1516056598274113536",
+      "author": "newgate_rocky",
+      "ts": "2026-06-15 09:27",
+      "orig": "CRISTINAL RONALDO DEVIA SER BRASILEIRO, MAIOR QUE MESSI",
+      "en": "CRISTINAL RONALDO SHOULD BE BRAZILIAN, BIGGER THAN MESSI",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516056643094446151",
+      "author": "pentagram",
+      "ts": "2026-06-15 09:27",
+      "orig": "Ale mam wrażenie że oni czekają aż na hotel zajadę z tymi obsowami <:pepesmile:1284163460317446195>",
+      "en": "But I have the impression that they are waiting for me to arrive at the hotel with these obsów <:pepesmile:1284163460317446195>",
+      "pt": "Mas tenho a impressão de que estão me esperando chegar no hotel com esses obsów <:pepesmile:1284163460317446195>",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1516056865627439154",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:28",
+      "orig": "potop brazylijski japierdole",
+      "en": "Brazilian flood, fuck you",
+      "pt": "Inundação brasileira, vá se foder",
+      "label": "clean"
+    },
+    {
+      "id": "1516056876465520681",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:28",
+      "orig": "dzwoncie po husarie",
+      "en": "call the hussars",
+      "pt": "chame os hussardos",
+      "label": "clean"
+    },
+    {
+      "id": "1516056918471344229",
+      "author": "pentagram",
+      "ts": "2026-06-15 09:28",
+      "orig": "Co to za brudasy atak robią",
+      "en": "What kind of dirty attack are they doing?",
+      "pt": "Que tipo de ataque sujo eles estão fazendo?",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1516056925702197318",
+      "author": "qndel",
+      "ts": "2026-06-15 09:28",
+      "orig": "<@532653860422942740> <--spammer\n<@195777429451702272> <-- spammer",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516056934912884816",
+      "author": "qndel",
+      "ts": "2026-06-15 09:29",
+      "orig": "<@260872487552679946>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516056756487192690.png"
+}

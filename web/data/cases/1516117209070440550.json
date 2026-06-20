@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516117209070440550",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-15 13:28",
+  "orig": "bo kurwa nie blokuje od dawna",
+  "en": "because he hasn't been blocking for a long time",
+  "pt": "porque ele não bloqueia há muito tempo",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516117209070440550",
+  "context": [
+    {
+      "id": "1516117115994898595",
+      "author": "kraju",
+      "ts": "2026-06-15 13:28",
+      "orig": "bo nie mam czasu xD śledze narazie tylko forum",
+      "en": "because I don't have time xD I only follow the forum for now",
+      "pt": "porque não tenho tempo xD só acompanho o fórum por enquanto",
+      "label": ""
+    },
+    {
+      "id": "1516117119299883269",
+      "author": "xbiedro",
+      "ts": "2026-06-15 13:28",
+      "orig": "może coś z tego ugotują wkońcu xd szkoda że już wszystko będzie za 12gr haha",
+      "en": "maybe they will finally cook something out of it xd it's a pity that everything will cost 12 cents haha",
+      "pt": "talvez eles finalmente cozinhem algo com isso xd é uma pena que tudo vai custar 12 centavos haha",
+      "label": "clean"
+    },
+    {
+      "id": "1516117154317996124",
+      "author": "qndel",
+      "ts": "2026-06-15 13:28",
+      "orig": "biała: 18:22\nniebieska: 18:23\nbiała 18:26 \nwygląda jakby drop białej nie blokował niebieskiej? xd",
+      "en": "white: 18:22\nblue: 18:23\nwhite 18:26 \nlooks like the white drop doesn't block the blue one? xd",
+      "pt": "branco: 18:22\nazul: 18:23\nbranco 18:26 \nparece que a gota branca não bloqueia a azul? xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516117172047577160",
+      "author": "lukaso83",
+      "ts": "2026-06-15 13:28",
+      "orig": "stackowac dalej te biale skrzynki czy otwierac jak leci bo widze ze jeden run to jedna skrzynka i co drugi run niebieska",
+      "en": "should I keep stacking these white boxes or open them as I see fit, because I see that one run is one box and every other run is blue",
+      "pt": "devo continuar empilhando essas caixas brancas ou abri-las como achar melhor, porque vejo que uma corrida é uma caixa e todas as outras corridas são azuis",
+      "label": "clean"
+    },
+    {
+      "id": "1516117194663137462",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:28",
+      "orig": "siura se nie dam uciac ale ta gra ma jakiś health check na google.com, co jakis czas odtypuje google xdd",
+      "en": "siura se, I won't let it escape me, but this game has some kind of health check on google.com, I type it on Google from time to time xdd",
+      "pt": "siura se, não vou deixar escapar, mas esse jogo tem algum tipo de verificação de saúde no google.com, eu digito no Google de vez em quando xdd",
+      "label": "clean"
+    },
+    {
+      "id": "1516117255321030676",
+      "author": "xbiedro",
+      "ts": "2026-06-15 13:28",
+      "orig": "ta coś tam piszą że nie mają już cd wspolnego",
+      "en": "they write something there that they no longer have the CD in common",
+      "pt": "eles escrevem algo lá que não têm mais o CD em comum",
+      "label": "clean"
+    },
+    {
+      "id": "1516117256642494494",
+      "author": "kraju",
+      "ts": "2026-06-15 13:28",
+      "orig": "to jest mit który ty walą na lewą i prawo że pula dropu jest ta sama XD",
+      "en": "this is the myth you are spreading left and right that the drop pool is the same XD",
+      "pt": "esse é o mito que você está espalhando a torto e a direito de que o drop pool é o mesmo XD",
+      "label": "clean"
+    },
+    {
+      "id": "1516117468429422782",
+      "author": "zieloooony",
+      "ts": "2026-06-15 13:29",
+      "orig": "to jak jest z tymi skrzynkami bo widze żę nie ma jednolitej odpowiedzi xD",
+      "en": "so what's the deal with these boxes because I see there is no uniform answer xD",
+      "pt": "então qual é o problema com essas caixas porque vejo que não há uma resposta uniforme xD",
+      "label": ""
+    },
+    {
+      "id": "1516117518853472326",
+      "author": "xbiedro",
+      "ts": "2026-06-15 13:29",
+      "orig": "no wiadomo mordeczko",
+      "en": "well, you know, little guy",
+      "pt": "bem, você sabe, garotinho",
+      "label": ""
+    },
+    {
+      "id": "1516117524788543578",
+      "author": "xbiedro",
+      "ts": "2026-06-15 13:29",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516117209070440550.png"
+}

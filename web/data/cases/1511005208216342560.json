@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511005208216342560",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "258891606873210880",
+  "author": "ativ3k",
+  "ts": "2026-06-01 10:55",
+  "orig": "banana przypadkiem nie mialo jakos łączenia tych bananów?",
+  "en": "banana wasn't supposed to connect these bananas somehow?",
+  "pt": "banana não deveria conectar essas bananas de alguma forma?",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511005208216342560",
+  "context": [
+    {
+      "id": "1511004979056607283",
+      "author": "entotus",
+      "ts": "2026-06-01 10:54",
+      "orig": "no przez te gonwo itemy",
+      "en": "well, because of these crap items",
+      "pt": "bem, por causa desses itens ruins",
+      "label": ""
+    },
+    {
+      "id": "1511005011604410369",
+      "author": "entotus",
+      "ts": "2026-06-01 10:54",
+      "orig": "niebieskie zielone i szare",
+      "en": "blue green and gray",
+      "pt": "azul verde e cinza",
+      "label": ""
+    },
+    {
+      "id": "1511005025055281303",
+      "author": "entotus",
+      "ts": "2026-06-01 10:54",
+      "orig": "ktore nikt nie kupuje",
+      "en": "that no one buys",
+      "pt": "que ninguém compra",
+      "label": "clean"
+    },
+    {
+      "id": "1511005138880303295",
+      "author": "lenoxxl",
+      "ts": "2026-06-01 10:54",
+      "orig": "tymczasem 40mln bananow wrzuconych w tydzien na rynek",
+      "en": "meanwhile, 40 million bananas were thrown onto the market in a week",
+      "pt": "entretanto, 40 milhões de bananas foram lançadas no mercado numa semana",
+      "label": "clean"
+    },
+    {
+      "id": "1511005174444065018",
+      "author": "entotus",
+      "ts": "2026-06-01 10:55",
+      "orig": "no ta",
+      "en": "",
+      "pt": "não, ta",
+      "label": "clean"
+    },
+    {
+      "id": "1511005213421473852",
+      "author": "kraju",
+      "ts": "2026-06-01 10:55",
+      "orig": "druga sprawa że cube też jest generowany od strony steam",
+      "en": "the second thing is that the cube is also generated from the steam website",
+      "pt": "a segunda coisa é que o cubo também é gerado no site Steam",
+      "label": "clean"
+    },
+    {
+      "id": "1511005240189784104",
+      "author": "entotus",
+      "ts": "2026-06-01 10:55",
+      "orig": "aha",
+      "en": "",
+      "pt": "ah",
+      "label": "clean"
+    },
+    {
+      "id": "1511005248938967221",
+      "author": "lenoxxl",
+      "ts": "2026-06-01 10:55",
+      "orig": "pozniej dodali jak gra zdechla",
+      "en": "later they added when the game died",
+      "pt": "mais tarde eles adicionaram quando o jogo morreu",
+      "label": "clean"
+    },
+    {
+      "id": "1511005249715048619",
+      "author": "ativ3k",
+      "ts": "2026-06-01 10:55",
+      "orig": "ze łaczysz te 10 bananów i wystawiasz to na rynek jako pojedyncza oferta?",
+      "en": "that you combine these 10 bananas and put them on the market as a single offer?",
+      "pt": "que você combine essas 10 bananas e as coloque no mercado como uma oferta única?",
+      "label": "clean"
+    },
+    {
+      "id": "1511005268635422891",
+      "author": "ativ3k",
+      "ts": "2026-06-01 10:55",
+      "orig": "a",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1511005208216342560.png"
+}

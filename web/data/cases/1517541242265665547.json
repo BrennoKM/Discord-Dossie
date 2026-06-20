@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517541242265665547",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "229739417206521867",
+  "author": "shioae",
+  "ts": "2026-06-19 11:47",
+  "orig": "Metina napierdalaj",
+  "en": "Metina, fuck off",
+  "pt": "Metina, vá se foder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517541242265665547",
+  "context": [
+    {
+      "id": "1517541062111924355",
+      "author": "pentagram",
+      "ts": "2026-06-19 11:46",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517541106395648121",
+      "author": "shioae",
+      "ts": "2026-06-19 11:46",
+      "orig": "Chlopaki czemu farmie zone z 55lvl a mi dropia itemy na 40?XD",
+      "en": "Guys, why am I farming my wife at lvl 55 and I'm dropping items at lvl 40? XD",
+      "pt": "Pessoal, por que estou farmando minha esposa no lvl 55 e dropando itens no lvl 40? XD",
+      "label": ""
+    },
+    {
+      "id": "1517541142315405334",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:46",
+      "orig": "nawet myszką najechane żeby było legitnie gościu",
+      "en": "even mouse over to make it legit guest",
+      "pt": "até passe o mouse para torná-lo um convidado legítimo",
+      "label": "clean"
+    },
+    {
+      "id": "1517541198049443963",
+      "author": "pentagram",
+      "ts": "2026-06-19 11:46",
+      "orig": "to jest chuj, ja farmie zone 90 a spadl mi kamien",
+      "en": "this is bullshit, I'm farming my wife 90 and a stone fell on me",
+      "pt": "isso é besteira, estou cultivando minha esposa 90 e uma pedra caiu em mim",
+      "label": "clean"
+    },
+    {
+      "id": "1517541220812062760",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:47",
+      "orig": "https://taskbarhero.wiki/stage-boxes",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517541273207177256",
+      "author": "entotus",
+      "ts": "2026-06-19 11:47",
+      "orig": "dropy obnizyli",
+      "en": "they lowered the drops",
+      "pt": "eles baixaram as gotas",
+      "label": "clean"
+    },
+    {
+      "id": "1517541296590557344",
+      "author": "entotus",
+      "ts": "2026-06-19 11:47",
+      "orig": "w skrzynkach",
+      "en": "in boxes",
+      "pt": "em caixas",
+      "label": "clean"
+    },
+    {
+      "id": "1517541322528133314",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:47",
+      "orig": "kamień akurat stonks",
+      "en": "the stone is actually stonks",
+      "pt": "a pedra é na verdade pedregosa",
+      "label": "clean"
+    },
+    {
+      "id": "1517541348037754881",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:47",
+      "orig": "ale to napewno",
+      "en": "but that's for sure",
+      "pt": "mas isso é certo",
+      "label": "clean"
+    },
+    {
+      "id": "1517541352143847467",
+      "author": "shioae",
+      "ts": "2026-06-19 11:47",
+      "orig": "Kurwa patologia jakas xd",
+      "en": "What a fucking pathology. XD",
+      "pt": "Que porra de patologia. XD",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517541242265665547.png"
+}

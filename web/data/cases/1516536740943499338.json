@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516536740943499338",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-16 17:15",
+  "orig": "te bambusy",
+  "en": "",
+  "pt": "",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516536740943499338",
+  "context": [
+    {
+      "id": "1516536675537391750",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:15",
+      "orig": "😭",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516536689072541737",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:15",
+      "orig": "tam jest wincyj xD",
+      "en": "there's a culprit there xD",
+      "pt": "tem um culpado aí xD",
+      "label": ""
+    },
+    {
+      "id": "1516536697184325664",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:15",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516536724690571384",
+      "author": "kraju",
+      "ts": "2026-06-16 17:15",
+      "orig": "a",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516536736141017284",
+      "author": "kraju",
+      "ts": "2026-06-16 17:15",
+      "orig": "pierdolić",
+      "en": "fuck",
+      "pt": "Porra",
+      "label": "clean"
+    },
+    {
+      "id": "1516536747045945456",
+      "author": "kraju",
+      "ts": "2026-06-16 17:15",
+      "orig": "jak tak",
+      "en": "if so",
+      "pt": "se for assim",
+      "label": "clean"
+    },
+    {
+      "id": "1516536751320072403",
+      "author": "kraju",
+      "ts": "2026-06-16 17:15",
+      "orig": "samo",
+      "en": "only",
+      "pt": "apenas",
+      "label": "clean"
+    },
+    {
+      "id": "1516536755627626606",
+      "author": "kraju",
+      "ts": "2026-06-16 17:15",
+      "orig": "piszą",
+      "en": "they write",
+      "pt": "eles escrevem",
+      "label": "clean"
+    },
+    {
+      "id": "1516536760983748608",
+      "author": "kraju",
+      "ts": "2026-06-16 17:15",
+      "orig": "jak my",
+      "en": "like us",
+      "pt": "como nós",
+      "label": ""
+    },
+    {
+      "id": "1516536776951599258",
+      "author": "kraju",
+      "ts": "2026-06-16 17:15",
+      "orig": "po 2 / 1 słowo",
+      "en": "2/1 word each",
+      "pt": "2/1 palavra cada",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516536740943499338.png"
+}

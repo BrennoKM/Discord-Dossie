@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516129770193293373",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-15 14:18",
+  "orig": "kurwa arcany ostatnio wrzuciłem",
+  "en": "fucking arcana I recently posted",
+  "pt": "maldito arcano que postei recentemente",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516129770193293373",
+  "context": [
+    {
+      "id": "1516129613971980608",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:17",
+      "orig": "do jakiej jakości itemki wrzucacie w kostke?",
+      "en": "What quality of items do you put in the cube?",
+      "pt": "Que qualidade de itens você coloca no cubo?",
+      "label": ""
+    },
+    {
+      "id": "1516129711237890191",
+      "author": "xbiedro",
+      "ts": "2026-06-15 14:18",
+      "orig": "wszystkie",
+      "en": "all",
+      "pt": "todos",
+      "label": ""
+    },
+    {
+      "id": "1516129713867718717",
+      "author": "xbiedro",
+      "ts": "2026-06-15 14:18",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516129735271252041",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:18",
+      "orig": "czerwone też?",
+      "en": "red too?",
+      "pt": "vermelho também?",
+      "label": ""
+    },
+    {
+      "id": "1516129763650179193",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:18",
+      "orig": "mi ani razu arkana nie poleciala XD",
+      "en": "I didn't get the arcana once XD",
+      "pt": "Eu não peguei os arcanos uma vez XD",
+      "label": ""
+    },
+    {
+      "id": "1516129777990238258",
+      "author": "radziol",
+      "ts": "2026-06-15 14:18",
+      "orig": "myslalem ze pytasz o arcan",
+      "en": "I thought you were asking about arcana",
+      "pt": "Eu pensei que você estava perguntando sobre arcanos",
+      "label": "clean"
+    },
+    {
+      "id": "1516129781043691580",
+      "author": "qndel",
+      "ts": "2026-06-15 14:18",
+      "orig": "czerwone, zielone, nie dyskryminuję",
+      "en": "red, green, I don't discriminate",
+      "pt": "vermelho, verde, eu não discrimino",
+      "label": "clean"
+    },
+    {
+      "id": "1516129830134087872",
+      "author": "zieloooony",
+      "ts": "2026-06-15 14:18",
+      "orig": "tutaj akurat rasizmu nie ma",
+      "en": "there is no racism here",
+      "pt": "não há racismo aqui",
+      "label": "clean"
+    },
+    {
+      "id": "1516129850384056480",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:18",
+      "orig": "ładne tam ratio jest",
+      "en": "there's a nice ratio there",
+      "pt": "há uma boa proporção aí",
+      "label": "clean"
+    },
+    {
+      "id": "1516129865852653589",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:18",
+      "orig": "1% na arkane",
+      "en": "",
+      "pt": "1% de arcano",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516129770193293373.png"
+}

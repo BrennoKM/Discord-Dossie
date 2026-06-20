@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517550385865166980",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-19 12:23",
+  "orig": "to inwazja",
+  "en": "it's an invasion",
+  "pt": "é uma invasão",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517550385865166980",
+  "context": [
+    {
+      "id": "1517550256189997266",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:22",
+      "orig": "You don't need to prove my point by being xenophobic.",
+      "en": "",
+      "pt": "Você não precisa provar meu ponto de vista sendo xenófobo.",
+      "label": ""
+    },
+    {
+      "id": "1517550267497840730",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:22",
+      "orig": "i just ban spammers, thats all",
+      "en": "",
+      "pt": "eu apenas proíbo spammers, isso é tudo",
+      "label": ""
+    },
+    {
+      "id": "1517550284673519758",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:23",
+      "orig": "pisz po polsku kurwo na polskim kanale",
+      "en": "write in Polish, whore, on a Polish channel",
+      "pt": "escreva em polonês, prostituta, em um canal polonês",
+      "label": ""
+    },
+    {
+      "id": "1517550340252242010",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:23",
+      "orig": "nie jestes u siebie w gownostanie",
+      "en": "you're not in your own shit",
+      "pt": "você não está na sua própria merda",
+      "label": ""
+    },
+    {
+      "id": "1517550372036542634",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 12:23",
+      "orig": "anglojezycza nas",
+      "en": "he speaks English to us",
+      "pt": "ele fala inglês conosco",
+      "label": "clean"
+    },
+    {
+      "id": "1517550714782748963",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:24",
+      "orig": "I'm not spamming. But apparently gratuitous xenophobia is accepted here.",
+      "en": "",
+      "pt": "Eu não estou enviando spam. Mas aqui se aceita xenofobia aparentemente gratuita.",
+      "label": "clean"
+    },
+    {
+      "id": "1517550976494600353",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:25",
+      "orig": "https://tenor.com/view/monkey-monke-banana-monkey-eats-banana-me-asf-gif-8554916738071910837",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517550993175216229",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:25",
+      "orig": "<@277191334744293378> see this emojis. Is that right?",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517551098511098117",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:26",
+      "orig": "Or a emoji is more ofensive than this?",
+      "en": "",
+      "pt": "Ou um emoji é mais ofensivo que isso?",
+      "label": "clean"
+    },
+    {
+      "id": "1517551139674128394",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:26",
+      "orig": "wypierdalaj na swoj kanal",
+      "en": "Fuck off to your own channel",
+      "pt": "Vá se foder para o seu próprio canal",
+      "label": "xenophobic"
+    }
+  ],
+  "screenshot": "screenshots/1517550385865166980.png"
+}

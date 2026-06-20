@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516116816332849305",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-15 13:26",
+  "orig": "a jebac",
+  "en": "",
+  "pt": "um jebac",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516116816332849305",
+  "context": [
+    {
+      "id": "1516116467366756523",
+      "author": "xbiedro",
+      "ts": "2026-06-15 13:25",
+      "orig": "no nwm dla mnie to normalne że można dostać bana za exploity",
+      "en": "well, for me it's normal that you can get banned for exploits",
+      "pt": "bem, para mim é normal que você seja banido por exploits",
+      "label": ""
+    },
+    {
+      "id": "1516116608773525524",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:26",
+      "orig": "jakby to byl exploit client-side, nadal nie byloby to zaktualizowane to ok ale to jest problem ze strony devów a nie strony gracza",
+      "en": "if it was a client-side exploit, it still wouldn't be updated, that's ok, but this is a problem on the dev side, not on the player side",
+      "pt": "se fosse uma exploração do lado do cliente, ainda não seria atualizado, tudo bem, mas isso é um problema do lado do desenvolvedor, não do lado do jogador",
+      "label": ""
+    },
+    {
+      "id": "1516116636166393916",
+      "author": "wontcaretbh",
+      "ts": "2026-06-15 13:26",
+      "orig": "It seems the cooldown varies by map right now.\n\nNormal 3-5\nBlue 7\n**No more stacking common chests**",
+      "en": "",
+      "pt": "Parece que o tempo de espera varia de acordo com o mapa no momento.\n\nNormais 3-5\nAzul 7\n**Chega de empilhar baús comuns**",
+      "label": ""
+    },
+    {
+      "id": "1516116656437465108",
+      "author": "staszek1969",
+      "ts": "2026-06-15 13:26",
+      "orig": "Nie mam zapchanych normal chestów i na 8 normali mam 5 bluu",
+      "en": "I don't have full normal chests and I have 5 blues out of 8 normals",
+      "pt": "Eu não tenho peitos normais completos e tenho 5 azuis de 8 normais",
+      "label": ""
+    },
+    {
+      "id": "1516116769620754492",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:26",
+      "orig": "za dziurawy backend za który odpowiadają devowie jednak obrywa sie graczom",
+      "en": "However, the players are blamed for the leaky backend, which is the responsibility of the developers",
+      "pt": "No entanto, os jogadores são culpados pelo backend vazado, que é de responsabilidade dos desenvolvedores",
+      "label": ""
+    },
+    {
+      "id": "1516116833479168030",
+      "author": "xbiedro",
+      "ts": "2026-06-15 13:27",
+      "orig": "nikt ci nie każde tego nadużywać.",
+      "en": "no one is forcing you to abuse it.",
+      "pt": "ninguém está forçando você a abusar disso.",
+      "label": "clean"
+    },
+    {
+      "id": "1516116850600317069",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:27",
+      "orig": "a ich cofanie banów tylko utwierdza w tym ze nie umieją w zabezpieczenia i false positive lecą jak pojebane",
+      "en": "and their revocation of bans only confirms that they don't know how to use security and false positives are flying like crazy",
+      "pt": "e a revogação das proibições apenas confirma que eles não sabem como usar a segurança e que os falsos positivos estão voando como loucos",
+      "label": "clean"
+    },
+    {
+      "id": "1516116854886629459",
+      "author": "kraju",
+      "ts": "2026-06-15 13:27",
+      "orig": "niech otworza market wszystko na market i wyjebca gierke XD",
+      "en": "let them open the market to everything and fuck off the game XD",
+      "pt": "deixe-os abrir o mercado para tudo e foda-se o jogo XD",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1516116935706939503",
+      "author": "kraju",
+      "ts": "2026-06-15 13:27",
+      "orig": "tbh poszli po rozum do dupy",
+      "en": "tbh they went crazy",
+      "pt": "para ser sincero, eles enlouqueceram",
+      "label": "clean"
+    },
+    {
+      "id": "1516116937711685664",
+      "author": "staszek1969",
+      "ts": "2026-06-15 13:27",
+      "orig": "8 nor 5 blue",
+      "en": "",
+      "pt": "8 nem 5 azul",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516116816332849305.png"
+}

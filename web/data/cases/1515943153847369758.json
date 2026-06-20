@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515943153847369758",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-15 01:56",
+  "orig": "Miałem 27 I stwierdziłem że to pierdole",
+  "en": "I was 27 and I thought that's bullshit",
+  "pt": "Eu tinha 27 anos e pensei que isso era besteira",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515943153847369758",
+  "context": [
+    {
+      "id": "1515943007189336204",
+      "author": "pentagram",
+      "ts": "2026-06-15 01:56",
+      "orig": "No",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515943047886540940",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 01:56",
+      "orig": "oki XD",
+      "en": "",
+      "pt": "ok XD",
+      "label": ""
+    },
+    {
+      "id": "1515943069634007120",
+      "author": "pentagram",
+      "ts": "2026-06-15 01:56",
+      "orig": "Postacie 75 lvl a kosteczka na 100",
+      "en": "Characters are lvl 75 and the dice is lvl 100",
+      "pt": "Os personagens estão no nível 75 e os dados estão no nível 100",
+      "label": ""
+    },
+    {
+      "id": "1515943091205570602",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 01:56",
+      "orig": "72LVL dopiero",
+      "en": "72LVL only",
+      "pt": "Somente 72LVL",
+      "label": ""
+    },
+    {
+      "id": "1515943136428294228",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 01:56",
+      "orig": "no ciekawe wiesz XD",
+      "en": "interesting, you know XD",
+      "pt": "interessante, você sabe XD",
+      "label": ""
+    },
+    {
+      "id": "1515943182997655674",
+      "author": "pentagram",
+      "ts": "2026-06-15 01:56",
+      "orig": "Się wracać i farmic",
+      "en": "Go back and farm",
+      "pt": "Volte e cultive",
+      "label": "clean"
+    },
+    {
+      "id": "1515943301008724018",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 01:57",
+      "orig": "Jak tu skrzynki prawie nie lecą coś ty farmił czas XD",
+      "en": "It's like the boxes are almost not flowing, you must have wasted your time XD",
+      "pt": "É como se as caixas quase não estivessem fluindo, você deve ter perdido seu tempo XD",
+      "label": ""
+    },
+    {
+      "id": "1515943335611600998",
+      "author": "pentagram",
+      "ts": "2026-06-15 01:57",
+      "orig": "Hexy",
+      "en": "",
+      "pt": "Hexi",
+      "label": "clean"
+    },
+    {
+      "id": "1515943377042931804",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 01:57",
+      "orig": "trzeba iść na valo 😄",
+      "en": "you have to go to Valo 😄",
+      "pt": "você tem que ir para Valo 😄",
+      "label": ""
+    },
+    {
+      "id": "1515943524338503792",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 01:58",
+      "orig": "kto gra valo ?",
+      "en": "who plays valo?",
+      "pt": "quem joga valo?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515943153847369758.png"
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "user_id": "528317765119901716",
+    "username": "kraju",
+    "display": "Kraju",
+    "counts": {
+      "racist": 4,
+      "xenophobic": 20,
+      "offensive": 12,
+      "suspicious": 6
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 42
+  },
+  {
+    "user_id": "256893456117399553",
+    "username": "pentagram",
+    "display": "Pentagram",
+    "counts": {
+      "racist": 6,
+      "xenophobic": 12,
+      "offensive": 3,
+      "suspicious": 1
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 22
+  },
+  {
+    "user_id": "277191334744293378",
+    "username": "xbiedro",
+    "display": "Biedro",
+    "counts": {
+      "racist": 4,
+      "xenophobic": 13,
+      "offensive": 4,
+      "suspicious": 5
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 26
+  },
+  {
+    "user_id": "73518952218628096",
+    "username": "lepryko",
+    "display": "Majusz",
+    "counts": {
+      "racist": 3,
+      "xenophobic": 9,
+      "offensive": 4,
+      "suspicious": 9
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 25
+  },
+  {
+    "user_id": "191929666754314240",
+    "username": "qndel",
+    "display": "Qndel",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 8,
+      "offensive": 1,
+      "suspicious": 2
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 11
+  },
+  {
+    "user_id": "665271170840395805",
+    "username": "mwahahahaa",
+    "display": "Akbar Alejkum",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 4,
+      "offensive": 1,
+      "suspicious": 1
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 6
+  },
+  {
+    "user_id": "265574913648230400",
+    "username": "tsuakashi",
+    "display": ". 𒉭 𝔗𝔰𝔲𝔞𝔨𝔞𝔰𝔥𝔦 𒉭 .",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 2,
+      "offensive": 1,
+      "suspicious": 0
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 3
+  },
+  {
+    "user_id": "300653187260612608",
+    "username": "zieloooony",
+    "display": "Zieloooony",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 2,
+      "offensive": 1,
+      "suspicious": 0
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 3
+  },
+  {
+    "user_id": "258891606873210880",
+    "username": "ativ3k",
+    "display": "ativ",
+    "counts": {
+      "racist": 1,
+      "xenophobic": 0,
+      "offensive": 0,
+      "suspicious": 1
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 2
+  },
+  {
+    "user_id": "286255360715522048",
+    "username": "eruun_89",
+    "display": "Eruun",
+    "counts": {
+      "racist": 1,
+      "xenophobic": 0,
+      "offensive": 0,
+      "suspicious": 0
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 1
+  },
+  {
+    "user_id": "255099358960287756",
+    "username": "kobernn",
+    "display": "Mogamett",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 1,
+      "offensive": 0,
+      "suspicious": 0
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 1
+  },
+  {
+    "user_id": "229739417206521867",
+    "username": "shioae",
+    "display": "Shioae",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 1,
+      "offensive": 0,
+      "suspicious": 0
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 1
+  },
+  {
+    "user_id": "361459591176912897",
+    "username": "entotus",
+    "display": "Entotus",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 0,
+      "offensive": 1,
+      "suspicious": 6
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 7
+  },
+  {
+    "user_id": "271569103859220480",
+    "username": "rayner.1986",
+    "display": "Rayner",
+    "counts": {
+      "racist": 0,
+      "xenophobic": 0,
+      "offensive": 1,
+      "suspicious": 0
+    },
+    "channels": [
+      "chat-polish"
+    ],
+    "total": 1
+  }
+]

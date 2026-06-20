@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516437740592562176",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-16 10:42",
+  "orig": "najlepsze , ze obywatelstwa tak z dupy kazdy dostal",
+  "en": "the best thing is that everyone got citizenship so quickly",
+  "pt": "o melhor é que todos conseguiram cidadania tão rápido",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516437740592562176",
+  "context": [
+    {
+      "id": "1516437604416094219",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:41",
+      "orig": "polska to stare spoleczenstwo",
+      "en": "Poland is an old society",
+      "pt": "A Polónia é uma sociedade antiga",
+      "label": ""
+    },
+    {
+      "id": "1516437643666395298",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:41",
+      "orig": "a sami mlodzi przyjechali",
+      "en": "and the young people themselves came",
+      "pt": "e os próprios jovens vieram",
+      "label": ""
+    },
+    {
+      "id": "1516437659822719057",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:41",
+      "orig": "to co ty chcesz slyszec ;p",
+      "en": "what you want to hear ;p",
+      "pt": "o que você quer ouvir ;p",
+      "label": ""
+    },
+    {
+      "id": "1516437714302664776",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:42",
+      "orig": "czasem sie przydaja XD",
+      "en": "sometimes they come in handy XD",
+      "pt": "às vezes eles são úteis XD",
+      "label": ""
+    },
+    {
+      "id": "1516437734892503210",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:42",
+      "orig": "mialem sprzataczke ukrainke XD",
+      "en": "I had a Ukrainian cleaning lady XD",
+      "pt": "Eu tinha uma faxineira ucraniana XD",
+      "label": ""
+    },
+    {
+      "id": "1516437783953019051",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:42",
+      "orig": "a ty jako polak fiuta w dupe",
+      "en": "and you, as a Pole, have a dick in your ass",
+      "pt": "e você, como polonês, tem um pau na bunda",
+      "label": "clean"
+    },
+    {
+      "id": "1516437821055832185",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:42",
+      "orig": "ten sprzateczke mial , ale on ma kasiory",
+      "en": "he had a cleaning lady, but he has money",
+      "pt": "ele tinha uma faxineira, mas tem dinheiro",
+      "label": "clean"
+    },
+    {
+      "id": "1516437842870407199",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:42",
+      "orig": "ja tam i tak z polski zamierzam spierdalac xD",
+      "en": "I'm going to fuck off from Poland anyway xD",
+      "pt": "Vou dar o fora da Polônia de qualquer maneira xD",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1516437855398920302",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:42",
+      "orig": "poruchales chociaz",
+      "en": "you fucked up at least",
+      "pt": "você pelo menos estragou tudo",
+      "label": "clean"
+    },
+    {
+      "id": "1516437868321570946",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:42",
+      "orig": "a czekaj",
+      "en": "oh wait",
+      "pt": "ah, espere",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516437740592562176.png"
+}

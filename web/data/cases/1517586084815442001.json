@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517586084815442001",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "545239019253137418",
+  "author": "reeeheee",
+  "ts": "2026-06-19 14:45",
+  "orig": "you better learn english and german, they will help you if you come over here to get a job",
+  "en": "",
+  "pt": "é melhor você aprender inglês e alemão, eles vão te ajudar se você vier aqui para conseguir um emprego",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517586084815442001",
+  "context": [
+    {
+      "id": "1517585105261039636",
+      "author": "reeeheee",
+      "ts": "2026-06-19 14:41",
+      "orig": "🤔",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517585318147133600",
+      "author": "reeeheee",
+      "ts": "2026-06-19 14:42",
+      "orig": "Ye you wouldn't be the best fit for the role 😂",
+      "en": "",
+      "pt": "Sim, você não seria a pessoa mais indicada para o papel 😂",
+      "label": ""
+    },
+    {
+      "id": "1517585333061947454",
+      "author": "qndel",
+      "ts": "2026-06-19 14:42",
+      "orig": "😄",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517585513551368303",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 14:43",
+      "orig": "Polski kanał to po Polsku godaj",
+      "en": "The Polish name for the channel is godaj",
+      "pt": "O nome polonês do canal é godaj",
+      "label": "clean"
+    },
+    {
+      "id": "1517585957111595189",
+      "author": "reeeheee",
+      "ts": "2026-06-19 14:44",
+      "orig": "relax your nutsack my friend",
+      "en": "",
+      "pt": "relaxe seu maluco, meu amigo",
+      "label": "clean"
+    },
+    {
+      "id": "1517586195838799942",
+      "author": "qndel",
+      "ts": "2026-06-19 14:45",
+      "orig": "I know english + been learning german for 10 years :p",
+      "en": "",
+      "pt": "Eu sei inglês + aprendo alemão há 10 anos: p",
+      "label": "clean"
+    },
+    {
+      "id": "1517586252336205825",
+      "author": "qndel",
+      "ts": "2026-06-19 14:45",
+      "orig": "https://tenor.com/view/pom-poko-gif-3741795071882689604",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517586358397567078",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:46",
+      "orig": "mamy w szkole niemiecki od dawna (ja nawet nie miałem angielskiego)",
+      "en": "We've had German at school for a long time (I didn't even have English)",
+      "pt": "Faz muito tempo que aprendemos alemão na escola (eu nem tinha inglês)",
+      "label": "clean"
+    },
+    {
+      "id": "1517586373635346492",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:46",
+      "orig": "😂",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517586399388504205",
+      "author": "qndel",
+      "ts": "2026-06-19 14:46",
+      "orig": "ja chuja pamiętam z niemieckiego",
+      "en": "I don't remember shit from German",
+      "pt": "Não me lembro de nada do alemão",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517586084815442001.png"
+}

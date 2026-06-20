@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510596584977596528",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-05-31 07:51",
+  "orig": "sprawdz ich poprzednią gierke która umarła po miesiącu xD , tam też wszystko client check był + zabezpieczenie mono czyli średnia rozwinięta małpa potrafiła w .dll wyłączyc anticheata xD",
+  "en": "check their previous game which died after a month xD, there was also all the client check + mono security, i.e. an average-developed monkey was able to disable anti-cheat in the .dll xD",
+  "pt": "verifique o jogo anterior deles que morreu depois de um mês xD, havia também toda a verificação do cliente + segurança mono, ou seja, um macaco de desenvolvimento médio foi capaz de desabilitar o anti-cheat no .dll xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510596584977596528",
+  "context": [
+    {
+      "id": "1510596314117967952",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:50",
+      "orig": "wiesz, siedze 20+ lat w software devie, wiec Ci mowie z logiczneog punktu widzenia xD",
+      "en": "you know, I've been in software development for 20+ years, so I'm telling you from a logical point of view xD",
+      "pt": "você sabe, estou no desenvolvimento de software há mais de 20 anos, então estou lhe contando de um ponto de vista lógico xD",
+      "label": ""
+    },
+    {
+      "id": "1510596335324233968",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:50",
+      "orig": "nie przecz eze zpartacyzli to u podstaw",
+      "en": "I don't deny that they participated it at its core",
+      "pt": "Não nego que eles participaram em sua essência",
+      "label": ""
+    },
+    {
+      "id": "1510596376960958568",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:50",
+      "orig": "moze tak byc xD",
+      "en": "it may be like that xD",
+      "pt": "pode ser assim xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510596407856332800",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:50",
+      "orig": "ale to naprawia, bo widza juz ze im gre psuja",
+      "en": "but he's fixing it because they already see that it's ruining their game",
+      "pt": "mas ele está consertando porque eles já veem que isso está estragando o jogo deles",
+      "label": "clean"
+    },
+    {
+      "id": "1510596455877050418",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:51",
+      "orig": "jezeli nie odjebali lipy w kodzie, to zmigorwanie na server side nie bedzie ciezkie",
+      "en": "if they didn't screw up the code, migrating to the server side won't be difficult",
+      "pt": "se eles não estragaram o código, migrar para o lado do servidor não será difícil",
+      "label": "clean"
+    },
+    {
+      "id": "1510596679714476060",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:51",
+      "orig": "https://discord.com/channels/1427722762809770126/1427726870564180040/1499060783026409545",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510596725717340366",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:52",
+      "orig": "no to ta gre czeka podobny los xD",
+      "en": "well, this game will suffer a similar fate xD",
+      "pt": "bem, este jogo sofrerá um destino semelhante xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510596726652801076",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:52",
+      "orig": "wiedzieli już mieisąc temu ale wyjebane mają lol",
+      "en": "they knew about it a month ago but they don't give a damn lol",
+      "pt": "eles sabiam disso há um mês, mas não se importam haha",
+      "label": "clean"
+    },
+    {
+      "id": "1510596834824028171",
+      "author": "kraju",
+      "ts": "2026-05-31 07:52",
+      "orig": "z jednej strony , i tak itemy i cub przechodzi przez steam wiec nawet jak zrespisz sobie item to dostaje perm tradeblocka",
+      "en": "on the one hand, items and cub go through steam anyway, so even if you resend the item, it gets the tradeblock perm",
+      "pt": "por um lado, os itens e o filhote passam pelo vapor de qualquer maneira, então mesmo se você reenviar o item, ele receberá o bloqueio comercial permanente",
+      "label": ""
+    },
+    {
+      "id": "1510596902360453190",
+      "author": "kraju",
+      "ts": "2026-05-31 07:52",
+      "orig": "dlatego od 3 dni serwery siądają",
+      "en": "that's why the servers have been down for 3 days",
+      "pt": "é por isso que os servidores ficaram fora do ar por 3 dias",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510596584977596528.png"
+}

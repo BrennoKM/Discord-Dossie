@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516857260826169385",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-17 14:29",
+  "orig": "A spierdala",
+  "en": "And fuck off",
+  "pt": "E vá se foder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516857260826169385",
+  "context": [
+    {
+      "id": "1516857152768315564",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:28",
+      "orig": "w ktorej zapierdalal xd",
+      "en": "in which he farted xd",
+      "pt": "em que ele peidou xd",
+      "label": ""
+    },
+    {
+      "id": "1516857183751372841",
+      "author": "pentagram",
+      "ts": "2026-06-17 14:28",
+      "orig": "Banshee?",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516857203242303710",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:28",
+      "orig": "widzial",
+      "en": "he saw",
+      "pt": "ele viu",
+      "label": "clean"
+    },
+    {
+      "id": "1516857211639566366",
+      "author": "pentagram",
+      "ts": "2026-06-17 14:29",
+      "orig": "Rodzina borgiow?",
+      "en": "The Borgia family?",
+      "pt": "A família Bórgia?",
+      "label": "clean"
+    },
+    {
+      "id": "1516857238311141659",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:29",
+      "orig": "widzial",
+      "en": "he saw",
+      "pt": "ele viu",
+      "label": "clean"
+    },
+    {
+      "id": "1516857268971376690",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:29",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516857271190028478",
+      "author": "pentagram",
+      "ts": "2026-06-17 14:29",
+      "orig": "<:pepesmile:1284163460317446195>",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516857338928300073",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:29",
+      "orig": "a Preachera ogladaliscie xD ?",
+      "en": "",
+      "pt": "uma Preachera ogladaliscie xD?",
+      "label": "clean"
+    },
+    {
+      "id": "1516857383618351226",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:29",
+      "orig": "https://www.imdb.com/title/tt5016504/",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516857396230750209",
+      "author": "pentagram",
+      "ts": "2026-06-17 14:29",
+      "orig": "Reacher?",
+      "en": "",
+      "pt": "Alcançador?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516857260826169385.png"
+}

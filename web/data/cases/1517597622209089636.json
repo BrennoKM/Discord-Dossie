@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517597622209089636",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 15:31",
+  "orig": "https://tenor.com/view/banana-pass-gorilla-gif-7515675632286322787",
+  "en": "",
+  "pt": "",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517597622209089636",
+  "context": [
+    {
+      "id": "1517597426154868796",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "mamy to widzowie",
+      "en": "we have this viewers",
+      "pt": "temos esses espectadores",
+      "label": "clean"
+    },
+    {
+      "id": "1517597446451236957",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "https://tenor.com/view/minion-banana-gif-minion-minions-gif-81650879192259967",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517597512217923776",
+      "author": "entotus",
+      "ts": "2026-06-19 15:30",
+      "orig": "te 50% comiców upadnie xD",
+      "en": "these 50% of comics will fail xD",
+      "pt": "esses 50% dos quadrinhos vão falhar xD",
+      "label": "clean"
+    },
+    {
+      "id": "1517597531960381620",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "https://tenor.com/view/oondasta-oondastochka-gif-4756026591458658000",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517597566332702730",
+      "author": "entotus",
+      "ts": "2026-06-19 15:30",
+      "orig": "https://tenor.com/view/oondasta-oondastochka-gif-4756026591458658000",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517597638592037087",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:31",
+      "orig": "Gz lvl kraju",
+      "en": "Gz lvl end",
+      "pt": "Fim do nível Gz",
+      "label": "clean"
+    },
+    {
+      "id": "1517597786277937355",
+      "author": "tsuakashi",
+      "ts": "2026-06-19 15:31",
+      "orig": "Gz",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517597792636243998",
+      "author": "entotus",
+      "ts": "2026-06-19 15:31",
+      "orig": "znak wodny ma ten gif xD",
+      "en": "watermark has this gif xD",
+      "pt": "marca d'água tem esse gif xD",
+      "label": "clean"
+    },
+    {
+      "id": "1517597841240100925",
+      "author": "tsuakashi",
+      "ts": "2026-06-19 15:32",
+      "orig": "Jebać te kurwy",
+      "en": "Fuck these whores",
+      "pt": "Foda-se essas putas",
+      "label": ""
+    },
+    {
+      "id": "1517597865223131378",
+      "author": "kraju",
+      "ts": "2026-06-19 15:32",
+      "orig": "a no ma",
+      "en": "and for",
+      "pt": "e para",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517597622209089636.png"
+}

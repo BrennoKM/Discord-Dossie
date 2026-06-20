@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514178324392444014",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-10 05:04",
+  "orig": "Przeskoki są w chuj",
+  "en": "The skips are crap",
+  "pt": "Os pulos são uma porcaria",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514178324392444014",
+  "context": [
+    {
+      "id": "1514178078551838760",
+      "author": "staszek1969",
+      "ts": "2026-06-10 05:03",
+      "orig": "Biedroń pomysł na film tbh mam",
+      "en": "Biedroń I have an idea for a film tbh",
+      "pt": "Biedroń, tenho uma ideia para um filme para ser sincero",
+      "label": "clean"
+    },
+    {
+      "id": "1514178083857498133",
+      "author": "xbiedro",
+      "ts": "2026-06-10 05:03",
+      "orig": "Po między waveami gra wybiera postać z najniższym lvlem i w tej prędkości idą",
+      "en": "After between waves, the game selects the character with the lowest level and they go at that speed",
+      "pt": "Após entre as ondas, o jogo seleciona o personagem com o nível mais baixo e eles seguem nessa velocidade",
+      "label": "clean"
+    },
+    {
+      "id": "1514178208914997310",
+      "author": "staszek1969",
+      "ts": "2026-06-10 05:03",
+      "orig": "Poradnik dla nowych o runach co po kolei robic",
+      "en": "A guide for those new to runes, what to do step by step",
+      "pt": "Um guia para quem é novo nas runas, o que fazer passo a passo",
+      "label": "clean"
+    },
+    {
+      "id": "1514178274044018718",
+      "author": "xbiedro",
+      "ts": "2026-06-10 05:03",
+      "orig": "Bierzesz to co najtańsze xd",
+      "en": "You take what's cheapest xd",
+      "pt": "Você pega o que é mais barato xd",
+      "label": "clean"
+    },
+    {
+      "id": "1514178296399794307",
+      "author": "xbiedro",
+      "ts": "2026-06-10 05:03",
+      "orig": "Ja tak robię do teraz",
+      "en": "I still do that now",
+      "pt": "Eu ainda faço isso agora",
+      "label": "clean"
+    },
+    {
+      "id": "1514178470110826577",
+      "author": "xbiedro",
+      "ts": "2026-06-10 05:04",
+      "orig": "Lepiej kupić +1 armor za 10k niż 1% movementspeeda za 1mln chociaż movementspeed ważniejszy",
+      "en": "It's better to buy +1 armor for 10k than 1% movementspeed for 1 million, although movementspeed is more important",
+      "pt": "É melhor comprar +1 de armadura por 10k do que 1% de velocidade de movimento por 1 milhão, embora a velocidade de movimento seja mais importante",
+      "label": "clean"
+    },
+    {
+      "id": "1514178697400422480",
+      "author": "staszek1969",
+      "ts": "2026-06-10 05:05",
+      "orig": "Można mić co run niebieską skrzynie jeśli masz full zwykłych i skakasz po różnych aktach",
+      "en": "You can have a blue chest every run if you have full regular ones and you jump around different acts",
+      "pt": "Você pode ter um baú azul a cada corrida se tiver baús regulares completos e pular em diferentes atos",
+      "label": ""
+    },
+    {
+      "id": "1514178713678385323",
+      "author": "andur6453",
+      "ts": "2026-06-10 05:05",
+      "orig": "a lvl kostki wbijać alchemią czy lepiej syntezy robić?",
+      "en": "Should I level the cubes with alchemy or is it better to synthesize them?",
+      "pt": "Devo nivelar os cubos com alquimia ou é melhor sintetizá-los?",
+      "label": ""
+    },
+    {
+      "id": "1514178865537482816",
+      "author": "danoses",
+      "ts": "2026-06-10 05:06",
+      "orig": "alchemia daje ci wiecej",
+      "en": "alchemy gives you more",
+      "pt": "alquimia lhe dá mais",
+      "label": ""
+    },
+    {
+      "id": "1514178982864617532",
+      "author": "entotus",
+      "ts": "2026-06-10 05:06",
+      "orig": "<@277191334744293378>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514178324392444014.png"
+}

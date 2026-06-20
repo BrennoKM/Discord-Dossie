@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513078035329581197",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-07 04:11",
+  "orig": "w chuju to mam, to niech wyjebia ta gre z steama i wypierdalaja robic hot dogi do zabki",
+  "en": "I don't give a damn about this, so they should take this game off Steam and fuck off and make hot dogs in the morning.",
+  "pt": "Eu não dou a mínima para isso, então eles deveriam tirar esse jogo do Steam, se foder e fazer cachorro-quente pela manhã.",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513078035329581197",
+  "context": [
+    {
+      "id": "1513068267567059045",
+      "author": "tsuakashi",
+      "ts": "2026-06-07 03:33",
+      "orig": "Kurwa <48h od zgłoszenia i dalej bez odp f <:FeelsBadMan:662746511649800212>",
+      "en": "Fuck <48 hours from reporting and still no response f <:FeelsBadMan:662746511649800212>",
+      "pt": "Foda-se <48 horas desde o relatório e ainda sem resposta f <:FeelsBadMan:662746511649800212>",
+      "label": ""
+    },
+    {
+      "id": "1513077417907064852",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-07 04:09",
+      "orig": "ustawienia. inne rozwiązano problem z ekiwipunkiem steam czekasz 1min reset gry i kikasz na pocztę 10sek odśwież i skrzynia jest",
+      "en": "settings. other, the problem with the Steam inventory was solved, wait 1 minute, reset the game and click on the mail, refresh 10 seconds and the chest is there",
+      "pt": "configurações. outro, o problema do inventário Steam foi resolvido, espere 1 minuto, reinicie o jogo e clique no mail, atualize 10 segundos e o baú está lá",
+      "label": ""
+    },
+    {
+      "id": "1513077540800168087",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-07 04:09",
+      "orig": "co jakiś czas tak będziesz robił będziesz miał skrzynkę czytaj aktualizacje będziesz wiedział zamiast się wkur 🙂",
+      "en": "you do this from time to time, you will have an inbox, read updates, you will know instead of getting angry :)",
+      "pt": "você faz isso de vez em quando, você terá uma caixa de entrada, lerá as atualizações, você saberá em vez de ficar com raiva :)",
+      "label": ""
+    },
+    {
+      "id": "1513077552334245979",
+      "author": "mwahahahaa",
+      "ts": "2026-06-07 04:10",
+      "orig": "Dalej skrzynki nie lecą  do kurwy nędzy?",
+      "en": "The boxes are still not going to hell?",
+      "pt": "As caixas ainda não vão para o inferno?",
+      "label": "clean"
+    },
+    {
+      "id": "1513077861559439421",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-07 04:11",
+      "orig": "przecież pisali że 8.06 będzie aktualizacja że przes kurwy które hax używają serwer jebali  serwer nie wyrabiał od tego",
+      "en": "after all, they wrote that 8.06 will be an update, that the whores who use hax use the server, the server didn't work because of it",
+      "pt": "afinal escreveram que 8.06 vai ser uma atualização, que as putas que usam hax usam o servidor, o servidor não funcionou por causa disso",
+      "label": ""
+    },
+    {
+      "id": "1513078094905348197",
+      "author": "mwahahahaa",
+      "ts": "2026-06-07 04:12",
+      "orig": "testy robili",
+      "en": "they did the tests",
+      "pt": "eles fizeram os testes",
+      "label": "clean"
+    },
+    {
+      "id": "1513078108591358112",
+      "author": "mwahahahaa",
+      "ts": "2026-06-07 04:12",
+      "orig": "i tak dupy dac",
+      "en": "give it up anyway",
+      "pt": "desista de qualquer maneira",
+      "label": "clean"
+    },
+    {
+      "id": "1513078130758258768",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-07 04:12",
+      "orig": "to nie graj człowieku to gra za free",
+      "en": "then don't play man, it's a free game",
+      "pt": "então não brinque cara, é um jogo grátis",
+      "label": ""
+    },
+    {
+      "id": "1513078176723505303",
+      "author": "mwahahahaa",
+      "ts": "2026-06-07 04:12",
+      "orig": "no na haxach za free",
+      "en": "no haxach za free",
+      "pt": "sem haxach za grátis",
+      "label": ""
+    },
+    {
+      "id": "1513078189306544238",
+      "author": "mwahahahaa",
+      "ts": "2026-06-07 04:12",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1513078035329581197.png"
+}

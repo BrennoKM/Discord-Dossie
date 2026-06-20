@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516134126313410561",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "300653187260612608",
+  "author": "zieloooony",
+  "ts": "2026-06-15 14:35",
+  "orig": "we to gdzieś przyczep bo sie zgubi",
+  "en": "let's trailer it somewhere because it will get lost",
+  "pt": "vamos rebocá-lo para algum lugar porque ele vai se perder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516134126313410561",
+  "context": [
+    {
+      "id": "1516133910231253083",
+      "author": "xbiedro",
+      "ts": "2026-06-15 14:34",
+      "orig": "😂",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516133984440946839",
+      "author": "xbiedro",
+      "ts": "2026-06-15 14:35",
+      "orig": "kapłan divine80, łucznic cosmic 80, mag cosmic 80",
+      "en": "priest divine80, archers cosmic 80, magician cosmic 80",
+      "pt": "sacerdote divino80, arqueiros cósmicos 80, mágico cósmico 80",
+      "label": ""
+    },
+    {
+      "id": "1516134041949311067",
+      "author": "xbiedro",
+      "ts": "2026-06-15 14:35",
+      "orig": "kapłan cosmic 80 jeśli masz chełm divine80",
+      "en": "priest cosmic 80 if you have the helmet divine80",
+      "pt": "sacerdote cósmico 80 se você tiver o capacete divino80",
+      "label": "clean"
+    },
+    {
+      "id": "1516134099893620868",
+      "author": "xbiedro",
+      "ts": "2026-06-15 14:35",
+      "orig": "😂",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516134125780865065",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:35",
+      "orig": "No kurwa to jest żałosne, spadł mi arcane orb, no ok, wyexpilem maga spoko.... Mija chwilą spada znów arcane, znów orb ten sam",
+      "en": "Fuck, this is pathetic, I lost an arcane orb, ok, I leveled up the magician, that's cool.... After a while, the arcane drops again, the same orb again",
+      "pt": "Porra, isso é patético, perdi um orbe arcano, ok, subi de nível no mágico, isso é legal.... Depois de um tempo, o arcano cai novamente, o mesmo orbe novamente",
+      "label": "clean"
+    },
+    {
+      "id": "1516134161344364635",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:35",
+      "orig": "Chełm?",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516134194009604288",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:36",
+      "orig": "To takie. Miasto na śląsku",
+      "en": "It's like that. A city in Silesia",
+      "pt": "É assim. Uma cidade na Silésia",
+      "label": "clean"
+    },
+    {
+      "id": "1516134228310360074",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:36",
+      "orig": "Tak mi się wydaje",
+      "en": "I think so",
+      "pt": "Eu penso que sim",
+      "label": "clean"
+    },
+    {
+      "id": "1516134256571580436",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:36",
+      "orig": "Nikogo divine tam nie spotkałem",
+      "en": "I didn't meet anyone divine there",
+      "pt": "Não conheci ninguém divino lá",
+      "label": ""
+    },
+    {
+      "id": "1516134293414608896",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:36",
+      "orig": "chelm na wschodzie",
+      "en": "chelm in the east",
+      "pt": "helm no leste",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516134126313410561.png"
+}

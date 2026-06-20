@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510822368707088516",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 22:48",
+  "orig": "i spierdolka do hiszpanii",
+  "en": "and fuck off to Spain",
+  "pt": "e vá se foder para a Espanha",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510822368707088516",
+  "context": [
+    {
+      "id": "1510822161294688336",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:47",
+      "orig": "i malego cyborga stworzyc",
+      "en": "and create a little cyborg",
+      "pt": "e crie um pequeno ciborgue",
+      "label": ""
+    },
+    {
+      "id": "1510822234816512141",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:48",
+      "orig": "ale no swiat jest zbyt pojebany teraz",
+      "en": "but the world is too fucked up now",
+      "pt": "mas o mundo está muito fodido agora",
+      "label": ""
+    },
+    {
+      "id": "1510822246736723989",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:48",
+      "orig": "nie zrobie mu tego xD",
+      "en": "I won't do that to him xD",
+      "pt": "Eu não farei isso com ele xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510822320753606696",
+      "author": "entotus",
+      "ts": "2026-05-31 22:48",
+      "orig": "nie no rob dzieciaka po polska za 30 lat to bedzie z samych staruchów",
+      "en": "no, make a kid in Poland, in 30 years it will be all old people",
+      "pt": "não, faça uma criança na Polônia, em 30 anos serão todos idosos",
+      "label": "clean"
+    },
+    {
+      "id": "1510822353427370128",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:48",
+      "orig": "ja to i tak mysle ze rok dwa",
+      "en": "I think it's been two years anyway",
+      "pt": "Eu acho que já se passaram dois anos de qualquer maneira",
+      "label": "clean"
+    },
+    {
+      "id": "1510822379499163809",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:48",
+      "orig": "albo gdzies gdzie cieplo",
+      "en": "or somewhere warm",
+      "pt": "ou em algum lugar quente",
+      "label": "clean"
+    },
+    {
+      "id": "1510822416987984005",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:48",
+      "orig": "nawet jak sprawdzalem wstepnie",
+      "en": "even when I checked it first",
+      "pt": "mesmo quando eu verifiquei primeiro",
+      "label": "clean"
+    },
+    {
+      "id": "1510822431198154933",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:48",
+      "orig": "to taniej tam fajny dom kupie",
+      "en": "I can buy a nice house there cheaper",
+      "pt": "Posso comprar uma bela casa lá mais barata",
+      "label": "clean"
+    },
+    {
+      "id": "1510822433295171694",
+      "author": "entotus",
+      "ts": "2026-05-31 22:48",
+      "orig": "starlink i do afryki xD",
+      "en": "starlink and to Africa xD",
+      "pt": "starlink e para África xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510822437590270176",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:48",
+      "orig": "niz w polsce xD",
+      "en": "than in Poland xD",
+      "pt": "do que na Polônia xD",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1510822368707088516.png"
+}

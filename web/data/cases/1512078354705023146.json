@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512078354705023146",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-04 09:59",
+  "orig": "ale bym ci jakis rasistowski komentarz zostawil",
+  "en": "but I would leave you some racist comment",
+  "pt": "mas eu deixaria para vocês algum comentário racista",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512078354705023146",
+  "context": [
+    {
+      "id": "1512075897447120927",
+      "author": "entotus",
+      "ts": "2026-06-04 09:49",
+      "orig": "mi tam leca normalnie co 6 minut",
+      "en": "They come on normally every 6 minutes",
+      "pt": "Eles aparecem normalmente a cada 6 minutos",
+      "label": ""
+    },
+    {
+      "id": "1512075915012604105",
+      "author": "entotus",
+      "ts": "2026-06-04 09:49",
+      "orig": "i naet niebieskie sie pojawiaja",
+      "en": "and even the blue ones appear",
+      "pt": "e até os azuis aparecem",
+      "label": ""
+    },
+    {
+      "id": "1512077613106200778",
+      "author": "entotus",
+      "ts": "2026-06-04 09:56",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512077635839328306",
+      "author": "entotus",
+      "ts": "2026-06-04 09:56",
+      "orig": "potrzebuje tego na maga D:",
+      "en": "I need this urgently D:",
+      "pt": "Preciso disso urgentemente D:",
+      "label": "clean"
+    },
+    {
+      "id": "1512078329682071572",
+      "author": "lepryko",
+      "ts": "2026-06-04 09:59",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512079072317145169",
+      "author": "entotus",
+      "ts": "2026-06-04 10:02",
+      "orig": "xDDD",
+      "en": "xDD",
+      "pt": "xDD",
+      "label": "clean"
+    },
+    {
+      "id": "1512079090138742936",
+      "author": "entotus",
+      "ts": "2026-06-04 10:02",
+      "orig": "podobnie",
+      "en": "similarly",
+      "pt": "de forma similar",
+      "label": "clean"
+    },
+    {
+      "id": "1512079122833346610",
+      "author": "xbiedro",
+      "ts": "2026-06-04 10:02",
+      "orig": "rapid pierce",
+      "en": "",
+      "pt": "perfuração rápida",
+      "label": "clean"
+    },
+    {
+      "id": "1512080208805756928",
+      "author": "owczao",
+      "ts": "2026-06-04 10:06",
+      "orig": "czyli to samo co ja git",
+      "en": "which is the same as me git",
+      "pt": "que é igual a mim, git",
+      "label": ""
+    },
+    {
+      "id": "1512080223246483678",
+      "author": "owczao",
+      "ts": "2026-06-04 10:06",
+      "orig": "a pokazalbys cale drzewko",
+      "en": "and you would show the whole tree",
+      "pt": "e você mostraria a árvore inteira",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512078354705023146.png"
+}

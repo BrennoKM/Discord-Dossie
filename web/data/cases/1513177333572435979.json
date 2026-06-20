@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513177333572435979",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-07 10:46",
+  "orig": "ciekawe jak cheaterzy to opierdolili",
+  "en": "I wonder how cheaters screwed it up",
+  "pt": "Eu me pergunto como os trapaceiros estragaram tudo",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513177333572435979",
+  "context": [
+    {
+      "id": "1513177033117663374",
+      "author": "xbiedro",
+      "ts": "2026-06-07 10:45",
+      "orig": "od 2-5 leciały",
+      "en": "they were flying from 2-5",
+      "pt": "eles estavam voando de 2 a 5",
+      "label": ""
+    },
+    {
+      "id": "1513177033528578048",
+      "author": "entotus",
+      "ts": "2026-06-07 10:45",
+      "orig": "xDDDDD\\",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1513177037374881853",
+      "author": "xbiedro",
+      "ts": "2026-06-07 10:45",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1513177207512633456",
+      "author": "xbiedro",
+      "ts": "2026-06-07 10:45",
+      "orig": "bez kitu na liczydle tam w biurze cisną",
+      "en": "no shit on the abacus there in the office",
+      "pt": "sem merda nenhuma no ábaco lá no escritório",
+      "label": ""
+    },
+    {
+      "id": "1513177254493159476",
+      "author": "entotus",
+      "ts": "2026-06-07 10:46",
+      "orig": "xDDD",
+      "en": "xDD",
+      "pt": "xDD",
+      "label": ""
+    },
+    {
+      "id": "1513177346079719546",
+      "author": "entotus",
+      "ts": "2026-06-07 10:46",
+      "orig": "bypassa bossów ?",
+      "en": "boss bypass?",
+      "pt": "ignorar o chefe?",
+      "label": "clean"
+    },
+    {
+      "id": "1513180739493953596",
+      "author": "radziol",
+      "ts": "2026-06-07 11:00",
+      "orig": "ej dalej dziala to ze jak masz max bialych chestow to dropia tylko niebieskie?",
+      "en": "hey, does it still work that if you have a maximum of white chests, only the blue bustards drop?",
+      "pt": "ei, ainda funciona que se você tiver no máximo baús brancos, só caem as abetardas azuis?",
+      "label": "clean"
+    },
+    {
+      "id": "1513180859115507762",
+      "author": "radziol",
+      "ts": "2026-06-07 11:00",
+      "orig": "i drugie pytanie czy jak mam max 2 chesty, dalej nic nie dropi to powinienem zmienic mape na inna czy cos?",
+      "en": "and the second question is that if I have max 2 chests and still nothing drops, should I change the map to another one or something?",
+      "pt": "e a segunda pergunta é: se eu tiver no máximo 2 baús e ainda assim nada cair, devo mudar o mapa para outro ou algo assim?",
+      "label": "clean"
+    },
+    {
+      "id": "1513180932054581448",
+      "author": "radziol",
+      "ts": "2026-06-07 11:00",
+      "orig": "zanim zaczalem je stackowac to powiedzmy ze jakos to dropilo ale przez tego maila",
+      "en": "before I started stacking them, let's just say that it somehow dropped but because of this email",
+      "pt": "antes de começar a empilhá-los, digamos que de alguma forma caiu, mas por causa deste e-mail",
+      "label": "clean"
+    },
+    {
+      "id": "1513181784534417580",
+      "author": "entotus",
+      "ts": "2026-06-07 11:04",
+      "orig": "ta xd",
+      "en": "xd",
+      "pt": "xD",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1513177333572435979.png"
+}

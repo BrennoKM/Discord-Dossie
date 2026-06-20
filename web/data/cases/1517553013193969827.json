@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517553013193969827",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-19 12:33",
+  "orig": "kurwa 31 stopni",
+  "en": "fucking 31 degrees",
+  "pt": "porra de 31 graus",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517553013193969827",
+  "context": [
+    {
+      "id": "1517552662747283466",
+      "author": "lepryko",
+      "ts": "2026-06-19 12:32",
+      "orig": "moj mlot",
+      "en": "my hammer",
+      "pt": "meu martelo",
+      "label": ""
+    },
+    {
+      "id": "1517552671626629293",
+      "author": "lepryko",
+      "ts": "2026-06-19 12:32",
+      "orig": "i moj sierp",
+      "en": "and my sickle",
+      "pt": "e minha foice",
+      "label": ""
+    },
+    {
+      "id": "1517552786642829442",
+      "author": "yexiu_",
+      "ts": "2026-06-19 12:32",
+      "orig": "chwile mnie nie było a tu takie coś",
+      "en": "I wasn't there for a while and something like this happened",
+      "pt": "Eu não estava lá por um tempo e algo assim aconteceu",
+      "label": ""
+    },
+    {
+      "id": "1517552801645989951",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:33",
+      "orig": "You guys are so xenophobic, my god... You shouldn't accept this kind of disrespectful behavior; if you really wanted to be a helper, you needed to be fair, even to your peers.",
+      "en": "",
+      "pt": "Vocês são tão xenófobos, meu Deus... Vocês não deveriam aceitar esse tipo de comportamento desrespeitoso; se você realmente queria ser um ajudante, precisava ser justo, até mesmo com seus colegas.",
+      "label": ""
+    },
+    {
+      "id": "1517552903957516319",
+      "author": "lepryko",
+      "ts": "2026-06-19 12:33",
+      "orig": "what is xenophobic about not tolerating r3tard?",
+      "en": "",
+      "pt": "o que há de xenófobo em não tolerar o r3tard?",
+      "label": "racist"
+    },
+    {
+      "id": "1517553073109729472",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:34",
+      "orig": "a prosiłem",
+      "en": "and I asked",
+      "pt": "e eu perguntei",
+      "label": "clean"
+    },
+    {
+      "id": "1517553093040934923",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:34",
+      "orig": "i ostrzegałem",
+      "en": "and I warned you",
+      "pt": "e eu te avisei",
+      "label": "clean"
+    },
+    {
+      "id": "1517553104550232174",
+      "author": "kraju",
+      "ts": "2026-06-19 12:34",
+      "orig": "ye ye ye go away stop waste our oxygen 🙂",
+      "en": "",
+      "pt": "você, você, vá embora, pare de desperdiçar nosso oxigênio 🙂",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517553127052673076",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:34",
+      "orig": "już ci nie odpisze",
+      "en": "I won't reply to you again",
+      "pt": "Não vou te responder de novo",
+      "label": "clean"
+    },
+    {
+      "id": "1517553149752115240",
+      "author": "kraju",
+      "ts": "2026-06-19 12:34",
+      "orig": "szkoda",
+      "en": "Pity",
+      "pt": "Pena",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517553013193969827.png"
+}

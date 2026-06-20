@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512855147758485504",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-06 13:26",
+  "orig": "chuj wie xD",
+  "en": "chuj like xD",
+  "pt": "chuj like xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512855147758485504",
+  "context": [
+    {
+      "id": "1512855007089791097",
+      "author": "entotus",
+      "ts": "2026-06-06 13:25",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512855019559325816",
+      "author": "entotus",
+      "ts": "2026-06-06 13:25",
+      "orig": "wszystko one shotuje",
+      "en": "they shoot everything",
+      "pt": "eles atiram em tudo",
+      "label": "clean"
+    },
+    {
+      "id": "1512855038513512579",
+      "author": "xbiedro",
+      "ts": "2026-06-06 13:25",
+      "orig": "no ja też",
+      "en": "yeah, me too",
+      "pt": "sim, eu também",
+      "label": "clean"
+    },
+    {
+      "id": "1512855092657783016",
+      "author": "xbiedro",
+      "ts": "2026-06-06 13:26",
+      "orig": "właśnie dlatego kombinuje czy ten pierce jeszcze się wogle do czegoś nadaje",
+      "en": "That's why I'm wondering whether this pierce is still good for anything",
+      "pt": "É por isso que estou me perguntando se esse piercing ainda serve para alguma coisa",
+      "label": "clean"
+    },
+    {
+      "id": "1512855141827612762",
+      "author": "xbiedro",
+      "ts": "2026-06-06 13:26",
+      "orig": "na push jak dodadzą nowe difficulty to napewno",
+      "en": "on push when they add new difficulties, for sure",
+      "pt": "em push quando acrescentam novas dificuldades, com certeza",
+      "label": "clean"
+    },
+    {
+      "id": "1512855174295584870",
+      "author": "xbiedro",
+      "ts": "2026-06-06 13:26",
+      "orig": "ale na farme raczej nie szczególnie",
+      "en": "but not particularly for the farm",
+      "pt": "mas não particularmente para a fazenda",
+      "label": "clean"
+    },
+    {
+      "id": "1512855348212531393",
+      "author": "entotus",
+      "ts": "2026-06-06 13:27",
+      "orig": "jedyne co mnie one shotuje to bosy",
+      "en": "the only thing that bothers me is when they are barefoot",
+      "pt": "a única coisa que me incomoda é quando eles estão descalços",
+      "label": "clean"
+    },
+    {
+      "id": "1512855525417685185",
+      "author": "xbiedro",
+      "ts": "2026-06-06 13:27",
+      "orig": "ja wjeżdżam jak do siebie, nic nie muszę swapować",
+      "en": "I come as if I were home, I don't have to swap anything",
+      "pt": "Venho como se estivesse em casa, não preciso trocar nada",
+      "label": ""
+    },
+    {
+      "id": "1512855554605711431",
+      "author": "xbiedro",
+      "ts": "2026-06-06 13:27",
+      "orig": "😆",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512855622352371783",
+      "author": "entotus",
+      "ts": "2026-06-06 13:28",
+      "orig": "jaki robisz etapy",
+      "en": "what steps do you do",
+      "pt": "quais passos você faz",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512855147758485504.png"
+}

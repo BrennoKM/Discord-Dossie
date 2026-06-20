@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512171114145513742",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-04 16:08",
+  "orig": "zajebac taniej niz edukowac",
+  "en": "it's cheaper to fuck than to educate",
+  "pt": "é mais barato foder do que educar",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512171114145513742",
+  "context": [
+    {
+      "id": "1512170899439226973",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:07",
+      "orig": "no ta, baba do robienia dzieci",
+      "en": "Yep, a woman for making babies",
+      "pt": "Sim, uma mulher por fazer bebês",
+      "label": "clean"
+    },
+    {
+      "id": "1512170908607971368",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:07",
+      "orig": "chlop do roboty",
+      "en": "let's get to work",
+      "pt": "vamos trabalhar",
+      "label": "clean"
+    },
+    {
+      "id": "1512170917285859408",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:07",
+      "orig": "i elo",
+      "en": "to eat",
+      "pt": "comer",
+      "label": "clean"
+    },
+    {
+      "id": "1512170938504839278",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:07",
+      "orig": "tylko atomówka Xd",
+      "en": "only nuke Xd",
+      "pt": "só bomba nuclear Xd",
+      "label": "clean"
+    },
+    {
+      "id": "1512170964060733492",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:07",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512171296044093543",
+      "author": "kraju",
+      "ts": "2026-06-04 16:08",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512171328936083577",
+      "author": "kraju",
+      "ts": "2026-06-04 16:08",
+      "orig": "czyli co aborcja w wieku 18 lat XD",
+      "en": "which is what abortion is like at the age of 18 XD",
+      "pt": "é assim que é o aborto aos 18 anos XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512171384317542600",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:09",
+      "orig": "przymusowa eutanazja xD",
+      "en": "forced euthanasia xD",
+      "pt": "eutanásia forçada xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512171398477643847",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:09",
+      "orig": "czemu usuwasz wiadomosci",
+      "en": "why are you deleting messages?",
+      "pt": "por que você está excluindo mensagens?",
+      "label": ""
+    },
+    {
+      "id": "1512171417112936609",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:09",
+      "orig": "kto xD ?",
+      "en": "who xD?",
+      "pt": "quem xD?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512171114145513742.png"
+}

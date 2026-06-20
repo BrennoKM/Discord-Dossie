@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511902253748064286",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "218104377758449664",
+  "author": "dudek15",
+  "ts": "2026-06-03 22:19",
+  "orig": "bedzie 900k jak w tej grze z bananami",
+  "en": "it will be 900k like in that banana game",
+  "pt": "serão 900 mil como naquele jogo da banana",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511902253748064286",
+  "context": [
+    {
+      "id": "1511901921731154020",
+      "author": "lepryko",
+      "ts": "2026-06-03 22:18",
+      "orig": "wciaz rosnie xd",
+      "en": "still growing xd",
+      "pt": "ainda crescendo xD",
+      "label": ""
+    },
+    {
+      "id": "1511901987405561917",
+      "author": "entotus",
+      "ts": "2026-06-03 22:18",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1511902021383491734",
+      "author": "entotus",
+      "ts": "2026-06-03 22:18",
+      "orig": "wciaz napływ botów",
+      "en": "still an influx of bots",
+      "pt": "ainda há um influxo de bots",
+      "label": "clean"
+    },
+    {
+      "id": "1511902038257303622",
+      "author": "entotus",
+      "ts": "2026-06-03 22:18",
+      "orig": "i multikont",
+      "en": "",
+      "pt": "eu multikont",
+      "label": "clean"
+    },
+    {
+      "id": "1511902040845058150",
+      "author": "entotus",
+      "ts": "2026-06-03 22:18",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511902262904098927",
+      "author": "entotus",
+      "ts": "2026-06-03 22:19",
+      "orig": "ogolnie ta cala polityka z skrzynkami zaczela sie od 30 maja jakos co nie",
+      "en": "In general, this whole policy with boxes started on May 30, somehow",
+      "pt": "No geral, toda essa política de caixas começou no dia 30 de maio, de alguma forma",
+      "label": "clean"
+    },
+    {
+      "id": "1511902271380914336",
+      "author": "entotus",
+      "ts": "2026-06-03 22:19",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511902373923127416",
+      "author": "entotus",
+      "ts": "2026-06-03 22:20",
+      "orig": "no ale banana mialo jeszcze rece i nogi",
+      "en": "Well, the banana still had arms and legs",
+      "pt": "Bem, a banana ainda tinha braços e pernas",
+      "label": "suspicious"
+    },
+    {
+      "id": "1511902386015309824",
+      "author": "lepryko",
+      "ts": "2026-06-03 22:20",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1511902422212153354",
+      "author": "entotus",
+      "ts": "2026-06-03 22:20",
+      "orig": "xDDDDDDDDDDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1511902253748064286.png"
+}

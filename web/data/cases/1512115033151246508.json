@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512115033151246508",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-04 12:25",
+  "orig": "mi wyskoczylo , zebym spierdalal i zabieraja mi itemy , bo cos tam",
+  "en": "I thought I was going to fuck off and they were taking my items away, whatever",
+  "pt": "Eu pensei que ia me foder e eles estavam levando meus itens embora, tanto faz",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512115033151246508",
+  "context": [
+    {
+      "id": "1512114783510462696",
+      "author": "7li3l",
+      "ts": "2026-06-04 12:24",
+      "orig": "mi dziś 2 razy na czerwone",
+      "en": "I saw two red lights today",
+      "pt": "Eu vi duas luzes vermelhas hoje",
+      "label": ""
+    },
+    {
+      "id": "1512114801050914936",
+      "author": "7li3l",
+      "ts": "2026-06-04 12:24",
+      "orig": "usunelo",
+      "en": "you already have it",
+      "pt": "você já tem isso",
+      "label": ""
+    },
+    {
+      "id": "1512114844520677577",
+      "author": "7li3l",
+      "ts": "2026-06-04 12:24",
+      "orig": "bo kostka sie  zlagowała",
+      "en": "because the cube got laggy",
+      "pt": "porque o cubo ficou lento",
+      "label": ""
+    },
+    {
+      "id": "1512114924917231757",
+      "author": "xferbuson",
+      "ts": "2026-06-04 12:24",
+      "orig": "jak usuwa ci itemy, sprawdz poczte",
+      "en": "when it deletes your items, check your email",
+      "pt": "quando ele excluir seus itens, verifique seu e-mail",
+      "label": "clean"
+    },
+    {
+      "id": "1512114946731671743",
+      "author": "xferbuson",
+      "ts": "2026-06-04 12:24",
+      "orig": "mi tam ląduje wsystkie skrzynie",
+      "en": "I get all my crates there",
+      "pt": "Eu pego todas as minhas caixas lá",
+      "label": "clean"
+    },
+    {
+      "id": "1512115050075131974",
+      "author": "mwahahahaa",
+      "ts": "2026-06-04 12:25",
+      "orig": "ktore droplem dzis",
+      "en": "which I dropped today",
+      "pt": "que eu deixei cair hoje",
+      "label": "clean"
+    },
+    {
+      "id": "1512115055192314037",
+      "author": "mwahahahaa",
+      "ts": "2026-06-04 12:25",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512115138306773183",
+      "author": "andur6453",
+      "ts": "2026-06-04 12:25",
+      "orig": "mi na poczte jedynie przychodzi z otwierania skrzynek i to nie zawsze",
+      "en": "I only get mail from opening mailboxes, and not always",
+      "pt": "Eu só recebo e-mails abrindo caixas de correio, e nem sempre",
+      "label": ""
+    },
+    {
+      "id": "1512115155612205176",
+      "author": "mwahahahaa",
+      "ts": "2026-06-04 12:25",
+      "orig": "byl 4 adminow zostal 1",
+      "en": "there were 4 admins and 1 left",
+      "pt": "havia 4 administradores e 1 restante",
+      "label": ""
+    },
+    {
+      "id": "1512115170653241344",
+      "author": "andur6453",
+      "ts": "2026-06-04 12:25",
+      "orig": "wszystko z kostki jest z automatu usuwane",
+      "en": "everything from the cube is automatically removed",
+      "pt": "tudo do cubo é removido automaticamente",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512115033151246508.png"
+}

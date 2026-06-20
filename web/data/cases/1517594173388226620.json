@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517594173388226620",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 15:17",
+  "orig": "ja im pisałem ogólnie że jak chcą nas za rasizm banować to trzeba będzie kanał poprostu usunąć",
+  "en": "I wrote to them in general that if they want to ban us for racism, they will simply have to delete the channel",
+  "pt": "Escrevi para eles em geral que se quiserem nos banir por racismo, simplesmente terão que deletar o canal",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517594173388226620",
+  "context": [
+    {
+      "id": "1517594109605449799",
+      "author": "kraju",
+      "ts": "2026-06-19 15:17",
+      "orig": "a jak bedzie trzeba wejde na alt z obejsciem na wysyłanie gifów XDD",
+      "en": "and if necessary, I will enter alt with a bypass for sending gifs XDD",
+      "pt": "e se necessário vou inserir alt com bypass para envio de gifs XDD",
+      "label": ""
+    },
+    {
+      "id": "1517594130925097233",
+      "author": "entotus",
+      "ts": "2026-06-19 15:17",
+      "orig": "https://giphy.com/gifs/1995-mosquito-8LfaJlBxiSq2c",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517594139946913832",
+      "author": "tsuakashi",
+      "ts": "2026-06-19 15:17",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517594140970586123",
+      "author": "tsuakashi",
+      "ts": "2026-06-19 15:17",
+      "orig": "Ej a ten się kurwa nie poczuwa za bardzo?",
+      "en": "Hey, isn't this guy feeling so fucking good?",
+      "pt": "Ei, esse cara não está se sentindo tão bem?",
+      "label": "offensive"
+    },
+    {
+      "id": "1517594162151690372",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:17",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517594220871815288",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:17",
+      "orig": "Rasism to nasza cecha kultury",
+      "en": "Racism is our cultural feature",
+      "pt": "O racismo é a nossa característica cultural",
+      "label": "racist"
+    },
+    {
+      "id": "1517594236197798119",
+      "author": "kraju",
+      "ts": "2026-06-19 15:17",
+      "orig": "ale gdzię tu jest kurwa",
+      "en": "but where the fuck is this?",
+      "pt": "mas onde diabos é isso?",
+      "label": "offensive"
+    },
+    {
+      "id": "1517594237154230284",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:17",
+      "orig": "bo to nie przejdzie",
+      "en": "because it won't work",
+      "pt": "porque não vai funcionar",
+      "label": "clean"
+    },
+    {
+      "id": "1517594244980801567",
+      "author": "kraju",
+      "ts": "2026-06-19 15:17",
+      "orig": "rasizm xD",
+      "en": "racism xD",
+      "pt": "racismo xD",
+      "label": "suspicious"
+    },
+    {
+      "id": "1517594273175044158",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 15:17",
+      "orig": "Haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517594173388226620.png"
+}

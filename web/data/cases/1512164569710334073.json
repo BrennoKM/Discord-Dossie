@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512164569710334073",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-04 15:42",
+  "orig": "xD ja pierdole ale ci ludzie są głupi jak chuj xD",
+  "en": "xD Damn, these people are stupid as fuck xD",
+  "pt": "xD Droga, essas pessoas são estúpidas pra caralho xD",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512164569710334073",
+  "context": [
+    {
+      "id": "1512161537882849380",
+      "author": "entotus",
+      "ts": "2026-06-04 15:30",
+      "orig": "zeby licencje ominąć",
+      "en": "to bypass licenses",
+      "pt": "ignorar licenças",
+      "label": ""
+    },
+    {
+      "id": "1512161539493462149",
+      "author": "entotus",
+      "ts": "2026-06-04 15:30",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512161906293608458",
+      "author": "entotus",
+      "ts": "2026-06-04 15:31",
+      "orig": "co to jest za opis xD",
+      "en": "what kind of description is this xD",
+      "pt": "que tipo de descrição é essa xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512162145142313192",
+      "author": "entotus",
+      "ts": "2026-06-04 15:32",
+      "orig": "kanalizuje mane przez ścieki xD",
+      "en": "channels mana through sewage xD",
+      "pt": "canaliza mana através do esgoto xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512164284803846345",
+      "author": "kraju",
+      "ts": "2026-06-04 15:41",
+      "orig": "xDDD",
+      "en": "xDD",
+      "pt": "xDD",
+      "label": "clean"
+    },
+    {
+      "id": "1512164614765281341",
+      "author": "kraju",
+      "ts": "2026-06-04 15:42",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512164621350474030",
+      "author": "kraju",
+      "ts": "2026-06-04 15:42",
+      "orig": "trollowanie",
+      "en": "trolling",
+      "pt": "trollando",
+      "label": "clean"
+    },
+    {
+      "id": "1512164660860817569",
+      "author": "kraju",
+      "ts": "2026-06-04 15:42",
+      "orig": "zjebów z aplikacja sam xDDD",
+      "en": "fuckers with the app itself xDDD",
+      "pt": "filhos da puta com o próprio aplicativo xDDD",
+      "label": "clean"
+    },
+    {
+      "id": "1512167341688099078",
+      "author": "lepryko",
+      "ts": "2026-06-04 15:53",
+      "orig": "ej",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512167397266686024",
+      "author": "lepryko",
+      "ts": "2026-06-04 15:53",
+      "orig": "a moze zrobimy jakas appke, ktora tak naprawde bedzie malware XD i imbecyle sciagna XD",
+      "en": "maybe we will make an app that will actually be malware XD and imbeciles will download it XD",
+      "pt": "talvez façamos um aplicativo que na verdade seja malware XD e imbecis baixem XD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512164569710334073.png"
+}

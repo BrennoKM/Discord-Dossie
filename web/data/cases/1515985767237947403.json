@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515985767237947403",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-15 04:46",
+  "orig": "Ja się identyfikuje jako biały hetero mężczyzna, do tego rasista a to dopiero początek moich zalet",
+  "en": "I identify as a white hetero male, and a racist at that, and this is just the beginning of my advantages",
+  "pt": "Eu me identifico como um homem hétero branco, e ainda por cima racista, e isso é apenas o começo das minhas vantagens",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515985767237947403",
+  "context": [
+    {
+      "id": "1515985333735391273",
+      "author": "pentagram",
+      "ts": "2026-06-15 04:44",
+      "orig": "To wiesz co.... Ubrania zdejmij I spójrz w dół xd",
+      "en": "So you know what.... Take off your clothes and look down xd",
+      "pt": "Então quer saber... Tire a roupa e olhe para baixo xd",
+      "label": ""
+    },
+    {
+      "id": "1515985479411961998",
+      "author": "zieloooony",
+      "ts": "2026-06-15 04:45",
+      "orig": "Kurła jak was się fajnie czyta jak rodzeństwo serio taka rodzinna patologiczna miłość 🥰❤️",
+      "en": "Damn, it's so nice to read you, like siblings, seriously, it's pathological family love 🥰❤️",
+      "pt": "Caramba, é tão gostoso ler vocês, como irmãos, sério, é um amor familiar patológico 🥰❤️",
+      "label": ""
+    },
+    {
+      "id": "1515985487419015338",
+      "author": "eruun_89",
+      "ts": "2026-06-15 04:45",
+      "orig": "ee myslalem ze odpiszesz cos w stylu spójrz w lustro xD",
+      "en": "I thought you'd say something like look in the mirror xD",
+      "pt": "Achei que você diria algo como olhe no espelho xD",
+      "label": "clean"
+    },
+    {
+      "id": "1515985612857933834",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 04:45",
+      "orig": "wiesz, w dzisiejszych czasach to nie wiadomo co tam na dole jest. W dodatku niektórzy to się już identyfikują jako warzywo strączkowe.",
+      "en": "You know, nowadays you don't know what's down there. In addition, some people already identify it as a legume.",
+      "pt": "Sabe, hoje em dia você não sabe o que tem lá embaixo. Além disso, algumas pessoas já a identificam como leguminosa.",
+      "label": "clean"
+    },
+    {
+      "id": "1515985625277530204",
+      "author": "pentagram",
+      "ts": "2026-06-15 04:45",
+      "orig": "Czemu miałbym być niemiły",
+      "en": "Why would I be rude",
+      "pt": "Por que eu seria rude",
+      "label": "clean"
+    },
+    {
+      "id": "1515985884938506302",
+      "author": "eruun_89",
+      "ts": "2026-06-15 04:46",
+      "orig": "a gdzie antysemita?",
+      "en": "where is the anti-Semite?",
+      "pt": "onde está o anti-semita?",
+      "label": "clean"
+    },
+    {
+      "id": "1515985922556956703",
+      "author": "pentagram",
+      "ts": "2026-06-15 04:46",
+      "orig": "Napisałem że początek",
+      "en": "I wrote that it was the beginning",
+      "pt": "Eu escrevi que era o começo",
+      "label": "clean"
+    },
+    {
+      "id": "1515985939447545997",
+      "author": "pentagram",
+      "ts": "2026-06-15 04:46",
+      "orig": "Cała listę mam wyjebać?",
+      "en": "Should I fuck up the whole list?",
+      "pt": "Devo estragar a lista inteira?",
+      "label": "clean"
+    },
+    {
+      "id": "1515985947643084812",
+      "author": "pentagram",
+      "ts": "2026-06-15 04:46",
+      "orig": "<:pepesmile:1284163460317446195>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515986002509037680",
+      "author": "eruun_89",
+      "ts": "2026-06-15 04:47",
+      "orig": "ciekawe czy bedzie banable",
+      "en": "I wonder if it will be trivial",
+      "pt": "Eu me pergunto se isso será trivial",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515985767237947403.png"
+}

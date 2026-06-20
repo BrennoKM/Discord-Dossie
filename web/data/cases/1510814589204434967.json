@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510814589204434967",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-05-31 22:17",
+  "orig": "ogolnie koncept tbh lepszy niz banana",
+  "en": "overall the concept is better than a banana tbh",
+  "pt": "no geral, o conceito é melhor do que uma banana para ser sincero",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510814589204434967",
+  "context": [
+    {
+      "id": "1510814279094374554",
+      "author": "entotus",
+      "ts": "2026-05-31 22:16",
+      "orig": "lol",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510814481566138408",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:17",
+      "orig": "ale moga ticket do valve wyslac",
+      "en": "but I can ticket to valve wyslac",
+      "pt": "mas posso comprar um ingresso para a válvula wyslac",
+      "label": "clean"
+    },
+    {
+      "id": "1510814488264442008",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:17",
+      "orig": "to im sciagna",
+      "en": "",
+      "pt": "estou sciagna",
+      "label": "clean"
+    },
+    {
+      "id": "1510814509831290890",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:17",
+      "orig": "raz chyba sciagneli z tej gry banana na steamie",
+      "en": "I think they took the banana out of this game on Steam once",
+      "pt": "Acho que uma vez tiraram a banana desse jogo no Steam",
+      "label": "clean"
+    },
+    {
+      "id": "1510814520732549170",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:17",
+      "orig": "bo abusowali dropy",
+      "en": "because they were busting drops",
+      "pt": "porque eles estavam estourando gotas",
+      "label": "clean"
+    },
+    {
+      "id": "1510814634209316997",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:17",
+      "orig": "no bo jest jakis element gry xd",
+      "en": "because there is some element of the game xd",
+      "pt": "porque existe algum elemento do jogo xd",
+      "label": "clean"
+    },
+    {
+      "id": "1510814641968644136",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:18",
+      "orig": "budowania postaci",
+      "en": "character building",
+      "pt": "construção de personagem",
+      "label": "clean"
+    },
+    {
+      "id": "1510814647593205903",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:18",
+      "orig": "jakas glebia",
+      "en": "jackets glebia",
+      "pt": "jaquetas glebia",
+      "label": "clean"
+    },
+    {
+      "id": "1510814657500414034",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:18",
+      "orig": "a nie klikanie banana xD",
+      "en": "not clicking a banana xD",
+      "pt": "não clicar em uma banana xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510814670897020998",
+      "author": "entotus",
+      "ts": "2026-05-31 22:18",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1510814589204434967.png"
+}

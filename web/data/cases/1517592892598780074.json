@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517592892598780074",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 15:12",
+  "orig": "ten gościu od małp się spruł że rasisci",
+  "en": "This monkey guy said he was racist",
+  "pt": "Esse cara macaco disse que era racista",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517592892598780074",
+  "context": [
+    {
+      "id": "1517592763003310090",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:11",
+      "orig": "nwm ja mam wyjebane nie banuje tego, napisałem im że rezygnuje z pozycji",
+      "en": "nah, I don't give a damn, I'm not banning it, I wrote to them that I'm resigning from the position",
+      "pt": "não, não dou a mínima, não vou proibir, escrevi para eles que estou renunciando ao cargo",
+      "label": "clean"
+    },
+    {
+      "id": "1517592786550128764",
+      "author": "qndel",
+      "ts": "2026-06-19 15:11",
+      "orig": "idę pieroga opierdolić",
+      "en": "I'm going to fuck off some dumplings",
+      "pt": "Eu vou foder alguns bolinhos",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592789750255646",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:11",
+      "orig": "Czemu?",
+      "en": "Why?",
+      "pt": "Por que?",
+      "label": "clean"
+    },
+    {
+      "id": "1517592815754936322",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:12",
+      "orig": "dopóki będę helperem będę banował spammerów i tyle",
+      "en": "As long as I am a helper, I will ban spammers and that's it",
+      "pt": "Enquanto eu for um ajudante, banirei spammers e pronto",
+      "label": "clean"
+    },
+    {
+      "id": "1517592873015447615",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:12",
+      "orig": "To przez nas rezygnujesz?",
+      "en": "Is this why you're giving up?",
+      "pt": "É por isso que você está desistindo?",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592929655328841",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:12",
+      "orig": "a ja nie będę swoich za prawdę banował",
+      "en": "and I won't ban mine for the truth",
+      "pt": "e não vou proibir o meu pela verdade",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592933732188300",
+      "author": "kraju",
+      "ts": "2026-06-19 15:12",
+      "orig": "jaki gość od małp",
+      "en": "what a monkey guy",
+      "pt": "que cara macaco",
+      "label": "offensive"
+    },
+    {
+      "id": "1517592961540558888",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:12",
+      "orig": "Przynajmniej nie kłamał <:pepesmile:1284163460317446195>",
+      "en": "At least he wasn't lying <:pepesmile:1284163460317446195>",
+      "pt": "Pelo menos ele não estava mentindo <:pepesmile:1284163460317446195>",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592978342805544",
+      "author": "kraju",
+      "ts": "2026-06-19 15:12",
+      "orig": "zgaduej jakiś brudas z brazyli czy innego 3 kraju xD",
+      "en": "guess some dirty guy from Brazil or another country xD",
+      "pt": "acho que algum cara safado do Brasil ou de outro país xD",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592990594633853",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:12",
+      "orig": "ta",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    }
+  ],
+  "screenshot": "screenshots/1517592892598780074.png"
+}

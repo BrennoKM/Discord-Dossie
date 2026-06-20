@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517232115803230278",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-18 15:18",
+  "orig": "znowu jakies robaki zawitaly z 3 swiata XD",
+  "en": "some worms came from the 3rd world again XD",
+  "pt": "alguns vermes vieram do terceiro mundo novamente XD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517232115803230278",
+  "context": [
+    {
+      "id": "1517221277314584797",
+      "author": "mwahahahaa",
+      "ts": "2026-06-18 14:35",
+      "orig": "wykurwiaj",
+      "en": "fuck off",
+      "pt": "vá se foder",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517221470953017556",
+      "author": "mwahahahaa",
+      "ts": "2026-06-18 14:36",
+      "orig": "rin  tin tin",
+      "en": "rin believe believe",
+      "pt": "rin acredite, acredite",
+      "label": "clean"
+    },
+    {
+      "id": "1517228259597615185",
+      "author": "lfscorr",
+      "ts": "2026-06-18 15:03",
+      "orig": "Ola",
+      "en": "",
+      "pt": "Olá",
+      "label": ""
+    },
+    {
+      "id": "1517229008922607688",
+      "author": "dimzftw",
+      "ts": "2026-06-18 15:06",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517231903827038389",
+      "author": "vinsgremory",
+      "ts": "2026-06-18 15:17",
+      "orig": "👋",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517232164616278046",
+      "author": "kraju",
+      "ts": "2026-06-18 15:18",
+      "orig": "<@277191334744293378> do dzieła ty nasza dumo narodowa",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517237325979980018",
+      "author": "entotus",
+      "ts": "2026-06-18 15:39",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517238765892927690",
+      "author": "entotus",
+      "ts": "2026-06-18 15:45",
+      "orig": "<@528317765119901716>  Ich habe eine schabowe",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517240740894347315",
+      "author": "entotus",
+      "ts": "2026-06-18 15:53",
+      "orig": "<@73518952218628096>  chyba se calude kupuje",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517241160547176460",
+      "author": "lepryko",
+      "ts": "2026-06-18 15:54",
+      "orig": "oho szalony xd",
+      "en": "oh crazy xd",
+      "pt": "ah, loucura xD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517232115803230278.png"
+}

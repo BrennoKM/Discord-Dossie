@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516051953627431063",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-15 09:09",
+  "orig": "do podpierdalania 😂",
+  "en": "to fuck off 😂",
+  "pt": "para se foder 😂",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516051953627431063",
+  "context": [
+    {
+      "id": "1516051797175832736",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:08",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516051803681198120",
+      "author": "qndel",
+      "ts": "2026-06-15 09:08",
+      "orig": "obrońca schabowego hero",
+      "en": "defender of the pork chop hero",
+      "pt": "defensor do herói da costeleta de porco",
+      "label": ""
+    },
+    {
+      "id": "1516051864502927371",
+      "author": "qndel",
+      "ts": "2026-06-15 09:08",
+      "orig": "ja już mam na telefonie xd",
+      "en": "I already have it on my phone xd",
+      "pt": "Já tenho no meu celular xd",
+      "label": "clean"
+    },
+    {
+      "id": "1516051941359222888",
+      "author": "mwahahahaa",
+      "ts": "2026-06-15 09:09",
+      "orig": "chyba aplikacje",
+      "en": "probably applications",
+      "pt": "provavelmente aplicativos",
+      "label": "clean"
+    },
+    {
+      "id": "1516051941422268538",
+      "author": "qndel",
+      "ts": "2026-06-15 09:09",
+      "orig": "co prawda jako wbicie na windowsa ale zawsze XD",
+      "en": "admittedly as a Windows download, but still XD",
+      "pt": "reconhecidamente como um download do Windows, mas ainda assim XD",
+      "label": "clean"
+    },
+    {
+      "id": "1516051987861475449",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:09",
+      "orig": "spokojnie chlopaki",
+      "en": "take it easy, guys",
+      "pt": "tenham calma, pessoal",
+      "label": "clean"
+    },
+    {
+      "id": "1516052003585785956",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:09",
+      "orig": "juz agent vibecoduje druga gre",
+      "en": "already the agent is vibecoding, the second one goes",
+      "pt": "já o agente está vibecoding, o segundo vai",
+      "label": "clean"
+    },
+    {
+      "id": "1516052013044076724",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:09",
+      "orig": "troche cierpliwosci",
+      "en": "a little patience",
+      "pt": "um pouco de paciência",
+      "label": "clean"
+    },
+    {
+      "id": "1516052024536334407",
+      "author": "qndel",
+      "ts": "2026-06-15 09:09",
+      "orig": "podpierdolić to można człowieka 😉",
+      "en": "You can fuck up a person 😉",
+      "pt": "Você pode foder uma pessoa 😉",
+      "label": ""
+    },
+    {
+      "id": "1516052031411060838",
+      "author": "eruun_89",
+      "ts": "2026-06-15 09:09",
+      "orig": "nie lepiej stream puscic z steam linka",
+      "en": "it's not better to stream it from the steam link",
+      "pt": "não é melhor transmitir do link do Steam",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516051953627431063.png"
+}

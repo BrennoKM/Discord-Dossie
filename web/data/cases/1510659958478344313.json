@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510659958478344313",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-05-31 12:03",
+  "orig": "ja twardo glass cannon to ma napierdalac",
+  "en": "I have a hard glass cannon, so fuck off",
+  "pt": "Eu tenho um canhão de vidro duro, então vá se foder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510659958478344313",
+  "context": [
+    {
+      "id": "1510659622762184784",
+      "author": "xbiedro",
+      "ts": "2026-05-31 12:02",
+      "orig": "itemy później maja affixy po +500% a mają 10k base",
+      "en": "later items have affixes of +500% and have a 10k base",
+      "pt": "itens posteriores têm afixos de +500% e têm uma base de 10k",
+      "label": ""
+    },
+    {
+      "id": "1510659691691376881",
+      "author": "kraju",
+      "ts": "2026-05-31 12:02",
+      "orig": "no mój knight ma 800 narazie  priste 400",
+      "en": "well, my knight has 800, so far it's priste 400",
+      "pt": "bem, meu cavaleiro tem 800, até agora são 400",
+      "label": ""
+    },
+    {
+      "id": "1510659709869363332",
+      "author": "kraju",
+      "ts": "2026-05-31 12:02",
+      "orig": "rangerka twardo 100 hp xD",
+      "en": "ranger hard 100 hp xD",
+      "pt": "ranger duro 100 cv xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510659791071084695",
+      "author": "xbiedro",
+      "ts": "2026-05-31 12:02",
+      "orig": "lol",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510659880300712067",
+      "author": "xbiedro",
+      "ts": "2026-05-31 12:03",
+      "orig": "mój archer ma 200 hp i 3k armora",
+      "en": "my archer has 200 hp and 3k armor",
+      "pt": "meu arqueiro tem 200 hp e armadura 3k",
+      "label": "clean"
+    },
+    {
+      "id": "1510659961674530846",
+      "author": "kraju",
+      "ts": "2026-05-31 12:03",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510660136279216198",
+      "author": "xbiedro",
+      "ts": "2026-05-31 12:04",
+      "orig": "na klacie i tak dmg nie ma",
+      "en": "I don't have any dmg for klacie anyway",
+      "pt": "Eu não tenho nenhum dmg para Klacie de qualquer maneira",
+      "label": "clean"
+    },
+    {
+      "id": "1510660259310735541",
+      "author": "lepryko",
+      "ts": "2026-05-31 12:04",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510660349886726204",
+      "author": "kraju",
+      "ts": "2026-05-31 12:04",
+      "orig": "ja musze jeszcze wersje 1.0 sprawdzić xD bo jak tam nie ma zadnego anticheata to beka bedzie XD",
+      "en": "I still have to check version 1.0 xD because if there is no anticheat there, it will be a bummer XD",
+      "pt": "Ainda tenho que verificar a versão 1.0 xD porque se não houver anti-cheat lá, será uma chatice XD",
+      "label": ""
+    },
+    {
+      "id": "1510664889201332368",
+      "author": "greendragon2285",
+      "ts": "2026-05-31 12:22",
+      "orig": "cos niby jest cos pisali ze bedą banowac i mają cos  wklepane w EULE ale nie w samego steam",
+      "en": "there seems to be something they wrote that they will ban and they have something pasted in EULE but not in Steam itself",
+      "pt": "parece que eles escreveram algo que irão banir e eles colaram algo no EULE, mas não no próprio Steam",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510659958478344313.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514961085403369583",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-12 08:54",
+  "orig": "no małpy do klawiatury się dostały",
+  "en": "Well, the monkeys got into the keyboard",
+  "pt": "Bem, os macacos entraram no teclado",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514961085403369583",
+  "context": [
+    {
+      "id": "1514960840619724810",
+      "author": "kraju",
+      "ts": "2026-06-12 08:53",
+      "orig": "o kurwa nie wiedziałem że małpy oprócz obsługiwania glocka w fawelach potrafią coś wkleić w google tłumacz , widze małpy szybki progres robią",
+      "en": "oh shit, I didn't know that monkeys, apart from operating a Glock in favelas, can paste something into Google Translator, I see the monkeys are making rapid progress",
+      "pt": "ah, merda, eu não sabia que os macacos, além de operarem uma Glock nas favelas, podem colar algo no Google Translator, vejo que os macacos estão progredindo rapidamente",
+      "label": "racist"
+    },
+    {
+      "id": "1514960956147503156",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:53",
+      "orig": "co to ma na celu nie wiem xd",
+      "en": "I don't know what the purpose is. XD",
+      "pt": "Não sei qual é o propósito. XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514961005766119546",
+      "author": "kraju",
+      "ts": "2026-06-12 08:54",
+      "orig": "trash talk ?>",
+      "en": "",
+      "pt": "conversa fiada?>",
+      "label": "clean"
+    },
+    {
+      "id": "1514961021163405382",
+      "author": "kraju",
+      "ts": "2026-06-12 08:54",
+      "orig": "nowy w internecie XD?",
+      "en": "new on the internet XD?",
+      "pt": "novidade na internet XD?",
+      "label": "clean"
+    },
+    {
+      "id": "1514961038200668301",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:54",
+      "orig": "ich pisanie w ogole xd",
+      "en": "their writing at all xd",
+      "pt": "a escrita deles xd",
+      "label": "clean"
+    },
+    {
+      "id": "1514961096904015992",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:54",
+      "orig": "przeciez to nie discord inceli nie zbaituja nikogo XD",
+      "en": "after all, it's not discord, incels won't bait anyone XD",
+      "pt": "afinal não é discórdia, incels não vão atrair ninguém XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514961109873070152",
+      "author": "kraju",
+      "ts": "2026-06-12 08:54",
+      "orig": "i google tłumacza",
+      "en": "and google translate",
+      "pt": "e google tradutor",
+      "label": "clean"
+    },
+    {
+      "id": "1514961115942092913",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:54",
+      "orig": "nie wiem na chuj tu w ogole pisza xd",
+      "en": "I don't know what the hell he's writing here xd",
+      "pt": "Não sei o que diabos ele está escrevendo aqui xD",
+      "label": "offensive"
+    },
+    {
+      "id": "1514961196799885404",
+      "author": "eruun_89",
+      "ts": "2026-06-12 08:54",
+      "orig": "po expa aby moc screeny z scamow wrzucac",
+      "en": "after EXP I can post screenshots of scams",
+      "pt": "depois do EXP posso postar screenshots de golpes",
+      "label": "clean"
+    },
+    {
+      "id": "1514961199203352697",
+      "author": "kobernn",
+      "ts": "2026-06-12 08:54",
+      "orig": "Czy kraj musi być rasistowski, aby stać się krajem pierwszego świata? Ok",
+      "en": "Does a country have to be racist to become a first world country? Okay",
+      "pt": "Um país precisa ser racista para se tornar um país de primeiro mundo? OK",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1514961085403369583.png"
+}

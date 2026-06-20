@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513106811148832898",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "220607970940157954",
+  "author": "chlorophyteore_",
+  "ts": "2026-06-07 06:06",
+  "orig": "za gowno itemy",
+  "en": "for shit items",
+  "pt": "para itens de merda",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513106811148832898",
+  "context": [
+    {
+      "id": "1513101023571607632",
+      "author": "xferbuson",
+      "ts": "2026-06-07 05:43",
+      "orig": "Uzywa ktos Pole Egidy u Rycka? Nie widze zastosowania dla oslony 110 brazen co 20s",
+      "en": "Does anyone use Rycek's Aegis Field? I don't see any use for a 110-brazen shield every 20 seconds",
+      "pt": "Alguém usa o Aegis Field de Rycek? Não vejo utilidade para um escudo de 110 de bronze a cada 20 segundos",
+      "label": "clean"
+    },
+    {
+      "id": "1513101773018239177",
+      "author": "xbiedro",
+      "ts": "2026-06-07 05:46",
+      "orig": "ja tylko dlatego używałem rycerza kiedy kolwiek lol",
+      "en": "that's the only reason I used knight ever lol",
+      "pt": "essa é a única razão pela qual usei cavaleiro haha",
+      "label": "clean"
+    },
+    {
+      "id": "1513101955914928198",
+      "author": "xbiedro",
+      "ts": "2026-06-07 05:46",
+      "orig": "na papierze jest gorsze",
+      "en": "on paper it's worse",
+      "pt": "no papel é pior",
+      "label": "clean"
+    },
+    {
+      "id": "1513106774411051088",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-07 06:06",
+      "orig": "postki na 83, ale gra jest totalnie bez sensu bez dropu skrzynek",
+      "en": "posts on 83, but the game is completely pointless without crate drops",
+      "pt": "postagens em 83, mas o jogo é completamente inútil sem quedas de caixas",
+      "label": "clean"
+    },
+    {
+      "id": "1513106797983039679",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-07 06:06",
+      "orig": "a juz nie mam zamiaru placic",
+      "en": "and I don't intend to pay anymore",
+      "pt": "e não pretendo pagar mais",
+      "label": "clean"
+    },
+    {
+      "id": "1513106893613302031",
+      "author": "xferbuson",
+      "ts": "2026-06-07 06:06",
+      "orig": "Zbroja cos daje przeciw tym co potrzeba odpornosc na zywiol czy chaos",
+      "en": "Armor has something to offer against those who need elemental or chaos resistance",
+      "pt": "A armadura tem algo a oferecer contra aqueles que precisam de resistência elemental ou ao caos",
+      "label": ""
+    },
+    {
+      "id": "1513106900798017676",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-07 06:06",
+      "orig": "<@277191334744293378> ty latasz nonstop rang solo?",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1513106970737905674",
+      "author": "xbiedro",
+      "ts": "2026-06-07 06:06",
+      "orig": "nie no",
+      "en": "nope",
+      "pt": "não",
+      "label": "clean"
+    },
+    {
+      "id": "1513106995513917502",
+      "author": "xbiedro",
+      "ts": "2026-06-07 06:06",
+      "orig": "jeden dzień tylko grałem tak",
+      "en": "I only played like this one day",
+      "pt": "só joguei assim um dia",
+      "label": "clean"
+    },
+    {
+      "id": "1513107125491204136",
+      "author": "xbiedro",
+      "ts": "2026-06-07 06:07",
+      "orig": "całe party w chuj lepsze z dobrym sprzętem",
+      "en": "the whole party is fucking better with good equipment",
+      "pt": "toda a festa fica melhor com um bom equipamento",
+      "label": "offensive"
+    }
+  ],
+  "screenshot": "screenshots/1513106811148832898.png"
+}

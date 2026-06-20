@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516859949353926837",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-17 14:39",
+  "orig": "kto imal  z marketu se wydoic",
+  "en": "who just wanted to get out of the market",
+  "pt": "que só queria sair do mercado",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516859949353926837",
+  "context": [
+    {
+      "id": "1516859787126767646",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-17 14:39",
+      "orig": "full ms robie ok. 150s",
+      "en": "",
+      "pt": "completo ms robie ok. Anos 150",
+      "label": ""
+    },
+    {
+      "id": "1516859848959197214",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-17 14:39",
+      "orig": "pewnie zdechnie ta gra za miesiac xd",
+      "en": "this game will probably die in a month xd",
+      "pt": "esse jogo provavelmente vai morrer em um mês xd",
+      "label": ""
+    },
+    {
+      "id": "1516859886431113337",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-17 14:39",
+      "orig": "ale co sie nafarmili i naspamili na discordzie to nasze",
+      "en": "but what they got drunk and spam on discord is ours",
+      "pt": "mas o que eles ficaram bêbados e spam no discord é nosso",
+      "label": "clean"
+    },
+    {
+      "id": "1516859907188588758",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:39",
+      "orig": "xdxd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516859933793194095",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:39",
+      "orig": "no mysle ze miesiac dwa max",
+      "en": "Well, I think two months max",
+      "pt": "Bem, acho que dois meses no máximo",
+      "label": "clean"
+    },
+    {
+      "id": "1516859960703582399",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:39",
+      "orig": "to wydoi xd",
+      "en": "",
+      "pt": "para Wydoi xd",
+      "label": "clean"
+    },
+    {
+      "id": "1516860044610764942",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:40",
+      "orig": "bo w sumie to konczysz torment i nie ma co robic poza siedzeniem an 1-3",
+      "en": "because after all, you're finishing your torment and there's nothing to do except sit for 1-3 hours",
+      "pt": "porque afinal você está terminando seu tormento e não há nada a fazer a não ser sentar por 1-3 horas",
+      "label": "clean"
+    },
+    {
+      "id": "1516860071882133664",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:40",
+      "orig": "jak wbijesz 101lv to juz w ogole",
+      "en": "once you hit lv 101, you're done",
+      "pt": "quando você atingir o nível 101, estará pronto",
+      "label": "clean"
+    },
+    {
+      "id": "1516860094099493076",
+      "author": "lepryko",
+      "ts": "2026-06-17 14:40",
+      "orig": "nie ma co wyzje isc bo na chuj ci exp i gold xD",
+      "en": "there's no point in going because you don't care about exp and gold xD",
+      "pt": "não adianta ir porque você não liga para exp e gold xD",
+      "label": ""
+    },
+    {
+      "id": "1516860129755267172",
+      "author": "xbiedro",
+      "ts": "2026-06-17 14:40",
+      "orig": "teraz to już wogóle jak zone hopa nawet nie ma",
+      "en": "now it's like his wife doesn't even exist",
+      "pt": "agora é como se a esposa dele nem existisse",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516859949353926837.png"
+}

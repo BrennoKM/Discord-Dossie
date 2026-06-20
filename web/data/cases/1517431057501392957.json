@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517431057501392957",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-19 04:29",
+  "orig": "crawl back to your hole",
+  "en": "",
+  "pt": "rasteje de volta para o seu buraco",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517431057501392957",
+  "context": [
+    {
+      "id": "1517421944721506314",
+      "author": "qndel",
+      "ts": "2026-06-19 03:53",
+      "orig": "u wietnamców pełno osób już czerwoną rangę ma xD",
+      "en": "In Vietnamese, a lot of people already have a red rank xD",
+      "pt": "Em vietnamita, muita gente já tem classificação vermelha xD",
+      "label": ""
+    },
+    {
+      "id": "1517421956205379585",
+      "author": "qndel",
+      "ts": "2026-06-19 03:53",
+      "orig": "ale tam spam musi lecieć",
+      "en": "but there must be spam there",
+      "pt": "mas deve haver spam aí",
+      "label": ""
+    },
+    {
+      "id": "1517422648349687948",
+      "author": "pentagram",
+      "ts": "2026-06-19 03:55",
+      "orig": "jak za itemek maja 2 obiady",
+      "en": "for an item they have 2 dinners",
+      "pt": "por um item eles têm 2 jantares",
+      "label": "clean"
+    },
+    {
+      "id": "1517422667794219039",
+      "author": "pentagram",
+      "ts": "2026-06-19 03:55",
+      "orig": "to sie dziwisz ze popularne?",
+      "en": "so you're surprised it's popular?",
+      "pt": "então você está surpreso que seja popular?",
+      "label": "clean"
+    },
+    {
+      "id": "1517428539098402896",
+      "author": "busy_mango_40348",
+      "ts": "2026-06-19 04:19",
+      "orig": "oee",
+      "en": "",
+      "pt": "ah",
+      "label": ""
+    },
+    {
+      "id": "1517433374321410068",
+      "author": "busy_mango_40348",
+      "ts": "2026-06-19 04:38",
+      "orig": "<@191929666754314240> 👹",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517433865809952878",
+      "author": "qndel",
+      "ts": "2026-06-19 04:40",
+      "orig": "<@706184252772843540> \n<@929261952855834706> <-- spammer",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517436869875470388",
+      "author": "halil_kaya_1453",
+      "ts": "2026-06-19 04:52",
+      "orig": "merhabalar",
+      "en": "Hello",
+      "pt": "Olá",
+      "label": ""
+    },
+    {
+      "id": "1517438115986542663",
+      "author": "xdyzcretss",
+      "ts": "2026-06-19 04:57",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517439887127609424",
+      "author": "lovelyday1100",
+      "ts": "2026-06-19 05:04",
+      "orig": "sorry wrong chat",
+      "en": "",
+      "pt": "desculpe chat errado",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517431057501392957.png"
+}

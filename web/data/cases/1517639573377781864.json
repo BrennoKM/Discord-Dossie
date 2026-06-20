@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517639573377781864",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "265574913648230400",
+  "author": "tsuakashi",
+  "ts": "2026-06-19 18:17",
+  "orig": "PLM - Polish Life Matters !",
+  "en": "",
+  "pt": "PLM - A vida polonesa é importante!",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517639573377781864",
+  "context": [
+    {
+      "id": "1517639148645777618",
+      "author": "xbiedro",
+      "ts": "2026-06-19 18:16",
+      "orig": "I się nie zwróciło",
+      "en": "And it didn't pay off",
+      "pt": "E não valeu a pena",
+      "label": "clean"
+    },
+    {
+      "id": "1517639195840090173",
+      "author": "xbiedro",
+      "ts": "2026-06-19 18:16",
+      "orig": "Sadge",
+      "en": "Sage",
+      "pt": "Sábio",
+      "label": "clean"
+    },
+    {
+      "id": "1517639280133017794",
+      "author": "tsuakashi",
+      "ts": "2026-06-19 18:16",
+      "orig": "Oj no, chłopaki zostawcie już go",
+      "en": "Oh come on, guys, leave him alone",
+      "pt": "Ah, vamos lá, pessoal, deixem-no em paz",
+      "label": "clean"
+    },
+    {
+      "id": "1517639340585390110",
+      "author": "tsuakashi",
+      "ts": "2026-06-19 18:16",
+      "orig": "bo chłopak krzesełkiem po ziemi poszura",
+      "en": "because the boy scrapes the chair on the ground",
+      "pt": "porque o menino raspa a cadeira no chão",
+      "label": "clean"
+    },
+    {
+      "id": "1517639383178805340",
+      "author": "xbiedro",
+      "ts": "2026-06-19 18:17",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517639775908266078",
+      "author": "qndel",
+      "ts": "2026-06-19 18:18",
+      "orig": "lol ja myślałem że 2.5k tylko na eng dziś wbiłem",
+      "en": "lol I thought I only got 2.5k on eng today",
+      "pt": "lol, pensei que só consegui 2,5k em inglês hoje",
+      "label": "clean"
+    },
+    {
+      "id": "1517639790437208168",
+      "author": "qndel",
+      "ts": "2026-06-19 18:18",
+      "orig": "a ja 2.5k mam ogólnie tutaj XD",
+      "en": "and I have 2.5k overall here XD",
+      "pt": "e eu tenho 2,5k no total aqui XD",
+      "label": ""
+    },
+    {
+      "id": "1517639858577735820",
+      "author": "tsuakashi",
+      "ts": "2026-06-19 18:18",
+      "orig": "Ej ale w sumie, u mnie np na odwrót, na dc już 3 tydzień jestem a dalej szarak kekw",
+      "en": "Hey, but actually, for me it's the other way around, I've been on DC for 3 weeks now and it's still crap",
+      "pt": "Ei, mas na verdade, para mim é o contrário, estou em DC há 3 semanas e ainda é uma porcaria",
+      "label": ""
+    },
+    {
+      "id": "1517639917214109707",
+      "author": "qndel",
+      "ts": "2026-06-19 18:19",
+      "orig": "ja zaraz dobijam żółty i pewnie przystopuję xD",
+      "en": "I'm about to reach the yellow one and I'll probably stop xD",
+      "pt": "Estou prestes a chegar ao amarelo e provavelmente vou parar xD",
+      "label": ""
+    },
+    {
+      "id": "1517640032272515174",
+      "author": "xbiedro",
+      "ts": "2026-06-19 18:19",
+      "orig": "Dayum",
+      "en": "",
+      "pt": "Dayum",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517639573377781864.png"
+}

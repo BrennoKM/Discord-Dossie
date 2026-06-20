@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516010076413100052",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "220607970940157954",
+  "author": "chlorophyteore_",
+  "ts": "2026-06-15 06:22",
+  "orig": "to akurat mozna w chuj oszczedzic",
+  "en": "This is exactly what you can save a heck of a lot",
+  "pt": "Isso é exatamente o que você pode economizar muito",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516010076413100052",
+  "context": [
+    {
+      "id": "1516009179922436118",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:19",
+      "orig": "na kurtke",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516009182480826398",
+      "author": "qndel",
+      "ts": "2026-06-15 06:19",
+      "orig": "co to?",
+      "en": "what's that?",
+      "pt": "o que é isso?",
+      "label": "clean"
+    },
+    {
+      "id": "1516009215976538162",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:19",
+      "orig": "kurtka z goretexem",
+      "en": "goretex jacket",
+      "pt": "jaqueta goretex",
+      "label": "clean"
+    },
+    {
+      "id": "1516009859638628534",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 06:21",
+      "orig": "wy kurtki i odkurzacze rypiecie za grosz,e a moja żona robi to samo z zakupami w Biedrze 😛 od kilku miesięcy wydajemi średnio 1-2k mniej na zakupy 😄",
+      "en": "you jackets and vacuum cleaners are worth a penny, and my wife does the same with shopping in Biedra 😛 for several months I have been spending an average of 1-2k less on shopping 😄",
+      "pt": "suas jaquetas e aspiradores valem um centavo, e minha esposa faz o mesmo com as compras em Biedra 😛 há vários meses tenho gasto em média 1-2 mil a menos em compras 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1516010007047700543",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:22",
+      "orig": "jak ktoś ma zajawe na gazetki i przeglądanie lidla kaufa biedry netto",
+      "en": "if someone has a passion for newspapers and browsing Lidl kaufa biedry net",
+      "pt": "se alguém tem paixão por jornais e navega na rede Lidl kaufa biedry",
+      "label": "clean"
+    },
+    {
+      "id": "1516010181492740097",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 06:23",
+      "orig": "no moja żona ma czas, a też jest na grupech gdzie ktoś zawsze wynypie że się nakladaja promki na siebie i czesto za darmo siata zakupow",
+      "en": "Well, my wife has time, and she's also in a group where someone always says that the discounts overlap and there's often a free shopping network.",
+      "pt": "Bem, minha esposa tem tempo e também está em um grupo onde sempre alguém diz que os descontos se sobrepõem e muitas vezes há uma rede de compras grátis.",
+      "label": "clean"
+    },
+    {
+      "id": "1516010532665163816",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 06:24",
+      "orig": "kiedyś 200-300zl na jedne zakupy to byłstandard, teraz średnio 67zł wychodzi. Poważnie.",
+      "en": "In the past, PLN 200-300 for one purchase was standard, now the average is PLN 67. Seriously.",
+      "pt": "No passado, 200-300 PLN para uma compra era o padrão, agora a média é 67 PLN.",
+      "label": "clean"
+    },
+    {
+      "id": "1516010666379710664",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:25",
+      "orig": "najgorzej to z mięsem / owoce i warzywa",
+      "en": "the worst is meat/fruits and vegetables",
+      "pt": "o pior é carne/frutas e vegetais",
+      "label": ""
+    },
+    {
+      "id": "1516010676311560243",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 06:25",
+      "orig": "tylko trzeba mieć na to w chuj czasu",
+      "en": "you just have to have plenty of time for it",
+      "pt": "você só precisa ter bastante tempo para isso",
+      "label": ""
+    },
+    {
+      "id": "1516010726509117591",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:25",
+      "orig": "np. ja to z biedry miesa nigdy nie tkne",
+      "en": "e.g. I will never eat meat",
+      "pt": "por exemplo Eu nunca vou comer carne",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516010076413100052.png"
+}

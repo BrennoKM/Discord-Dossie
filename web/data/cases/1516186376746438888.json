@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516186376746438888",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-15 18:03",
+  "orig": "wiec moge walic w chuja do 16 XD",
+  "en": "so I can fuck off until 4 p.m. XD",
+  "pt": "então posso me foder até as 16h. XD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516186376746438888",
+  "context": [
+    {
+      "id": "1516186237122379777",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:02",
+      "orig": "wstalem dzis o 15",
+      "en": "I got up at 3 p.m. today",
+      "pt": "Acordei às 15h. hoje",
+      "label": ""
+    },
+    {
+      "id": "1516186246953570375",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:02",
+      "orig": "jak taki bej jebany XD",
+      "en": "what a fucking bastard XD",
+      "pt": "que bastardo de merda XD",
+      "label": ""
+    },
+    {
+      "id": "1516186306592637140",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 18:03",
+      "orig": "najwazniejsze to tylko laptopa rano odpalic",
+      "en": "the most important thing is to turn on the laptop in the morning",
+      "pt": "o mais importante é ligar o laptop pela manhã",
+      "label": "clean"
+    },
+    {
+      "id": "1516186340537008198",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:03",
+      "orig": "no u mnie o 17 xD",
+      "en": "well, at my place at 5 p.m. xD",
+      "pt": "bem, na minha casa às 17h. xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516186347143168010",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:03",
+      "orig": "standup xD",
+      "en": "",
+      "pt": "em pé xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516186420065075350",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 18:03",
+      "orig": "u mnie budzik na 8, lapek wlaczony vpn tez",
+      "en": "I have an alarm clock at 8, my laptop is also turned on with VPN",
+      "pt": "Tenho despertador às 8, meu laptop também está ligado com VPN",
+      "label": "clean"
+    },
+    {
+      "id": "1516186425459081297",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 18:03",
+      "orig": "do wyra",
+      "en": "to expression",
+      "pt": "para expressão",
+      "label": "clean"
+    },
+    {
+      "id": "1516186438645973114",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:03",
+      "orig": "haaha",
+      "en": "haha",
+      "pt": "haha",
+      "label": "clean"
+    },
+    {
+      "id": "1516186445918900234",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 18:03",
+      "orig": "i dopoki sie nie pali",
+      "en": "and until it burns",
+      "pt": "e até queimar",
+      "label": "clean"
+    },
+    {
+      "id": "1516186454953562166",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 18:03",
+      "orig": "mozna spac",
+      "en": "you can sleep",
+      "pt": "você pode dormir",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516186376746438888.png"
+}

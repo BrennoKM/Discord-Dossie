@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517593328449884341",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 15:14",
+  "orig": "dałem mu 24h pewnie wróci jutro",
+  "en": "I gave him 24 hours, he'll probably come back tomorrow",
+  "pt": "Eu dei a ele 24 horas, ele provavelmente voltará amanhã",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "clean",
+  "confidence": 0.85,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517593328449884341",
+  "context": [
+    {
+      "id": "1517593191967359176",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:13",
+      "orig": "Hahaha",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517593212255076473",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:13",
+      "orig": "Z tym chujem to wleciał",
+      "en": "He got it with this dick",
+      "pt": "Ele conseguiu com esse pau",
+      "label": "offensive"
+    },
+    {
+      "id": "1517593217728512020",
+      "author": "kraju",
+      "ts": "2026-06-19 15:13",
+      "orig": "a brazylia to 3 kraj małp , ja jestem w szoku że małpy potrafią glocka-17 obsługiwać i biegać po fawelach xD",
+      "en": "and Brazil is the third country of monkeys, I'm shocked that monkeys can operate a Glock-17 and run around favelas xD",
+      "pt": "e o Brasil é o terceiro país dos macacos, estou chocado que os macacos possam operar uma Glock-17 e correr pelas favelas xD",
+      "label": "racist"
+    },
+    {
+      "id": "1517593305511104545",
+      "author": "entotus",
+      "ts": "2026-06-19 15:13",
+      "orig": "nie pomyliło ci sie ze indiami xD",
+      "en": "You weren't mistaken for India xD",
+      "pt": "Você não foi confundido com a Índia xD",
+      "label": "clean"
+    },
+    {
+      "id": "1517593310691197050",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:14",
+      "orig": "<:harold:1098357636300292127>",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517593348951506944",
+      "author": "kraju",
+      "ts": "2026-06-19 15:14",
+      "orig": "nie",
+      "en": "NO",
+      "pt": "NÃO",
+      "label": ""
+    },
+    {
+      "id": "1517593411174142132",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:14",
+      "orig": "Wróci jak odpala market",
+      "en": "He'll be back when the market opens",
+      "pt": "Ele estará de volta quando o mercado abrir",
+      "label": ""
+    },
+    {
+      "id": "1517593427577933934",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:14",
+      "orig": "szykujemy ostatnią ofensywe, potem chyba będzie trzeba sobie oddzielny discord założyć",
+      "en": "We are preparing the last offensive, then we will probably have to create a separate discord",
+      "pt": "Estamos preparando a última ofensiva, então provavelmente teremos que criar uma discórdia separada",
+      "label": ""
+    },
+    {
+      "id": "1517593433680904313",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:14",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517593436251750411",
+      "author": "kraju",
+      "ts": "2026-06-19 15:14",
+      "orig": "w indiach nie biegają z bronia tylko sraja do jedzenia",
+      "en": "In India they don't run with guns, they shit for food",
+      "pt": "Na Índia eles não andam com armas, eles cagam por comida",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517593328449884341.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515993135967244298",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-15 05:15",
+  "orig": "Jak na grzybach coś chcieliśmy to kazałeś spierdalac xdd",
+  "en": "If we wanted something at the mushrooms, you told us to fuck off xdd",
+  "pt": "Se quiséssemos alguma coisa nos cogumelos, você nos disse para nos foder xdd",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515993135967244298",
+  "context": [
+    {
+      "id": "1515992885873479680",
+      "author": "qndel",
+      "ts": "2026-06-15 05:14",
+      "orig": "d1 : P",
+      "en": "",
+      "pt": "d1:P",
+      "label": ""
+    },
+    {
+      "id": "1515992904773009408",
+      "author": "pentagram",
+      "ts": "2026-06-15 05:14",
+      "orig": "A",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515992959341039727",
+      "author": "pentagram",
+      "ts": "2026-06-15 05:14",
+      "orig": "Bo pamiętam że pykales w warcrafta 3 właśnie I robiłeś coś z Diablo",
+      "en": "Because I remember that you were playing Warcraft 3 and doing something with Diablo",
+      "pt": "Porque eu lembro que você estava jogando Warcraft 3 e fazendo algo com Diablo",
+      "label": "clean"
+    },
+    {
+      "id": "1515993015691382877",
+      "author": "qndel",
+      "ts": "2026-06-15 05:15",
+      "orig": "nie mam czasu za bardzo xD będę musiał za jakiś czas jakiś update puścić bo ostatni był chyba ponad rok temu 🤣",
+      "en": "I don't have much time xD I'll have to release an update soon because the last one was probably over a year ago 🤣",
+      "pt": "Não tenho muito tempo xD terei que lançar uma atualização em breve porque a última provavelmente foi há mais de um ano 🤣",
+      "label": "clean"
+    },
+    {
+      "id": "1515993087623565372",
+      "author": "pentagram",
+      "ts": "2026-06-15 05:15",
+      "orig": "Z twoim charakterem to gl hf <:pepesmile:1284163460317446195>",
+      "en": "With your character it's gl hf <:pepesmile:1284163460317446195>",
+      "pt": "Com seu personagem é gl hf <:pepesmile:1284163460317446195>",
+      "label": "clean"
+    },
+    {
+      "id": "1515993149548400702",
+      "author": "qndel",
+      "ts": "2026-06-15 05:15",
+      "orig": "8h programowania w robocie to po robocie niezbyt mi się chce w kodzie jeszcze siedzieć",
+      "en": "8 hours of programming on the job, I don't really feel like sitting in code after work",
+      "pt": "8 horas de programação no trabalho, não estou com vontade de ficar sentado no código depois do trabalho",
+      "label": "clean"
+    },
+    {
+      "id": "1515993175980904489",
+      "author": "pentagram",
+      "ts": "2026-06-15 05:15",
+      "orig": "No baa",
+      "en": "",
+      "pt": "Não baa",
+      "label": "clean"
+    },
+    {
+      "id": "1515993190631604345",
+      "author": "pentagram",
+      "ts": "2026-06-15 05:15",
+      "orig": "Nie dziwię się",
+      "en": "I'm not surprised",
+      "pt": "Eu não estou surpreso",
+      "label": "clean"
+    },
+    {
+      "id": "1515993247938248804",
+      "author": "sharpcy",
+      "ts": "2026-06-15 05:15",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515993265558520008",
+      "author": "qndel",
+      "ts": "2026-06-15 05:16",
+      "orig": "wczoraj fajnie że te boty discordowe mi się udało przenieść",
+      "en": "Yesterday, it's great that I managed to transfer these Discord bots",
+      "pt": "Ontem, foi ótimo ter conseguido transferir esses bots do Discord",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515993135967244298.png"
+}

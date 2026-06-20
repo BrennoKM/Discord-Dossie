@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517727251947585739",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-20 00:06",
+  "orig": "nie wiem jakbym był czarny i ktoś mi by wstawił banana to byłbym zadowolony",
+  "en": "I don't know, if I was black and someone gave me a banana, I would be happy",
+  "pt": "Não sei, se eu fosse negro e alguém me desse uma banana, eu ficaria feliz",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517727251947585739",
+  "context": [
+    {
+      "id": "1517716624977957115",
+      "author": "volksfr",
+      "ts": "2026-06-19 23:24",
+      "orig": "pri do yaku wam nikoepit?",
+      "en": "pri do yaku w nikoepit?",
+      "pt": "pri do yaku w nikoepit?",
+      "label": ""
+    },
+    {
+      "id": "1517726037037944952",
+      "author": "kraju",
+      "ts": "2026-06-20 00:01",
+      "orig": "spierdalaj ale masz banana na droge zwierzaku",
+      "en": "Fuck off, you've got a banana in the way, animal",
+      "pt": "Vai se foder, você tem uma banana no caminho, animal",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517726080965021908",
+      "author": "kraju",
+      "ts": "2026-06-20 00:01",
+      "orig": "https://tenor.com/view/banana-banana-shake-shake-banana-banana-moving-moving-banana-gif-12687898822034433972",
+      "en": "https://tenor.com/view/banana-banana-shake-shake-banana-banana-moving-moving-banana-gif-12687898822034433972",
+      "pt": "https://tenor.com/view/banana-banana-shake-shake-banana-banana-moving-moving-banana-gif-12687898822034433972",
+      "label": "clean"
+    },
+    {
+      "id": "1517726477280477278",
+      "author": "pentagram",
+      "ts": "2026-06-20 00:03",
+      "orig": "https://tenor.com/view/banana-fruit-gif-26786056",
+      "en": "https://tenor.com/view/banana-fruit-gif-26786056",
+      "pt": "https://tenor.com/view/banana-fruit-gif-26786056",
+      "label": "clean"
+    },
+    {
+      "id": "1517726580602834964",
+      "author": "pentagram",
+      "ts": "2026-06-20 00:03",
+      "orig": "Jak banany mogą być rasistowskie, to jest  evenement",
+      "en": "How bananas can be racist, that's evenement",
+      "pt": "Como as bananas podem ser racistas, isso é tudo",
+      "label": "clean"
+    },
+    {
+      "id": "1517734043276414998",
+      "author": "kraju",
+      "ts": "2026-06-20 00:33",
+      "orig": "https://tenor.com/view/chuj-ci-na%C5%82eb-anime-gif-20641386",
+      "en": "https://tenor.com/view/chuj-ci-na%C5%82eb-anime-gif-20641386",
+      "pt": "https://tenor.com/view/chuj-ci-na%C5%82eb-anime-gif-20641386",
+      "label": "clean"
+    },
+    {
+      "id": "1517747539280134285",
+      "author": "xbiedro",
+      "ts": "2026-06-20 01:26",
+      "orig": "Bez kitu chyba nie włączą marketu albo zrobią wszystko co mamy untradeable",
+      "en": "They probably won't turn on the market without a joke or they will do everything we have that is untradeable",
+      "pt": "Eles provavelmente não abrirão o mercado sem uma piada ou farão tudo o que temos que não pode ser negociado",
+      "label": "clean"
+    },
+    {
+      "id": "1517747604618870825",
+      "author": "xbiedro",
+      "ts": "2026-06-20 01:27",
+      "orig": "Chinole mają pełne stashe arcana coinów xd",
+      "en": "Chinoles have full stacks of arcana coins xd",
+      "pt": "Chinoles têm pilhas cheias de moedas arcanas xd",
+      "label": "clean"
+    },
+    {
+      "id": "1517747912036061304",
+      "author": "xbiedro",
+      "ts": "2026-06-20 01:28",
+      "orig": "Rolują sobie cosmic itemy na trade masowo xd",
+      "en": "They are rolling cosmic items on trade in large numbers xd",
+      "pt": "Eles estão rolando itens cósmicos no comércio em grande número xd",
+      "label": ""
+    },
+    {
+      "id": "1517749598574215258",
+      "author": "xbiedro",
+      "ts": "2026-06-20 01:35",
+      "orig": "Pod push ice jest dobry",
+      "en": "It's good under push ice",
+      "pt": "É bom sob gelo",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517727251947585739.png"
+}

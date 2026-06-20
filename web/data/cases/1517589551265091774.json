@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517589551265091774",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 14:59",
+  "orig": "a co my małpy z 3 świata że mamy na luz wrzucić XDDD ?",
+  "en": "what about us monkeys from the 3rd world that we should take it easy XDDD?",
+  "pt": "e nós, macacos do 3º mundo, que devemos ir com calma XDDD?",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517589551265091774",
+  "context": [
+    {
+      "id": "1517587129503580242",
+      "author": "qndel",
+      "ts": "2026-06-19 14:49",
+      "orig": "podobno nie lubią cytrusów 😄",
+      "en": "apparently they don't like citrus fruits 😄",
+      "pt": "aparentemente eles não gostam de frutas cítricas 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1517588224774504449",
+      "author": "furiiat",
+      "ts": "2026-06-19 14:53",
+      "orig": "siema",
+      "en": "Hiya",
+      "pt": "Olá",
+      "label": ""
+    },
+    {
+      "id": "1517588274493919284",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:54",
+      "orig": "witaj podróżniku",
+      "en": "hello traveler",
+      "pt": "olá viajante",
+      "label": "clean"
+    },
+    {
+      "id": "1517589389818204260",
+      "author": "kraju",
+      "ts": "2026-06-19 14:58",
+      "orig": "ty ja mam dziwne wrażenie że tu cała moderacja to snowflakes jebane XD , nie zauważyłem ani jednej rzeczy rasistowskiej a przychodzą i pierdolą że my rasisci ( x kurwa d ) XDD",
+      "en": "you, I have a strange feeling that the entire moderation here is fucking snowflakes XD, I didn't notice a single racist thing and they come and say that we are racists (x fuck d) XDD",
+      "pt": "você, tenho uma sensação estranha de que toda a moderação aqui é uma porra de flocos de neve XD, não notei nada racista e eles vêm e dizem que somos racistas (x foda-se d) XDD",
+      "label": "offensive"
+    },
+    {
+      "id": "1517589492578652171",
+      "author": "kraju",
+      "ts": "2026-06-19 14:58",
+      "orig": "ale te nowe społeczeństwo jest zjebane XD",
+      "en": "but this new society is fucked up XD",
+      "pt": "mas essa nova sociedade está uma merda XD",
+      "label": "clean"
+    },
+    {
+      "id": "1517589959840890900",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:00",
+      "orig": "chyba swój serwer będzie trzeba założyć xd",
+      "en": "I guess you'll have to set up your own server xd",
+      "pt": "Eu acho que você terá que configurar seu próprio servidor xd",
+      "label": "clean"
+    },
+    {
+      "id": "1517589970565726234",
+      "author": "qndel",
+      "ts": "2026-06-19 15:00",
+      "orig": "jak byłem w kinie na planecie małp to dostałem wpierdol jak wychodziłem",
+      "en": "When I was at the Planet of the Apes cinema, I got screwed when I was leaving",
+      "pt": "Quando eu estava no cinema Planeta dos Macacos, me ferrou na hora de sair",
+      "label": "clean"
+    },
+    {
+      "id": "1517589995513184456",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 15:00",
+      "orig": "Haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517590005923577876",
+      "author": "qndel",
+      "ts": "2026-06-19 15:00",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517590079533613319",
+      "author": "kraju",
+      "ts": "2026-06-19 15:01",
+      "orig": "jeszcze ci pies wejdzie nie dość że marnuje tlen to jeszcze pierdoli że ucz się obcych języków",
+      "en": "and the dog will come in, not only is it wasting oxygen, it's also bullshit that you have to learn foreign languages",
+      "pt": "e o cachorro vai entrar, além de desperdiçar oxigênio, também é uma besteira que você tenha que aprender línguas estrangeiras",
+      "label": "offensive"
+    }
+  ],
+  "screenshot": "screenshots/1517589551265091774.png"
+}

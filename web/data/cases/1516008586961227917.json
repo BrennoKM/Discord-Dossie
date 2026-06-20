@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516008586961227917",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-15 06:16",
+  "orig": "> nie będziesz nosić tego starego gówna ciężkiego, nie ma kabla",
+  "en": ">you won't carry that old heavy shit, no cable",
+  "pt": ">você não vai carregar aquela merda velha e pesada, sem cabo",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516008586961227917",
+  "context": [
+    {
+      "id": "1516008398632652820",
+      "author": "qndel",
+      "ts": "2026-06-15 06:16",
+      "orig": "mam ich ... 7 🤣",
+      "en": "mam I... 7 🤣",
+      "pt": "mãe, eu... 7 🤣",
+      "label": "clean"
+    },
+    {
+      "id": "1516008434015666176",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:16",
+      "orig": "wlasnie myslalem zeby kupic",
+      "en": "I was just thinking about buying it",
+      "pt": "Eu estava pensando em comprar",
+      "label": "clean"
+    },
+    {
+      "id": "1516008446128816219",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:16",
+      "orig": "laresara",
+      "en": "to Lares",
+      "pt": "para Lares",
+      "label": "clean"
+    },
+    {
+      "id": "1516008449673003080",
+      "author": "qndel",
+      "ts": "2026-06-15 06:16",
+      "orig": "ostatnio były po 200zł - najtaniej w historii",
+      "en": "recently they were PLN 200 each - the cheapest ever",
+      "pt": "recentemente custavam PLN 200 cada - o mais barato de sempre",
+      "label": "clean"
+    },
+    {
+      "id": "1516008535002189895",
+      "author": "qndel",
+      "ts": "2026-06-15 06:16",
+      "orig": "ile czasu mamę namawiałem",
+      "en": "how much time I talked to my mother",
+      "pt": "quanto tempo conversei com minha mãe",
+      "label": "clean"
+    },
+    {
+      "id": "1516008597048397964",
+      "author": "qndel",
+      "ts": "2026-06-15 06:16",
+      "orig": "\"no nie wiem\"",
+      "en": "\"I don't know\"",
+      "pt": "\"Não sei\"",
+      "label": "clean"
+    },
+    {
+      "id": "1516008632225894420",
+      "author": "qndel",
+      "ts": "2026-06-15 06:17",
+      "orig": "tak jej się spodobało że 2 ma 😄",
+      "en": "She liked it so much that she has 2 😄",
+      "pt": "Ela gostou tanto que tem 2 😄",
+      "label": ""
+    },
+    {
+      "id": "1516008856281415821",
+      "author": "qndel",
+      "ts": "2026-06-15 06:17",
+      "orig": "jeszcze inna promka była ostatnio - 30 euro rabatu na druk 3d",
+      "en": "There was another promotion recently - 30 euros discount on 3D printing",
+      "pt": "Houve outra promoção recentemente - desconto de 30 euros na impressão 3D",
+      "label": ""
+    },
+    {
+      "id": "1516008900720332820",
+      "author": "qndel",
+      "ts": "2026-06-15 06:18",
+      "orig": "to sobie wydrukowałem adapter do laresara na końcówki dysona xD",
+      "en": "so I printed an adapter for the Laresar for the Dyson tips xD",
+      "pt": "então imprimi um adaptador para o Laresar para as pontas Dyson xD",
+      "label": ""
+    },
+    {
+      "id": "1516009153707905055",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 06:19",
+      "orig": "ja to na arcteryxy teraz poluje",
+      "en": "I'm hunting for Arcteryx now",
+      "pt": "Estou caçando Arcteryx agora",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516008586961227917.png"
+}

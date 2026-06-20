@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511004193039716413",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-01 10:51",
+  "orig": "banana",
+  "en": "",
+  "pt": "",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511004193039716413",
+  "context": [
+    {
+      "id": "1511004048508059728",
+      "author": "entotus",
+      "ts": "2026-06-01 10:50",
+      "orig": "gra ma tylko 6700 itemów",
+      "en": "the game only has 6700 items",
+      "pt": "o jogo só tem 6700 itens",
+      "label": ""
+    },
+    {
+      "id": "1511004073522888804",
+      "author": "entotus",
+      "ts": "2026-06-01 10:50",
+      "orig": "tradable na dana chwile",
+      "en": "tradable for the moment",
+      "pt": "negociável no momento",
+      "label": ""
+    },
+    {
+      "id": "1511004100249129133",
+      "author": "kraju",
+      "ts": "2026-06-01 10:50",
+      "orig": "unturned drop skinów masz 1/2 na tydzień",
+      "en": "unturned drop skins you have 1/2 per week",
+      "pt": "skins não reviradas você tem 1/2 por semana",
+      "label": "clean"
+    },
+    {
+      "id": "1511004166812860416",
+      "author": "entotus",
+      "ts": "2026-06-01 10:51",
+      "orig": "a cs go",
+      "en": "",
+      "pt": "um cs vai",
+      "label": "clean"
+    },
+    {
+      "id": "1511004173385076839",
+      "author": "entotus",
+      "ts": "2026-06-01 10:51",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511004196726640711",
+      "author": "kraju",
+      "ts": "2026-06-01 10:51",
+      "orig": "a tu przed blokada steam ja dostawałem po 60/80 skrzynek na luzie",
+      "en": "and here before the steam block I was getting 60/80 cases on a relaxed basis",
+      "pt": "e aqui, antes do bloco a vapor, eu estava recebendo caixas 60/80 de maneira relaxada",
+      "label": "clean"
+    },
+    {
+      "id": "1511004267266441379",
+      "author": "kraju",
+      "ts": "2026-06-01 10:51",
+      "orig": "a każda skrzynka która dropi w grze przechodzi przez steam , dlatego tez była te rng blokady na itemy",
+      "en": "and every box that drops in the game goes through Steam, which is why there were also item locks",
+      "pt": "e cada caixa que cai no jogo passa pelo Steam, por isso também houve bloqueios de itens",
+      "label": "clean"
+    },
+    {
+      "id": "1511004338020159488",
+      "author": "kraju",
+      "ts": "2026-06-01 10:51",
+      "orig": "bo steam próbował ograniczyć masowe wystawianie itów przez boty ale nie udało się , wiec znerfił drop",
+      "en": "because Steam tried to limit the mass posting of items by bots, but it failed, so it nerfed the drop",
+      "pt": "porque o Steam tentou limitar a postagem em massa de itens por bots, mas falhou, então nerfou o drop",
+      "label": "clean"
+    },
+    {
+      "id": "1511004507310522610",
+      "author": "entotus",
+      "ts": "2026-06-01 10:52",
+      "orig": "nie bedzie problemu ze ludzie beda cheatowac i dodawac sobie te szare niebieskie i zielone itemy ?",
+      "en": "there won't be a problem with people cheating and adding these gray blue and green items?",
+      "pt": "não haverá problema com pessoas trapaceando e adicionando esses itens cinza, azul e verde?",
+      "label": ""
+    },
+    {
+      "id": "1511004622905675808",
+      "author": "kraju",
+      "ts": "2026-06-01 10:52",
+      "orig": "to nic nie zmienia",
+      "en": "it doesn't change anything",
+      "pt": "isso não muda nada",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511004193039716413.png"
+}

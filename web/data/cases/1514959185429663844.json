@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514959185429663844",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-12 08:46",
+  "orig": "kurwa",
+  "en": "fight",
+  "pt": "lutar",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514959185429663844",
+  "context": [
+    {
+      "id": "1514959021705265213",
+      "author": "kraju",
+      "ts": "2026-06-12 08:46",
+      "orig": "bo na europe to było zablokowane w pliku .txt XD",
+      "en": "because in Europe it was blocked in the .txt file XD",
+      "pt": "porque na Europa foi bloqueado no arquivo .txt XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514959089241690206",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:46",
+      "orig": "XDXDXDXDXD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514959109303042169",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:46",
+      "orig": "pear abyss w formie",
+      "en": "pear abyss in shape",
+      "pt": "abismo de pêra em forma",
+      "label": "clean"
+    },
+    {
+      "id": "1514959161832640572",
+      "author": "kraju",
+      "ts": "2026-06-12 08:46",
+      "orig": "miało to chyba",
+      "en": "I guess it had it",
+      "pt": "Eu acho que tinha isso",
+      "label": "clean"
+    },
+    {
+      "id": "1514959181277302895",
+      "author": "kraju",
+      "ts": "2026-06-12 08:46",
+      "orig": "a no tak",
+      "en": "come on",
+      "pt": "vamos",
+      "label": "clean"
+    },
+    {
+      "id": "1514959213099483270",
+      "author": "kraju",
+      "ts": "2026-06-12 08:47",
+      "orig": "K A K A O games miało",
+      "en": "K A K A O games had",
+      "pt": "Os jogos K A K A O tiveram",
+      "label": ""
+    },
+    {
+      "id": "1514959280443363439",
+      "author": "kraju",
+      "ts": "2026-06-12 08:47",
+      "orig": "pojebie mnie ten mod ze K A K A O blokuje XD",
+      "en": "I'm so fucked up by this mod that K A K A O blocks it XD",
+      "pt": "Estou tão fodido com esse mod que K A K A O bloqueia ele XD",
+      "label": ""
+    },
+    {
+      "id": "1514959306540187830",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:47",
+      "orig": "nnoooo XD",
+      "en": "",
+      "pt": "nãooooo XD",
+      "label": ""
+    },
+    {
+      "id": "1514959316724088914",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:47",
+      "orig": "tez mi zablokowalo",
+      "en": "it blocked me too",
+      "pt": "me bloqueou também",
+      "label": ""
+    },
+    {
+      "id": "1514959330317828207",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:47",
+      "orig": "zapomnailem ze to na poczatku",
+      "en": "I forgot it was at the beginning",
+      "pt": "esqueci que era no começo",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514959185429663844.png"
+}

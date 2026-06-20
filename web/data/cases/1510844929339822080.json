@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510844929339822080",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-01 00:18",
+  "orig": "oficjalnie jestes niewolniekiem gabena xD ?",
+  "en": "are you officially gaben's slave xD?",
+  "pt": "você é oficialmente escravo de Gaben xD?",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510844929339822080",
+  "context": [
+    {
+      "id": "1510844633788186726",
+      "author": "entotus",
+      "ts": "2026-06-01 00:17",
+      "orig": "ja to zawsze pierdoliłem",
+      "en": "I always fucked it up",
+      "pt": "Eu sempre estraguei tudo",
+      "label": ""
+    },
+    {
+      "id": "1510844638615961802",
+      "author": "lepryko",
+      "ts": "2026-06-01 00:17",
+      "orig": "xdxd",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510844652188864512",
+      "author": "entotus",
+      "ts": "2026-06-01 00:17",
+      "orig": "tak jak z banku",
+      "en": "just like from a bank",
+      "pt": "assim como de um banco",
+      "label": "clean"
+    },
+    {
+      "id": "1510844719771680799",
+      "author": "xbiedro",
+      "ts": "2026-06-01 00:17",
+      "orig": "Huh",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510844799207473272",
+      "author": "xbiedro",
+      "ts": "2026-06-01 00:17",
+      "orig": "Ja partnerstwo podpisałem w weekend 😝",
+      "en": "I signed the partnership over the weekend 😝",
+      "pt": "Assinei a parceria no fim de semana 😝",
+      "label": "clean"
+    },
+    {
+      "id": "1510844951477358603",
+      "author": "entotus",
+      "ts": "2026-06-01 00:18",
+      "orig": "https://tenor.com/view/erik-meijer-flyeralarm-flyeralarm-digital-erik-meijer-gif-26074812",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510844963657875456",
+      "author": "xbiedro",
+      "ts": "2026-06-01 00:18",
+      "orig": "Jo",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510844980804190360",
+      "author": "xbiedro",
+      "ts": "2026-06-01 00:18",
+      "orig": "😂",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510845040342204593",
+      "author": "xbiedro",
+      "ts": "2026-06-01 00:18",
+      "orig": "Nawet nda z buta dają",
+      "en": "They even give a shit",
+      "pt": "Eles até dão a mínima",
+      "label": ""
+    },
+    {
+      "id": "1510845049661821050",
+      "author": "lepryko",
+      "ts": "2026-06-01 00:18",
+      "orig": "w ogole ze steamem to teez kiedys byl cyrk",
+      "en": "In general, with steam, there used to be a circus",
+      "pt": "Em geral, com vapor, existia um circo",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510844929339822080.png"
+}

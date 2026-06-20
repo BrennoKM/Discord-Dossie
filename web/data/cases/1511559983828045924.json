@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511559983828045924",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-02 23:39",
+  "orig": "wyjebac",
+  "en": "fuck off",
+  "pt": "vá se foder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511559983828045924",
+  "context": [
+    {
+      "id": "1511559792080982108",
+      "author": "kraju",
+      "ts": "2026-06-02 23:38",
+      "orig": "ewentualnie kamyki do eq z res",
+      "en": "possibly pebbles for eq with res",
+      "pt": "possivelmente seixos para eq com res",
+      "label": ""
+    },
+    {
+      "id": "1511559889946804385",
+      "author": "dava1904",
+      "ts": "2026-06-02 23:39",
+      "orig": "? XDD ja tu siedze na 42 lvl xDD mam tu farmić do 60 lvl ? XDD",
+      "en": "? XDD I'm sitting here at lvl 42 xDD should I farm here until lvl 60? XDD",
+      "pt": "? XDD Estou sentado aqui no nível 42 xDD devo farmar aqui até o nível 60? XDD",
+      "label": ""
+    },
+    {
+      "id": "1511559938458255390",
+      "author": "kraju",
+      "ts": "2026-06-02 23:39",
+      "orig": "jedyne co tu dostaniesz na profilu czerwony napis ze masz blokade na gre(czytaj blokada handlowa)",
+      "en": "the only thing you will get here is a red inscription on your profile that you are blocked for gaming (read: commercial block)",
+      "pt": "a única coisa que você receberá aqui é uma inscrição vermelha em seu perfil informando que você está bloqueado para jogos (leia-se: bloqueio comercial)",
+      "label": "clean"
+    },
+    {
+      "id": "1511559953540714666",
+      "author": "entotus",
+      "ts": "2026-06-02 23:39",
+      "orig": "nie",
+      "en": "NO",
+      "pt": "NÃO",
+      "label": "clean"
+    },
+    {
+      "id": "1511559977855225867",
+      "author": "kraju",
+      "ts": "2026-06-02 23:39",
+      "orig": "nwm spróbuj sama rangerke",
+      "en": "nwm, try it yourself, ranger",
+      "pt": "nwm, experimente você mesmo, ranger",
+      "label": "clean"
+    },
+    {
+      "id": "1511559990148599848",
+      "author": "kraju",
+      "ts": "2026-06-02 23:39",
+      "orig": "na mape xd",
+      "en": "and maps xd",
+      "pt": "e mapas xd",
+      "label": "clean"
+    },
+    {
+      "id": "1511560025221369947",
+      "author": "dava1904",
+      "ts": "2026-06-02 23:39",
+      "orig": "? jaki to ma sens",
+      "en": "? what sense does that make?",
+      "pt": "? que sentido isso faz?",
+      "label": ""
+    },
+    {
+      "id": "1511560032095965214",
+      "author": "kraju",
+      "ts": "2026-06-02 23:39",
+      "orig": "o dziwo na 4-3-x dobrze sobie radzisolo",
+      "en": "Surprisingly, he does well in 4-3-x",
+      "pt": "Surpreendentemente, ele se sai bem no 4-3-x",
+      "label": "clean"
+    },
+    {
+      "id": "1511560035426242681",
+      "author": "kraju",
+      "ts": "2026-06-02 23:39",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511560071405113414",
+      "author": "entotus",
+      "ts": "2026-06-02 23:40",
+      "orig": "do 50 lvl i wbij se resisty na preist",
+      "en": "up to lvl 50 and get your resistance to preist",
+      "pt": "até o nível 50 e obtenha sua resistência ao preist",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511559983828045924.png"
+}

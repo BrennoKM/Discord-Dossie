@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513523631207223437",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-08 09:42",
+  "orig": "chuj ci ludzie to kupuja",
+  "en": "Damn, these people are buying it",
+  "pt": "Droga, essas pessoas estão comprando",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513523631207223437",
+  "context": [
+    {
+      "id": "1513523207691305110",
+      "author": "lepryko",
+      "ts": "2026-06-08 09:40",
+      "orig": "XDXDXD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1513523275173724181",
+      "author": "entotus",
+      "ts": "2026-06-08 09:41",
+      "orig": "one i tak po 20 groszy ida",
+      "en": "they cost 20 cents anyway",
+      "pt": "eles custam 20 centavos de qualquer maneira",
+      "label": ""
+    },
+    {
+      "id": "1513523443969298514",
+      "author": "lepryko",
+      "ts": "2026-06-08 09:41",
+      "orig": "noo",
+      "en": "",
+      "pt": "não",
+      "label": "clean"
+    },
+    {
+      "id": "1513523460226285579",
+      "author": "lepryko",
+      "ts": "2026-06-08 09:41",
+      "orig": "to jakis tani syf",
+      "en": "this is some cheap crap",
+      "pt": "isso é uma porcaria barata",
+      "label": "clean"
+    },
+    {
+      "id": "1513523529578971236",
+      "author": "entotus",
+      "ts": "2026-06-08 09:42",
+      "orig": "komus chce sie gamblowac za 33 zł xD",
+      "en": "someone wants to gamble for PLN 33 xD",
+      "pt": "alguém quer jogar por 33 PLN xD",
+      "label": "clean"
+    },
+    {
+      "id": "1513523664107339998",
+      "author": "mwahahahaa",
+      "ts": "2026-06-08 09:42",
+      "orig": "jak wystarczy nawet czerwone eq",
+      "en": "if even red eq is enough",
+      "pt": "se até mesmo red eq for suficiente",
+      "label": "clean"
+    },
+    {
+      "id": "1513523677973446656",
+      "author": "mwahahahaa",
+      "ts": "2026-06-08 09:42",
+      "orig": "i przejdziesz wszystko ;p",
+      "en": "and you will pass everything ;p",
+      "pt": "e você vai passar em tudo ;p",
+      "label": "clean"
+    },
+    {
+      "id": "1513523824887595050",
+      "author": "entotus",
+      "ts": "2026-06-08 09:43",
+      "orig": "oni pewnie stackuja w hellu",
+      "en": "they're probably stacking in hell",
+      "pt": "eles provavelmente estão empilhando no inferno",
+      "label": "clean"
+    },
+    {
+      "id": "1513523850426454107",
+      "author": "entotus",
+      "ts": "2026-06-08 09:43",
+      "orig": "i nie wiedza co to dobry build jest",
+      "en": "and they don't know what a good build is",
+      "pt": "e eles não sabem o que é uma boa construção",
+      "label": ""
+    },
+    {
+      "id": "1513524426593927249",
+      "author": "radziol",
+      "ts": "2026-06-08 09:45",
+      "orig": "ej a byl dzisiaj ten update?",
+      "en": "hey, was there an update today?",
+      "pt": "ei, houve uma atualização hoje?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1513523631207223437.png"
+}

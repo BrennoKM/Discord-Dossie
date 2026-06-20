@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513257626195071067",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-07 16:05",
+  "orig": "chuj ze nikt potem nie chce do teog kodu zagladac xD",
+  "en": "It's a shame that no one wants to look at the code xD",
+  "pt": "É uma pena que ninguém queira olhar o código xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513257626195071067",
+  "context": [
+    {
+      "id": "1513257462508163263",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:04",
+      "orig": "XDXDXD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1513257494934192342",
+      "author": "entotus",
+      "ts": "2026-06-07 16:05",
+      "orig": "bruh",
+      "en": "",
+      "pt": "mano",
+      "label": "clean"
+    },
+    {
+      "id": "1513257547593679039",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:05",
+      "orig": "w IT juz powoli to widac jak biora hindusow XD",
+      "en": "IT is slowly starting to show how they are taking Indians. XD",
+      "pt": "A TI está lentamente começando a mostrar como eles estão tratando os índios. XD",
+      "label": "clean"
+    },
+    {
+      "id": "1513257562718339202",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:05",
+      "orig": "bo 4x taniej xD",
+      "en": "because 4x cheaper xD",
+      "pt": "porque 4x mais barato xD",
+      "label": "clean"
+    },
+    {
+      "id": "1513257578916876489",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:05",
+      "orig": "a przeciez \"dziala\" XD",
+      "en": "and yet it \"works\" XD",
+      "pt": "e ainda assim \"funciona\" XD",
+      "label": "clean"
+    },
+    {
+      "id": "1513257638283051169",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:05",
+      "orig": "i utrzymywac",
+      "en": "and maintain",
+      "pt": "e manter",
+      "label": "clean"
+    },
+    {
+      "id": "1513257709502206263",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:05",
+      "orig": "z grafika bedzie podobnie wygeneruje ziomek pozornie grafika",
+      "en": "with graphics it will be similar, my friend, apparently a graphic designer, will generate it",
+      "pt": "com gráficos vai ser parecido, meu amigo, aparentemente designer gráfico, vai gerar",
+      "label": ""
+    },
+    {
+      "id": "1513257720252465192",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:05",
+      "orig": "a potem janusz powie",
+      "en": "and then Janusz will say",
+      "pt": "e então Janusz dirá",
+      "label": ""
+    },
+    {
+      "id": "1513257738354954331",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:05",
+      "orig": "zajebiste, roby caly branding z tym",
+      "en": "awesome, they did all the branding with it",
+      "pt": "incrível, eles fizeram toda a marca com ele",
+      "label": ""
+    },
+    {
+      "id": "1513257772953899048",
+      "author": "lepryko",
+      "ts": "2026-06-07 16:06",
+      "orig": "i ziomek bedzie promptowal AI zeby spojny branding zrobil xD",
+      "en": "and my friend will prompt AI to make coherent branding xD",
+      "pt": "e meu amigo solicitará que a IA crie uma marca consistente xD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1513257626195071067.png"
+}

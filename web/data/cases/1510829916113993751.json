@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510829916113993751",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 23:18",
+  "orig": "ja narazi enie odpalakm poki teog czarneog tla zjebaneog nie naprawia xD",
+  "en": "I'm at risk of firing it up as long as black people don't fix the fucked up backgrounds xD",
+  "pt": "Corro o risco de disparar enquanto os negros não consertarem os fundos fodidos xD",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510829916113993751",
+  "context": [
+    {
+      "id": "1510829419919315135",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:16",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510829423060979773",
+      "author": "entotus",
+      "ts": "2026-05-31 23:16",
+      "orig": "częste utonięcia xD",
+      "en": "frequent drownings xD",
+      "pt": "afogamentos frequentes xD",
+      "label": ""
+    },
+    {
+      "id": "1510829438902992906",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:16",
+      "orig": "yolo",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510829622793605200",
+      "author": "entotus",
+      "ts": "2026-05-31 23:17",
+      "orig": "praise kim john",
+      "en": "",
+      "pt": "elogie Kim John",
+      "label": "clean"
+    },
+    {
+      "id": "1510829758336995469",
+      "author": "entotus",
+      "ts": "2026-05-31 23:18",
+      "orig": "keidy oni wprowadza tego patcha",
+      "en": "when they roll out this patch",
+      "pt": "quando eles lançarem esse patch",
+      "label": "clean"
+    },
+    {
+      "id": "1510829991175393410",
+      "author": "entotus",
+      "ts": "2026-05-31 23:18",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510830013723836566",
+      "author": "entotus",
+      "ts": "2026-05-31 23:19",
+      "orig": "no dowgrade se zrob",
+      "en": "no downgrade is zrob",
+      "pt": "nenhum downgrade é zrob",
+      "label": "clean"
+    },
+    {
+      "id": "1510830051430633522",
+      "author": "entotus",
+      "ts": "2026-05-31 23:19",
+      "orig": "odpalasz konsole na steamie",
+      "en": "you launch the console on Steam",
+      "pt": "você inicia o console no Steam",
+      "label": "clean"
+    },
+    {
+      "id": "1510830061316735077",
+      "author": "entotus",
+      "ts": "2026-05-31 23:19",
+      "orig": "i depota robisz",
+      "en": "and you do depot",
+      "pt": "e você faz depósito",
+      "label": ""
+    },
+    {
+      "id": "1510830172633436274",
+      "author": "entotus",
+      "ts": "2026-05-31 23:19",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510829916113993751.png"
+}

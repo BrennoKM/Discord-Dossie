@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516054684442296401",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-15 09:20",
+  "orig": "jak pies",
+  "en": "like a dog",
+  "pt": "como um cachorro",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516054684442296401",
+  "context": [
+    {
+      "id": "1516054476845486182",
+      "author": "kraju",
+      "ts": "2026-06-15 09:19",
+      "orig": "Dostęp do wipe  plus dostęp do marketu jedyne 100 dolarów",
+      "en": "Wipe access plus access to the market for only $100",
+      "pt": "Acesso Wipe e acesso ao mercado por apenas US$ 100",
+      "label": ""
+    },
+    {
+      "id": "1516054622786162688",
+      "author": "entotus",
+      "ts": "2026-06-15 09:19",
+      "orig": "żeeee co ja gifów nie moge wysyłać D\"",
+      "en": "what, I can't send gifs D\"",
+      "pt": "o quê, não consigo enviar gifs D\"",
+      "label": ""
+    },
+    {
+      "id": "1516054630369464434",
+      "author": "entotus",
+      "ts": "2026-06-15 09:19",
+      "orig": "D:",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516054678402764900",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "10 lv musisz wbic",
+      "en": "You have to reach lv 10",
+      "pt": "Você tem que chegar ao nível 10",
+      "label": "clean"
+    },
+    {
+      "id": "1516054680214442045",
+      "author": "zieloooony",
+      "ts": "2026-06-15 09:20",
+      "orig": "ja piernicze grać czy nie???:<<<",
+      "en": "Damn, should I play or not???:<<<",
+      "pt": "Droga, devo jogar ou não???:<<<",
+      "label": "clean"
+    },
+    {
+      "id": "1516054689974718564",
+      "author": "eruun_89",
+      "ts": "2026-06-15 09:20",
+      "orig": "nugem studio cos pisze w news xD",
+      "en": "nugem studio writes something in news xD",
+      "pt": "nugem studio escreve algo em notícia xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516054691165896795",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "musisz pisac",
+      "en": "you have to write",
+      "pt": "você tem que escrever",
+      "label": "clean"
+    },
+    {
+      "id": "1516054714880360580",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "podobno za wiadomosci ktore wychwalaja koree",
+      "en": "apparently for news that praises Korea",
+      "pt": "aparentemente por notícias que elogiam a Coreia",
+      "label": "clean"
+    },
+    {
+      "id": "1516054722736558090",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "jest 2x exp",
+      "en": "there is 2x exp",
+      "pt": "há 2x exp",
+      "label": ""
+    },
+    {
+      "id": "1516054728096743605",
+      "author": "entotus",
+      "ts": "2026-06-15 09:20",
+      "orig": "ez",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516054684442296401.png"
+}

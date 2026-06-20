@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510597269685145631",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 07:54",
+  "orig": "kraje trzecieog swiata xD ?",
+  "en": "third world countries xD?",
+  "pt": "países do terceiro mundo xD?",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510597269685145631",
+  "context": [
+    {
+      "id": "1510597187695018024",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:53",
+      "orig": "jak dla mnie to mogą wyjebać ten rynek i dlc'ki z postaciami robić 😄",
+      "en": "As far as I'm concerned, they can fuck up this market and make DLCs with the characters 😄",
+      "pt": "No que me diz respeito, podem fuder esse mercado e fazer DLCs com os personagens 😄",
+      "label": ""
+    },
+    {
+      "id": "1510597216111296563",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:54",
+      "orig": "no xD",
+      "en": "",
+      "pt": "não xD",
+      "label": ""
+    },
+    {
+      "id": "1510597225733029909",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:54",
+      "orig": "-99% problemów",
+      "en": "-99% problems",
+      "pt": "-99% problemas",
+      "label": "clean"
+    },
+    {
+      "id": "1510597257139978262",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:54",
+      "orig": "po za rtmy kto na tym rynku real siano zarabia xD ?",
+      "en": "apart from rtmy, who is actually making money on this market xD?",
+      "pt": "além do rtmy, quem está realmente ganhando dinheiro nesse mercado xD?",
+      "label": "clean"
+    },
+    {
+      "id": "1510597257702150195",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:54",
+      "orig": "-40% $$",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510597328468312256",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:54",
+      "orig": "devsi",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510597330993156277",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:54",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510597335778983966",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:54",
+      "orig": "tam widzialem jakies guide na steamie ze w miesiac 50 euro",
+      "en": "I saw a guide on Steam that cost 50 euros per month",
+      "pt": "Vi um guia no Steam que custava 50 euros por mês",
+      "label": "clean"
+    },
+    {
+      "id": "1510597350232686663",
+      "author": "xbiedro",
+      "ts": "2026-05-31 07:54",
+      "orig": "10% od trade mordo",
+      "en": "10% from trade mordo",
+      "pt": "10% do comércio mordo",
+      "label": ""
+    },
+    {
+      "id": "1510597364576944148",
+      "author": "lepryko",
+      "ts": "2026-05-31 07:54",
+      "orig": "kurwa xD za 50euro to mi sie  zlozka nie chce wstawac",
+      "en": "Fuck xD For 50 euros I don't want to get up in bed",
+      "pt": "Foda-se xD Por 50 euros não quero me levantar da cama",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510597269685145631.png"
+}

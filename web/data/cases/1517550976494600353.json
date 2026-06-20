@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517550976494600353",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-19 12:25",
+  "orig": "https://tenor.com/view/monkey-monke-banana-monkey-eats-banana-me-asf-gif-8554916738071910837",
+  "en": "",
+  "pt": "",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517550976494600353",
+  "context": [
+    {
+      "id": "1517550284673519758",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:23",
+      "orig": "pisz po polsku kurwo na polskim kanale",
+      "en": "write in Polish, whore, on a Polish channel",
+      "pt": "escreva em polonês, prostituta, em um canal polonês",
+      "label": ""
+    },
+    {
+      "id": "1517550340252242010",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:23",
+      "orig": "nie jestes u siebie w gownostanie",
+      "en": "you're not in your own shit",
+      "pt": "você não está na sua própria merda",
+      "label": ""
+    },
+    {
+      "id": "1517550372036542634",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 12:23",
+      "orig": "anglojezycza nas",
+      "en": "he speaks English to us",
+      "pt": "ele fala inglês conosco",
+      "label": "clean"
+    },
+    {
+      "id": "1517550385865166980",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 12:23",
+      "orig": "to inwazja",
+      "en": "it's an invasion",
+      "pt": "é uma invasão",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517550714782748963",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:24",
+      "orig": "I'm not spamming. But apparently gratuitous xenophobia is accepted here.",
+      "en": "",
+      "pt": "Eu não estou enviando spam. Mas aqui se aceita xenofobia aparentemente gratuita.",
+      "label": "clean"
+    },
+    {
+      "id": "1517550993175216229",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:25",
+      "orig": "<@277191334744293378> see this emojis. Is that right?",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517551098511098117",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:26",
+      "orig": "Or a emoji is more ofensive than this?",
+      "en": "",
+      "pt": "Ou um emoji é mais ofensivo que isso?",
+      "label": "clean"
+    },
+    {
+      "id": "1517551139674128394",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:26",
+      "orig": "wypierdalaj na swoj kanal",
+      "en": "Fuck off to your own channel",
+      "pt": "Vá se foder para o seu próprio canal",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517551192668897431",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:26",
+      "orig": "you are being provocative, i kindly ask you to leave, you dont know our culture, thats how they were born sorry :/",
+      "en": "",
+      "pt": "você está sendo provocador, peço gentilmente que saia, você não conhece nossa cultura, foi assim que eles nasceram, desculpe :/",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517551292006793346",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:27",
+      "orig": "o fix wlecial",
+      "en": "",
+      "pt": "o consertar wlecial",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517550976494600353.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514704278219001856",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "494502587119304715",
+  "author": "xferbuson",
+  "ts": "2026-06-11 15:54",
+  "orig": "Banana clicer to wchodzisz co 3 godz i liczysz na cos innego niz zwykly banna",
+  "en": "Banana clicer - you come in every 3 hours and expect something other than regular banana",
+  "pt": "Clicer de banana - você chega a cada 3 horas e espera algo diferente da banana normal",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514704278219001856",
+  "context": [
+    {
+      "id": "1514703802291453982",
+      "author": "radziol",
+      "ts": "2026-06-11 15:52",
+      "orig": "Ok dz",
+      "en": "",
+      "pt": "Ok, dz",
+      "label": ""
+    },
+    {
+      "id": "1514703862085324820",
+      "author": "radziol",
+      "ts": "2026-06-11 15:52",
+      "orig": "To wrócę sobie xd bo 3.1 latam",
+      "en": "So I'll come back xd because I've been flying for 3.1 years",
+      "pt": "Então voltarei xd porque voo há 3,1 anos",
+      "label": ""
+    },
+    {
+      "id": "1514703884491423844",
+      "author": "xbiedro",
+      "ts": "2026-06-11 15:52",
+      "orig": "Haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514704174485606432",
+      "author": "xferbuson",
+      "ts": "2026-06-11 15:53",
+      "orig": "bongo to dropi tylko cos co nie sprzedaje sie, gram od 2 dni, ale patrzalem na rynek i ktos kupil za 4k itemek jakis XD",
+      "en": "bongo only drops something that doesn't sell, I've been playing for 2 days, but I was looking at the market and someone bought some item for 4k XD",
+      "pt": "bongo só dropa algo que não vende, estou jogando há 2 dias, mas estava olhando no mercado e alguém comprou algum item por 4k XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514704245826257006",
+      "author": "xbiedro",
+      "ts": "2026-06-11 15:53",
+      "orig": "Lol",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514704288872534026",
+      "author": "radziol",
+      "ts": "2026-06-11 15:54",
+      "orig": "taki drop, imo w nightmare lepszy mialem",
+      "en": "such a drop, imo I had a better one in Nightmare",
+      "pt": "que queda, eu tive uma melhor em Nightmare",
+      "label": "clean"
+    },
+    {
+      "id": "1514704484322775180",
+      "author": "xferbuson",
+      "ts": "2026-06-11 15:54",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1514704549150064660",
+      "author": "xbiedro",
+      "ts": "2026-06-11 15:55",
+      "orig": "Ja dziś robiłem opening w sumie +-20 torment i +-30 hell 2 arkany hełmy dało i monetke imortal",
+      "en": "Today I did the opening with a total of +-20 torment and +-30 hell 2 arcana helmets and gave me an imortal coin",
+      "pt": "Hoje fiz a abertura com um total de +-20 tormento e +-30 capacetes arcanos hell 2 e me dei uma moeda imortal",
+      "label": "clean"
+    },
+    {
+      "id": "1514704594561794179",
+      "author": "radziol",
+      "ts": "2026-06-11 15:55",
+      "orig": "Biedro, a bossa etapu to bijesz 3 czy 1?",
+      "en": "Biedro, do you beat the stage boss 3 times or 1 time?",
+      "pt": "Biedro, você venceu o chefe do palco 3 vezes ou 1 vez?",
+      "label": ""
+    },
+    {
+      "id": "1514704656230649856",
+      "author": "radziol",
+      "ts": "2026-06-11 15:55",
+      "orig": "czy to bez nzaczenia ktory",
+      "en": "no matter which one",
+      "pt": "não importa qual",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514704278219001856.png"
+}

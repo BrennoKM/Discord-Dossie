@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517580927654559948",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 14:24",
+  "orig": "tia",
+  "en": "",
+  "pt": "",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "clean",
+  "confidence": 0.85,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517580927654559948",
+  "context": [
+    {
+      "id": "1517578017830993941",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:13",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517578070381428898",
+      "author": "gdgameplays11",
+      "ts": "2026-06-19 14:13",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517578108327166223",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:13",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517579194203111464",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 14:17",
+      "orig": "Witam widzę ktoś doszedł do władzy ehm gratuluje",
+      "en": "Hello, I see someone has come to power, ehm, congratulations",
+      "pt": "Olá, vejo que alguém chegou ao poder, eh, parabéns",
+      "label": ""
+    },
+    {
+      "id": "1517579360356274209",
+      "author": "qndel",
+      "ts": "2026-06-19 14:18",
+      "orig": "z jednej strony tak, ale z drugiej polski kanał dla Polaków xD",
+      "en": "on the one hand, yes, but on the other hand, a Polish channel for Poles xD",
+      "pt": "por um lado sim, mas por outro lado, um canal polaco para polacos xD",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517581013851574292",
+      "author": "qndel",
+      "ts": "2026-06-19 14:25",
+      "orig": "my nie wchodzimy im na kanały syfu robić",
+      "en": "we don't go into their channels to do crap",
+      "pt": "não entramos nos canais deles para fazer merda",
+      "label": "clean"
+    },
+    {
+      "id": "1517581039588085881",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:25",
+      "orig": "jakiś gość z brazyli przyszedł się tu spłakać chłopaki mu wysłali małpe i lipe mamy",
+      "en": "Some guy from Brazil came here to cry, the guys sent him a monkey and a monkey",
+      "pt": "Um cara do Brasil veio aqui chorar, os caras mandaram um macaco e um macaco para ele",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517581077756252331",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:25",
+      "orig": "szczerze to teraz ten kanał to można usunąć",
+      "en": "Honestly, this channel can be deleted now",
+      "pt": "Honestamente, este canal pode ser excluído agora",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517581168793616504",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:25",
+      "orig": "jakby, kto wytrzyma 1 dzień bez żartu o rzydzie",
+      "en": "like, who can go a day without making a joke about a joke?",
+      "pt": "tipo, quem consegue passar um dia sem fazer piada sobre piada?",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517581276696018944",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:26",
+      "orig": "smutek, żal i przygnębienie",
+      "en": "sadness, grief and depression",
+      "pt": "tristeza, tristeza e depressão",
+      "label": "xenophobic"
+    }
+  ],
+  "screenshot": "screenshots/1517580927654559948.png"
+}

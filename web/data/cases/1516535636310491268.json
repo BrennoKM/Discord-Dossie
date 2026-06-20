@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516535636310491268",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-16 17:11",
+  "orig": "niech spoierdalaja  z ttym CD",
+  "en": "let them fuck off with that CD",
+  "pt": "deixe-os se foder com aquele CD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516535636310491268",
+  "context": [
+    {
+      "id": "1516535486271721472",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:10",
+      "orig": "To rdzeń naszej kultury",
+      "en": "It is the core of our culture",
+      "pt": "É o núcleo da nossa cultura",
+      "label": "racist"
+    },
+    {
+      "id": "1516535514302251048",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:10",
+      "orig": "Tak też im napisałem",
+      "en": "That's what I wrote to them",
+      "pt": "Isso é o que eu escrevi para eles",
+      "label": ""
+    },
+    {
+      "id": "1516535553561198773",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:10",
+      "orig": "Nawet o expa nie chodzi bo cooldown jest lmao",
+      "en": "It's not even about exp because the cooldown is lmao",
+      "pt": "Não é nem sobre exp porque o cooldown é lmao",
+      "label": "clean"
+    },
+    {
+      "id": "1516535579133612063",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:10",
+      "orig": "polaki robaki",
+      "en": "Poles worms",
+      "pt": "Vermes poloneses",
+      "label": "clean"
+    },
+    {
+      "id": "1516535631382315009",
+      "author": "kangur.",
+      "ts": "2026-06-16 17:11",
+      "orig": "Krótko na polaka",
+      "en": "Briefly speaking",
+      "pt": "Resumidamente falando",
+      "label": ""
+    },
+    {
+      "id": "1516535645835628759",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:11",
+      "orig": "No ale generalnie to wszyscy mają haha",
+      "en": "Well, generally speaking, everyone has it haha",
+      "pt": "Bem, de modo geral, todo mundo tem haha",
+      "label": "clean"
+    },
+    {
+      "id": "1516535646108389588",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:11",
+      "orig": "Napisz im, że w polskim języku \"Expię.\" to jest już zdanie",
+      "en": "Tell them that in Polish it's \"Expia.\" that's already a sentence",
+      "pt": "Diga-lhes que em polonês é “Expia”. isso já é uma frase",
+      "label": "clean"
+    },
+    {
+      "id": "1516535651409989813",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:11",
+      "orig": "powiedz ze polak pisze jak pojeb",
+      "en": "tell me that a Pole writes like an idiot",
+      "pt": "diga-me que um polonês escreve como um idiota",
+      "label": "clean"
+    },
+    {
+      "id": "1516535659731353690",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:11",
+      "orig": "i uzywa XD",
+      "en": "and uses XD",
+      "pt": "e usa XD",
+      "label": ""
+    },
+    {
+      "id": "1516535670498267246",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:11",
+      "orig": "i to sie nie zmieni",
+      "en": "and that won't change",
+      "pt": "e isso não vai mudar",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516535636310491268.png"
+}

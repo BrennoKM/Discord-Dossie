@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515289318988709948",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "286255360715522048",
+  "author": "eruun_89",
+  "ts": "2026-06-13 06:38",
+  "orig": "moze nie zauwazylem ale nie przypominam sobie tyle wiadomosci od brudasow",
+  "en": "Maybe I didn't notice, but I don't remember receiving so many messages from dirty people",
+  "pt": "Talvez eu não tenha percebido, mas não me lembro de ter recebido tantas mensagens de gente suja",
+  "label": "racist",
+  "label_source": "context_review",
+  "old_label": "?",
+  "confidence": 1.0,
+  "reason": "reclassificado manualmente para racist",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515289318988709948",
+  "context": [
+    {
+      "id": "1515289116193980536",
+      "author": "qndel",
+      "ts": "2026-06-13 06:37",
+      "orig": "to jest 1 wiadomość na wszystkich kanałach xD",
+      "en": "this is 1 message on all channels xD",
+      "pt": "esta é uma mensagem em todos os canais xD",
+      "label": "clean"
+    },
+    {
+      "id": "1515289137496985642",
+      "author": "qndel",
+      "ts": "2026-06-13 06:38",
+      "orig": "żeby spam nie był oczywisty",
+      "en": "so that spam is not obvious",
+      "pt": "para que o spam não seja óbvio",
+      "label": "clean"
+    },
+    {
+      "id": "1515289206640082964",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "jak nie kurwa",
+      "en": "if not fucking",
+      "pt": "se não for porra",
+      "label": "offensive"
+    },
+    {
+      "id": "1515289208611409981",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515289295257075803",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "przecież co chwile jakiś ciapak tu był",
+      "en": "after all, there was some weirdo here every now and then",
+      "pt": "afinal, havia algum estranho aqui de vez em quando",
+      "label": ""
+    },
+    {
+      "id": "1515289358058389534",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "o następny",
+      "en": "oh next",
+      "pt": "ah, próximo",
+      "label": ""
+    },
+    {
+      "id": "1515289358767362059",
+      "author": "alprazolindo",
+      "ts": "2026-06-13 06:38",
+      "orig": "Wysłałem tylko jedną wiadomość, żeby podbić poziom na Discordzie, na czacie BR jest cooldown.",
+      "en": "I only sent one message to level up on Discord, there is a cooldown in the BR chat.",
+      "pt": "Enviei apenas uma mensagem para subir de nível no Discord, existe um cooldown no chat BR.",
+      "label": ""
+    },
+    {
+      "id": "1515289361934192771",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515289515520954399",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:39",
+      "orig": "to jednak mają cooldown",
+      "en": "however, they have a cooldown",
+      "pt": "no entanto, eles têm um tempo de espera",
+      "label": ""
+    },
+    {
+      "id": "1515289519618916533",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:39",
+      "orig": "lmao",
+      "en": "",
+      "pt": "haha",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515289318988709948.png"
+}

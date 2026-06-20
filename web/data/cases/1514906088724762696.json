@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514906088724762696",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-12 05:15",
+  "orig": "get lost",
+  "en": "",
+  "pt": "se perder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514906088724762696",
+  "context": [
+    {
+      "id": "1514897966475776060",
+      "author": "qndel",
+      "ts": "2026-06-12 04:43",
+      "orig": "thanks 🙂",
+      "en": "",
+      "pt": "obrigado 🙂",
+      "label": ""
+    },
+    {
+      "id": "1514900649836285962",
+      "author": "qndel",
+      "ts": "2026-06-12 04:54",
+      "orig": "ogarniacie jakieś dobre buildy?",
+      "en": "Do you know any good builds?",
+      "pt": "Você conhece alguma construção boa?",
+      "label": ""
+    },
+    {
+      "id": "1514900776324173896",
+      "author": "qndel",
+      "ts": "2026-06-12 04:54",
+      "orig": "cośtam słyszałem że lightning sorc, ale przypakowałem mu trochę w aoe i ten piorun nadal ma mały zasięg xD",
+      "en": "I heard something about lightning sorc, but I put some aoe into it and the lightning still has a small range xD",
+      "pt": "Eu ouvi algo sobre relâmpago sor, mas coloquei um pouco de aoe nele e o relâmpago ainda tem um alcance pequeno xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514900807877787701",
+      "author": "qndel",
+      "ts": "2026-06-12 04:54",
+      "orig": "a to chyba powinno czyścić całą grupę",
+      "en": "and this should probably clear the entire group",
+      "pt": "e isso provavelmente deve limpar todo o grupo",
+      "label": "clean"
+    },
+    {
+      "id": "1514905192582217838",
+      "author": "sendw14demon",
+      "ts": "2026-06-12 05:12",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1514910221674348617",
+      "author": "xbiedro",
+      "ts": "2026-06-12 05:32",
+      "orig": "Nie no generalnie trochę racji ma ziomeczek",
+      "en": "No, my friend is generally right",
+      "pt": "Não, meu amigo geralmente está certo",
+      "label": "clean"
+    },
+    {
+      "id": "1514910244395024384",
+      "author": "xbiedro",
+      "ts": "2026-06-12 05:32",
+      "orig": "Jebać boty",
+      "en": "Fuck the shoes",
+      "pt": "Foda-se os sapatos",
+      "label": "clean"
+    },
+    {
+      "id": "1514910836747931679",
+      "author": "qndel",
+      "ts": "2026-06-12 05:34",
+      "orig": "tak ale po co mi tu tym spamuje xd",
+      "en": "yes, but why am I spamming it here? XD",
+      "pt": "sim, mas por que estou enviando spam aqui? XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514910854468997120",
+      "author": "qndel",
+      "ts": "2026-06-12 05:34",
+      "orig": "poza tym koleś i tak jest głupi 😄",
+      "en": "Besides, the guy is stupid anyway 😄",
+      "pt": "Além disso, o cara é burro mesmo 😄",
+      "label": ""
+    },
+    {
+      "id": "1514910910278271096",
+      "author": "qndel",
+      "ts": "2026-06-12 05:35",
+      "orig": "tak jakby jednorazowa płatność 8$ miała przeszkodzić botom",
+      "en": "as if a one-time payment of $8 would prevent bots",
+      "pt": "como se um pagamento único de US$ 8 pudesse evitar que os bots",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514906088724762696.png"
+}

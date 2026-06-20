@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513107125491204136",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-07 06:07",
+  "orig": "całe party w chuj lepsze z dobrym sprzętem",
+  "en": "the whole party is fucking better with good equipment",
+  "pt": "toda a festa fica melhor com um bom equipamento",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513107125491204136",
+  "context": [
+    {
+      "id": "1513106811148832898",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-07 06:06",
+      "orig": "za gowno itemy",
+      "en": "for shit items",
+      "pt": "para itens de merda",
+      "label": "offensive"
+    },
+    {
+      "id": "1513106893613302031",
+      "author": "xferbuson",
+      "ts": "2026-06-07 06:06",
+      "orig": "Zbroja cos daje przeciw tym co potrzeba odpornosc na zywiol czy chaos",
+      "en": "Armor has something to offer against those who need elemental or chaos resistance",
+      "pt": "A armadura tem algo a oferecer contra aqueles que precisam de resistência elemental ou ao caos",
+      "label": ""
+    },
+    {
+      "id": "1513106900798017676",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-07 06:06",
+      "orig": "<@277191334744293378> ty latasz nonstop rang solo?",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1513106970737905674",
+      "author": "xbiedro",
+      "ts": "2026-06-07 06:06",
+      "orig": "nie no",
+      "en": "nope",
+      "pt": "não",
+      "label": "clean"
+    },
+    {
+      "id": "1513106995513917502",
+      "author": "xbiedro",
+      "ts": "2026-06-07 06:06",
+      "orig": "jeden dzień tylko grałem tak",
+      "en": "I only played like this one day",
+      "pt": "só joguei assim um dia",
+      "label": "clean"
+    },
+    {
+      "id": "1513108889732911224",
+      "author": "gavidi",
+      "ts": "2026-06-07 06:14",
+      "orig": "dlaczego latanie solo 1 postaciajes viable? ostatnio widzialem takie coś kilka razy ale nie rozumiem skad taka taktyka",
+      "en": "why is flying solo 1 possible? I've seen something like this a few times recently, but I don't understand where this tactic comes from",
+      "pt": "por que voar sozinho 1 é possível? Já vi algo assim algumas vezes recentemente, mas não entendo de onde vem essa tática",
+      "label": "clean"
+    },
+    {
+      "id": "1513109588927316049",
+      "author": "gavidi",
+      "ts": "2026-06-07 06:17",
+      "orig": "drugi temat - ktoś mówił że jest to rozwiązanie problemu z nie dropiacymi skrzynkami ale moze mnie wyprowadzicie z błędu bo wydaje mi sie ze natrafilem chyba na jakiegos buga/exploita\nzamykam gre, wlaczam ponownie, wchodze w maila, odświeżam po 10s czekania i wyskakuja mi zawsze 3 skrzynki - 1 szara i 2 niebieskie, zrobiłem tak już kilka razy i za kazdym razem mam skrzynki na mailu",
+      "en": "second topic - someone said that this is a solution to the problem with boxes not dropping, but maybe you can correct me because I think I may have encountered some kind of bug/exploit\nI close the game, turn it on again, go to my email, refresh after waiting 10 seconds and I always get 3 mailboxes - 1 gray and 2 blue, I've done this several times and every time I have mailboxes",
+      "pt": "segundo tópico - alguém disse que esta é uma solução para o problema de as caixas não caírem, mas talvez você possa me corrigir porque acho que encontrei algum tipo de bug/exploit\nFecho o jogo, ligo novamente, vou para meu e-mail, atualizo depois de esperar 10 segundos e sempre recebo 3 caixas de correio - 1 cinza e 2 azuis, já fiz isso várias vezes e sempre tenho caixas de correio",
+      "label": "clean"
+    },
+    {
+      "id": "1513109770112991233",
+      "author": "gavidi",
+      "ts": "2026-06-07 06:18",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1513110363049037884",
+      "author": "rasteer",
+      "ts": "2026-06-07 06:20",
+      "orig": "tez tak mam",
+      "en": "I have that too",
+      "pt": "Eu também tenho isso",
+      "label": ""
+    },
+    {
+      "id": "1513110401125191720",
+      "author": "rasteer",
+      "ts": "2026-06-07 06:20",
+      "orig": "z ciekawosci sprawdzilem",
+      "en": "I checked it out of curiosity",
+      "pt": "Eu verifiquei por curiosidade",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1513107125491204136.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512170822683328542",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-04 16:06",
+  "orig": "zobacz do jakich absurdow przez to dochodzi xD ze ziomek w UK sie wykrwawia bo koles powiedzial z ebyl rasista XD",
+  "en": "see what absurdities this leads to xD a guy in the UK is bleeding to death because the guy said he was a racist XD",
+  "pt": "veja a que absurdos isso leva xD um cara no Reino Unido está sangrando até a morte porque o cara disse que era racista XD",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512170822683328542",
+  "context": [
+    {
+      "id": "1512170556043169956",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:05",
+      "orig": "zamiast ich cisnac to moglbys ich nakierowac",
+      "en": "Instead of pushing them, you could direct them",
+      "pt": "Em vez de pressioná-los, você poderia orientá-los",
+      "label": "clean"
+    },
+    {
+      "id": "1512170584060989451",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:06",
+      "orig": "w koncu jestes frontendem",
+      "en": "after all, you are the frontend",
+      "pt": "afinal, você é o frontend",
+      "label": "clean"
+    },
+    {
+      "id": "1512170603384406116",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:06",
+      "orig": "latwiej odtrzelic xD",
+      "en": "easier to dismiss xD",
+      "pt": "mais fácil de dispensar xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512170608526491838",
+      "author": "neutrial",
+      "ts": "2026-06-04 16:06",
+      "orig": "Majusz ma racje...",
+      "en": "Majusz is right...",
+      "pt": "Majusz tem razão...",
+      "label": "clean"
+    },
+    {
+      "id": "1512170691913318542",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:06",
+      "orig": "empatia jest przereklamowana",
+      "en": "empathy is overrated",
+      "pt": "empatia é superestimada",
+      "label": "clean"
+    },
+    {
+      "id": "1512170831910801670",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:07",
+      "orig": "i go dzgnal XD",
+      "en": "",
+      "pt": "eu vou dzgnal XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512170899439226973",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:07",
+      "orig": "no ta, baba do robienia dzieci",
+      "en": "Yep, a woman for making babies",
+      "pt": "Sim, uma mulher por fazer bebês",
+      "label": "clean"
+    },
+    {
+      "id": "1512170908607971368",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:07",
+      "orig": "chlop do roboty",
+      "en": "let's get to work",
+      "pt": "vamos trabalhar",
+      "label": "clean"
+    },
+    {
+      "id": "1512170917285859408",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-04 16:07",
+      "orig": "i elo",
+      "en": "to eat",
+      "pt": "comer",
+      "label": "clean"
+    },
+    {
+      "id": "1512170938504839278",
+      "author": "lepryko",
+      "ts": "2026-06-04 16:07",
+      "orig": "tylko atomówka Xd",
+      "en": "only nuke Xd",
+      "pt": "só bomba nuclear Xd",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1512170822683328542.png"
+}

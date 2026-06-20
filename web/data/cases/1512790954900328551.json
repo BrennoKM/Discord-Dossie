@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512790954900328551",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-06 09:11",
+  "orig": "lepiej sie odjebac xD",
+  "en": "better fuck off xD",
+  "pt": "é melhor se foder xD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512790954900328551",
+  "context": [
+    {
+      "id": "1512790892656726116",
+      "author": "xbiedro",
+      "ts": "2026-06-06 09:10",
+      "orig": "ja myślę że segz niewładnikiem na heboinie",
+      "en": "I think that segz is an incapacitated person on heboin",
+      "pt": "Eu acho que segz é uma pessoa incapacitada no heboin",
+      "label": ""
+    },
+    {
+      "id": "1512790919689273346",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:11",
+      "orig": "+ bedziesz na mnie zapierdalal xD",
+      "en": "+ you'll be crazy about me xD",
+      "pt": "+ você vai ficar louco por mim xD",
+      "label": ""
+    },
+    {
+      "id": "1512790922159587348",
+      "author": "xbiedro",
+      "ts": "2026-06-06 09:11",
+      "orig": "najgorzej",
+      "en": "worst",
+      "pt": "pior",
+      "label": "clean"
+    },
+    {
+      "id": "1512790930250403953",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:11",
+      "orig": "na moja emeryture XD",
+      "en": "for my retirement XD",
+      "pt": "para minha aposentadoria XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512790945349898331",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:11",
+      "orig": "same minusy xD",
+      "en": "",
+      "pt": "mesmo negativo xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512790993605492927",
+      "author": "entotus",
+      "ts": "2026-06-06 09:11",
+      "orig": "aktualnie 1 młody zapierdala na 3 emerytury",
+      "en": "Currently, 1 young person is trying to get 3 pensions",
+      "pt": "Atualmente, 1 jovem tenta obter 3 pensões",
+      "label": "clean"
+    },
+    {
+      "id": "1512791042209091705",
+      "author": "xbiedro",
+      "ts": "2026-06-06 09:11",
+      "orig": "no bliżej 2 z tego co pamiętam",
+      "en": "well, closer to 2 from what I remember",
+      "pt": "bem, mais perto de 2 pelo que me lembro",
+      "label": "clean"
+    },
+    {
+      "id": "1512791131451031673",
+      "author": "xbiedro",
+      "ts": "2026-06-06 09:11",
+      "orig": "ale nikt nie chce robić dzieci to co wymyślisz lepszego xd",
+      "en": "but no one wants to make children, so whatever you can come up with is better xd",
+      "pt": "mas ninguém quer ter filhos, então o que você puder inventar é melhor xd",
+      "label": "clean"
+    },
+    {
+      "id": "1512791193250042008",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:12",
+      "orig": "a chcilabys robic dzieci",
+      "en": "and you would like to have children",
+      "pt": "e você gostaria de ter filhos",
+      "label": ""
+    },
+    {
+      "id": "1512791202963914882",
+      "author": "xbiedro",
+      "ts": "2026-06-06 09:12",
+      "orig": "masz dzieci ? ja nie, myślę że nikt z aktywnych tutaj męskich zawodników",
+      "en": "do you have children? I don't, I don't think any of the male players active here",
+      "pt": "Você tem filhos? Eu não, eu não acho que nenhum dos jogadores masculinos ativos aqui",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512790954900328551.png"
+}

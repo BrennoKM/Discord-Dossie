@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511007070848028776",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-01 11:02",
+  "orig": "kimi to jebany rasista (lubie go za to ) xD",
+  "en": "kimi is a fucking racist (I like him for that) xD",
+  "pt": "Kimi é um maldito racista (eu gosto dele por isso) xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511007070848028776",
+  "context": [
+    {
+      "id": "1511006989143117954",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:02",
+      "orig": "gemini/claude/gpt/deepsek/kimi juz tak",
+      "en": "",
+      "pt": "gêmeos/claude/gpt/deepsek/kimi juz tak",
+      "label": ""
+    },
+    {
+      "id": "1511007015877611641",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:02",
+      "orig": "chociaz z claude i kimi jest troche inaczej",
+      "en": "although with claude and kim it's a bit different",
+      "pt": "embora com Claude e Kim seja um pouco diferente",
+      "label": ""
+    },
+    {
+      "id": "1511007036828286986",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:02",
+      "orig": "bo one mocno pod sodtware dev sa trenowane",
+      "en": "because they are trained strictly for software dev",
+      "pt": "porque eles são treinados estritamente para desenvolvimento de software",
+      "label": "clean"
+    },
+    {
+      "id": "1511007044466114580",
+      "author": "kraju",
+      "ts": "2026-06-01 11:02",
+      "orig": "no tak tu masz rocję",
+      "en": "well, you're right there",
+      "pt": "bem, você está certo aí",
+      "label": "clean"
+    },
+    {
+      "id": "1511007054284984521",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:02",
+      "orig": "wiec maja lepszy reasoning",
+      "en": "so they have better reasoning",
+      "pt": "então eles têm um raciocínio melhor",
+      "label": "clean"
+    },
+    {
+      "id": "1511007087470313574",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:02",
+      "orig": "XDXDXD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511007088673820814",
+      "author": "ativ3k",
+      "ts": "2026-06-01 11:02",
+      "orig": "Klaudia dobra morda, potrafi zapytac jak czegos nie doprecyzujesz lub czegos nie zrozumie",
+      "en": "Klaudia has a good face, she can ask if you don't clarify something or don't understand something",
+      "pt": "Klaudia tem uma cara boa, ela pode perguntar se você não esclarece alguma coisa ou não entende alguma coisa",
+      "label": "clean"
+    },
+    {
+      "id": "1511007146186113114",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:02",
+      "orig": "no Ai jest na tyle dobry w programowaniu i inmnych technicznych rzeczach",
+      "en": "no Ai is so good at programming and other technical things",
+      "pt": "não, Ai é tão bom em programação e outras coisas técnicas",
+      "label": "clean"
+    },
+    {
+      "id": "1511007162770395257",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:03",
+      "orig": "na tyle ile dobry ty jestes",
+      "en": "as good as you are",
+      "pt": "tão bom quanto você",
+      "label": ""
+    },
+    {
+      "id": "1511007172530667691",
+      "author": "lepryko",
+      "ts": "2026-06-01 11:03",
+      "orig": "i napiszesz specke",
+      "en": "and you will write a specke",
+      "pt": "e você vai escrever um pontinho",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511007070848028776.png"
+}

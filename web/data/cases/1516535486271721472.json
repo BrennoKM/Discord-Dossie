@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516535486271721472",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-16 17:10",
+  "orig": "To rdzeń naszej kultury",
+  "en": "It is the core of our culture",
+  "pt": "É o núcleo da nossa cultura",
+  "label": "racist",
+  "label_source": "context_review",
+  "old_label": "?",
+  "confidence": 1.0,
+  "reason": "reclassificado manualmente para racist",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516535486271721472",
+  "context": [
+    {
+      "id": "1516535310710997002",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:09",
+      "orig": "A nie po zdaniach",
+      "en": "And not by sentences",
+      "pt": "E não por frases",
+      "label": ""
+    },
+    {
+      "id": "1516535326984896682",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:09",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516535358010163241",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:10",
+      "orig": "Ale walczę o nasze prawa",
+      "en": "But I'm fighting for our rights",
+      "pt": "Mas estou lutando pelos nossos direitos",
+      "label": ""
+    },
+    {
+      "id": "1516535369091387522",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:10",
+      "orig": "jak zwykle polaka uciszyc trzbea",
+      "en": "as usual, the Pole should be silenced",
+      "pt": "como sempre, o polonês deveria ser silenciado",
+      "label": ""
+    },
+    {
+      "id": "1516535382039204031",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:10",
+      "orig": "https://media.discordapp.net/attachments/1107561261186699355/1226165591099052092/togif-5.gif",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516535514302251048",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:10",
+      "orig": "Tak też im napisałem",
+      "en": "That's what I wrote to them",
+      "pt": "Isso é o que eu escrevi para eles",
+      "label": ""
+    },
+    {
+      "id": "1516535553561198773",
+      "author": "xbiedro",
+      "ts": "2026-06-16 17:10",
+      "orig": "Nawet o expa nie chodzi bo cooldown jest lmao",
+      "en": "It's not even about exp because the cooldown is lmao",
+      "pt": "Não é nem sobre exp porque o cooldown é lmao",
+      "label": "clean"
+    },
+    {
+      "id": "1516535579133612063",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:10",
+      "orig": "polaki robaki",
+      "en": "Poles worms",
+      "pt": "Vermes poloneses",
+      "label": "clean"
+    },
+    {
+      "id": "1516535631382315009",
+      "author": "kangur.",
+      "ts": "2026-06-16 17:11",
+      "orig": "Krótko na polaka",
+      "en": "Briefly speaking",
+      "pt": "Resumidamente falando",
+      "label": ""
+    },
+    {
+      "id": "1516535636310491268",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:11",
+      "orig": "niech spoierdalaja  z ttym CD",
+      "en": "let them fuck off with that CD",
+      "pt": "deixe-os se foder com aquele CD",
+      "label": "xenophobic"
+    }
+  ],
+  "screenshot": "screenshots/1516535486271721472.png"
+}

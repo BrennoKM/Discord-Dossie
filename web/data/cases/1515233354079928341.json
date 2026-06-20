@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515233354079928341",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-13 02:56",
+  "orig": "gold/exp szybko tracą przydatność za to skrzynki w chuj drogie",
+  "en": "gold/exp quickly loses their usefulness, but the boxes are damn expensive",
+  "pt": "ouro/exp perde rapidamente sua utilidade, mas as caixas são muito caras",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515233354079928341",
+  "context": [
+    {
+      "id": "1515233072331755592",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-13 02:55",
+      "orig": "nad którą stoną run się skupić ?",
+      "en": "Which side of runes should I focus on?",
+      "pt": "Em que lado das runas devo me concentrar?",
+      "label": "clean"
+    },
+    {
+      "id": "1515233088911839333",
+      "author": "ivandralucky",
+      "ts": "2026-06-13 02:55",
+      "orig": "isda kaba?",
+      "en": "are you a fish?",
+      "pt": "você é um peixe?",
+      "label": ""
+    },
+    {
+      "id": "1515233165789233153",
+      "author": "xbiedro",
+      "ts": "2026-06-13 02:55",
+      "orig": "ja kupowałem to co najtańsze głównie",
+      "en": "I bought what was cheapest, mostly",
+      "pt": "Comprei o que era mais barato, principalmente",
+      "label": "clean"
+    },
+    {
+      "id": "1515233239193751643",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-13 02:55",
+      "orig": "czyli co było zielone do brałem ?",
+      "en": "so what was green that I took?",
+      "pt": "então o que era verde que eu peguei?",
+      "label": "clean"
+    },
+    {
+      "id": "1515233268121731212",
+      "author": "xbiedro",
+      "ts": "2026-06-13 02:56",
+      "orig": "yup",
+      "en": "",
+      "pt": "sim",
+      "label": "clean"
+    },
+    {
+      "id": "1515233391350644786",
+      "author": "radziol",
+      "ts": "2026-06-13 02:56",
+      "orig": "i juz chyba nie warto ulepszac sloty na zwykle chesty xd",
+      "en": "and it's probably not worth upgrading slots for regular chests xd",
+      "pt": "e provavelmente não vale a pena atualizar slots para baús normais xd",
+      "label": ""
+    },
+    {
+      "id": "1515233444508991570",
+      "author": "xbiedro",
+      "ts": "2026-06-13 02:56",
+      "orig": "wiadomo jak nie grasz offline to też raczej pointless",
+      "en": "Obviously, if you don't play offline, it's probably pointless",
+      "pt": "Obviamente, se você não jogar offline, provavelmente será inútil",
+      "label": ""
+    },
+    {
+      "id": "1515233553661690028",
+      "author": "xbiedro",
+      "ts": "2026-06-13 02:57",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515233559277731852",
+      "author": "xbiedro",
+      "ts": "2026-06-13 02:57",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515233626353303622",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-13 02:57",
+      "orig": "a idz pan w ...",
+      "en": "and go to...",
+      "pt": "e vá para...",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515233354079928341.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515965500092448840",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "265574913648230400",
+  "author": "tsuakashi",
+  "ts": "2026-06-15 03:25",
+  "orig": "Kurwo wypierdalaj",
+  "en": "Fuck off",
+  "pt": "Vai se foder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515965500092448840",
+  "context": [
+    {
+      "id": "1515961214830776441",
+      "author": "qndel",
+      "ts": "2026-06-15 03:08",
+      "orig": "zakładasz że nie miałem? 😉",
+      "en": "You assume I didn't have it? 😉",
+      "pt": "Você acha que eu não tinha? 😉",
+      "label": ""
+    },
+    {
+      "id": "1515962048658542682",
+      "author": "eruun_89",
+      "ts": "2026-06-15 03:11",
+      "orig": "to może ustaw 60 fps, może cos sie zle przelicza jak jest malo  fps tak jak w starych grach xD",
+      "en": "maybe set it to 60 fps, maybe something is wrong when the fps is low, like in old games xD",
+      "pt": "talvez configure para 60 fps, talvez algo esteja errado quando o fps está baixo, como em jogos antigos xD",
+      "label": ""
+    },
+    {
+      "id": "1515962907496546417",
+      "author": "qndel",
+      "ts": "2026-06-15 03:15",
+      "orig": "też myśl",
+      "en": "think too",
+      "pt": "pense também",
+      "label": "clean"
+    },
+    {
+      "id": "1515962989180751952",
+      "author": "qndel",
+      "ts": "2026-06-15 03:15",
+      "orig": "zobaczę jak na normalnym kompie miałem",
+      "en": "I'll see how it was on a normal computer",
+      "pt": "Vou ver como era em um computador normal",
+      "label": "clean"
+    },
+    {
+      "id": "1515963057170419773",
+      "author": "qndel",
+      "ts": "2026-06-15 03:15",
+      "orig": "nie, też 30",
+      "en": "no, also 30",
+      "pt": "não, também 30",
+      "label": "clean"
+    },
+    {
+      "id": "1515966119192825987",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 03:28",
+      "orig": "i juz przesuneli update 😛",
+      "en": "and they have already postponed the update 😛",
+      "pt": "e já adiaram a atualização 😛",
+      "label": "clean"
+    },
+    {
+      "id": "1515966144958300160",
+      "author": "eruun_89",
+      "ts": "2026-06-15 03:28",
+      "orig": "ehh",
+      "en": "huh",
+      "pt": "huh",
+      "label": "clean"
+    },
+    {
+      "id": "1515966175970857091",
+      "author": "eruun_89",
+      "ts": "2026-06-15 03:28",
+      "orig": "dobrze ze o pare h a nie pare dni xD",
+      "en": "good thing it's a few hours and not a few days xD",
+      "pt": "ainda bem que são algumas horas e não alguns dias xD",
+      "label": "clean"
+    },
+    {
+      "id": "1515966195306725446",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 03:28",
+      "orig": "taaa",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515966253188251729",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 03:28",
+      "orig": "TO NAWET NIE JEST ŚMIESZNE",
+      "en": "IT'S NOT EVEN FUNNY",
+      "pt": "NÃO É NEM ENGRAÇADO",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515965500092448840.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517551139674128394",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-19 12:26",
+  "orig": "wypierdalaj na swoj kanal",
+  "en": "Fuck off to your own channel",
+  "pt": "Vá se foder para o seu próprio canal",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517551139674128394",
+  "context": [
+    {
+      "id": "1517550385865166980",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 12:23",
+      "orig": "to inwazja",
+      "en": "it's an invasion",
+      "pt": "é uma invasão",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517550714782748963",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:24",
+      "orig": "I'm not spamming. But apparently gratuitous xenophobia is accepted here.",
+      "en": "",
+      "pt": "Eu não estou enviando spam. Mas aqui se aceita xenofobia aparentemente gratuita.",
+      "label": "clean"
+    },
+    {
+      "id": "1517550976494600353",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:25",
+      "orig": "https://tenor.com/view/monkey-monke-banana-monkey-eats-banana-me-asf-gif-8554916738071910837",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517550993175216229",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:25",
+      "orig": "<@277191334744293378> see this emojis. Is that right?",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517551098511098117",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:26",
+      "orig": "Or a emoji is more ofensive than this?",
+      "en": "",
+      "pt": "Ou um emoji é mais ofensivo que isso?",
+      "label": "clean"
+    },
+    {
+      "id": "1517551192668897431",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:26",
+      "orig": "you are being provocative, i kindly ask you to leave, you dont know our culture, thats how they were born sorry :/",
+      "en": "",
+      "pt": "você está sendo provocador, peço gentilmente que saia, você não conhece nossa cultura, foi assim que eles nasceram, desculpe :/",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517551292006793346",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:27",
+      "orig": "o fix wlecial",
+      "en": "",
+      "pt": "o consertar wlecial",
+      "label": "clean"
+    },
+    {
+      "id": "1517551344150380718",
+      "author": "pentagram",
+      "ts": "2026-06-19 12:27",
+      "orig": "szkoda ze celestiala za kamien dostalem",
+      "en": "It's a pity that I got the celestial for a stone",
+      "pt": "É uma pena que eu ganhei o celestial por uma pedra",
+      "label": "clean"
+    },
+    {
+      "id": "1517551428644901007",
+      "author": "kobernn",
+      "ts": "2026-06-19 12:27",
+      "orig": "I'm not being provocative, I'm not spamming, I sent an emote. And according to the server rules, we can speak English.",
+      "en": "",
+      "pt": "Não estou sendo provocativo, não estou enviando spam, enviei um emote. E de acordo com as regras do servidor, podemos falar inglês.",
+      "label": "clean"
+    },
+    {
+      "id": "1517551598773997659",
+      "author": "xbiedro",
+      "ts": "2026-06-19 12:28",
+      "orig": "but we dont want to talk to you, thats it rlly, dont make a sht show",
+      "en": "",
+      "pt": "mas não queremos falar com você, é isso, não faça uma merda de show",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517551139674128394.png"
+}

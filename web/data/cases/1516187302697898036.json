@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516187302697898036",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "220607970940157954",
+  "author": "chlorophyteore_",
+  "ts": "2026-06-15 18:07",
+  "orig": "az kryt siadzie?",
+  "en": "Will the crit go away?",
+  "pt": "O crítico irá embora?",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516187302697898036",
+  "context": [
+    {
+      "id": "1516187225220583557",
+      "author": "pentagram",
+      "ts": "2026-06-15 18:06",
+      "orig": "I zabija mnie jak ma 1/3 hp",
+      "en": "And it kills me at 1/3 hp",
+      "pt": "E isso me mata com 1/3 hp",
+      "label": ""
+    },
+    {
+      "id": "1516187232070012978",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:06",
+      "orig": "kto wiecje zuzywa xD",
+      "en": "who uses more xD",
+      "pt": "quem usa mais xD",
+      "label": ""
+    },
+    {
+      "id": "1516187255310651596",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 18:06",
+      "orig": "u mnie to pada priest i ranger go klepie z tylu do zera",
+      "en": "In my case it's the priest and the ranger slaps him from the back completely",
+      "pt": "No meu caso é o padre e o guarda-florestal dá um tapa nas costas dele completamente",
+      "label": "clean"
+    },
+    {
+      "id": "1516187255603990641",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:06",
+      "orig": "tzn mieli, dopoki koszty nie urosly xD",
+      "en": "i.e. they had it until the costs increased xD",
+      "pt": "ou seja, eles tinham até os custos aumentarem xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516187283966132374",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 18:06",
+      "orig": "a probowales kilka razy pod rzad?",
+      "en": "Have you tried several times in a row?",
+      "pt": "Você já tentou várias vezes seguidas?",
+      "label": "clean"
+    },
+    {
+      "id": "1516187305747157246",
+      "author": "pentagram",
+      "ts": "2026-06-15 18:07",
+      "orig": "Z 30 razy",
+      "en": "About 30 times",
+      "pt": "Cerca de 30 vezes",
+      "label": "clean"
+    },
+    {
+      "id": "1516187361522880712",
+      "author": "pentagram",
+      "ts": "2026-06-15 18:07",
+      "orig": "1/5 hp left najlepszy wynik",
+      "en": "1/5 hp left best result",
+      "pt": "1/5 hp deixou melhor resultado",
+      "label": "clean"
+    },
+    {
+      "id": "1516187398047010816",
+      "author": "pentagram",
+      "ts": "2026-06-15 18:07",
+      "orig": "Tyle że mi każdy tam na hita spływa",
+      "en": "But everyone there is a hit for me",
+      "pt": "Mas todo mundo lá é um sucesso para mim",
+      "label": "clean"
+    },
+    {
+      "id": "1516187429785174026",
+      "author": "lepryko",
+      "ts": "2026-06-15 18:07",
+      "orig": "<@220607970940157954> no u nas nahajpowani wszystko co sie pojawia kupuja xD claude, codexa",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516187448508420318",
+      "author": "pentagram",
+      "ts": "2026-06-15 18:07",
+      "orig": "Od tych kulek",
+      "en": "From these balls",
+      "pt": "Dessas bolas",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516187302697898036.png"
+}

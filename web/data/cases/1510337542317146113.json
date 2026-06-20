@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510337542317146113",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-05-30 14:42",
+  "orig": "nightmare dodaje mocniejszych przeciwników + maja wiecej statów ale i twoje ludki też dostają debuffa",
+  "en": "Nightmare adds stronger enemies + they have more stats, but your people also get a debuff",
+  "pt": "Nightmare adiciona inimigos mais fortes + eles têm mais estatísticas, mas seu povo também recebe um debuff",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510337542317146113",
+  "context": [
+    {
+      "id": "1510337190813634781",
+      "author": "greendragon2285",
+      "ts": "2026-05-30 14:40",
+      "orig": "koncze  akt 3",
+      "en": "ends act 3",
+      "pt": "termina o ato 3",
+      "label": ""
+    },
+    {
+      "id": "1510337239249584249",
+      "author": "greendragon2285",
+      "ts": "2026-05-30 14:40",
+      "orig": "ciekawe czy potem cos innego jest czy tylko LVL trudnosci",
+      "en": "I wonder if there is something else afterwards or just LVL difficulties",
+      "pt": "Eu me pergunto se há algo mais depois ou apenas dificuldades de LVL",
+      "label": ""
+    },
+    {
+      "id": "1510337342379004054",
+      "author": "amazingblatman",
+      "ts": "2026-05-30 14:41",
+      "orig": "wg osiągnięć jest do piekła poziom trudności",
+      "en": "according to achievements there is a hell level of difficulty",
+      "pt": "de acordo com as conquistas, há um nível de dificuldade infernal",
+      "label": "clean"
+    },
+    {
+      "id": "1510337378450145410",
+      "author": "greendragon2285",
+      "ts": "2026-05-30 14:41",
+      "orig": "to fajnie 🙂",
+      "en": "that's cool :)",
+      "pt": "isso é legal :)",
+      "label": "clean"
+    },
+    {
+      "id": "1510337397324382481",
+      "author": "kraju",
+      "ts": "2026-05-30 14:41",
+      "orig": "świeżynka ma 2 s XD",
+      "en": "the fresh one has 2 seconds XD",
+      "pt": "o novo tem 2 segundos XD",
+      "label": "clean"
+    },
+    {
+      "id": "1510337604380266546",
+      "author": "d3_stro",
+      "ts": "2026-05-30 14:42",
+      "orig": "a co robicie z useless itemkami? alchemia?",
+      "en": "what do you do with useless items? alchemy?",
+      "pt": "o que você faz com itens inúteis? alquimia?",
+      "label": "clean"
+    },
+    {
+      "id": "1510337627138555904",
+      "author": "d3_stro",
+      "ts": "2026-05-30 14:42",
+      "orig": "mi ona nie daje w ogóle siana",
+      "en": "It doesn't give me any hay at all",
+      "pt": "Isso não me dá nenhum feno",
+      "label": "clean"
+    },
+    {
+      "id": "1510337645077598330",
+      "author": "d3_stro",
+      "ts": "2026-05-30 14:42",
+      "orig": "przepalilem itemki nic",
+      "en": "I burned through the items, nothing",
+      "pt": "Eu queimei os itens, nada",
+      "label": "clean"
+    },
+    {
+      "id": "1510337657660772382",
+      "author": "kraju",
+      "ts": "2026-05-30 14:42",
+      "orig": "imo szare przerabiasz do niebieskich",
+      "en": "imo you convert gray to blue",
+      "pt": "imo você converte cinza em azul",
+      "label": ""
+    },
+    {
+      "id": "1510337748509130943",
+      "author": "kraju",
+      "ts": "2026-05-30 14:42",
+      "orig": "i niebieskie na sell za gold / ewentualnie kujesz na legendarne te żółte co warte a ci nie potrzebne na market place reszta do przepalenia",
+      "en": "and the blue ones to sell for gold / or you can buy the legendary yellow ones for what they're worth and you don't need them on the market place, the rest to burn",
+      "pt": "e os azuis para vender por ouro / ou você pode comprar os lendários amarelos pelo que valem e não precisa deles no mercado, o resto para queimar",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510337542317146113.png"
+}

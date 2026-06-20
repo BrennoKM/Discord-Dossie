@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517521358571962611",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 10:28",
+  "orig": "zależy czy jakiś frajer lewą nogą nie wstanie z łóżka szczerze ci powiem",
+  "en": "it depends on whether some loser won't get out of bed with his left foot, I'll tell you honestly",
+  "pt": "depende se algum perdedor não vai sair da cama com o pé esquerdo, vou te falar honestamente",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517521358571962611",
+  "context": [
+    {
+      "id": "1517518457653166171",
+      "author": "maltruz.",
+      "ts": "2026-06-19 10:16",
+      "orig": ".",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517521138853613709",
+      "author": "xbiedro",
+      "ts": "2026-06-19 10:27",
+      "orig": "kurwa skrzynka pęka w szwach",
+      "en": "the box is fucking bursting at the seams",
+      "pt": "a caixa está estourando pelas costuras",
+      "label": ""
+    },
+    {
+      "id": "1517521168335245333",
+      "author": "xbiedro",
+      "ts": "2026-06-19 10:27",
+      "orig": "niech już otworzą bramę",
+      "en": "Let them open the gate now",
+      "pt": "Deixe-os abrir o portão agora",
+      "label": "clean"
+    },
+    {
+      "id": "1517521209506398258",
+      "author": "xbiedro",
+      "ts": "2026-06-19 10:27",
+      "orig": "i tak będę to wszystko tydzień sprzedawał xd",
+      "en": "I'll be selling it all for a week anyway xd",
+      "pt": "De qualquer forma, vou vender tudo por uma semana xd",
+      "label": "clean"
+    },
+    {
+      "id": "1517521268096635001",
+      "author": "prey226",
+      "ts": "2026-06-19 10:27",
+      "orig": "a my bedziemy mogli te itemy w ogole sprzedac co teraz dostajemy?",
+      "en": "and will we be able to sell these items at all, what do we get now?",
+      "pt": "e seremos capazes de vender esses itens, o que ganhamos agora?",
+      "label": ""
+    },
+    {
+      "id": "1517521370945159308",
+      "author": "xbiedro",
+      "ts": "2026-06-19 10:28",
+      "orig": "ale niby tak",
+      "en": "but apparently yes",
+      "pt": "mas aparentemente sim",
+      "label": "clean"
+    },
+    {
+      "id": "1517521374703517786",
+      "author": "xbiedro",
+      "ts": "2026-06-19 10:28",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517521415673479341",
+      "author": "xbiedro",
+      "ts": "2026-06-19 10:28",
+      "orig": "już raz tak zrobili",
+      "en": "they already did this once",
+      "pt": "eles já fizeram isso uma vez",
+      "label": "clean"
+    },
+    {
+      "id": "1517522095540666520",
+      "author": "prey226",
+      "ts": "2026-06-19 10:31",
+      "orig": "dobrze by bylo bo mi tez juz miejsca zaczyna brakowac",
+      "en": "It would be good because I'm running out of space too",
+      "pt": "Seria bom porque estou ficando sem espaço também",
+      "label": ""
+    },
+    {
+      "id": "1517522105736892518",
+      "author": "prey226",
+      "ts": "2026-06-19 10:31",
+      "orig": "ale watpie",
+      "en": "but I doubt it",
+      "pt": "mas eu duvido",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517521358571962611.png"
+}

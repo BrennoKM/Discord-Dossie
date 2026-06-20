@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511779361651429458",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-03 14:11",
+  "orig": "jak jeszcze nic nie wydałeś to spierdalaj jak najszybciej",
+  "en": "If you haven't spent anything yet, then fuck off ASAP",
+  "pt": "Se você ainda não gastou nada, vá se foder o mais rápido possível",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511779361651429458",
+  "context": [
+    {
+      "id": "1511778942531408084",
+      "author": "xferbuson",
+      "ts": "2026-06-03 14:09",
+      "orig": "630 ma rycek",
+      "en": "630 has a knight",
+      "pt": "630 tem um cavaleiro",
+      "label": ""
+    },
+    {
+      "id": "1511779044494934140",
+      "author": "xferbuson",
+      "ts": "2026-06-03 14:10",
+      "orig": "\"zmocniocny wampiryzm\" 5% to leach ?",
+      "en": "\"empowered vampirism\" 5% is leach?",
+      "pt": "\"vampirismo fortalecido\" 5% é lixiviação?",
+      "label": ""
+    },
+    {
+      "id": "1511779197826109530",
+      "author": "xferbuson",
+      "ts": "2026-06-03 14:10",
+      "orig": "Czy PZ za trafienie ?",
+      "en": "Is it VP per hit?",
+      "pt": "É VP por acerto?",
+      "label": "clean"
+    },
+    {
+      "id": "1511779205652676698",
+      "author": "andur6453",
+      "ts": "2026-06-03 14:10",
+      "orig": "siema ja nowy, jakies tipy na start?",
+      "en": "Hello, I'm new, any tips for getting started?",
+      "pt": "Olá, sou novo, alguma dica para começar?",
+      "label": ""
+    },
+    {
+      "id": "1511779270647746712",
+      "author": "xferbuson",
+      "ts": "2026-06-03 14:11",
+      "orig": "200zl na steami kupowanie itemkow xd",
+      "en": "PLN 200 on Steam to buy items xd",
+      "pt": "PLN 200 no Steam para comprar itens xd",
+      "label": "clean"
+    },
+    {
+      "id": "1511779364193304718",
+      "author": "xbiedro",
+      "ts": "2026-06-03 14:11",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511779421240033371",
+      "author": "andur6453",
+      "ts": "2026-06-03 14:11",
+      "orig": "aż tak? xD",
+      "en": "so much? xD",
+      "pt": "muito? xD",
+      "label": ""
+    },
+    {
+      "id": "1511779432875036813",
+      "author": "entotus",
+      "ts": "2026-06-03 14:11",
+      "orig": "tak",
+      "en": "not",
+      "pt": "não",
+      "label": "clean"
+    },
+    {
+      "id": "1511779458242056422",
+      "author": "neutrial",
+      "ts": "2026-06-03 14:11",
+      "orig": "nie no ja na +280zl xd",
+      "en": "no, I'm going for +280 PLN xd",
+      "pt": "não, vou por +280 PLN xd",
+      "label": ""
+    },
+    {
+      "id": "1511779514517291158",
+      "author": "neutrial",
+      "ts": "2026-06-03 14:12",
+      "orig": "graj mortko",
+      "en": "great death",
+      "pt": "grande morte",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511779361651429458.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512349840015753356",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-05 03:58",
+  "orig": "wypierdalaj xD",
+  "en": "fuck off xD",
+  "pt": "vá se foder xD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512349840015753356",
+  "context": [
+    {
+      "id": "1512349701322571918",
+      "author": "entotus",
+      "ts": "2026-06-05 03:57",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512349711162671255",
+      "author": "kraju",
+      "ts": "2026-06-05 03:57",
+      "orig": "bo dlc tez jest server side check XD",
+      "en": "",
+      "pt": "bo dlc tez jest verificação do lado do servidor XD",
+      "label": ""
+    },
+    {
+      "id": "1512349727323193384",
+      "author": "lion0705",
+      "ts": "2026-06-05 03:57",
+      "orig": "Najgłębsza encyklopedia TBH w sieci, pozyskana bezpośrednio z plików gry:\n• Bohaterowie, umiejętności, przedmioty, runy, zwierzęta, potwory, etapy, buffy, materiały, kostka i wiele więcej\n• Kompletne dane o potworach, w tym typy ataków, żywioły i **tabele dropów**\n• Zawsze zsynchronizowane z najnowszym patchem, z dołączonymi notatkami do łatek\n\n🔨 **Kreator Buildów**\nTwórz teorie i dziel się swoimi ustawieniami ze społecznością:\n• Twórz buildy ze swoimi bohaterami, ekwipunkiem i umiejętnościami\n• Głosuj i komentuj buildy innych graczy\n• Filtruj według bohatera i poziomu, sortuj według Top, Nowych lub Trendujących\n• Dostępny też planer statystyk i wyszukiwarka dropów w Narzędziach\n\n⚡ **TBH Meter (nasza wielka przewaga)**\n**Darmowy miernik DPS tylko do odczytu dla Task Bar Hero na Windowsie**:\n• Śledź swoje obrażenia w **czasie rzeczywistym** podczas gry\n• Podłącz, śledź, analizuj: dokładnie sprawdź, co robi twój build\n• Runy są automatycznie **przesyłane do rankingów społeczności**\n• Porównuj się na wybranych etapach lub w ogólnym rankingu wszystkich etapów\n\nŻadne inne wiki TBH nie ma czegoś podobnego. Jeśli kiedykolwiek zastanawiałeś się, czy ten nowy build naprawdę bije mocniej, teraz możesz to udowodnić.\nOpinie, zgłoszenia błędów i propozycje buildów są bardzo mile widziane. Do zobaczenia w rankingach! 🔥",
+      "en": "The deepest TBH encyclopedia on the web, obtained directly from the game files:\n• Heroes, skills, items, runes, animals, monsters, stages, buffs, materials, dice and much more\n• Complete monster data, including attack types, elements, and **drop tables**\n• Always in sync with the latest patch, with patch notes included\n\n🔨 **Build Creator**\nCreate theories and share your setups with the community:\n• Create builds with your heroes, equipment and skills\n•",
+      "pt": "A enciclopédia TBH mais profunda da web, obtida diretamente dos arquivos do jogo:\n• Heróis, habilidades, itens, runas, animais, monstros, fases, buffs, materiais, dados e muito mais\n• Dados completos de monstros, incluindo tipos de ataque, elementos e **tabelas de drop**\n• Sempre sincronizado com o patch mais recente, com notas do patch incluídas\n\n🔨 **Criador de compilação**\nCrie teorias e compartilhe suas configurações com a comunidade:\n• Crie construções com seus heróis, equipamentos e habilidades\n•",
+      "label": ""
+    },
+    {
+      "id": "1512349802795499660",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:58",
+      "orig": "?",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512349831979471008",
+      "author": "kraju",
+      "ts": "2026-06-05 03:58",
+      "orig": "chuj kogo to obchodzi",
+      "en": "who the fuck cares",
+      "pt": "quem diabos se importa",
+      "label": "clean"
+    },
+    {
+      "id": "1512349868184699000",
+      "author": "kraju",
+      "ts": "2026-06-05 03:58",
+      "orig": "https://tenor.com/view/chuj-ci-na%C5%82eb-anime-gif-20641386",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512349888569016362",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:58",
+      "orig": "dps metera sprzedaje",
+      "en": "dps meter is selling",
+      "pt": "medidor dps está vendendo",
+      "label": "clean"
+    },
+    {
+      "id": "1512349893493133393",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:58",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512349907946573835",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:58",
+      "orig": "co za kurwa łeb",
+      "en": "what a fucking head",
+      "pt": "que merda de cabeça",
+      "label": ""
+    },
+    {
+      "id": "1512349942272884948",
+      "author": "entotus",
+      "ts": "2026-06-05 03:58",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512349840015753356.png"
+}

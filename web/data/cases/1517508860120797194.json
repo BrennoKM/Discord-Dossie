@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517508860120797194",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 09:38",
+  "orig": "dobra spierdalaj a nie spamujesz psie 🙂 \\",
+  "en": "ok, fuck off and don't spam, dog :)",
+  "pt": "ok, vá se foder e não envie spam, cachorro :)",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517508860120797194",
+  "context": [
+    {
+      "id": "1517507644984655882",
+      "author": "exoct",
+      "ts": "2026-06-19 09:33",
+      "orig": "Rangera",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517507871967805523",
+      "author": "kraju",
+      "ts": "2026-06-19 09:34",
+      "orig": "niech rynek otworzą T_T",
+      "en": "let them open the market T_T",
+      "pt": "deixe-os abrir o mercado T_T",
+      "label": ""
+    },
+    {
+      "id": "1517508109608681664",
+      "author": "zoldo01",
+      "ts": "2026-06-19 09:35",
+      "orig": "hai",
+      "en": "two",
+      "pt": "dois",
+      "label": ""
+    },
+    {
+      "id": "1517508609481637968",
+      "author": "kraju",
+      "ts": "2026-06-19 09:37",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517508799064183088",
+      "author": "zoldo01",
+      "ts": "2026-06-19 09:38",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517509144100470784",
+      "author": "entotus",
+      "ts": "2026-06-19 09:39",
+      "orig": "https://giphy.com/gifs/meme-gay-tuff-DMVPvOIRovYfc2jYMO",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517509288422150244",
+      "author": "entotus",
+      "ts": "2026-06-19 09:40",
+      "orig": "https://tenor.com/view/hsr-honkai-honkai-star-rail-star-rail-herta-gif-310109048501556336",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517509294088523879",
+      "author": "kraju",
+      "ts": "2026-06-19 09:40",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517509350485135401",
+      "author": "entotus",
+      "ts": "2026-06-19 09:40",
+      "orig": "https://giphy.com/gifs/newyorker-OANp03XvXEV9u",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517509712034267156",
+      "author": "entotus",
+      "ts": "2026-06-19 09:41",
+      "orig": "ktoś gra w mecchha chameleon ?",
+      "en": "Does anyone play Mecchha Chameleon?",
+      "pt": "Alguém joga Mecchha Chameleon?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517508860120797194.png"
+}

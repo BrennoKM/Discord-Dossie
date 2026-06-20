@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512789515700404355",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "468686010293944322",
+  "author": "sademojihere",
+  "ts": "2026-06-06 09:05",
+  "orig": "kurwa",
+  "en": "fight",
+  "pt": "lutar",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512789515700404355",
+  "context": [
+    {
+      "id": "1512789395680530663",
+      "author": "xbiedro",
+      "ts": "2026-06-06 09:04",
+      "orig": "chyba trafiliśmy",
+      "en": "I think we got it right",
+      "pt": "Acho que acertamos",
+      "label": ""
+    },
+    {
+      "id": "1512789434842484736",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:05",
+      "orig": "NA KONFEDERACJE ZAGLOSOWANE!?",
+      "en": "CONFEDERATIONS VOTED!?",
+      "pt": "CONFEDERAÇÕES VOTARAM!?",
+      "label": ""
+    },
+    {
+      "id": "1512789446364495983",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:05",
+      "orig": "XDXDXDXD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512789494867300363",
+      "author": "sademojihere",
+      "ts": "2026-06-06 09:05",
+      "orig": "co?",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512789504094634166",
+      "author": "sademojihere",
+      "ts": "2026-06-06 09:05",
+      "orig": "ty",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512789526639284284",
+      "author": "sademojihere",
+      "ts": "2026-06-06 09:05",
+      "orig": "do mnie mowisz",
+      "en": "you're talking to me",
+      "pt": "você está falando comigo",
+      "label": "clean"
+    },
+    {
+      "id": "1512789529306726421",
+      "author": "sademojihere",
+      "ts": "2026-06-06 09:05",
+      "orig": "teraz",
+      "en": "Now",
+      "pt": "Agora",
+      "label": "clean"
+    },
+    {
+      "id": "1512789558205353994",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:05",
+      "orig": "nie wiem ogolnie, ale wiem ze jak tak mowia to duze poruszenie wywoluje xD",
+      "en": "I don't know in general, but I know that when they say it like that it causes a lot of commotion xD",
+      "pt": "Não sei em geral, mas sei que quando falam assim causa muita comoção xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512789568376799243",
+      "author": "xbiedro",
+      "ts": "2026-06-06 09:05",
+      "orig": "ja tak 👀",
+      "en": "me so 👀",
+      "pt": "eu tão 👀",
+      "label": "clean"
+    },
+    {
+      "id": "1512789577583300619",
+      "author": "lepryko",
+      "ts": "2026-06-06 09:05",
+      "orig": "jestem totalnie apolityczny xD",
+      "en": "I'm totally apolitical xD",
+      "pt": "Sou totalmente apolítico xD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512789515700404355.png"
+}

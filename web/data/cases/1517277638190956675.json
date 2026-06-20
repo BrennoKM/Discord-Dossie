@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517277638190956675",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-18 18:19",
+  "orig": "get out",
+  "en": "",
+  "pt": "sair",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517277638190956675",
+  "context": [
+    {
+      "id": "1517261115569213480",
+      "author": "entotus",
+      "ts": "2026-06-18 17:13",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517267700215185558",
+      "author": "shioae",
+      "ts": "2026-06-18 17:40",
+      "orig": "3,61",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517269255928807424",
+      "author": "lehuong2006_12709",
+      "ts": "2026-06-18 17:46",
+      "orig": "sao ko gửi hình dc v m,n",
+      "en": "Why don't you send me a picture to m,n",
+      "pt": "Por que você não me manda uma foto para m,n",
+      "label": ""
+    },
+    {
+      "id": "1517269317983539340",
+      "author": "shioae",
+      "ts": "2026-06-18 17:46",
+      "orig": "Co to za spam",
+      "en": "What kind of spam is this",
+      "pt": "Que tipo de spam é esse",
+      "label": "clean"
+    },
+    {
+      "id": "1517271731486589179",
+      "author": "enzo2804",
+      "ts": "2026-06-18 17:56",
+      "orig": "Hi guys",
+      "en": "",
+      "pt": "Oi, pessoal",
+      "label": ""
+    },
+    {
+      "id": "1517279962800066580",
+      "author": "thebiggestzielo",
+      "ts": "2026-06-18 18:28",
+      "orig": "mordy utknałem troche na  2-8 pierwszy raz przechodze gre i nw za bardzo co zrobic pomoze ktos?",
+      "en": "I'm a bit stuck at 2-8, this is my first time playing the game and I'm not sure what to do, can anyone help?",
+      "pt": "Estou um pouco preso entre 2 e 8, é a primeira vez que jogo e não tenho certeza do que fazer, alguém pode ajudar?",
+      "label": ""
+    },
+    {
+      "id": "1517282307763867699",
+      "author": "qndel",
+      "ts": "2026-06-18 18:38",
+      "orig": "więcej dmg albo więcej hp/resów",
+      "en": "more dmg or more hp/res",
+      "pt": "mais dmg ou mais hp/res",
+      "label": "clean"
+    },
+    {
+      "id": "1517282491306737725",
+      "author": "thebiggestzielo",
+      "ts": "2026-06-18 18:38",
+      "orig": "w sensie gdzie najlepiej albo",
+      "en": "in the sense of where best or",
+      "pt": "no sentido de onde é melhor ou",
+      "label": ""
+    },
+    {
+      "id": "1517282498684518502",
+      "author": "thebiggestzielo",
+      "ts": "2026-06-18 18:38",
+      "orig": "jak farmic",
+      "en": "like farmic",
+      "pt": "como agrícola",
+      "label": ""
+    },
+    {
+      "id": "1517282510520848495",
+      "author": "thebiggestzielo",
+      "ts": "2026-06-18 18:39",
+      "orig": "efektywnie itemy",
+      "en": "items effectively",
+      "pt": "itens de forma eficaz",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517277638190956675.png"
+}

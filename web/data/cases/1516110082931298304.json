@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516110082931298304",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "300653187260612608",
+  "author": "zieloooony",
+  "ts": "2026-06-15 13:00",
+  "orig": "o kurwa zielonka",
+  "en": "oh fuck green",
+  "pt": "ah, foda-se o verde",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516110082931298304",
+  "context": [
+    {
+      "id": "1516109980904722532",
+      "author": "radziol",
+      "ts": "2026-06-15 12:59",
+      "orig": "a wiadomo czy chesty leca na offline?",
+      "en": "do you know if chests are going offline?",
+      "pt": "você sabe se os baús estão ficando offline?",
+      "label": "clean"
+    },
+    {
+      "id": "1516110003864600671",
+      "author": "qndel",
+      "ts": "2026-06-15 12:59",
+      "orig": "nie leća",
+      "en": "not flying",
+      "pt": "não voando",
+      "label": "clean"
+    },
+    {
+      "id": "1516110009384046683",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:59",
+      "orig": "napewno nie lol",
+      "en": "definitely not lol",
+      "pt": "definitivamente não haha",
+      "label": "clean"
+    },
+    {
+      "id": "1516110030208893158",
+      "author": "radziol",
+      "ts": "2026-06-15 12:59",
+      "orig": "eh",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516110044180123859",
+      "author": "zieloooony",
+      "ts": "2026-06-15 13:00",
+      "orig": "u mnie leci w tle gram w co innego albo ide do pracy to zostawiam",
+      "en": "It's playing in the background, I'm playing something else or I'm going to work and I leave it on",
+      "pt": "Está tocando em segundo plano, estou tocando outra coisa ou vou trabalhar e deixo ligado",
+      "label": "clean"
+    },
+    {
+      "id": "1516110116556898396",
+      "author": "zieloooony",
+      "ts": "2026-06-15 13:00",
+      "orig": "aż tak dziś sie rozpisałem omg",
+      "en": "I'm so emotional today omg",
+      "pt": "Estou tão emocionado hoje, meu Deus",
+      "label": ""
+    },
+    {
+      "id": "1516110183426822255",
+      "author": "eruun_89",
+      "ts": "2026-06-15 13:00",
+      "orig": "jestes w 30% do niebieskiego xD",
+      "en": "you are 30% to blue xD",
+      "pt": "você está 30% para o azul xD",
+      "label": ""
+    },
+    {
+      "id": "1516110232428875966",
+      "author": "zieloooony",
+      "ts": "2026-06-15 13:00",
+      "orig": "o kurwa coraz bliżej yeeeeaaaaa",
+      "en": "oh fuck it's getting closer yeeeeaaaaa",
+      "pt": "ah, porra, está ficando mais perto, yeeeeeaaaa",
+      "label": ""
+    },
+    {
+      "id": "1516110237801910533",
+      "author": "zieloooony",
+      "ts": "2026-06-15 13:00",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516110295079321630",
+      "author": "zieloooony",
+      "ts": "2026-06-15 13:01",
+      "orig": "a po niebieskim to co jest?",
+      "en": "and what's after blue?",
+      "pt": "e o que vem depois do azul?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516110082931298304.png"
+}

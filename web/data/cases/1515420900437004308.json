@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515420900437004308",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-13 15:21",
+  "orig": "chuj ci na matke",
+  "en": "Fuck you mother",
+  "pt": "Foda-se mãe",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515420900437004308",
+  "context": [
+    {
+      "id": "1515420861413331006",
+      "author": "qndel",
+      "ts": "2026-06-13 15:21",
+      "orig": "brazole podobno mają xd",
+      "en": "brazoles are similar xd",
+      "pt": "brazóis são parecidos xd",
+      "label": "clean"
+    },
+    {
+      "id": "1515420868334063686",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:21",
+      "orig": "super",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1515420879046050002",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:21",
+      "orig": "jebac malpy",
+      "en": "fuck monkeys",
+      "pt": "foda-se macacos",
+      "label": "racist"
+    },
+    {
+      "id": "1515420879310422016",
+      "author": "hudsonslx",
+      "ts": "2026-06-13 15:21",
+      "orig": "kkkkkkkkk",
+      "en": "kkkkkkkkkk",
+      "pt": "kkkkkkk",
+      "label": ""
+    },
+    {
+      "id": "1515420890827854020",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:21",
+      "orig": "kkkkkk",
+      "en": "",
+      "pt": "kkkkk",
+      "label": "clean"
+    },
+    {
+      "id": "1515420932951507066",
+      "author": "hudsonslx",
+      "ts": "2026-06-13 15:21",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515420944682979418",
+      "author": "qndel",
+      "ts": "2026-06-13 15:21",
+      "orig": "zaaplikowałem na helpera 😄",
+      "en": "I applied to be a helper 😄",
+      "pt": "Me candidatei para ser ajudante 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1515420964320706660",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:21",
+      "orig": "bardzo dobrze",
+      "en": "Very good",
+      "pt": "Muito bom",
+      "label": "clean"
+    },
+    {
+      "id": "1515420968296911018",
+      "author": "qndel",
+      "ts": "2026-06-13 15:21",
+      "orig": "ale będzie rzeźnia jak dostanę",
+      "en": "but it will be a slaughterhouse when I get it",
+      "pt": "mas será um matadouro quando eu conseguir",
+      "label": "clean"
+    },
+    {
+      "id": "1515421000219754626",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:22",
+      "orig": "rasizm mocno",
+      "en": "racism very much",
+      "pt": "muito racismo",
+      "label": "racist"
+    }
+  ],
+  "screenshot": "screenshots/1515420900437004308.png"
+}

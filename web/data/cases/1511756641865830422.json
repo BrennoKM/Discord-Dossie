@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511756641865830422",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-03 12:41",
+  "orig": "czy ataku cyz sie wypierdalasz",
+  "en": "whether it's an attack or you just fuck off",
+  "pt": "seja um ataque ou você simplesmente vá se foder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511756641865830422",
+  "context": [
+    {
+      "id": "1511756487159189647",
+      "author": "entotus",
+      "ts": "2026-06-03 12:40",
+      "orig": "xDDDDDDDD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1511756528145797222",
+      "author": "entotus",
+      "ts": "2026-06-03 12:40",
+      "orig": "no idle gierka ona ma ci w tle dzialac",
+      "en": "no, idle game, it's supposed to run in the background",
+      "pt": "não, jogo inativo, ele deveria rodar em segundo plano",
+      "label": ""
+    },
+    {
+      "id": "1511756605249687563",
+      "author": "xrevix.",
+      "ts": "2026-06-03 12:41",
+      "orig": "no i",
+      "en": "",
+      "pt": "não, eu",
+      "label": ""
+    },
+    {
+      "id": "1511756629849145515",
+      "author": "lepryko",
+      "ts": "2026-06-03 12:41",
+      "orig": "ptraz czego ci brakuje",
+      "en": "see what you're missing",
+      "pt": "veja o que você está perdendo",
+      "label": "clean"
+    },
+    {
+      "id": "1511756630952513750",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-03 12:41",
+      "orig": "3-10 pauza na nightmare, boss mi robi smiglo na postkach",
+      "en": "3-10 pause for nightmare, the boss is giving me crap on posts",
+      "pt": "3-10 pausa para pesadelo, o chefe está me criticando nas postagens",
+      "label": "clean"
+    },
+    {
+      "id": "1511756659566055536",
+      "author": "lepryko",
+      "ts": "2026-06-03 12:41",
+      "orig": "i laduj w co ci braknie",
+      "en": "and get what you need",
+      "pt": "e obtenha o que você precisa",
+      "label": "clean"
+    },
+    {
+      "id": "1511756673826422947",
+      "author": "entotus",
+      "ts": "2026-06-03 12:41",
+      "orig": "idz se zagrac w jakąs lige legend czyc os przy odpalonym tbh",
+      "en": "go play some league of legends and clean your ass with it running tbh",
+      "pt": "vá jogar League of Legends e limpe sua bunda com ele rodando para ser sincero",
+      "label": "clean"
+    },
+    {
+      "id": "1511756674212298893",
+      "author": "lepryko",
+      "ts": "2026-06-03 12:41",
+      "orig": "i se w tle niehc gra",
+      "en": "and it doesn't play in the background",
+      "pt": "e não toca em segundo plano",
+      "label": "clean"
+    },
+    {
+      "id": "1511756718730903723",
+      "author": "xrevix.",
+      "ts": "2026-06-03 12:41",
+      "orig": "aha",
+      "en": "",
+      "pt": "ah",
+      "label": ""
+    },
+    {
+      "id": "1511756733868015857",
+      "author": "lepryko",
+      "ts": "2026-06-03 12:41",
+      "orig": "jak wbijesz 30 to zoabczysz czy ci gierka w tle siada i sie zainteresujesz buildami xD",
+      "en": "when you reach 30 you will see if the game is playing in the background and you will be interested in builds xD",
+      "pt": "quando chegar aos 30 você verá se o jogo está rodando em segundo plano e você se interessará pelas builds xD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511756641865830422.png"
+}

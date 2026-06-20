@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517593212255076473",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-19 15:13",
+  "orig": "Z tym chujem to wleciał",
+  "en": "He got it with this dick",
+  "pt": "Ele conseguiu com esse pau",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517593212255076473",
+  "context": [
+    {
+      "id": "1517593152570261617",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:13",
+      "orig": "a jak już prawie to przekabaciłem to jeszcze zdjęcie chuja ktoś wyslał",
+      "en": "and when I almost got it over with, someone sent a photo of the dick",
+      "pt": "e quando quase acabei, alguém mandou uma foto do pau",
+      "label": "offensive"
+    },
+    {
+      "id": "1517593156139487353",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:13",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517593160300236852",
+      "author": "entotus",
+      "ts": "2026-06-19 15:13",
+      "orig": "brazylia jest lepsza od indii",
+      "en": "brazil is better than india",
+      "pt": "o brasil é melhor que a índia",
+      "label": ""
+    },
+    {
+      "id": "1517593162787328203",
+      "author": "entotus",
+      "ts": "2026-06-19 15:13",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517593191967359176",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:13",
+      "orig": "Hahaha",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517593217728512020",
+      "author": "kraju",
+      "ts": "2026-06-19 15:13",
+      "orig": "a brazylia to 3 kraj małp , ja jestem w szoku że małpy potrafią glocka-17 obsługiwać i biegać po fawelach xD",
+      "en": "and Brazil is the third country of monkeys, I'm shocked that monkeys can operate a Glock-17 and run around favelas xD",
+      "pt": "e o Brasil é o terceiro país dos macacos, estou chocado que os macacos possam operar uma Glock-17 e correr pelas favelas xD",
+      "label": "racist"
+    },
+    {
+      "id": "1517593305511104545",
+      "author": "entotus",
+      "ts": "2026-06-19 15:13",
+      "orig": "nie pomyliło ci sie ze indiami xD",
+      "en": "You weren't mistaken for India xD",
+      "pt": "Você não foi confundido com a Índia xD",
+      "label": "clean"
+    },
+    {
+      "id": "1517593310691197050",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:14",
+      "orig": "<:harold:1098357636300292127>",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517593328449884341",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:14",
+      "orig": "dałem mu 24h pewnie wróci jutro",
+      "en": "I gave him 24 hours, he'll probably come back tomorrow",
+      "pt": "Eu dei a ele 24 horas, ele provavelmente voltará amanhã",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517593348951506944",
+      "author": "kraju",
+      "ts": "2026-06-19 15:14",
+      "orig": "nie",
+      "en": "NO",
+      "pt": "NÃO",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517593212255076473.png"
+}

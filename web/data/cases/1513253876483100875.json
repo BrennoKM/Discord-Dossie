@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513253876483100875",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-07 15:50",
+  "orig": "ze promptuja jak jebane małpy",
+  "en": "that they prompt like fucking monkeys",
+  "pt": "que eles alertam como malditos macacos",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513253876483100875",
+  "context": [
+    {
+      "id": "1513253460173263140",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:48",
+      "orig": "xdxd",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1513253558647263383",
+      "author": "entotus",
+      "ts": "2026-06-07 15:49",
+      "orig": "no cost no effort",
+      "en": "",
+      "pt": "sem custo, sem esforço",
+      "label": ""
+    },
+    {
+      "id": "1513253623147008112",
+      "author": "entotus",
+      "ts": "2026-06-07 15:49",
+      "orig": "chłopie juz wiem dlaczego ludzie teraz wystawiaja tyle ai slopów w reklamach xD",
+      "en": "man, now I know why people put so many ai slops in advertisements now xD",
+      "pt": "cara, agora eu sei por que as pessoas colocam tantos resíduos de IA em anúncios agora xD",
+      "label": "clean"
+    },
+    {
+      "id": "1513253838239437045",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:50",
+      "orig": "no ta XD",
+      "en": "nope XD",
+      "pt": "não XD",
+      "label": "clean"
+    },
+    {
+      "id": "1513253862092574861",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:50",
+      "orig": "maja jesczze jakie szjebane narzedzia",
+      "en": "They still have some crazy tools",
+      "pt": "Eles ainda têm algumas ferramentas malucas",
+      "label": "clean"
+    },
+    {
+      "id": "1513253920284082226",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:50",
+      "orig": "\"GRAFIKA FAJNA! REKLAMA MOJ BATON UGA UGA\"",
+      "en": "\"FINE GRAPHICS! MY BATON UGA UGA ADVERTISEMENT\"",
+      "pt": "\"GRÁFICOS EXCELENTES! MEU ANÚNCIO BATON UGA UGA\"",
+      "label": "clean"
+    },
+    {
+      "id": "1513253953020629262",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:50",
+      "orig": "toole wpierdalaja to w inny tool xD",
+      "en": "tools put it in another tool xD",
+      "pt": "ferramentas coloque em outra ferramenta xD",
+      "label": "clean"
+    },
+    {
+      "id": "1513253974290071812",
+      "author": "entotus",
+      "ts": "2026-06-07 15:51",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1513253996305846302",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:51",
+      "orig": "generuja lepsze prompty a potem finalnie w grafike",
+      "en": "generate better prompts and then finally into graphics",
+      "pt": "gerar prompts melhores e, finalmente, em gráficos",
+      "label": "clean"
+    },
+    {
+      "id": "1513254031148187869",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:51",
+      "orig": "dlatego kazda malpa teraz moze to zrobic",
+      "en": "that's why every monkey can do it now",
+      "pt": "é por isso que todo macaco pode fazer isso agora",
+      "label": "racist"
+    }
+  ],
+  "screenshot": "screenshots/1513253876483100875.png"
+}

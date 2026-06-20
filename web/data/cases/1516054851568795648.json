@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516054851568795648",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "258891606873210880",
+  "author": "ativ3k",
+  "ts": "2026-06-15 09:20",
+  "orig": "uwaga na czarnuchow",
+  "en": "watch out for niggers",
+  "pt": "cuidado com os negros",
+  "label": "racist",
+  "label_source": "context_review",
+  "old_label": "clean",
+  "confidence": 1.0,
+  "reason": "reclassificado manualmente para racist",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516054851568795648",
+  "context": [
+    {
+      "id": "1516054790839472168",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "4x exp",
+      "en": "",
+      "pt": "4x experiência",
+      "label": ""
+    },
+    {
+      "id": "1516054801643995146",
+      "author": "entotus",
+      "ts": "2026-06-15 09:20",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516054818899234986",
+      "author": "eruun_89",
+      "ts": "2026-06-15 09:20",
+      "orig": "ja pierdole",
+      "en": "O",
+      "pt": "Ó",
+      "label": "clean"
+    },
+    {
+      "id": "1516054824678985739",
+      "author": "entotus",
+      "ts": "2026-06-15 09:20",
+      "orig": "xDDDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516054837370949814",
+      "author": "ativ3k",
+      "ts": "2026-06-15 09:20",
+      "orig": "z tym nugget to mozna sie pomylic",
+      "en": "You can go wrong with this nugget",
+      "pt": "Você pode dar errado com essa pepita",
+      "label": "clean"
+    },
+    {
+      "id": "1516054855125307432",
+      "author": "xferbuson",
+      "ts": "2026-06-15 09:20",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516054858233548903",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "\"critical issue\"",
+      "en": "",
+      "pt": "\"questão crítica\"",
+      "label": "clean"
+    },
+    {
+      "id": "1516054861467095103",
+      "author": "zieloooony",
+      "ts": "2026-06-15 09:20",
+      "orig": "o ja pierdole XDDDDDDDDD",
+      "en": "",
+      "pt": "o ja pierdole XDDDDDDDDDD",
+      "label": "offensive"
+    },
+    {
+      "id": "1516054867733516429",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "brzmi powaznie",
+      "en": "sounds serious",
+      "pt": "parece sério",
+      "label": ""
+    },
+    {
+      "id": "1516054871642603654",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:20",
+      "orig": "XDDDD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516054851568795648.png"
+}

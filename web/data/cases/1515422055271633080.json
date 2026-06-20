@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515422055271633080",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-13 15:26",
+  "orig": "bo kurwa nic nie leci",
+  "en": "because there's nothing fucking going on",
+  "pt": "porque não há nada acontecendo",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515422055271633080",
+  "context": [
+    {
+      "id": "1515420964320706660",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:21",
+      "orig": "bardzo dobrze",
+      "en": "Very good",
+      "pt": "Muito bom",
+      "label": "clean"
+    },
+    {
+      "id": "1515420968296911018",
+      "author": "qndel",
+      "ts": "2026-06-13 15:21",
+      "orig": "ale będzie rzeźnia jak dostanę",
+      "en": "but it will be a slaughterhouse when I get it",
+      "pt": "mas será um matadouro quando eu conseguir",
+      "label": "clean"
+    },
+    {
+      "id": "1515421000219754626",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:22",
+      "orig": "rasizm mocno",
+      "en": "racism very much",
+      "pt": "muito racismo",
+      "label": "racist"
+    },
+    {
+      "id": "1515421978314412172",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:25",
+      "orig": "ubieranie sie w tej grze to takie rozjebane rng ze glowa mala",
+      "en": "Dressing up in this game is so fucking crazy",
+      "pt": "Vestir-se nesse jogo é uma loucura",
+      "label": "clean"
+    },
+    {
+      "id": "1515422035289964736",
+      "author": "pentagram",
+      "ts": "2026-06-13 15:26",
+      "orig": "coraz bardziej kusi mnie zrobienie sobie cosmica modem",
+      "en": "I'm more and more tempted to make myself a cosmica modem",
+      "pt": "Estou cada vez mais tentado a fazer um modem cósmico",
+      "label": "clean"
+    },
+    {
+      "id": "1515422539474534470",
+      "author": "qndel",
+      "ts": "2026-06-13 15:28",
+      "orig": "ja ogarnąłem że jak item z syntezy dostajesz na maila to kostka nie dostaje expa XD",
+      "en": "I realized that if you receive the synthesis item by e-mail, the cube does not get exp XD",
+      "pt": "Percebi que se você receber o item de síntese por e-mail o cubo não ganha exp XD",
+      "label": ""
+    },
+    {
+      "id": "1515423817932210316",
+      "author": "osmierk",
+      "ts": "2026-06-13 15:33",
+      "orig": "na jakiej podstawie anniversary coin daje levele",
+      "en": "on what basis does anniversary coin give levels?",
+      "pt": "com base em que a moeda de aniversário fornece níveis?",
+      "label": ""
+    },
+    {
+      "id": "1515423889692426300",
+      "author": "osmierk",
+      "ts": "2026-06-13 15:33",
+      "orig": "?",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515424360087814305",
+      "author": "qndel",
+      "ts": "2026-06-13 15:35",
+      "orig": "pewnie rng xd",
+      "en": "probably rng xd",
+      "pt": "provavelmente rng xd",
+      "label": ""
+    },
+    {
+      "id": "1515424739848622210",
+      "author": "thesweetfish",
+      "ts": "2026-06-13 15:36",
+      "orig": "zauwaza ktos roznice w skrzynkach jak sie odblokowuje wiecej % na dropy?",
+      "en": "Does anyone notice differences in crates when you unlock more % for drops?",
+      "pt": "Alguém percebe diferenças nas caixas quando você desbloqueia mais% para drops?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515422055271633080.png"
+}

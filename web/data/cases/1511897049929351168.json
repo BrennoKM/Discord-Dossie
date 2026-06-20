@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511897049929351168",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-03 21:59",
+  "orig": "to sie odpierdol tak XD",
+  "en": "so fuck off like that XD",
+  "pt": "então vá se foder assim XD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511897049929351168",
+  "context": [
+    {
+      "id": "1511896995915108364",
+      "author": "kraju",
+      "ts": "2026-06-03 21:58",
+      "orig": "jak w poprzedniej gierce",
+      "en": "as in the previous game",
+      "pt": "como no jogo anterior",
+      "label": ""
+    },
+    {
+      "id": "1511897004857364641",
+      "author": "kraju",
+      "ts": "2026-06-03 21:58",
+      "orig": "czyli zerowa",
+      "en": "i.e. zero",
+      "pt": "ou seja, zero",
+      "label": ""
+    },
+    {
+      "id": "1511897007147581641",
+      "author": "kraju",
+      "ts": "2026-06-03 21:58",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511897007386656969",
+      "author": "entotus",
+      "ts": "2026-06-03 21:58",
+      "orig": "oby sie mamona zgadzala",
+      "en": "I hope Mammon agrees",
+      "pt": "Espero que Mammon concorde",
+      "label": "clean"
+    },
+    {
+      "id": "1511897039405846619",
+      "author": "kraju",
+      "ts": "2026-06-03 21:59",
+      "orig": "ty od mamona",
+      "en": "you from mammon",
+      "pt": "você de Mamom",
+      "label": "clean"
+    },
+    {
+      "id": "1511897070435565609",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:59",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511897094636699670",
+      "author": "kraju",
+      "ts": "2026-06-03 21:59",
+      "orig": "https://media.discordapp.net/attachments/1146915030143619223/1152228339717779556/aram.gif",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511897110629318746",
+      "author": "kraju",
+      "ts": "2026-06-03 21:59",
+      "orig": "jebac tas gre",
+      "en": "the fuck is going",
+      "pt": "a porra está indo",
+      "label": "clean"
+    },
+    {
+      "id": "1511897123116023949",
+      "author": "kraju",
+      "ts": "2026-06-03 21:59",
+      "orig": "idz do armii xD",
+      "en": "go to the army xD",
+      "pt": "vá para o exército xD",
+      "label": ""
+    },
+    {
+      "id": "1511897168431026386",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:59",
+      "orig": "moje ziomki jeszcze jak major zyl robili przez niego salto xDXDXDXD",
+      "en": "my homies used to do somersaults because of him when the major was alive xDXDXDXD",
+      "pt": "meus manos davam cambalhotas por causa dele quando o major estava vivo xDXDXDXD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511897049929351168.png"
+}

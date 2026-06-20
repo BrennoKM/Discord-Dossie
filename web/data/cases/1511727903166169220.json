@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511727903166169220",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-03 10:46",
+  "orig": "przeciez te kurwy z 3 swiata nigdy ci nie zapłacą 5/10 dolarów na premium",
+  "en": "these 3rd world whores will never pay you $5/10 for premium",
+  "pt": "essas prostitutas do terceiro mundo nunca pagarão US$ 5/10 por prêmio",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511727903166169220",
+  "context": [
+    {
+      "id": "1511727796672659658",
+      "author": "kraju",
+      "ts": "2026-06-03 10:46",
+      "orig": "to trzeba byc tak ułomnym",
+      "en": "you must be so lame",
+      "pt": "você deve ser tão coxo",
+      "label": ""
+    },
+    {
+      "id": "1511727823117619300",
+      "author": "kraju",
+      "ts": "2026-06-03 10:46",
+      "orig": "żeby nei wprowadzić jakiegoś premium",
+      "en": "so as not to introduce any premium",
+      "pt": "para não introduzir qualquer prémio",
+      "label": ""
+    },
+    {
+      "id": "1511727832923901982",
+      "author": "kraju",
+      "ts": "2026-06-03 10:46",
+      "orig": "co kolwiek",
+      "en": "whatever",
+      "pt": "qualquer que seja",
+      "label": "clean"
+    },
+    {
+      "id": "1511727880495697970",
+      "author": "lepryko",
+      "ts": "2026-06-03 10:46",
+      "orig": "wystarczylo gre zrobic za 5 dolkow xD",
+      "en": "It was enough to play the game for 5 holes xD",
+      "pt": "Foi o suficiente para jogar 5 buracos xD",
+      "label": "clean"
+    },
+    {
+      "id": "1511727898657292378",
+      "author": "lepryko",
+      "ts": "2026-06-03 10:46",
+      "orig": "i by poloyw botow nie bylo",
+      "en": "and there would be no bots",
+      "pt": "e não haveria bots",
+      "label": "clean"
+    },
+    {
+      "id": "1511727908576559136",
+      "author": "entotus",
+      "ts": "2026-06-03 10:46",
+      "orig": "nie no premka w supporter packu",
+      "en": "nope, premium in the supporter pack",
+      "pt": "não, premium no pacote de apoiador",
+      "label": "clean"
+    },
+    {
+      "id": "1511727916197875735",
+      "author": "lepryko",
+      "ts": "2026-06-03 10:47",
+      "orig": "bo chinczyk nie ma 5 dolarow na ryz",
+      "en": "because the Chinese don't have $5 for rice",
+      "pt": "porque os chineses não têm US$ 5 para o arroz",
+      "label": "clean"
+    },
+    {
+      "id": "1511727926494888137",
+      "author": "entotus",
+      "ts": "2026-06-03 10:47",
+      "orig": "wystarczy",
+      "en": "enough",
+      "pt": "suficiente",
+      "label": "clean"
+    },
+    {
+      "id": "1511727927434149939",
+      "author": "lepryko",
+      "ts": "2026-06-03 10:47",
+      "orig": "a co dopiero na konto",
+      "en": "let alone on the account",
+      "pt": "muito menos na conta",
+      "label": ""
+    },
+    {
+      "id": "1511727986812911897",
+      "author": "kraju",
+      "ts": "2026-06-03 10:47",
+      "orig": "chuj nie sobie farmia bez premium",
+      "en": "Shit, you can't farm without premium",
+      "pt": "Merda, você não pode cultivar sem prêmio",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511727903166169220.png"
+}

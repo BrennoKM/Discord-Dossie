@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516536993629077544",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-16 17:16",
+  "orig": "lepiej pisać po jednym zdaniu niż napierdalac po fawelach jako czarny z glockiem xDDD",
+  "en": "It's better to write one sentence at a time than to run around the favelas as a black man with a Glock xDDD",
+  "pt": "É melhor escrever uma frase de cada vez do que correr pelas favelas como um negro com uma Glock xDDD",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516536993629077544",
+  "context": [
+    {
+      "id": "1516536896241799429",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:16",
+      "orig": "my przynajmniej nie skacxzemy po kanalach i nie piszemy",
+      "en": "At least we don't surf the channels and write",
+      "pt": "Pelo menos não navegamos nos canais e escrevemos",
+      "label": ""
+    },
+    {
+      "id": "1516536901643931760",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:16",
+      "orig": "jesczze niech te kurwa",
+      "en": "still let them fuck",
+      "pt": "ainda deixe eles foderem",
+      "label": ""
+    },
+    {
+      "id": "1516536904475218130",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:16",
+      "orig": "Hi",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516536913530589184",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:16",
+      "orig": "wątki dodadza XD",
+      "en": "Threads added XD",
+      "pt": "Tópicos adicionados XD",
+      "label": "clean"
+    },
+    {
+      "id": "1516536929406156852",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:16",
+      "orig": "zeby w watkach pisac XD",
+      "en": "to write in threads XD",
+      "pt": "escrever em tópicos XD",
+      "label": "clean"
+    },
+    {
+      "id": "1516537027011678400",
+      "author": "lepryko",
+      "ts": "2026-06-16 17:16",
+      "orig": "zahciclo im sie z discorda phpBB By Przemo robic XDXD",
+      "en": "they wanted to do it from the phpBB By Przemo discord XDXD",
+      "pt": "eles queriam fazer isso no phpBB Por Przemo discord XDXD",
+      "label": "clean"
+    },
+    {
+      "id": "1516537056199839974",
+      "author": "kraju",
+      "ts": "2026-06-16 17:16",
+      "orig": "KKKKKKKKKKKKKKKKKKK",
+      "en": "KKKKKKKKKKKKKKKK",
+      "pt": "KKKKKKKKKKKKKKKK",
+      "label": "clean"
+    },
+    {
+      "id": "1516537093189271745",
+      "author": "kraju",
+      "ts": "2026-06-16 17:16",
+      "orig": "tak to smiech garnucha",
+      "en": "that's the garnucha's laugh",
+      "pt": "essa é a risada da garnucha",
+      "label": "clean"
+    },
+    {
+      "id": "1516537166497316884",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:17",
+      "orig": "poczekac az pojda spac i debata",
+      "en": "wait until they go to bed and debate",
+      "pt": "espere até eles irem para a cama e debaterem",
+      "label": ""
+    },
+    {
+      "id": "1516537181081047224",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-16 17:17",
+      "orig": "1 czy 2",
+      "en": "1 or 2",
+      "pt": "1 ou 2",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516536993629077544.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510365659136000254",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-05-30 16:33",
+  "orig": "https://tenor.com/view/proboscis-proboscis-monkey-monkey-ape-primate-gif-12610837513595836145",
+  "en": "",
+  "pt": "",
+  "label": "xenophobic",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.75,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510365659136000254",
+  "context": [
+    {
+      "id": "1510365422615269718",
+      "author": "xbiedro",
+      "ts": "2026-05-30 16:32",
+      "orig": "muszę spiąć tą giere do września",
+      "en": "I have to finish this game by September",
+      "pt": "Tenho que terminar esse jogo até setembro",
+      "label": ""
+    },
+    {
+      "id": "1510365488532820069",
+      "author": "xbiedro",
+      "ts": "2026-05-30 16:33",
+      "orig": "zobaczycie kurła co to znaczy quality giereczka",
+      "en": "You'll see what the fuck it means to have a quality game",
+      "pt": "Você verá o que significa ter um jogo de qualidade",
+      "label": ""
+    },
+    {
+      "id": "1510365494849437816",
+      "author": "xbiedro",
+      "ts": "2026-05-30 16:33",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510365520816505004",
+      "author": "entotus",
+      "ts": "2026-05-30 16:33",
+      "orig": "lol",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510365645416698158",
+      "author": "entotus",
+      "ts": "2026-05-30 16:33",
+      "orig": "mam nadzieje ze w tej lidze mirrora dopne",
+      "en": "I hope I will get a mirror in this league",
+      "pt": "Espero conseguir um espelho nesta liga",
+      "label": "clean"
+    },
+    {
+      "id": "1510365661006663690",
+      "author": "entotus",
+      "ts": "2026-05-30 16:33",
+      "orig": "bo nie mam farta do nich",
+      "en": "because I have no luck with them",
+      "pt": "porque não tenho sorte com eles",
+      "label": "clean"
+    },
+    {
+      "id": "1510365683500712117",
+      "author": "greendragon2285",
+      "ts": "2026-05-30 16:34",
+      "orig": "jak szybko robicie  1-1 ? etap ?",
+      "en": "how fast do you do 1-1? stage ?",
+      "pt": "quão rápido você faz 1-1? estágio ?",
+      "label": "clean"
+    },
+    {
+      "id": "1510365737359773777",
+      "author": "greendragon2285",
+      "ts": "2026-05-30 16:34",
+      "orig": "ja 42s wykrecam spoko jak sie chce poexpic kostke XD",
+      "en": "I dial 42s fine when I want to stretch my ankle XD",
+      "pt": "Eu disco 42s bem quando quero esticar meu tornozelo XD",
+      "label": "clean"
+    },
+    {
+      "id": "1510365887570379044",
+      "author": "7li3l",
+      "ts": "2026-05-30 16:34",
+      "orig": "który  lvl macie jak robicie te skile na priest ze bez 1 drzewka",
+      "en": "what lvl do you have when you do these priest skills without 1 tree",
+      "pt": "qual nível você tem quando faz essas habilidades de sacerdote sem 1 árvore",
+      "label": ""
+    },
+    {
+      "id": "1510365934500712559",
+      "author": "entotus",
+      "ts": "2026-05-30 16:35",
+      "orig": "o co chodzi z tym auto otwieraniem skrzynki, bo tam jest timer 3 sec",
+      "en": "what's going on with this auto opening of the box, because there is a 3 sec timer",
+      "pt": "o que está acontecendo com essa abertura automática da caixa, pois existe um timer de 3 segundos",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510365659136000254.png"
+}

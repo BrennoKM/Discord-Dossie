@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510619452557758585",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 09:22",
+  "orig": "AI robil xd",
+  "en": "AI slave xd",
+  "pt": "Escravo AI xd",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510619452557758585",
+  "context": [
+    {
+      "id": "1510618874150916208",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:20",
+      "orig": "no",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510618969881706576",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:20",
+      "orig": "ja nie grałem jak zobaczyłem wizualia to powiedziałem że nie ma opcji że będę w to grał xD",
+      "en": "I didn't play it, when I saw the visuals I said there was no way I would play it xD",
+      "pt": "Eu não joguei, quando vi o visual eu disse que não tinha como jogar xD",
+      "label": ""
+    },
+    {
+      "id": "1510619038987059251",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:20",
+      "orig": "na hell ?",
+      "en": "what the hell?",
+      "pt": "que diabos?",
+      "label": "clean"
+    },
+    {
+      "id": "1510619428365144177",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:22",
+      "orig": "ogolnei to mam wrazenie ze itemki grafike",
+      "en": "Overall, I'm impressed with the graphics",
+      "pt": "No geral, estou impressionado com os gráficos",
+      "label": "clean"
+    },
+    {
+      "id": "1510619437257068765",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:22",
+      "orig": "do tamtj gry",
+      "en": "to that game",
+      "pt": "para aquele jogo",
+      "label": "clean"
+    },
+    {
+      "id": "1510619552193708213",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:22",
+      "orig": "generalnie to ai raczej przyszłość game devu",
+      "en": "Generally speaking, this is probably the future of game development",
+      "pt": "De um modo geral, este é provavelmente o futuro do desenvolvimento de jogos",
+      "label": "clean"
+    },
+    {
+      "id": "1510619588323442840",
+      "author": "kraju",
+      "ts": "2026-05-31 09:22",
+      "orig": "tak ta sama XD",
+      "en": "yes the same XD",
+      "pt": "sim, o mesmo XD",
+      "label": "clean"
+    },
+    {
+      "id": "1510619670967881939",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:23",
+      "orig": "czy taka przyszlosc to nie wiem, na codzien pracuje jako soft dev mocno z AIem",
+      "en": "Whether this is the future, I don't know, I work every day as a soft dev, working closely with AI",
+      "pt": "Se este é o futuro, não sei, trabalho todos os dias como soft dev, trabalhando em estreita colaboração com a IA",
+      "label": "clean"
+    },
+    {
+      "id": "1510619688122716402",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:23",
+      "orig": "i widzac jak koszta ida w gore xD",
+      "en": "and seeing the costs go up xD",
+      "pt": "e vendo os custos subirem xD",
+      "label": ""
+    },
+    {
+      "id": "1510619694594523295",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:23",
+      "orig": "to watpie xD",
+      "en": "",
+      "pt": "para watpie xD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510619452557758585.png"
+}

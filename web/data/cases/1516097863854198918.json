@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516097863854198918",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-15 12:11",
+  "orig": "szybko trzeba skrzynki farmić zanim im się odwidzi",
+  "en": "you need to farm the boxes quickly before they go away",
+  "pt": "você precisa cultivar as caixas rapidamente antes que elas desapareçam",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516097863854198918",
+  "context": [
+    {
+      "id": "1516097761701789869",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:11",
+      "orig": "tyy",
+      "en": "thank you",
+      "pt": "obrigado",
+      "label": ""
+    },
+    {
+      "id": "1516097777023713451",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:11",
+      "orig": "not bad jak narazie",
+      "en": "not bad so far",
+      "pt": "nada mal até agora",
+      "label": ""
+    },
+    {
+      "id": "1516097792592838768",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 12:11",
+      "orig": "16 minut kolejki tylko, prawie jak na otwarcie sezonu poe",
+      "en": "Only 16 minutes of queue, almost like the opening of the poe season",
+      "pt": "Apenas 16 minutos de fila, quase como abertura da temporada de Poe",
+      "label": "clean"
+    },
+    {
+      "id": "1516097804462850220",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-15 12:11",
+      "orig": "xpp",
+      "en": "",
+      "pt": "XP",
+      "label": "clean"
+    },
+    {
+      "id": "1516097812285358110",
+      "author": "staszek1969",
+      "ts": "2026-06-15 12:11",
+      "orig": "Coś nowego?",
+      "en": "Something new?",
+      "pt": "Algo novo?",
+      "label": "clean"
+    },
+    {
+      "id": "1516097877078835414",
+      "author": "xferbuson",
+      "ts": "2026-06-15 12:11",
+      "orig": "I tak szybciej niz kolejka New world",
+      "en": "Still faster than the New World queue",
+      "pt": "Ainda mais rápido que a fila do Novo Mundo",
+      "label": "clean"
+    },
+    {
+      "id": "1516097885123510333",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:11",
+      "orig": "3 minuty cooldownu są",
+      "en": "There is a 3 minute cooldown",
+      "pt": "Há um resfriamento de 3 minutos",
+      "label": "clean"
+    },
+    {
+      "id": "1516097886444716206",
+      "author": "ativ3k",
+      "ts": "2026-06-15 12:11",
+      "orig": "o jakies thebackend.io jest",
+      "en": "what thebackend.io is about",
+      "pt": "do que se trata thebackend.io",
+      "label": "clean"
+    },
+    {
+      "id": "1516097889246642176",
+      "author": "ativ3k",
+      "ts": "2026-06-15 12:11",
+      "orig": "ciekawe",
+      "en": "Interesting",
+      "pt": "Interessante",
+      "label": ""
+    },
+    {
+      "id": "1516097891385606327",
+      "author": "entotus",
+      "ts": "2026-06-15 12:11",
+      "orig": "aha",
+      "en": "",
+      "pt": "ah",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516097863854198918.png"
+}

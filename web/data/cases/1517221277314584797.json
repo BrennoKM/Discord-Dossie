@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517221277314584797",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "665271170840395805",
+  "author": "mwahahahaa",
+  "ts": "2026-06-18 14:35",
+  "orig": "wykurwiaj",
+  "en": "fuck off",
+  "pt": "vá se foder",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517221277314584797",
+  "context": [
+    {
+      "id": "1517218334553411794",
+      "author": "xbiedro",
+      "ts": "2026-06-18 14:23",
+      "orig": "1-3",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517218609573662720",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-18 14:25",
+      "orig": "1-3 ? Czy 3-1 wole się upewnić",
+      "en": "1-3 ? Is it 3-1 I want to make sure",
+      "pt": "1-3? É 3-1, quero ter certeza",
+      "label": ""
+    },
+    {
+      "id": "1517218740171837480",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-18 14:25",
+      "orig": "I poziom męka?",
+      "en": "And the level of agony?",
+      "pt": "E o nível de agonia?",
+      "label": "clean"
+    },
+    {
+      "id": "1517220730134335630",
+      "author": "fah8985",
+      "ts": "2026-06-18 14:33",
+      "orig": "If you experience game crashes, please send your log file here as well:",
+      "en": "",
+      "pt": "Se você tiver travamentos no jogo, envie seu arquivo de log aqui também:",
+      "label": ""
+    },
+    {
+      "id": "1517220988197277748",
+      "author": "fah8985",
+      "ts": "2026-06-18 14:34",
+      "orig": "u mnie tez sporo achivow nie zaliczylo, zrestartowalem steama i wskoczyly",
+      "en": "I also had a lot of archives that didn't work, I restarted Steam and they did",
+      "pt": "Eu também tive muitos arquivos que não funcionaram, reiniciei o Steam e eles funcionaram",
+      "label": ""
+    },
+    {
+      "id": "1517221470953017556",
+      "author": "mwahahahaa",
+      "ts": "2026-06-18 14:36",
+      "orig": "rin  tin tin",
+      "en": "rin believe believe",
+      "pt": "rin acredite, acredite",
+      "label": "clean"
+    },
+    {
+      "id": "1517228259597615185",
+      "author": "lfscorr",
+      "ts": "2026-06-18 15:03",
+      "orig": "Ola",
+      "en": "",
+      "pt": "Olá",
+      "label": ""
+    },
+    {
+      "id": "1517229008922607688",
+      "author": "dimzftw",
+      "ts": "2026-06-18 15:06",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517231903827038389",
+      "author": "vinsgremory",
+      "ts": "2026-06-18 15:17",
+      "orig": "👋",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517232115803230278",
+      "author": "kraju",
+      "ts": "2026-06-18 15:18",
+      "orig": "znowu jakies robaki zawitaly z 3 swiata XD",
+      "en": "some worms came from the 3rd world again XD",
+      "pt": "alguns vermes vieram do terceiro mundo novamente XD",
+      "label": "xenophobic"
+    }
+  ],
+  "screenshot": "screenshots/1517221277314584797.png"
+}

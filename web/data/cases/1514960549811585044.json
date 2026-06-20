@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514960549811585044",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "255099358960287756",
+  "author": "kobernn",
+  "ts": "2026-06-12 08:52",
+  "orig": "Dziękuję za miłe i uprzejme słowa, tylko wasz kraj pierwszego świata...",
+  "en": "Thank you for your kind and polite words, only your first world country...",
+  "pt": "Obrigado por suas palavras gentis e educadas, apenas seu país de primeiro mundo...",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514960549811585044",
+  "context": [
+    {
+      "id": "1514960352419381298",
+      "author": "eruun_89",
+      "ts": "2026-06-12 08:51",
+      "orig": "chodzi mi o ban",
+      "en": "I mean ban",
+      "pt": "Quero dizer, proibição",
+      "label": ""
+    },
+    {
+      "id": "1514960396119834774",
+      "author": "kraju",
+      "ts": "2026-06-12 08:51",
+      "orig": "actk gierki czyta to jako integracja w pamiec gierki xD",
+      "en": "actk giarki reads it as integration into the gamki memory xD",
+      "pt": "actk giarki lê isso como integração na memória gamki xD",
+      "label": ""
+    },
+    {
+      "id": "1514960483227271241",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:52",
+      "orig": "to cpu mi tak nie skacze",
+      "en": "my cpu doesn't jump like that",
+      "pt": "minha CPU não pula assim",
+      "label": "clean"
+    },
+    {
+      "id": "1514960505415012452",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:52",
+      "orig": "RAM do 60% potrafi sie zapchac XD",
+      "en": "RAM can get clogged up to 60% XD",
+      "pt": "RAM pode ficar obstruída em até 60% XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514960540286582885",
+      "author": "kraju",
+      "ts": "2026-06-12 08:52",
+      "orig": "człowieku mi flage zajebało",
+      "en": "man, I'm crazy about the flag",
+      "pt": "cara, eu sou louco pela bandeira",
+      "label": "clean"
+    },
+    {
+      "id": "1514960556610818128",
+      "author": "gabrielrod_",
+      "ts": "2026-06-12 08:52",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1514960560939204648",
+      "author": "eruun_89",
+      "ts": "2026-06-12 08:52",
+      "orig": "tbh jest malo wymagajaca gra jak u mnie stoi na serwie",
+      "en": "tbh it's an undemanding game on my server",
+      "pt": "para ser honesto, é um jogo pouco exigente no meu servidor",
+      "label": "clean"
+    },
+    {
+      "id": "1514960622029373502",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:52",
+      "orig": "no ja myslaem zeby na jakims arduino odpalic czy cos xd",
+      "en": "Well, I was thinking about using an Arduino or something",
+      "pt": "Bem, eu estava pensando em usar um Arduino ou algo assim",
+      "label": "clean"
+    },
+    {
+      "id": "1514960640127795311",
+      "author": "kraju",
+      "ts": "2026-06-12 08:52",
+      "orig": "bo benchmarka odpaliłem i gpu/cpu 100% i instant flaga XD",
+      "en": "because I ran the benchmark and gpu/cpu 100% and the instant flag XD",
+      "pt": "porque rodei o benchmark e gpu/cpu 100% e o flag instantâneo XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514960840619724810",
+      "author": "kraju",
+      "ts": "2026-06-12 08:53",
+      "orig": "o kurwa nie wiedziałem że małpy oprócz obsługiwania glocka w fawelach potrafią coś wkleić w google tłumacz , widze małpy szybki progres robią",
+      "en": "oh shit, I didn't know that monkeys, apart from operating a Glock in favelas, can paste something into Google Translator, I see the monkeys are making rapid progress",
+      "pt": "ah, merda, eu não sabia que os macacos, além de operarem uma Glock nas favelas, podem colar algo no Google Translator, vejo que os macacos estão progredindo rapidamente",
+      "label": "racist"
+    }
+  ],
+  "screenshot": "screenshots/1514960549811585044.png"
+}

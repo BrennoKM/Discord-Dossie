@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517573556295438466",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 13:55",
+  "orig": "nie wysyłajcie proszę gifów z małpami ani zdjęć pen isów",
+  "en": "Please don't send gifs of monkeys or pictures of penises",
+  "pt": "Por favor, não envie gifs de macacos ou fotos de pênis",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517573556295438466",
+  "context": [
+    {
+      "id": "1517573211842150662",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 13:54",
+      "orig": "ciasto z muchami?",
+      "en": "cake with flies?",
+      "pt": "bolo com moscas?",
+      "label": ""
+    },
+    {
+      "id": "1517573276652798095",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 13:54",
+      "orig": "KOMUNA WROCILA !",
+      "en": "COMMON WROCILA !",
+      "pt": "WROCILA COMUM!",
+      "label": ""
+    },
+    {
+      "id": "1517573295103410266",
+      "author": "qndel",
+      "ts": "2026-06-19 13:54",
+      "orig": "zioła i boczek",
+      "en": "herbs and bacon",
+      "pt": "ervas e bacon",
+      "label": "clean"
+    },
+    {
+      "id": "1517573357300613150",
+      "author": "qndel",
+      "ts": "2026-06-19 13:54",
+      "orig": "teraz jak robię to ciasto francuskie + ricotta + boczek/szynka + grana padano",
+      "en": "now when I make it, puff pastry + ricotta + bacon/ham + grana padano",
+      "pt": "agora quando eu faço, massa folhada + ricota + bacon/presunto + grana padano",
+      "label": "clean"
+    },
+    {
+      "id": "1517573382894391576",
+      "author": "qndel",
+      "ts": "2026-06-19 13:54",
+      "orig": "10 minut roboty i zajebiste 😄",
+      "en": "10 minutes of work and awesome 😄",
+      "pt": "10 minutos de trabalho e incrível 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1517573643360796682",
+      "author": "xbiedro",
+      "ts": "2026-06-19 13:55",
+      "orig": "dzisiaj mieliśmy raid",
+      "en": "today we had a raid",
+      "pt": "hoje tivemos uma invasão",
+      "label": "clean"
+    },
+    {
+      "id": "1517574055421808831",
+      "author": "kraju",
+      "ts": "2026-06-19 13:57",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517574073130029291",
+      "author": "kraju",
+      "ts": "2026-06-19 13:57",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517574402881884240",
+      "author": "kraju",
+      "ts": "2026-06-19 13:58",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517574433399636009",
+      "author": "robol432",
+      "ts": "2026-06-19 13:59",
+      "orig": "ZDRADA !",
+      "en": "BETRAYAL !",
+      "pt": "TRAIÇÃO!",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517573556295438466.png"
+}

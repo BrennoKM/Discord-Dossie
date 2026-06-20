@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510834428404961331",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 23:36",
+  "orig": "\"niee, tylko nie odpierdalaj\" XD",
+  "en": "\"no, just don't fuck off\" XD",
+  "pt": "\"não, só não vá se foder\" XD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510834428404961331",
+  "context": [
+    {
+      "id": "1510834381764169870",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "wyszedlem z lodowy i mowie do nich",
+      "en": "I got out of the ice and I'm talking to them",
+      "pt": "Saí do gelo e estou conversando com eles",
+      "label": ""
+    },
+    {
+      "id": "1510834394972033024",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "ze ja go tu zaraz zjaram",
+      "en": "I'm about to eat it up here",
+      "pt": "Estou prestes a comê-lo aqui",
+      "label": ""
+    },
+    {
+      "id": "1510834406334533732",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "czy maja problem",
+      "en": "whether they have a problem",
+      "pt": "se eles têm um problema",
+      "label": "clean"
+    },
+    {
+      "id": "1510834409467674635",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "a oni",
+      "en": "and they",
+      "pt": "e eles",
+      "label": "clean"
+    },
+    {
+      "id": "1510834427675021453",
+      "author": "entotus",
+      "ts": "2026-05-31 23:36",
+      "orig": "XDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510834437435293778",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "i luz z policja",
+      "en": "and chill with the police",
+      "pt": "e relaxar com a polícia",
+      "label": "clean"
+    },
+    {
+      "id": "1510834458671055000",
+      "author": "entotus",
+      "ts": "2026-05-31 23:36",
+      "orig": "XDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510834483702530119",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "takze w polsce tez sie sporo zmieniulo",
+      "en": "so a lot has changed in Poland too",
+      "pt": "muita coisa mudou também na Polónia",
+      "label": "clean"
+    },
+    {
+      "id": "1510834486286352444",
+      "author": "entotus",
+      "ts": "2026-05-31 23:36",
+      "orig": "co do policji",
+      "en": "as for the police",
+      "pt": "quanto à polícia",
+      "label": ""
+    },
+    {
+      "id": "1510834499020132352",
+      "author": "entotus",
+      "ts": "2026-05-31 23:36",
+      "orig": "i klawiszy",
+      "en": "and keys",
+      "pt": "e chaves",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510834428404961331.png"
+}

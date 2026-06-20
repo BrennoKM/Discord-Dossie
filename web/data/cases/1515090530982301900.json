@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515090530982301900",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "220607970940157954",
+  "author": "chlorophyteore_",
+  "ts": "2026-06-12 17:28",
+  "orig": "normalnie alchemie nakurwiasz wszystkim co dropi i luz",
+  "en": "Normally, alchemy, you piss off everything that drops and looses",
+  "pt": "Normalmente, alquimia, você irrita tudo que cai e solta",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515090530982301900",
+  "context": [
+    {
+      "id": "1515090426976010283",
+      "author": "xbiedro",
+      "ts": "2026-06-12 17:28",
+      "orig": "nie",
+      "en": "NO",
+      "pt": "NÃO",
+      "label": ""
+    },
+    {
+      "id": "1515090463604998204",
+      "author": "xbiedro",
+      "ts": "2026-06-12 17:28",
+      "orig": "na pałe go pchać wysokim gearem którego nie używasz",
+      "en": "hard to push it with a high gear that you don't use",
+      "pt": "difícil empurrá-lo com uma marcha alta que você não usa",
+      "label": ""
+    },
+    {
+      "id": "1515090467224551424",
+      "author": "xbiedro",
+      "ts": "2026-06-12 17:28",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1515090504021446967",
+      "author": "xbiedro",
+      "ts": "2026-06-12 17:28",
+      "orig": "50-60 jest najgorsze potem jest luz",
+      "en": "50-60 is the worst, then there is slack",
+      "pt": "50-60 é o pior, então há folga",
+      "label": "clean"
+    },
+    {
+      "id": "1515090523956838642",
+      "author": "radziol",
+      "ts": "2026-06-12 17:28",
+      "orig": "jakby to jeszcze dropilo",
+      "en": "as if it were still dropping",
+      "pt": "como se ainda estivesse caindo",
+      "label": "clean"
+    },
+    {
+      "id": "1515090571645947904",
+      "author": "xbiedro",
+      "ts": "2026-06-12 17:29",
+      "orig": "ja tam syth akurat",
+      "en": "I'm there right now",
+      "pt": "Estou lá agora",
+      "label": "clean"
+    },
+    {
+      "id": "1515090602260172910",
+      "author": "radziol",
+      "ts": "2026-06-12 17:29",
+      "orig": "strasznie malo eq mi dropi wiekszosc to material i ulepy",
+      "en": "I drop very little eq, most of it is material and improvements",
+      "pt": "Eu deixo cair muito pouco eq, a maior parte é material e melhorias",
+      "label": "clean"
+    },
+    {
+      "id": "1515090647495737364",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-12 17:29",
+      "orig": "ja synteze robie jak wstaje i mi te 8h farme zrobi",
+      "en": "I do the synthesis when I get up and it will do the work for me for 8 hours",
+      "pt": "Eu faço a síntese quando me levanto e ela fará o trabalho para mim por 8 horas",
+      "label": "clean"
+    },
+    {
+      "id": "1515090659323809922",
+      "author": "xbiedro",
+      "ts": "2026-06-12 17:29",
+      "orig": "to sprzedasz a gear kupisz",
+      "en": "then you can sell it and buy the gear",
+      "pt": "então você pode vendê-lo e comprar o equipamento",
+      "label": ""
+    },
+    {
+      "id": "1515090663908184085",
+      "author": "xbiedro",
+      "ts": "2026-06-12 17:29",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515090530982301900.png"
+}

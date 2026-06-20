@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517594304867209447",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-19 15:17",
+  "orig": "nie kuś kurwa",
+  "en": "don't fucking tempt",
+  "pt": "não tente, porra",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517594304867209447",
+  "context": [
+    {
+      "id": "1517594237154230284",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:17",
+      "orig": "bo to nie przejdzie",
+      "en": "because it won't work",
+      "pt": "porque não vai funcionar",
+      "label": "clean"
+    },
+    {
+      "id": "1517594244980801567",
+      "author": "kraju",
+      "ts": "2026-06-19 15:17",
+      "orig": "rasizm xD",
+      "en": "racism xD",
+      "pt": "racismo xD",
+      "label": "suspicious"
+    },
+    {
+      "id": "1517594273175044158",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 15:17",
+      "orig": "Haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517594284860113019",
+      "author": "kraju",
+      "ts": "2026-06-19 15:17",
+      "orig": "jakby jakieś głupie małpy nie wchodziły",
+      "en": "as if some stupid monkeys didn't come in",
+      "pt": "como se alguns macacos estúpidos não tivessem entrado",
+      "label": "offensive"
+    },
+    {
+      "id": "1517594300735553576",
+      "author": "kraju",
+      "ts": "2026-06-19 15:17",
+      "orig": "to by nie widziały rasizmu",
+      "en": "so they wouldn't see racism",
+      "pt": "então eles não veriam racismo",
+      "label": "suspicious"
+    },
+    {
+      "id": "1517594313092104395",
+      "author": "kraju",
+      "ts": "2026-06-19 15:17",
+      "orig": "problem z głowy",
+      "en": "problem solved",
+      "pt": "problema resolvido",
+      "label": "clean"
+    },
+    {
+      "id": "1517594323426873576",
+      "author": "qndel",
+      "ts": "2026-06-19 15:18",
+      "orig": "pograłbym 😄",
+      "en": "I would play 😄",
+      "pt": "Eu jogaria 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1517594376824422632",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:18",
+      "orig": "tak też mówię im od kilku godzin xd",
+      "en": "that's what I've been telling them for several hours xd",
+      "pt": "isso é o que venho dizendo a eles há várias horas xd",
+      "label": ""
+    },
+    {
+      "id": "1517594413008945202",
+      "author": "kraju",
+      "ts": "2026-06-19 15:18",
+      "orig": "to jakbym",
+      "en": "it's like",
+      "pt": "é como",
+      "label": ""
+    },
+    {
+      "id": "1517594445531582625",
+      "author": "kraju",
+      "ts": "2026-06-19 15:18",
+      "orig": "wpierdolił się do jp/cn/kr",
+      "en": "he fucked up in jp/cn/kr",
+      "pt": "ele fez merda em jp/cn/kr",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517594304867209447.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511005415276806337",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-01 10:56",
+  "orig": "i tak długo banana żyło",
+  "en": "and that's how long the banana lived",
+  "pt": "e foi quanto tempo a banana viveu",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511005415276806337",
+  "context": [
+    {
+      "id": "1511005213421473852",
+      "author": "kraju",
+      "ts": "2026-06-01 10:55",
+      "orig": "druga sprawa że cube też jest generowany od strony steam",
+      "en": "the second thing is that the cube is also generated from the steam website",
+      "pt": "a segunda coisa é que o cubo também é gerado no site Steam",
+      "label": "clean"
+    },
+    {
+      "id": "1511005240189784104",
+      "author": "entotus",
+      "ts": "2026-06-01 10:55",
+      "orig": "aha",
+      "en": "",
+      "pt": "ah",
+      "label": "clean"
+    },
+    {
+      "id": "1511005248938967221",
+      "author": "lenoxxl",
+      "ts": "2026-06-01 10:55",
+      "orig": "pozniej dodali jak gra zdechla",
+      "en": "later they added when the game died",
+      "pt": "mais tarde eles adicionaram quando o jogo morreu",
+      "label": "clean"
+    },
+    {
+      "id": "1511005249715048619",
+      "author": "ativ3k",
+      "ts": "2026-06-01 10:55",
+      "orig": "ze łaczysz te 10 bananów i wystawiasz to na rynek jako pojedyncza oferta?",
+      "en": "that you combine these 10 bananas and put them on the market as a single offer?",
+      "pt": "que você combine essas 10 bananas e as coloque no mercado como uma oferta única?",
+      "label": "clean"
+    },
+    {
+      "id": "1511005268635422891",
+      "author": "ativ3k",
+      "ts": "2026-06-01 10:55",
+      "orig": "a",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511005421094174781",
+      "author": "entotus",
+      "ts": "2026-06-01 10:56",
+      "orig": "2 lata",
+      "en": "",
+      "pt": "2 latas",
+      "label": "clean"
+    },
+    {
+      "id": "1511005714292936914",
+      "author": "lepryko",
+      "ts": "2026-06-01 10:57",
+      "orig": "```Yes, Valve enforces strict rules and architectural guidelines on how many items games can generate and trade via the Steam Community Market.\n\nWhile Valve doesn't publicize a single hard \"cap number\" (like exactly 10,000 items per day per game), they tightly regulate item generation through structural limits, server usage guidelines, and automated rate-limiting.\n\nIf a game’s item economy spins out of control, Valve will step in directly. The restriction mechanisms operate on two distinct levels: Developer/Game Limits and Player Limits.```",
+      "en": "```Yes, Valve enforces strict rules and architectural guidelines on how many items games can generate and trade via the Steam Community Market.\n\nWhile Valve doesn't publicize a single hard \"cap number\" (like exactly 10,000 items per day per game), they tightly regulate item generation through structural limits, server usage guidelines, and automated rate-limiting.\n\nIf a game’s item economy spins out of control, Valve will step in directly. The restriction mechanisms operate on two distinct level",
+      "pt": "```Sim, a Valve impõe regras rígidas e diretrizes arquitetônicas sobre quantos itens os jogos podem gerar e negociar através do Mercado da Comunidade Steam.\n\nEmbora a Valve não divulgue um único “número limite” rígido (como exatamente 10.000 itens por dia por jogo), eles regulam rigorosamente a geração de itens por meio de limites estruturais, diretrizes de uso do servidor e limitação de taxa automatizada.\n\nSe a economia de itens de um jogo ficar fora de controle, a Valve intervirá diretamente. Os mecanismos de restrição operam em dois níveis distintos",
+      "label": "clean"
+    },
+    {
+      "id": "1511005881335025675",
+      "author": "lepryko",
+      "ts": "2026-06-01 10:57",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1511005890398916779",
+      "author": "lepryko",
+      "ts": "2026-06-01 10:57",
+      "orig": "XDXDXDXD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1511005902814314527",
+      "author": "lepryko",
+      "ts": "2026-06-01 10:58",
+      "orig": "real world case study",
+      "en": "",
+      "pt": "estudo de caso do mundo real",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511005415276806337.png"
+}

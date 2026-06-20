@@ -1,0 +1,110 @@
+{
+  "msg_id": "1513254031148187869",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-07 15:51",
+  "orig": "dlatego kazda malpa teraz moze to zrobic",
+  "en": "that's why every monkey can do it now",
+  "pt": "é por isso que todo macaco pode fazer isso agora",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1513254031148187869",
+  "context": [
+    {
+      "id": "1513253876483100875",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:50",
+      "orig": "ze promptuja jak jebane małpy",
+      "en": "that they prompt like fucking monkeys",
+      "pt": "que eles alertam como malditos macacos",
+      "label": "offensive"
+    },
+    {
+      "id": "1513253920284082226",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:50",
+      "orig": "\"GRAFIKA FAJNA! REKLAMA MOJ BATON UGA UGA\"",
+      "en": "\"FINE GRAPHICS! MY BATON UGA UGA ADVERTISEMENT\"",
+      "pt": "\"GRÁFICOS EXCELENTES! MEU ANÚNCIO BATON UGA UGA\"",
+      "label": "clean"
+    },
+    {
+      "id": "1513253953020629262",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:50",
+      "orig": "toole wpierdalaja to w inny tool xD",
+      "en": "tools put it in another tool xD",
+      "pt": "ferramentas coloque em outra ferramenta xD",
+      "label": "clean"
+    },
+    {
+      "id": "1513253974290071812",
+      "author": "entotus",
+      "ts": "2026-06-07 15:51",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1513253996305846302",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:51",
+      "orig": "generuja lepsze prompty a potem finalnie w grafike",
+      "en": "generate better prompts and then finally into graphics",
+      "pt": "gerar prompts melhores e, finalmente, em gráficos",
+      "label": "clean"
+    },
+    {
+      "id": "1513254126014955550",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:51",
+      "orig": "w GPT?",
+      "en": "",
+      "pt": "o que é GPT?",
+      "label": "clean"
+    },
+    {
+      "id": "1513254130976559164",
+      "author": "lepryko",
+      "ts": "2026-06-07 15:51",
+      "orig": "generujesz?",
+      "en": "do you generate?",
+      "pt": "você gera?",
+      "label": "clean"
+    },
+    {
+      "id": "1513254171867086938",
+      "author": "entotus",
+      "ts": "2026-06-07 15:51",
+      "orig": "ta",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1513254182268698624",
+      "author": "entotus",
+      "ts": "2026-06-07 15:51",
+      "orig": "daj temu chwile",
+      "en": "give it a moment",
+      "pt": "dê um momento",
+      "label": ""
+    },
+    {
+      "id": "1513254184013660381",
+      "author": "entotus",
+      "ts": "2026-06-07 15:51",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1513254031148187869.png"
+}

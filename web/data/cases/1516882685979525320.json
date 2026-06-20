@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516882685979525320",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-17 16:10",
+  "orig": "go away",
+  "en": "",
+  "pt": "vá embora",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516882685979525320",
+  "context": [
+    {
+      "id": "1516881816341057577",
+      "author": "lepryko",
+      "ts": "2026-06-17 16:06",
+      "orig": "<@361459591176912897>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516881854311956500",
+      "author": "lepryko",
+      "ts": "2026-06-17 16:06",
+      "orig": "pff, nie mozna sie z kolega w krzakach przytulic na Twoim paintballu ?",
+      "en": "pff, can't you cuddle with your friend in the bushes while playing your paintball game?",
+      "pt": "pff, você não pode abraçar seu amigo no mato enquanto joga paintball?",
+      "label": ""
+    },
+    {
+      "id": "1516882504651509812",
+      "author": "idontrememberu",
+      "ts": "2026-06-17 16:09",
+      "orig": "Окей, вот тебе пара интересных фактов:\nАкулы существуют дольше, чем деревья — они появились около 450 миллионов лет назад, тогда как деревья только 350 миллионов. Человек — единственное животное, которое краснеет. Звук в космосе не распространяется, но у чёрных дыр есть частота колебаний, просто она в миллиарды раз ниже того, что может услышать человек. Фламинго розовые не от природы — они рождаются серыми, а розовыми становятся от пигментов в пище.",
+      "en": "Okay, here are a couple of interesting facts for you:\nSharks have been around longer than trees - they appeared about 450 million years ago, while trees only 350 million. Man is the only animal that blushes. Sound does not travel in space, but black holes do have an oscillation frequency, it’s just billions of times lower than what a person can hear. Flamingos are not pink by nature - they are born gray, and become pink from pigments in their food.",
+      "pt": "Ok, aqui estão alguns fatos interessantes para você:\nOs tubarões existem há mais tempo que as árvores - surgiram há cerca de 450 milhões de anos, enquanto as árvores apenas há 350 milhões. O homem é o único animal que cora. O som não viaja no espaço, mas os buracos negros têm uma frequência de oscilação, apenas bilhões de vezes menor do que uma pessoa pode ouvir. Os flamingos não são cor-de-rosa por natureza - eles nascem cinzentos e tornam-se cor-de-rosa devido aos pigmentos da sua alimentação.",
+      "label": ""
+    },
+    {
+      "id": "1516882566097932479",
+      "author": "thesweetfish",
+      "ts": "2026-06-17 16:09",
+      "orig": "<@277191334744293378> wez tego agenta deportuj",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516882672385785956",
+      "author": "lepryko",
+      "ts": "2026-06-17 16:10",
+      "orig": "https://tenor.com/view/tencent-drone-tencent-drone-speech-bubble-gif-3315453874128316280",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516884335020478535",
+      "author": "shioae",
+      "ts": "2026-06-17 16:16",
+      "orig": "Serio na offline powinnienem siedziec?",
+      "en": "Should I really stay offline?",
+      "pt": "Devo realmente ficar offline?",
+      "label": "clean"
+    },
+    {
+      "id": "1516885052955431025",
+      "author": "lepryko",
+      "ts": "2026-06-17 16:19",
+      "orig": "na expa tak",
+      "en": "for EXP, yes",
+      "pt": "para EXP, sim",
+      "label": "clean"
+    },
+    {
+      "id": "1516885085469540392",
+      "author": "entotus",
+      "ts": "2026-06-17 16:19",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516885240264654991",
+      "author": "shioae",
+      "ts": "2026-06-17 16:20",
+      "orig": "A golda i itemy? ;d",
+      "en": "",
+      "pt": "Um item dourado? ;d",
+      "label": ""
+    },
+    {
+      "id": "1516885301052575895",
+      "author": "lepryko",
+      "ts": "2026-06-17 16:20",
+      "orig": "itemy to lepiej odpalone imec i skrzybki zbierac",
+      "en": "Items are better to use imec and collect scribbles",
+      "pt": "É melhor usar itens imec e coletar rabiscos",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516882685979525320.png"
+}

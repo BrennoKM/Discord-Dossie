@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515289206640082964",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-13 06:38",
+  "orig": "jak nie kurwa",
+  "en": "if not fucking",
+  "pt": "se não for porra",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515289206640082964",
+  "context": [
+    {
+      "id": "1515288900531388426",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:37",
+      "orig": "jak by chcieli expić to by ten zjeb wczoraj nie wysyłał hymnu stanów w jednej wiadomości tylko po linijce",
+      "en": "If they wanted to make money, this fucker wouldn't have sent the national anthem yesterday in one message, just one line at a time.",
+      "pt": "Se quisessem se exibir, esse filho da puta não teria mandado ontem o hino nacional numa mensagem, só uma linha de cada vez.",
+      "label": "clean"
+    },
+    {
+      "id": "1515289090961178784",
+      "author": "eruun_89",
+      "ts": "2026-06-13 06:37",
+      "orig": "no przed tymi poziomami tego nie bylo",
+      "en": "Well, it wasn't there before these levels",
+      "pt": "Bem, não existia antes desses níveis",
+      "label": "clean"
+    },
+    {
+      "id": "1515289096094748683",
+      "author": "qndel",
+      "ts": "2026-06-13 06:37",
+      "orig": "ale nie rozumiesz, to nie jest jedna wiadomość na polskim",
+      "en": "but you don't understand, it's not just one message in Polish",
+      "pt": "mas você não entende, não é apenas uma mensagem em polonês",
+      "label": "clean"
+    },
+    {
+      "id": "1515289116193980536",
+      "author": "qndel",
+      "ts": "2026-06-13 06:37",
+      "orig": "to jest 1 wiadomość na wszystkich kanałach xD",
+      "en": "this is 1 message on all channels xD",
+      "pt": "esta é uma mensagem em todos os canais xD",
+      "label": "clean"
+    },
+    {
+      "id": "1515289137496985642",
+      "author": "qndel",
+      "ts": "2026-06-13 06:38",
+      "orig": "żeby spam nie był oczywisty",
+      "en": "so that spam is not obvious",
+      "pt": "para que o spam não seja óbvio",
+      "label": "clean"
+    },
+    {
+      "id": "1515289208611409981",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515289295257075803",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "przecież co chwile jakiś ciapak tu był",
+      "en": "after all, there was some weirdo here every now and then",
+      "pt": "afinal, havia algum estranho aqui de vez em quando",
+      "label": ""
+    },
+    {
+      "id": "1515289318988709948",
+      "author": "eruun_89",
+      "ts": "2026-06-13 06:38",
+      "orig": "moze nie zauwazylem ale nie przypominam sobie tyle wiadomosci od brudasow",
+      "en": "Maybe I didn't notice, but I don't remember receiving so many messages from dirty people",
+      "pt": "Talvez eu não tenha percebido, mas não me lembro de ter recebido tantas mensagens de gente suja",
+      "label": "racist"
+    },
+    {
+      "id": "1515289358058389534",
+      "author": "xbiedro",
+      "ts": "2026-06-13 06:38",
+      "orig": "o następny",
+      "en": "oh next",
+      "pt": "ah, próximo",
+      "label": ""
+    },
+    {
+      "id": "1515289358767362059",
+      "author": "alprazolindo",
+      "ts": "2026-06-13 06:38",
+      "orig": "Wysłałem tylko jedną wiadomość, żeby podbić poziom na Discordzie, na czacie BR jest cooldown.",
+      "en": "I only sent one message to level up on Discord, there is a cooldown in the BR chat.",
+      "pt": "Enviei apenas uma mensagem para subir de nível no Discord, existe um cooldown no chat BR.",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515289206640082964.png"
+}

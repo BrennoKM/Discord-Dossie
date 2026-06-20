@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516115270836420719",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "221182480034562048",
+  "author": "radziol",
+  "ts": "2026-06-15 13:20",
+  "orig": "tak dostaniesz kurwa w czym problem",
+  "en": "yes you will get what the fuck is the problem",
+  "pt": "sim, você vai entender qual é o problema",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516115270836420719",
+  "context": [
+    {
+      "id": "1516115145510879254",
+      "author": "qndel",
+      "ts": "2026-06-15 13:20",
+      "orig": "zbyt wielka bieda z dropem żebym miał cokolwiek chować",
+      "en": "The bustard is too poor for me to hide anything",
+      "pt": "A abetarda é pobre demais para eu esconder alguma coisa",
+      "label": "clean"
+    },
+    {
+      "id": "1516115156394971196",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:20",
+      "orig": "w jakiej innej grze resetowanie gry jest traktowane jako exploit? xD",
+      "en": "in what other game is resetting the game treated as an exploit? xD",
+      "pt": "em que outro jogo a reinicialização do jogo é tratada como uma exploração? xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516115197029388339",
+      "author": "qndel",
+      "ts": "2026-06-15 13:20",
+      "orig": "saper",
+      "en": "know",
+      "pt": "saber",
+      "label": "clean"
+    },
+    {
+      "id": "1516115221717061793",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:20",
+      "orig": "jak resetuje gre bo mam memory leak po 10gb co chwile to co? bana dostane? xD",
+      "en": "How do I reset the game because I have a memory leak of 10 GB every now and then? will I get banned? xD",
+      "pt": "Como faço para reiniciar o jogo porque tenho um vazamento de memória de 10 GB de vez em quando? vou ser banido? xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516115249516904540",
+      "author": "xbiedro",
+      "ts": "2026-06-15 13:20",
+      "orig": "guz jakiś czy coś ?",
+      "en": "a tumor or something?",
+      "pt": "um tumor ou algo assim?",
+      "label": "clean"
+    },
+    {
+      "id": "1516115277400641577",
+      "author": "eruun_89",
+      "ts": "2026-06-15 13:20",
+      "orig": "i przestaly niebieskie dropic, ostatnia 20 min temu",
+      "en": "and the blue bustards stopped, the last one 20 minutes ago",
+      "pt": "e as abetardas pararam, a última há 20 minutos",
+      "label": ""
+    },
+    {
+      "id": "1516115295788466276",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:20",
+      "orig": "nieźle xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516115308350537881",
+      "author": "eruun_89",
+      "ts": "2026-06-15 13:20",
+      "orig": "i mam stacka bialych",
+      "en": "and I have a stack of whites",
+      "pt": "e eu tenho uma pilha de brancos",
+      "label": ""
+    },
+    {
+      "id": "1516115351744680046",
+      "author": "kraju",
+      "ts": "2026-06-15 13:21",
+      "orig": "normalnei o 6 rano ci koreańcy wbiją kompa zabrać xD",
+      "en": "Normally, at 6 a.m. these Koreans will come and take the computer away xD",
+      "pt": "Normalmente, às 6 da manhã esses coreanos vêm e levam o computador embora xD",
+      "label": ""
+    },
+    {
+      "id": "1516115448314331279",
+      "author": "ativ3k",
+      "ts": "2026-06-15 13:21",
+      "orig": "xDD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516115270836420719.png"
+}

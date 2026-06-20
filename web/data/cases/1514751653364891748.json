@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514751653364891748",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-11 19:02",
+  "orig": "a pierdole to mało wiadomości mam wysłanych żeby od nowa wbijać lvl jakieś śmieszne XD",
+  "en": "and fuck, I don't have many messages sent to level up again, some funny ones XD",
+  "pt": "e porra, não tenho muitas mensagens enviadas para subir de nível novamente, algumas engraçadas XD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514751653364891748",
+  "context": [
+    {
+      "id": "1514743031599857686",
+      "author": "reeeheee",
+      "ts": "2026-06-11 18:28",
+      "orig": "Nie martw się, wystarczy, że osiągniesz tutaj 10 poziom (pisz wiadomości i bądź aktywny), a odzyskasz swoje uprawnienia.",
+      "en": "Don't worry, all you need to do is reach level 10 here (write messages and be active) and you will regain your rights.",
+      "pt": "Não se preocupe, tudo que você precisa fazer é atingir o nível 10 aqui (escrever mensagens e estar ativo) e você recuperará seus direitos.",
+      "label": ""
+    },
+    {
+      "id": "1514744605558706348",
+      "author": "lepryko",
+      "ts": "2026-06-11 18:34",
+      "orig": "a no rzeczywiscie nie mozna gifa jebnac xD",
+      "en": "and yes, you really can't fuck with a gif xD",
+      "pt": "e sim, você realmente não pode mexer com um gif xD",
+      "label": ""
+    },
+    {
+      "id": "1514747177312718908",
+      "author": "andur6453",
+      "ts": "2026-06-11 18:44",
+      "orig": "klucz do bossa aktu dropi z konkretnego poziomu czy losowo?",
+      "en": "Does the key to the boss of the act drop from a specific level or randomly?",
+      "pt": "A chave do chefe do ato cai de um nível específico ou aleatoriamente?",
+      "label": ""
+    },
+    {
+      "id": "1514747357324116119",
+      "author": "doritaozada_",
+      "ts": "2026-06-11 18:45",
+      "orig": "dobranoc ludzie",
+      "en": "goodnight people",
+      "pt": "boa noite pessoal",
+      "label": ""
+    },
+    {
+      "id": "1514747750762156052",
+      "author": "suuszi",
+      "ts": "2026-06-11 18:46",
+      "orig": "randomowo",
+      "en": "",
+      "pt": "aleatório",
+      "label": ""
+    },
+    {
+      "id": "1514751774853038314",
+      "author": "kraju",
+      "ts": "2026-06-11 19:02",
+      "orig": "2327 szkoda że zapomniałem o papierskiej liczbie XD",
+      "en": "2327 It's a pity I forgot about the paper number XD",
+      "pt": "2327 Pena que esqueci o número do papel XD",
+      "label": "clean"
+    },
+    {
+      "id": "1514751900178710558",
+      "author": "awlfly",
+      "ts": "2026-06-11 19:03",
+      "orig": "good morning",
+      "en": "",
+      "pt": "bom dia",
+      "label": ""
+    },
+    {
+      "id": "1514752350701490438",
+      "author": "leo_00002",
+      "ts": "2026-06-11 19:05",
+      "orig": "morning po",
+      "en": "",
+      "pt": "manhã",
+      "label": ""
+    },
+    {
+      "id": "1514759737940508793",
+      "author": "lepryko",
+      "ts": "2026-06-11 19:34",
+      "orig": "to tu jakis level jest xD ?",
+      "en": "so what level is there xD?",
+      "pt": "então que nível existe xD?",
+      "label": "clean"
+    },
+    {
+      "id": "1514762760611823747",
+      "author": "ativ3k",
+      "ts": "2026-06-11 19:46",
+      "orig": "ten co spamuje xDD",
+      "en": "have co spamuje xDD",
+      "pt": "tenho co spamuje xDD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514751653364891748.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517590079533613319",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 15:01",
+  "orig": "jeszcze ci pies wejdzie nie dość że marnuje tlen to jeszcze pierdoli że ucz się obcych języków",
+  "en": "and the dog will come in, not only is it wasting oxygen, it's also bullshit that you have to learn foreign languages",
+  "pt": "e o cachorro vai entrar, além de desperdiçar oxigênio, também é uma besteira que você tenha que aprender línguas estrangeiras",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517590079533613319",
+  "context": [
+    {
+      "id": "1517589551265091774",
+      "author": "kraju",
+      "ts": "2026-06-19 14:59",
+      "orig": "a co my małpy z 3 świata że mamy na luz wrzucić XDDD ?",
+      "en": "what about us monkeys from the 3rd world that we should take it easy XDDD?",
+      "pt": "e nós, macacos do 3º mundo, que devemos ir com calma XDDD?",
+      "label": "suspicious"
+    },
+    {
+      "id": "1517589959840890900",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:00",
+      "orig": "chyba swój serwer będzie trzeba założyć xd",
+      "en": "I guess you'll have to set up your own server xd",
+      "pt": "Eu acho que você terá que configurar seu próprio servidor xd",
+      "label": "clean"
+    },
+    {
+      "id": "1517589970565726234",
+      "author": "qndel",
+      "ts": "2026-06-19 15:00",
+      "orig": "jak byłem w kinie na planecie małp to dostałem wpierdol jak wychodziłem",
+      "en": "When I was at the Planet of the Apes cinema, I got screwed when I was leaving",
+      "pt": "Quando eu estava no cinema Planeta dos Macacos, me ferrou na hora de sair",
+      "label": "clean"
+    },
+    {
+      "id": "1517589995513184456",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 15:00",
+      "orig": "Haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517590005923577876",
+      "author": "qndel",
+      "ts": "2026-06-19 15:00",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517590123984850976",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 15:01",
+      "orig": "Ale napisał coś po Polsku",
+      "en": "But he wrote something in Polish",
+      "pt": "Mas ele escreveu algo em polonês",
+      "label": ""
+    },
+    {
+      "id": "1517590166280343723",
+      "author": "kraju",
+      "ts": "2026-06-19 15:01",
+      "orig": "niech on lepiej arabskiego lub innego ciapatego brudnego języka się uczy bo za 10 lat to białego w niemczech nie zobaczysz XD",
+      "en": "he better learn Arabic or another dirty dirty language because in 10 years you won't see a white person in Germany XD",
+      "pt": "é melhor ele aprender árabe ou outra língua suja porque em 10 anos você não verá uma pessoa branca na Alemanha XD",
+      "label": ""
+    },
+    {
+      "id": "1517590205467725855",
+      "author": "kraju",
+      "ts": "2026-06-19 15:01",
+      "orig": "no napisałz  tłumacza odkrycie roku xD",
+      "en": "Well, you wrote the translator - discovery of the year xD",
+      "pt": "Bem, você escreveu o tradutor - descoberta do ano xD",
+      "label": ""
+    },
+    {
+      "id": "1517590251936415744",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 15:01",
+      "orig": "W Niemczech też się uczą nowych języków i religii",
+      "en": "In Germany they also learn new languages ​​and religions",
+      "pt": "Na Alemanha também aprendem novas línguas e religiões",
+      "label": ""
+    },
+    {
+      "id": "1517590298136547459",
+      "author": "qndel",
+      "ts": "2026-06-19 15:02",
+      "orig": "w ogóle ja byłem w izraelu",
+      "en": "I was actually in Israel",
+      "pt": "Na verdade, eu estava em Israel",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517590079533613319.png"
+}

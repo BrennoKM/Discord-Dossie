@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517593087059427468",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 15:13",
+  "orig": "brazylia jest gorsza od turków",
+  "en": "brazil is worse than turks",
+  "pt": "o brasil é pior que os turcos",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517593087059427468",
+  "context": [
+    {
+      "id": "1517592978342805544",
+      "author": "kraju",
+      "ts": "2026-06-19 15:12",
+      "orig": "zgaduej jakiś brudas z brazyli czy innego 3 kraju xD",
+      "en": "guess some dirty guy from Brazil or another country xD",
+      "pt": "acho que algum cara safado do Brasil ou de outro país xD",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592990594633853",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:12",
+      "orig": "ta",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592996197957864",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:12",
+      "orig": "Taa",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517593013218578582",
+      "author": "kraju",
+      "ts": "2026-06-19 15:12",
+      "orig": "klasyk",
+      "en": "classic",
+      "pt": "clássico",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517593031153553659",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:12",
+      "orig": "Bo się zesrał o małpę to na bank brazyl",
+      "en": "Because he shit on a monkey, he's definitely Brazilian",
+      "pt": "Porque ele cagou no macaco, ele é definitivamente brasileiro",
+      "label": "racist"
+    },
+    {
+      "id": "1517593123843342537",
+      "author": "kraju",
+      "ts": "2026-06-19 15:13",
+      "orig": "turcy tylko za homo rzeczy sie obrażają XD",
+      "en": "Turks are only offended by homosexual things XD",
+      "pt": "Os turcos só se ofendem com coisas homossexuais XD",
+      "label": "offensive"
+    },
+    {
+      "id": "1517593152570261617",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:13",
+      "orig": "a jak już prawie to przekabaciłem to jeszcze zdjęcie chuja ktoś wyslał",
+      "en": "and when I almost got it over with, someone sent a photo of the dick",
+      "pt": "e quando quase acabei, alguém mandou uma foto do pau",
+      "label": "offensive"
+    },
+    {
+      "id": "1517593156139487353",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:13",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517593160300236852",
+      "author": "entotus",
+      "ts": "2026-06-19 15:13",
+      "orig": "brazylia jest lepsza od indii",
+      "en": "brazil is better than india",
+      "pt": "o brasil é melhor que a índia",
+      "label": ""
+    },
+    {
+      "id": "1517593162787328203",
+      "author": "entotus",
+      "ts": "2026-06-19 15:13",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517593087059427468.png"
+}

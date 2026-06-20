@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514609537930363022",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-11 09:37",
+  "orig": "i jebnal electrona xxD ?",
+  "en": "",
+  "pt": "eu jebnal eletrona xxD?",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514609537930363022",
+  "context": [
+    {
+      "id": "1514609415523930263",
+      "author": "ativ3k",
+      "ts": "2026-06-11 09:37",
+      "orig": "no ta cala apka to electron jest",
+      "en": "no ta kala apka to electron jest",
+      "pt": "não ta kala apka para brincadeira de elétrons",
+      "label": ""
+    },
+    {
+      "id": "1514609423564275734",
+      "author": "ativ3k",
+      "ts": "2026-06-11 09:37",
+      "orig": "wiec wiesz",
+      "en": "so you know",
+      "pt": "então você sabe",
+      "label": "clean"
+    },
+    {
+      "id": "1514609424747069560",
+      "author": "lepryko",
+      "ts": "2026-06-11 09:37",
+      "orig": "Ja bym zostawil i an 65 do limitless wpierdalam deco itp",
+      "en": "I would leave it and add deco to limitless, etc",
+      "pt": "Eu deixaria e adicionaria deco ao ilimitado, etc.",
+      "label": "clean"
+    },
+    {
+      "id": "1514609487191740486",
+      "author": "ativ3k",
+      "ts": "2026-06-11 09:37",
+      "orig": "electron, react, tailwinds, shadcn",
+      "en": "",
+      "pt": "elétron, reagir, ventos favoráveis, shadcn",
+      "label": "clean"
+    },
+    {
+      "id": "1514609516954779823",
+      "author": "lepryko",
+      "ts": "2026-06-11 09:37",
+      "orig": "czyli jakis C++ brazylijczyk, zrobil z AIem damage meter w HTML+JS",
+      "en": "i.e. some Brazilian C++ guy made a damage meter with AI in HTML+JS",
+      "pt": "ou seja, algum cara brasileiro de C++ fez um medidor de danos com IA em HTML+JS",
+      "label": "clean"
+    },
+    {
+      "id": "1514609663549640805",
+      "author": "halinanahealu",
+      "ts": "2026-06-11 09:38",
+      "orig": "ale ja mam arkane na 60 lvl, wiec mysle że ciezko żeby szybko arkana kolejna dropła i to na 65 lvl",
+      "en": "but I have an arcana at lvl 60, so I think it's hard to drop another arcana quickly and at lvl 65",
+      "pt": "mas eu tenho um arcano no lvl 60, então acho difícil dropar outro arcano rapidamente e no lvl 65",
+      "label": "clean"
+    },
+    {
+      "id": "1514609669962727464",
+      "author": "ativ3k",
+      "ts": "2026-06-11 09:38",
+      "orig": "94mb plik btw",
+      "en": "94mb download btw",
+      "pt": "94mb de download aliás",
+      "label": "clean"
+    },
+    {
+      "id": "1514609692448653424",
+      "author": "ativ3k",
+      "ts": "2026-06-11 09:38",
+      "orig": "po pobraniu",
+      "en": "after downloading",
+      "pt": "depois de baixar",
+      "label": ""
+    },
+    {
+      "id": "1514609717538979871",
+      "author": "lepryko",
+      "ts": "2026-06-11 09:38",
+      "orig": "czekaj na market kupisz xD",
+      "en": "wait for the market and you will buy it xD",
+      "pt": "espere o mercado e você vai comprar xD",
+      "label": ""
+    },
+    {
+      "id": "1514609741429477427",
+      "author": "lepryko",
+      "ts": "2026-06-11 09:38",
+      "orig": "ja nie sciagalemk, tlyko githuba przegladam",
+      "en": "I haven't downloaded them, I'm just browsing github",
+      "pt": "Não os baixei, estou apenas navegando no github",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514609537930363022.png"
+}

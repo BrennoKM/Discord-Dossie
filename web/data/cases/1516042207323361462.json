@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516042207323361462",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-15 08:30",
+  "orig": "no ja za małpy z faweli dostałem timeouta na 24 xD",
+  "en": "Well, I got a 24-hour timeout for monkeys from the favela xD",
+  "pt": "Bem, consegui um intervalo de 24 horas para os macacos da favela xD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516042207323361462",
+  "context": [
+    {
+      "id": "1516041460045189191",
+      "author": "rpgxdo",
+      "ts": "2026-06-15 08:27",
+      "orig": "🤔",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516041965345574963",
+      "author": "qndel",
+      "ts": "2026-06-15 08:29",
+      "orig": "<@706184252772843540> \n<@840483184575381504> <-- spammer",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516042095587098716",
+      "author": "kraju",
+      "ts": "2026-06-15 08:30",
+      "orig": "co kolejny robak wleciał z 3 świata spamować xD?",
+      "en": "what next worm came from world 3 to spam xD?",
+      "pt": "qual próximo worm veio do mundo 3 para enviar spam xD?",
+      "label": "clean"
+    },
+    {
+      "id": "1516042122761863168",
+      "author": "kraju",
+      "ts": "2026-06-15 08:30",
+      "orig": "ups znow timeout 24h :v",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516042136188096715",
+      "author": "qndel",
+      "ts": "2026-06-15 08:30",
+      "orig": "przecież ciągle wlatują ;p",
+      "en": "After all, they keep flying in ;p",
+      "pt": "Afinal, eles continuam voando ;p",
+      "label": "clean"
+    },
+    {
+      "id": "1516042270707683388",
+      "author": "zieloooony",
+      "ts": "2026-06-15 08:30",
+      "orig": "AXDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516042790386270390",
+      "author": "kolbi",
+      "ts": "2026-06-15 08:32",
+      "orig": "co tam nygusy ?",
+      "en": "what's up, niggas?",
+      "pt": "e aí, manos?",
+      "label": ""
+    },
+    {
+      "id": "1516042961719132171",
+      "author": "qndel",
+      "ts": "2026-06-15 08:33",
+      "orig": "nic paprochu z pępka",
+      "en": "no pus from the belly button",
+      "pt": "sem pus no umbigo",
+      "label": "clean"
+    },
+    {
+      "id": "1516042998159380590",
+      "author": "qndel",
+      "ts": "2026-06-15 08:33",
+      "orig": "🐴",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516043727183941833",
+      "author": "eruun_89",
+      "ts": "2026-06-15 08:36",
+      "orig": "szkoda ze na 40 lvl ;/",
+      "en": "Too bad it's lvl 40 ;/",
+      "pt": "Pena que é nível 40 ;/",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516042207323361462.png"
+}

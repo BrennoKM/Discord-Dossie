@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510823687018778755",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 22:53",
+  "orig": "a tam stoi 2 murzynow",
+  "en": "and there are 2 black men standing there",
+  "pt": "e há 2 homens negros parados ali",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510823687018778755",
+  "context": [
+    {
+      "id": "1510823611089420489",
+      "author": "entotus",
+      "ts": "2026-05-31 22:53",
+      "orig": "ja wyczuję na 100 metrów",
+      "en": "I can feel it at 100 meters",
+      "pt": "Eu posso sentir isso a 100 metros",
+      "label": ""
+    },
+    {
+      "id": "1510823629963923596",
+      "author": "entotus",
+      "ts": "2026-05-31 22:53",
+      "orig": "bo jak robiłem w niemczech",
+      "en": "because as I did in Germany",
+      "pt": "porque como eu fiz na Alemanha",
+      "label": ""
+    },
+    {
+      "id": "1510823643943272592",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:53",
+      "orig": "a najwieksza wiocha",
+      "en": "and the biggest cheer",
+      "pt": "e a maior alegria",
+      "label": "clean"
+    },
+    {
+      "id": "1510823658371678262",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:53",
+      "orig": "to festyn an times square xD",
+      "en": "",
+      "pt": "para festyn e vezes ao quadrado xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510823673416650812",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:53",
+      "orig": "idziesz time square",
+      "en": "you go time square",
+      "pt": "você vai ao quadrado do tempo",
+      "label": "clean"
+    },
+    {
+      "id": "1510823701913014412",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:54",
+      "orig": "z tymi stojakami na teleofn 360 xD",
+      "en": "with these stands for teleofn 360 xD",
+      "pt": "com estes suportes para teleofn 360 xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510823709278076998",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:54",
+      "orig": "glosnikiem jbl",
+      "en": "jbl speaker",
+      "pt": "alto-falante jbl",
+      "label": "clean"
+    },
+    {
+      "id": "1510823713799405598",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:54",
+      "orig": "z temu",
+      "en": "with this",
+      "pt": "com isso",
+      "label": "clean"
+    },
+    {
+      "id": "1510823721202614405",
+      "author": "entotus",
+      "ts": "2026-05-31 22:54",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510823727233896478",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:54",
+      "orig": "i puszcaaja njuuuuuuu jork",
+      "en": "",
+      "pt": "eu puszcaaja njuuuuuuu jork",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510823687018778755.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510815965993107626",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-05-31 22:23",
+  "orig": "black flag od ubisofta",
+  "en": "black flag from ubisoft",
+  "pt": "bandeira negra da ubisoft",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510815965993107626",
+  "context": [
+    {
+      "id": "1510815774405693572",
+      "author": "entotus",
+      "ts": "2026-05-31 22:22",
+      "orig": "no ale te gry nie żyją zbyt długo",
+      "en": "Well, these games don't live very long",
+      "pt": "Bem, esses jogos não duram muito",
+      "label": ""
+    },
+    {
+      "id": "1510815798627930284",
+      "author": "entotus",
+      "ts": "2026-05-31 22:22",
+      "orig": "bo content zanika",
+      "en": "",
+      "pt": "conteúdo bo zanika",
+      "label": ""
+    },
+    {
+      "id": "1510815894111260813",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:22",
+      "orig": "z Valheimem mi sie kojarzy",
+      "en": "It reminds me of Valheim",
+      "pt": "Isso me lembra Valheim",
+      "label": "clean"
+    },
+    {
+      "id": "1510815902382293102",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:23",
+      "orig": "tylko na morzu xD",
+      "en": "only at sea xD",
+      "pt": "só no mar xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510815946934194196",
+      "author": "entotus",
+      "ts": "2026-05-31 22:23",
+      "orig": "ta",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510815968522408057",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:23",
+      "orig": "jakos survivale mi sie rpzejadly",
+      "en": "I'm kind of tired of survival games",
+      "pt": "Estou meio cansado de jogos de sobrevivência",
+      "label": "clean"
+    },
+    {
+      "id": "1510815983814705206",
+      "author": "entotus",
+      "ts": "2026-05-31 22:23",
+      "orig": "ale lepsza wersja",
+      "en": "but a better version",
+      "pt": "mas uma versão melhor",
+      "label": "clean"
+    },
+    {
+      "id": "1510815985303687278",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:23",
+      "orig": "po 2k godzin w RUST XD",
+      "en": "after 2k hours in RUST XD",
+      "pt": "depois de 2k horas em RUST XD",
+      "label": "clean"
+    },
+    {
+      "id": "1510816019084476488",
+      "author": "entotus",
+      "ts": "2026-05-31 22:23",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510816051137613945",
+      "author": "entotus",
+      "ts": "2026-05-31 22:23",
+      "orig": "nie no ja mam tylko 800 godzin",
+      "en": "no, I only have 800 hours",
+      "pt": "não, só tenho 800 horas",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510815965993107626.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517554988522537083",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "229739417206521867",
+  "author": "shioae",
+  "ts": "2026-06-19 12:41",
+  "orig": "Nie czaisz że memuje że dodali kurwa materiał a nie można z nim nic zrobić aż nie wyjdzie nowy patch do jego użytku?",
+  "en": "Can't you see that he's memeing that they added fucking material and you can't do anything with it until a new patch comes out to use it?",
+  "pt": "Você não vê que ele está memeando que adicionaram um material foda e você não pode fazer nada com ele até que saia um novo patch para usá-lo?",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517554988522537083",
+  "context": [
+    {
+      "id": "1517554764513022002",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 12:40",
+      "orig": "mam na maxa",
+      "en": "I have it to the max",
+      "pt": "Eu tenho isso ao máximo",
+      "label": "clean"
+    },
+    {
+      "id": "1517554819529834609",
+      "author": "shioae",
+      "ts": "2026-06-19 12:41",
+      "orig": "No to za 3 updaty odblokujesz",
+      "en": "Well, you unblock it for 3 updates",
+      "pt": "Bem, você desbloqueia por 3 atualizações",
+      "label": "clean"
+    },
+    {
+      "id": "1517554836365906002",
+      "author": "shioae",
+      "ts": "2026-06-19 12:41",
+      "orig": "Proste czego nie rozumiesz",
+      "en": "It's simple what you don't understand",
+      "pt": "É simples o que você não entende",
+      "label": "clean"
+    },
+    {
+      "id": "1517554841352933396",
+      "author": "shioae",
+      "ts": "2026-06-19 12:41",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517554869341524088",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 12:41",
+      "orig": "mam na maxa, czego nie rozumiesz",
+      "en": "I have it to the max, what do you not understand?",
+      "pt": "Eu tenho isso ao máximo, o que você não entende?",
+      "label": "clean"
+    },
+    {
+      "id": "1517554994264412209",
+      "author": "lepryko",
+      "ts": "2026-06-19 12:41",
+      "orig": "w dupe se mozna wsadzic",
+      "en": "You can stick it up your ass",
+      "pt": "Você pode enfiar na sua bunda",
+      "label": "clean"
+    },
+    {
+      "id": "1517555003630551252",
+      "author": "lepryko",
+      "ts": "2026-06-19 12:41",
+      "orig": "ale ostre krawedzie",
+      "en": "but sharp edges",
+      "pt": "mas bordas afiadas",
+      "label": "clean"
+    },
+    {
+      "id": "1517555024039903362",
+      "author": "lepryko",
+      "ts": "2026-06-19 12:41",
+      "orig": "wiec lepiej perły",
+      "en": "so better pearls",
+      "pt": "então melhores pérolas",
+      "label": "clean"
+    },
+    {
+      "id": "1517555026820599868",
+      "author": "shioae",
+      "ts": "2026-06-19 12:41",
+      "orig": "Aż napisze prosciej żebyś skumał",
+      "en": "I'll just write to you so you can figure it out",
+      "pt": "Vou escrever para você para que você possa descobrir",
+      "label": "clean"
+    },
+    {
+      "id": "1517555077311893646",
+      "author": "mwahahahaa",
+      "ts": "2026-06-19 12:42",
+      "orig": "nie rozumiesz, ze mam na maxa odblokowane?",
+      "en": "Don't you understand that I have it unlocked to the max?",
+      "pt": "Você não entende que eu desbloqueei ao máximo?",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517554988522537083.png"
+}

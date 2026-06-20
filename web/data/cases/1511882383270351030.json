@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511882383270351030",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-03 21:00",
+  "orig": "najwazniejsze to nie wkurwic wieloryba xD",
+  "en": "the most important thing is not to piss off the whale xD",
+  "pt": "o mais importante é não irritar a baleia xD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511882383270351030",
+  "context": [
+    {
+      "id": "1511882154693492907",
+      "author": "dava1904",
+      "ts": "2026-06-03 20:59",
+      "orig": "juz defakto powinna byc afera",
+      "en": "There should already be a scandal",
+      "pt": "Já deveria haver um escândalo",
+      "label": ""
+    },
+    {
+      "id": "1511882191502573649",
+      "author": "dava1904",
+      "ts": "2026-06-03 21:00",
+      "orig": "o te itemy które defakto usuneli z rynku",
+      "en": "about those items that were de facto removed from the market",
+      "pt": "sobre os itens que foram de fato retirados do mercado",
+      "label": ""
+    },
+    {
+      "id": "1511882287455666197",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:00",
+      "orig": "mysle ze moze z 5 osob max zwhaleowalo ta gre tak opor",
+      "en": "he thinks that maybe out of 5 people max zwhaleowalo she goes so opor",
+      "pt": "ele acha que talvez entre 5 pessoas no máximo zwhaleowalo ela vá tão opor",
+      "label": "clean"
+    },
+    {
+      "id": "1511882302370877582",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:00",
+      "orig": "ich po id znalezli",
+      "en": "they found them for ID",
+      "pt": "eles os encontraram para identificação",
+      "label": "clean"
+    },
+    {
+      "id": "1511882314257535160",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:00",
+      "orig": "i niic nie cofneli xD",
+      "en": "",
+      "pt": "eu niic nie cofneli xD",
+      "label": "clean"
+    },
+    {
+      "id": "1511882776847323230",
+      "author": "kraju",
+      "ts": "2026-06-03 21:02",
+      "orig": "no właśnie wieloryba wkurwili (steam) xD",
+      "en": "well, they pissed off the whale (steam) xD",
+      "pt": "bom, eles irritaram a baleia (vapor) xD",
+      "label": "clean"
+    },
+    {
+      "id": "1511882938311249962",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:03",
+      "orig": "steam swoje zarobil XD mysle ze zacieraja raczki xD",
+      "en": "Steam has earned its money XD I think they are rubbing their hands xD",
+      "pt": "O Steam ganhou seu dinheiro XD Acho que eles estão esfregando as mãos xD",
+      "label": "clean"
+    },
+    {
+      "id": "1511882978714980382",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:03",
+      "orig": "pewnie jak byl problemz  marketem na szybko zthrottlowali ich gierke",
+      "en": "probably when there was a problem with the market, they quickly throttled their game",
+      "pt": "provavelmente quando houve um problema com o mercado, eles rapidamente aceleraram o jogo",
+      "label": "clean"
+    },
+    {
+      "id": "1511882996238651392",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:03",
+      "orig": "zeby nie zajebala caleog marketu",
+      "en": "so that it doesn't destroy the entire market",
+      "pt": "para que não destrua todo o mercado",
+      "label": ""
+    },
+    {
+      "id": "1511883007118802944",
+      "author": "lepryko",
+      "ts": "2026-06-03 21:03",
+      "orig": "i dzialo sie dalej",
+      "en": "and it continued",
+      "pt": "e continuou",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511882383270351030.png"
+}

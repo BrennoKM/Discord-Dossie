@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516134406081744958",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-15 14:36",
+  "orig": "Muszę częściej wychodzić z domu",
+  "en": "I need to get out of the house more often",
+  "pt": "Preciso sair de casa com mais frequência",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516134406081744958",
+  "context": [
+    {
+      "id": "1516134256571580436",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:36",
+      "orig": "Nikogo divine tam nie spotkałem",
+      "en": "I didn't meet anyone divine there",
+      "pt": "Não conheci ninguém divino lá",
+      "label": ""
+    },
+    {
+      "id": "1516134293414608896",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:36",
+      "orig": "chelm na wschodzie",
+      "en": "chelm in the east",
+      "pt": "helm no leste",
+      "label": ""
+    },
+    {
+      "id": "1516134316231491635",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:36",
+      "orig": "przy granicy z bialorusia",
+      "en": "near the border with Belarus",
+      "pt": "perto da fronteira com a Bielorrússia",
+      "label": "clean"
+    },
+    {
+      "id": "1516134374867865720",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:36",
+      "orig": "To polska graniczy z Białorusią?",
+      "en": "Is Poland bordering on Belarus?",
+      "pt": "A Polónia faz fronteira com a Bielorrússia?",
+      "label": "clean"
+    },
+    {
+      "id": "1516134380555337928",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:36",
+      "orig": "Kurde",
+      "en": "Kurdish",
+      "pt": "curdo",
+      "label": "clean"
+    },
+    {
+      "id": "1516134433298841652",
+      "author": "d3_stro",
+      "ts": "2026-06-15 14:36",
+      "orig": "tylko od strony niemiec",
+      "en": "only from Germany",
+      "pt": "só da Alemanha",
+      "label": "clean"
+    },
+    {
+      "id": "1516134477544296590",
+      "author": "xferbuson",
+      "ts": "2026-06-15 14:37",
+      "orig": "Nie wierze, dostalem tarcze, szkoda ze na mniejszy lvl lepsza xd\n5,1% red odnow i zbroja 1297 vs aktualna maks pz 168 i 13% do res zywiolow",
+      "en": "I can't believe it, I got a shield, too bad it's better for a lower level xd\n5.1% red regeneration and armor 1297 vs current max HP 168 and 13% elemental res",
+      "pt": "Não acredito, tenho um escudo, pena que é melhor para um nível inferior xd\n5,1% de regeneração vermelha e armadura 1297 vs HP máximo atual 168 e 13% de resolução elementar",
+      "label": "clean"
+    },
+    {
+      "id": "1516134482527129804",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:37",
+      "orig": "To już nie te same Niemcy co kiedyś....",
+      "en": "It's not the same Germany as it used to be....",
+      "pt": "Não é a mesma Alemanha de antigamente....",
+      "label": "clean"
+    },
+    {
+      "id": "1516134567868760286",
+      "author": "xferbuson",
+      "ts": "2026-06-15 14:37",
+      "orig": "Bez malarza to nie to samo",
+      "en": "It's not the same without a painter",
+      "pt": "Não é a mesma coisa sem um pintor",
+      "label": ""
+    },
+    {
+      "id": "1516134603214164049",
+      "author": "pentagram",
+      "ts": "2026-06-15 14:37",
+      "orig": "Dokładnie",
+      "en": "Exactly",
+      "pt": "Exatamente",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516134406081744958.png"
+}

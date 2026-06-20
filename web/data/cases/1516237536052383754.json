@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516237536052383754",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-15 21:26",
+  "orig": "pierdole takie sprzedawanie, bede tylko kupowal XD",
+  "en": "this is bullshit selling, I'll just buy XD",
+  "pt": "isso é uma besteira de venda, vou comprar XD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516237536052383754",
+  "context": [
+    {
+      "id": "1516237476187082862",
+      "author": "entotus",
+      "ts": "2026-06-15 21:26",
+      "orig": "to niezle",
+      "en": "that's not bad",
+      "pt": "isso não é ruim",
+      "label": "clean"
+    },
+    {
+      "id": "1516237489818570842",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:26",
+      "orig": "wiec se posprzedajesz 4 itemy",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516237493761216614",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:26",
+      "orig": "na 8h xD",
+      "en": "and 8h xD",
+      "pt": "e 8h xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516237502363598878",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:26",
+      "orig": "i pilnuj jak pies",
+      "en": "and watch like a dog",
+      "pt": "e observe como um cachorro",
+      "label": "suspicious"
+    },
+    {
+      "id": "1516237509225349273",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:26",
+      "orig": "zeby zmieniac xD",
+      "en": "to change xD",
+      "pt": "para mudar xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516237620080934984",
+      "author": "entotus",
+      "ts": "2026-06-15 21:26",
+      "orig": "nie no to nie opłaca mi sie tych gówien za 3 zł sprzedawac",
+      "en": "no, it's not worth selling this crap for PLN 3",
+      "pt": "não, não vale a pena vender essa porcaria por 3 PLN",
+      "label": "clean"
+    },
+    {
+      "id": "1516237712053633064",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:27",
+      "orig": "no szkoda slota",
+      "en": "",
+      "pt": "bem, é uma pena o slot",
+      "label": ""
+    },
+    {
+      "id": "1516237720207495280",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:27",
+      "orig": "specjalnie to zrobili",
+      "en": "they did it on purpose",
+      "pt": "eles fizeram isso de propósito",
+      "label": ""
+    },
+    {
+      "id": "1516237729011339387",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:27",
+      "orig": "zeby nie syfili",
+      "en": "lest they be syphilitic",
+      "pt": "para que não sejam sifilíticos",
+      "label": ""
+    },
+    {
+      "id": "1516237742588039168",
+      "author": "lepryko",
+      "ts": "2026-06-15 21:27",
+      "orig": "itemami za 12gr XD",
+      "en": "items for 12gr XD",
+      "pt": "itens para 12gr XD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516237536052383754.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510338019016704051",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-05-30 14:44",
+  "orig": "przez napływ botów od ruskich i chinczyków  warstwa którą zapewnia steam nie wyrabia :v i się system wywalił trzeba czekać aż steam coś z tym zrobi",
+  "en": "due to the influx of bots from Russians and Chinese, the layer provided by steam does not work :v and the system crashes, you have to wait until steam does something about it",
+  "pt": "devido ao influxo de bots de russos e chineses, a camada fornecida pelo Steam não funciona :v e o sistema trava, você tem que esperar até que o Steam faça algo a respeito",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510338019016704051",
+  "context": [
+    {
+      "id": "1510337754654048397",
+      "author": "amazingblatman",
+      "ts": "2026-05-30 14:43",
+      "orig": "ja sprzedawałem póki jeszcze alchemię miałem",
+      "en": "I sold it while I still had alchemy",
+      "pt": "Eu vendi enquanto ainda tinha alquimia",
+      "label": ""
+    },
+    {
+      "id": "1510337810358341754",
+      "author": "d3_stro",
+      "ts": "2026-05-30 14:43",
+      "orig": "w sensie na rynku steam ?",
+      "en": "I mean, on the steam market?",
+      "pt": "Quero dizer, no mercado de vapor?",
+      "label": ""
+    },
+    {
+      "id": "1510337822513561820",
+      "author": "greendragon2285",
+      "ts": "2026-05-30 14:43",
+      "orig": "synteze rób z alhemią jest jakis problem i nie daje cos siana mają to naprawic dzis jak zrestartujesz gre to ci sie zablokuje po aktualizajci sama aż nie naprawią XD",
+      "en": "synthesis, do alhemia, there is some problem and it doesn't work, they are going to fix it today, when you restart the game, it will block itself after the update until they fix it XD",
+      "pt": "síntese, faça alhemia, tem algum problema e não funciona, eles vão consertar hoje, quando você reiniciar o jogo, ele vai bloquear sozinho após a atualização até consertarem XD",
+      "label": "clean"
+    },
+    {
+      "id": "1510337827332685924",
+      "author": "kraju",
+      "ts": "2026-05-30 14:43",
+      "orig": "tak",
+      "en": "not",
+      "pt": "não",
+      "label": "clean"
+    },
+    {
+      "id": "1510337967082836078",
+      "author": "greendragon2285",
+      "ts": "2026-05-30 14:43",
+      "orig": "ja na rynku sprzedawałam głownie klucze do bosa i materiały te klejnoty miały dobre ceny",
+      "en": "I mainly sold bosa keys on the market and these jewelery materials were at good prices",
+      "pt": "Vendi principalmente chaves bosa no mercado e esses materiais de joalheria estavam com bons preços",
+      "label": "clean"
+    },
+    {
+      "id": "1510338147303555142",
+      "author": "d3_stro",
+      "ts": "2026-05-30 14:44",
+      "orig": "100k graczy btw",
+      "en": "100k players btw",
+      "pt": "100 mil jogadores aliás",
+      "label": "clean"
+    },
+    {
+      "id": "1510338154274750584",
+      "author": "d3_stro",
+      "ts": "2026-05-30 14:44",
+      "orig": "online xd",
+      "en": "",
+      "pt": "on-line xd",
+      "label": "clean"
+    },
+    {
+      "id": "1510338176068358373",
+      "author": "kraju",
+      "ts": "2026-05-30 14:44",
+      "orig": "z 60 k to boty",
+      "en": "from 60 k to shoes",
+      "pt": "de 60 mil a sapatos",
+      "label": "clean"
+    },
+    {
+      "id": "1510338194716233908",
+      "author": "amazingblatman",
+      "ts": "2026-05-30 14:44",
+      "orig": "więcej myślę",
+      "en": "I think more",
+      "pt": "eu penso mais",
+      "label": ""
+    },
+    {
+      "id": "1510338207143690270",
+      "author": "d3_stro",
+      "ts": "2026-05-30 14:44",
+      "orig": "noo na bank",
+      "en": "forehead bank",
+      "pt": "banco de testa",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510338019016704051.png"
+}

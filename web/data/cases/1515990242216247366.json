@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515990242216247366",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "705009508316872725",
+  "author": "d3_stro",
+  "ts": "2026-06-15 05:03",
+  "orig": "Wystarczyło by z banana zrobić rpg",
+  "en": "It would be enough to turn a banana into an RPG",
+  "pt": "Bastaria transformar uma banana em um RPG",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515990242216247366",
+  "context": [
+    {
+      "id": "1515990108254244965",
+      "author": "d3_stro",
+      "ts": "2026-06-15 05:03",
+      "orig": "Tutaj też mogą tak zrobić",
+      "en": "They can do that here too",
+      "pt": "Eles podem fazer isso aqui também",
+      "label": "clean"
+    },
+    {
+      "id": "1515990131675365396",
+      "author": "d3_stro",
+      "ts": "2026-06-15 05:03",
+      "orig": "W sensie to już zrobili",
+      "en": "In a sense, they have already done it",
+      "pt": "De certa forma, eles já fizeram isso",
+      "label": "clean"
+    },
+    {
+      "id": "1515990156304322602",
+      "author": "qndel",
+      "ts": "2026-06-15 05:03",
+      "orig": "tutaj to mam wywalone, chcę odzyskać swoje 20zł i elo xD",
+      "en": "I've lost it here, I want to get my PLN 20 back and that's it xD",
+      "pt": "Perdi aqui, quero recuperar meus 20 PLN e pronto xD",
+      "label": "clean"
+    },
+    {
+      "id": "1515990181101174955",
+      "author": "d3_stro",
+      "ts": "2026-06-15 05:03",
+      "orig": "Bo steam im dał ograniczenia już",
+      "en": "Because Steam has already given them restrictions",
+      "pt": "Porque o Steam já lhes deu restrições",
+      "label": "clean"
+    },
+    {
+      "id": "1515990182808125566",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 05:03",
+      "orig": "Wystarczyło do bananów dodać jakieś specjalne staty i ceny by poszybowały",
+      "en": "All you had to do was add some special stats to the bananas and the prices would skyrocket",
+      "pt": "Tudo o que você precisava fazer era adicionar algumas estatísticas especiais às bananas e os preços disparariam",
+      "label": "clean"
+    },
+    {
+      "id": "1515990266882822155",
+      "author": "d3_stro",
+      "ts": "2026-06-15 05:04",
+      "orig": "I już by jakiś to sens miało",
+      "en": "And it would make some sense",
+      "pt": "E faria algum sentido",
+      "label": "clean"
+    },
+    {
+      "id": "1515990278983647332",
+      "author": "pentagram",
+      "ts": "2026-06-15 05:04",
+      "orig": "Wystarczyło by nie zmieniać xd",
+      "en": "It would be enough not to change xd",
+      "pt": "Bastaria não mudar xd",
+      "label": "clean"
+    },
+    {
+      "id": "1515990300789706863",
+      "author": "d3_stro",
+      "ts": "2026-06-15 05:04",
+      "orig": "Nie no musieli",
+      "en": "No, they had to",
+      "pt": "Não, eles tiveram que",
+      "label": "clean"
+    },
+    {
+      "id": "1515990327125868614",
+      "author": "d3_stro",
+      "ts": "2026-06-15 05:04",
+      "orig": "Bo pewnie za dużo było tego na smp",
+      "en": "Because there was probably too much of it for smp",
+      "pt": "Porque provavelmente havia muito disso para SMP",
+      "label": ""
+    },
+    {
+      "id": "1515990359119761468",
+      "author": "pentagram",
+      "ts": "2026-06-15 05:04",
+      "orig": "Rar byłby rare",
+      "en": "Rar would be rare",
+      "pt": "Rar seria raro",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515990242216247366.png"
+}

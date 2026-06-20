@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512347224389058700",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-05 03:47",
+  "orig": "murzyn",
+  "en": "",
+  "pt": "",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512347224389058700",
+  "context": [
+    {
+      "id": "1512347194219302972",
+      "author": "kraju",
+      "ts": "2026-06-05 03:47",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512347196970766456",
+      "author": "kraju",
+      "ts": "2026-06-05 03:47",
+      "orig": "klasyka",
+      "en": "classic",
+      "pt": "clássico",
+      "label": ""
+    },
+    {
+      "id": "1512347198820454440",
+      "author": "kraju",
+      "ts": "2026-06-05 03:47",
+      "orig": "kina",
+      "en": "deep",
+      "pt": "profundo",
+      "label": "clean"
+    },
+    {
+      "id": "1512347201060339852",
+      "author": "kraju",
+      "ts": "2026-06-05 03:47",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512347220060405821",
+      "author": "entotus",
+      "ts": "2026-06-05 03:47",
+      "orig": "deutchland deutchland",
+      "en": "",
+      "pt": "Alemanha Alemanha",
+      "label": "clean"
+    },
+    {
+      "id": "1512347227622871140",
+      "author": "kraju",
+      "ts": "2026-06-05 03:47",
+      "orig": "niger",
+      "en": "",
+      "pt": "Níger",
+      "label": "clean"
+    },
+    {
+      "id": "1512347258681692190",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 03:48",
+      "orig": "Reused assets po prostu <:FrogeReverse:1372233331604852869>",
+      "en": "",
+      "pt": "Ativos reutilizados para prostu <:FrogeReverse:1372233331604852869>",
+      "label": "clean"
+    },
+    {
+      "id": "1512347259788853269",
+      "author": "kraju",
+      "ts": "2026-06-05 03:48",
+      "orig": "hmm",
+      "en": "",
+      "pt": "hum",
+      "label": "clean"
+    },
+    {
+      "id": "1512347325169668218",
+      "author": "kraju",
+      "ts": "2026-06-05 03:48",
+      "orig": "nie tam tylko delikatnie arty podjebali",
+      "en": "not there, they just slightly fucked up the art",
+      "pt": "não está aí, eles apenas estragaram um pouco a arte",
+      "label": ""
+    },
+    {
+      "id": "1512347325513863279",
+      "author": "entotus",
+      "ts": "2026-06-05 03:48",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512347224389058700.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512341416410480720",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-05 03:24",
+  "orig": "te małpy cie zmutowały XD",
+  "en": "these monkeys have mutated you XD",
+  "pt": "esses macacos transformaram você XD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512341416410480720",
+  "context": [
+    {
+      "id": "1512341350610374779",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:24",
+      "orig": "wkońcu",
+      "en": "at last",
+      "pt": "afinal",
+      "label": ""
+    },
+    {
+      "id": "1512341376472318012",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:24",
+      "orig": "miałem muta",
+      "en": "I had a mut",
+      "pt": "eu tive um mut",
+      "label": ""
+    },
+    {
+      "id": "1512341381451087943",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:24",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512341391819411606",
+      "author": "kraju",
+      "ts": "2026-06-05 03:24",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512341394663014460",
+      "author": "kraju",
+      "ts": "2026-06-05 03:24",
+      "orig": "za co",
+      "en": "what for",
+      "pt": "para que",
+      "label": "clean"
+    },
+    {
+      "id": "1512341525248479394",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:25",
+      "orig": "w odpowiedzi do wiadomości jakiegoś typa wyslałem screena jego wiadomości żeby nie usunął i spingowałem admin",
+      "en": "In response to a guy's message, I sent a screenshot of his message so he wouldn't delete it and pinged the admin",
+      "pt": "Em resposta à mensagem de um cara, enviei uma captura de tela da mensagem dele para que ele não a excluísse e enviei um ping para o administrador",
+      "label": "clean"
+    },
+    {
+      "id": "1512341562208686190",
+      "author": "kraju",
+      "ts": "2026-06-05 03:25",
+      "orig": "xDDDDDDDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512341571633152040",
+      "author": "kraju",
+      "ts": "2026-06-05 03:25",
+      "orig": "no tak",
+      "en": "yeah",
+      "pt": "sim",
+      "label": "clean"
+    },
+    {
+      "id": "1512341615098728569",
+      "author": "kraju",
+      "ts": "2026-06-05 03:25",
+      "orig": "ping admina przerwałeś mu prompowanie w chatgpt",
+      "en": "admin ping you interrupted him from promoting in chatgpt",
+      "pt": "admin ping você o interrompeu de promover no chatgpt",
+      "label": ""
+    },
+    {
+      "id": "1512341640617132052",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:25",
+      "orig": "ale to po rno było i w sumie nie przemyślałem bo już tak robię z automatu",
+      "en": "but it was over and I didn't really think it through because I already do it automatically",
+      "pt": "mas acabou e eu realmente não pensei muito porque já faço isso automaticamente",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512341416410480720.png"
+}

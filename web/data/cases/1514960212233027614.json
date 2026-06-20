@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514960212233027614",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-12 08:51",
+  "orig": "kurwa kolejny robak z kraju 3 świata",
+  "en": "another fucking worm from a 3rd world country",
+  "pt": "outro maldito verme de um país do terceiro mundo",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514960212233027614",
+  "context": [
+    {
+      "id": "1514959929872613429",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:49",
+      "orig": "ja mam aktualnie 3 gierki odpalone xD mam nadziej e ze nie wyrwe bana xD",
+      "en": "I currently have 3 games running xD I hope I won't get banned xD",
+      "pt": "Atualmente tenho 3 jogos rodando xD, espero não ser banido xD",
+      "label": ""
+    },
+    {
+      "id": "1514959979835031672",
+      "author": "kraju",
+      "ts": "2026-06-12 08:50",
+      "orig": "uważaj na 100% cpu XD",
+      "en": "watch out for 100% cpu XD",
+      "pt": "cuidado com 100% da CPU XD",
+      "label": ""
+    },
+    {
+      "id": "1514959987158417408",
+      "author": "kobernn",
+      "ts": "2026-06-12 08:50",
+      "orig": "<:admin3:1510242225013919927>",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514960116431065148",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:50",
+      "orig": "9% XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514960129873805393",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:50",
+      "orig": "max do 15 skacze",
+      "en": "jumps up to 15 max",
+      "pt": "salta até 15 no máximo",
+      "label": "clean"
+    },
+    {
+      "id": "1514960233527644273",
+      "author": "eruun_89",
+      "ts": "2026-06-12 08:51",
+      "orig": "podobno tbh nie lubi sie z poe2",
+      "en": "apparently tbh he doesn't like poe2",
+      "pt": "aparentemente ele não gosta de poe2",
+      "label": "clean"
+    },
+    {
+      "id": "1514960277073035426",
+      "author": "kraju",
+      "ts": "2026-06-12 08:51",
+      "orig": "tbh z niczym do konca sie nie lubi xD",
+      "en": "tbh I don't really like anything xD",
+      "pt": "para ser sincero, não gosto de nada xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514960280902172785",
+      "author": "lepryko",
+      "ts": "2026-06-12 08:51",
+      "orig": "to kwesit aprocesu czy CPU usage xD ?",
+      "en": "Is it a matter of process or CPU usage xD?",
+      "pt": "É uma questão de processo ou uso de CPU xD?",
+      "label": "clean"
+    },
+    {
+      "id": "1514960311520858204",
+      "author": "kraju",
+      "ts": "2026-06-12 08:51",
+      "orig": "cpu usage",
+      "en": "",
+      "pt": "uso da CPU",
+      "label": ""
+    },
+    {
+      "id": "1514960330311209144",
+      "author": "kraju",
+      "ts": "2026-06-12 08:51",
+      "orig": "jak zatkasz cpu",
+      "en": "how do you clog the cpu?",
+      "pt": "como você entope a CPU?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514960212233027614.png"
+}

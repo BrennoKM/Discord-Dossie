@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512381027509600306",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "479042440653701164",
+  "author": "jedynak_",
+  "ts": "2026-06-05 06:02",
+  "orig": "Kolego heala wypierdol",
+  "en": "Fuck off heal buddy",
+  "pt": "Vai se foder amigo",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512381027509600306",
+  "context": [
+    {
+      "id": "1512380772936454214",
+      "author": "jedynak_",
+      "ts": "2026-06-05 06:01",
+      "orig": "Luczniku* full bizu było na priescie",
+      "en": "Lucznik* there was a lot of business at the Priest",
+      "pt": "Lucznik* havia muitos negócios no Padre",
+      "label": ""
+    },
+    {
+      "id": "1512380843690168431",
+      "author": "jedynak_",
+      "ts": "2026-06-05 06:01",
+      "orig": "Może ewentualnie trochę chaos resa na priesta plus max hp jak nie masz",
+      "en": "Maybe a bit of chaos resa on priest plus max hp if you don't have it",
+      "pt": "Talvez um pouco de caos resa no padre mais HP máximo se você não tiver",
+      "label": ""
+    },
+    {
+      "id": "1512380868641947800",
+      "author": "jedynak_",
+      "ts": "2026-06-05 06:01",
+      "orig": "Bo od 3-7 już chyba z chaosu biją",
+      "en": "Because from 3-7 they seem to be in chaos",
+      "pt": "Porque de 3 a 7 eles parecem estar um caos",
+      "label": "clean"
+    },
+    {
+      "id": "1512380893874884688",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-05 06:01",
+      "orig": "no na nim to musze na pewno zmienic kamyki w broni xd",
+      "en": "well, I definitely need to change the stones in the weapon xd",
+      "pt": "bem, eu definitivamente preciso trocar as pedras da arma xd",
+      "label": "clean"
+    },
+    {
+      "id": "1512380972388319312",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-05 06:02",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512381041963434078",
+      "author": "jedynak_",
+      "ts": "2026-06-05 06:02",
+      "orig": "I dodaj w dmg",
+      "en": "And add in dmg",
+      "pt": "E adicione dmg",
+      "label": "clean"
+    },
+    {
+      "id": "1512381083553894600",
+      "author": "jedynak_",
+      "ts": "2026-06-05 06:02",
+      "orig": "W bizu trochę life leech z 5%",
+      "en": "A little life leech in the business with 5%",
+      "pt": "Uma pequena sanguessuga no negócio com 5%",
+      "label": "clean"
+    },
+    {
+      "id": "1512381104756232203",
+      "author": "jedynak_",
+      "ts": "2026-06-05 06:02",
+      "orig": "I movement speed i lecisz 2-4",
+      "en": "And movement speed and you fly 2-4",
+      "pt": "E velocidade de movimento e você voa 2-4",
+      "label": "clean"
+    },
+    {
+      "id": "1512381169461891243",
+      "author": "jedynak_",
+      "ts": "2026-06-05 06:02",
+      "orig": "Block chance chuja daje bo dostajesz dmg z ele",
+      "en": "Block chance doesn't give a damn because you get dmg from ele",
+      "pt": "A chance de bloqueio não dá a mínima porque você recebe dano dele",
+      "label": ""
+    },
+    {
+      "id": "1512381185429475498",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-05 06:02",
+      "orig": "mam life leecha na nim troche",
+      "en": "I'm having a bit of a life with it",
+      "pt": "Estou tendo um pouco de vida com isso",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512381027509600306.png"
+}

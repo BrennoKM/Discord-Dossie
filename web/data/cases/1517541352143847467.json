@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517541352143847467",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "229739417206521867",
+  "author": "shioae",
+  "ts": "2026-06-19 11:47",
+  "orig": "Kurwa patologia jakas xd",
+  "en": "What a fucking pathology. XD",
+  "pt": "Que porra de patologia. XD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517541352143847467",
+  "context": [
+    {
+      "id": "1517541242265665547",
+      "author": "shioae",
+      "ts": "2026-06-19 11:47",
+      "orig": "Metina napierdalaj",
+      "en": "Metina, fuck off",
+      "pt": "Metina, vá se foder",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517541273207177256",
+      "author": "entotus",
+      "ts": "2026-06-19 11:47",
+      "orig": "dropy obnizyli",
+      "en": "they lowered the drops",
+      "pt": "eles baixaram as gotas",
+      "label": "clean"
+    },
+    {
+      "id": "1517541296590557344",
+      "author": "entotus",
+      "ts": "2026-06-19 11:47",
+      "orig": "w skrzynkach",
+      "en": "in boxes",
+      "pt": "em caixas",
+      "label": "clean"
+    },
+    {
+      "id": "1517541322528133314",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:47",
+      "orig": "kamień akurat stonks",
+      "en": "the stone is actually stonks",
+      "pt": "a pedra é na verdade pedregosa",
+      "label": "clean"
+    },
+    {
+      "id": "1517541348037754881",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:47",
+      "orig": "ale to napewno",
+      "en": "but that's for sure",
+      "pt": "mas isso é certo",
+      "label": "clean"
+    },
+    {
+      "id": "1517541375736938578",
+      "author": "entotus",
+      "ts": "2026-06-19 11:47",
+      "orig": "kamień dobry bo buty wylecą fajne",
+      "en": "the stone is good because the shoes will turn out fine",
+      "pt": "a pedra é boa porque os sapatos vão ficar bem",
+      "label": "clean"
+    },
+    {
+      "id": "1517541379146780822",
+      "author": "pentagram",
+      "ts": "2026-06-19 11:47",
+      "orig": "mam nadzieje ze jak market wejdzie to wszystko unselable co bylo wydropione wczesniej i chuj",
+      "en": "I hope that when it comes to the market, everything that was dropped earlier will be unselable and shit",
+      "pt": "Espero que, quando chegar ao mercado, tudo o que foi descartado antes seja invendável e merda",
+      "label": "clean"
+    },
+    {
+      "id": "1517541403578859591",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:47",
+      "orig": "jak wracam z roboty to mam całe eq zajebane siwym syfem",
+      "en": "When I come back from work, my entire eq is full of gray crap",
+      "pt": "Quando volto do trabalho, meu equalizador inteiro está cheio de porcaria cinza",
+      "label": ""
+    },
+    {
+      "id": "1517541442246017276",
+      "author": "shioae",
+      "ts": "2026-06-19 11:47",
+      "orig": "A powiedzcie mi jeszcze bo odpowiadacie",
+      "en": "And tell me because you answer",
+      "pt": "E me diga porque você responde",
+      "label": ""
+    },
+    {
+      "id": "1517541464748458094",
+      "author": "xbiedro",
+      "ts": "2026-06-19 11:47",
+      "orig": "zastanawiam się czy nie stackować commonów tylko po to żeby tego gówna nie zbierać",
+      "en": "I'm wondering whether to stack commons just to not collect this shit",
+      "pt": "Estou me perguntando se devo empilhar bens comuns só para não coletar essa merda",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517541352143847467.png"
+}

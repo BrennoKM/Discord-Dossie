@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512460169525592094",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-05 11:16",
+  "orig": "ja kurwa nie rozumiem, czemu oni tak mocno zjebali te itemy ze im steam kazał ustawic droprate na 11 minut xD",
+  "en": "I don't fucking understand why they fucked up these items so much that Steam told them to set the droprate to 11 minutes xD",
+  "pt": "Eu não entendo por que eles estragaram tanto esses itens que o Steam lhes disse para definir a taxa de drop para 11 minutos xD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512460169525592094",
+  "context": [
+    {
+      "id": "1512459901870542979",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:15",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512459916252676311",
+      "author": "lepryko",
+      "ts": "2026-06-05 11:15",
+      "orig": "no XD",
+      "en": "",
+      "pt": "não XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512459965917561112",
+      "author": "lepryko",
+      "ts": "2026-06-05 11:15",
+      "orig": "cirkawe realnie ile gra osob liczac tylko jjedno konto xd",
+      "en": "cirkawe realistically how many people play, counting only one account xd",
+      "pt": "circawe realisticamente quantas pessoas jogam, contando apenas uma conta xd",
+      "label": "clean"
+    },
+    {
+      "id": "1512459968073171074",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:15",
+      "orig": "ale mocno też nagłośnione tu przez discord",
+      "en": "but also heavily publicized here on discord",
+      "pt": "mas também bastante divulgado aqui no discord",
+      "label": "clean"
+    },
+    {
+      "id": "1512460164790353921",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:16",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512460178740482128",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:16",
+      "orig": "to też nie mało",
+      "en": "that's not a small thing either",
+      "pt": "isso também não é pouca coisa",
+      "label": "clean"
+    },
+    {
+      "id": "1512460221552005281",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:16",
+      "orig": "i to commonów",
+      "en": "",
+      "pt": "eu vou comum",
+      "label": "clean"
+    },
+    {
+      "id": "1512460231341379584",
+      "author": "xbiedro",
+      "ts": "2026-06-05 11:16",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512460241080553643",
+      "author": "entotus",
+      "ts": "2026-06-05 11:17",
+      "orig": "xDDD",
+      "en": "xDD",
+      "pt": "xDD",
+      "label": ""
+    },
+    {
+      "id": "1512460277285654621",
+      "author": "entotus",
+      "ts": "2026-06-05 11:17",
+      "orig": "nie no jak zmaksujesz commony",
+      "en": "no, how do you max out commons?",
+      "pt": "não, como você maximiza os bens comuns?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512460169525592094.png"
+}

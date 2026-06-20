@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517576502378758388",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 14:07",
+  "orig": "długo walczyłem żeby te małpy się udało uniknąć ale wtedy majusz tego chuja wysłał akurat jak tu patrzeli",
+  "en": "I fought for a long time to avoid these monkeys, but then Majusz sent this dick just as they were looking here",
+  "pt": "Lutei muito tempo para evitar esses macacos, mas aí Majusz mandou esse pau assim que eles estavam olhando aqui",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517576502378758388",
+  "context": [
+    {
+      "id": "1517575422533963936",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:02",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517576205526630641",
+      "author": "qndel",
+      "ts": "2026-06-19 14:06",
+      "orig": "pin jutro \"dupy też proszę nie wysyłać ani jajek\"",
+      "en": "pin tomorrow \"please don't send asses or eggs\"",
+      "pt": "pin amanhã \"por favor, não mande burros ou ovos\"",
+      "label": ""
+    },
+    {
+      "id": "1517576210224254988",
+      "author": "qndel",
+      "ts": "2026-06-19 14:06",
+      "orig": "😄",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517576338461032618",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:06",
+      "orig": "no generalnie to ja nie banuje za bardzo za takie rzeczy bo równie dobrzem można by było ten kanał poprostu usunąć",
+      "en": "Well, generally I don't ban too much for such things because this channel could just as easily be deleted",
+      "pt": "Bem, geralmente eu não bano muito essas coisas porque esse canal poderia ser facilmente excluído",
+      "label": "clean"
+    },
+    {
+      "id": "1517576422451843164",
+      "author": "qndel",
+      "ts": "2026-06-19 14:06",
+      "orig": "a ty możesz wiadomości usuwać?",
+      "en": "can you delete messages?",
+      "pt": "você pode excluir mensagens?",
+      "label": "clean"
+    },
+    {
+      "id": "1517576515980759223",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:07",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517576525094850651",
+      "author": "qndel",
+      "ts": "2026-06-19 14:07",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517576537971364073",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:07",
+      "orig": "mogę",
+      "en": "I can",
+      "pt": "Eu posso",
+      "label": "clean"
+    },
+    {
+      "id": "1517576548549529771",
+      "author": "qndel",
+      "ts": "2026-06-19 14:07",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517576584024948807",
+      "author": "qndel",
+      "ts": "2026-06-19 14:07",
+      "orig": "a takie chuje są akceptowalne?",
+      "en": "and such dicks are acceptable?",
+      "pt": "e esses paus são aceitáveis?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517576502378758388.png"
+}

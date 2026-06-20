@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516058805060763789",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "300653187260612608",
+  "author": "zieloooony",
+  "ts": "2026-06-15 09:36",
+  "orig": "co za chujki z riotu",
+  "en": "what riot dicks",
+  "pt": "que motim idiotas",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516058805060763789",
+  "context": [
+    {
+      "id": "1516058622923374632",
+      "author": "entotus",
+      "ts": "2026-06-15 09:35",
+      "orig": "ale nie możesz isc cleanse i ghost",
+      "en": "but you can't go cleanse and ghost",
+      "pt": "mas você não pode ir limpar e fantasma",
+      "label": "clean"
+    },
+    {
+      "id": "1516058639264256181",
+      "author": "entotus",
+      "ts": "2026-06-15 09:35",
+      "orig": "bo gra flaguje od razu",
+      "en": "because the game flags right away",
+      "pt": "porque o jogo sinaliza imediatamente",
+      "label": "clean"
+    },
+    {
+      "id": "1516058649871777843",
+      "author": "entotus",
+      "ts": "2026-06-15 09:35",
+      "orig": "i dodguje",
+      "en": "i doggos",
+      "pt": "eu cachorrinho",
+      "label": "clean"
+    },
+    {
+      "id": "1516058699209375885",
+      "author": "qndel",
+      "ts": "2026-06-15 09:36",
+      "orig": "ja nie rozumiem nic xd",
+      "en": "I don't understand anything xd",
+      "pt": "não entendo nada xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516058790720442530",
+      "author": "entotus",
+      "ts": "2026-06-15 09:36",
+      "orig": "<@191929666754314240>  zagrałbyś w lige to byś zrozumiał xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516058805576929300",
+      "author": "qndel",
+      "ts": "2026-06-15 09:36",
+      "orig": "grałem",
+      "en": "I played",
+      "pt": "Joguei",
+      "label": "clean"
+    },
+    {
+      "id": "1516058848249516203",
+      "author": "qndel",
+      "ts": "2026-06-15 09:36",
+      "orig": "pewnie perma dostałem",
+      "en": "I probably got perma",
+      "pt": "Eu provavelmente tenho permanente",
+      "label": ""
+    },
+    {
+      "id": "1516058867946094613",
+      "author": "qndel",
+      "ts": "2026-06-15 09:36",
+      "orig": "strata czasu",
+      "en": "waste of time",
+      "pt": "perda de tempo",
+      "label": ""
+    },
+    {
+      "id": "1516058910379868291",
+      "author": "entotus",
+      "ts": "2026-06-15 09:36",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516058963781750904",
+      "author": "entotus",
+      "ts": "2026-06-15 09:37",
+      "orig": "ogolnie nie polecam ligi nuda w chuj ostatnio",
+      "en": "I don't recommend the league at all, it's been boring as hell lately",
+      "pt": "Eu não recomendo a liga de jeito nenhum, tem sido muito chato ultimamente",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516058805060763789.png"
+}

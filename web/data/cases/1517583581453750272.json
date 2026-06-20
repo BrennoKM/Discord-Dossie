@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517583581453750272",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 14:35",
+  "orig": "też jestem rasistą, i też im piszę żeby spierdalali",
+  "en": "I'm also a racist, and I also tell them to fuck off",
+  "pt": "Eu também sou racista e também digo para eles se foderem",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.99,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517583581453750272",
+  "context": [
+    {
+      "id": "1517582369492828211",
+      "author": "lealrion",
+      "ts": "2026-06-19 14:30",
+      "orig": "Hi",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517582509905281055",
+      "author": "qndel",
+      "ts": "2026-06-19 14:31",
+      "orig": "https://tenor.com/view/lionking-simba-baby-simba-throw-off-throw-from-cliff-gif-2491760533743383368",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517583429997297794",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:34",
+      "orig": "ja to chyba rezygnuje",
+      "en": "I think I'm giving up",
+      "pt": "Eu acho que estou desistindo",
+      "label": "clean"
+    },
+    {
+      "id": "1517583459046920214",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:34",
+      "orig": "nie będę wystrzeliwał swoich",
+      "en": "I won't shoot mine",
+      "pt": "Eu não vou atirar no meu",
+      "label": "clean"
+    },
+    {
+      "id": "1517583482203672647",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:34",
+      "orig": "moralniak wjechał",
+      "en": "the morality rode in",
+      "pt": "a moralidade entrou",
+      "label": "clean"
+    },
+    {
+      "id": "1517583604631207957",
+      "author": "qndel",
+      "ts": "2026-06-19 14:35",
+      "orig": "😄",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517583669017972947",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:35",
+      "orig": "kim jestem by siedzieć na stołku gdy moi za dobrą reakcje dostają po głowie",
+      "en": "Who am I to sit on a stool when my friends get hit in the head for a good reaction?",
+      "pt": "Quem sou eu para sentar em um banquinho quando meus amigos levam uma pancada na cabeça por uma boa reação?",
+      "label": "clean"
+    },
+    {
+      "id": "1517583713976717322",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:35",
+      "orig": "chuj, pierdole ich",
+      "en": "fuck, fuck them",
+      "pt": "foda-se, foda-se eles",
+      "label": "offensive"
+    },
+    {
+      "id": "1517583895275765982",
+      "author": "qndel",
+      "ts": "2026-06-19 14:36",
+      "orig": "i teraz kurwa qndel na helpera i się skończy dzień dziecka",
+      "en": "and now fucking qndel on helper and children's day will be over",
+      "pt": "e agora a porra do qndel no ajudante e o dia das crianças vai acabar",
+      "label": ""
+    },
+    {
+      "id": "1517583901164310559",
+      "author": "qndel",
+      "ts": "2026-06-19 14:36",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517583581453750272.png"
+}

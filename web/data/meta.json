@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-06-20T17:29:54Z",
+  "guild_id": "1427722762809770126",
+  "guild_name": "Task Bar Hero",
+  "channels": [
+    "chat-polish"
+  ],
+  "total_cases": 151,
+  "total_suspects": 14,
+  "by_label": {
+    "racist": 19,
+    "xenophobic": 72,
+    "offensive": 29,
+    "suspicious": 31
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517726037037944952",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-20 00:01",
+  "orig": "spierdalaj ale masz banana na droge zwierzaku",
+  "en": "Fuck off, you've got a banana in the way, animal",
+  "pt": "Vai se foder, você tem uma banana no caminho, animal",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517726037037944952",
+  "context": [
+    {
+      "id": "1517680305165701294",
+      "author": "kraju",
+      "ts": "2026-06-19 20:59",
+      "orig": "lul",
+      "en": "",
+      "pt": "haha",
+      "label": ""
+    },
+    {
+      "id": "1517680327852818553",
+      "author": "kraju",
+      "ts": "2026-06-19 20:59",
+      "orig": "tak o z common chesta wleciał xd",
+      "en": "tak o z common this wleciał xd",
+      "pt": "tak o z comum isso wleciał xd",
+      "label": ""
+    },
+    {
+      "id": "1517706245535174738",
+      "author": "radziol",
+      "ts": "2026-06-19 22:42",
+      "orig": "dropia wam niebieskie?",
+      "en": "Do you have blue bustards?",
+      "pt": "Você tem abetardas azuis?",
+      "label": "clean"
+    },
+    {
+      "id": "1517706304465145886",
+      "author": "radziol",
+      "ts": "2026-06-19 22:43",
+      "orig": "mi cos jakby teraz przestaly leciec",
+      "en": "It's as if they stopped flying now",
+      "pt": "É como se eles parassem de voar agora",
+      "label": "clean"
+    },
+    {
+      "id": "1517716624977957115",
+      "author": "volksfr",
+      "ts": "2026-06-19 23:24",
+      "orig": "pri do yaku wam nikoepit?",
+      "en": "pri do yaku w nikoepit?",
+      "pt": "pri do yaku w nikoepit?",
+      "label": ""
+    },
+    {
+      "id": "1517726080965021908",
+      "author": "kraju",
+      "ts": "2026-06-20 00:01",
+      "orig": "https://tenor.com/view/banana-banana-shake-shake-banana-banana-moving-moving-banana-gif-12687898822034433972",
+      "en": "https://tenor.com/view/banana-banana-shake-shake-banana-banana-moving-moving-banana-gif-12687898822034433972",
+      "pt": "https://tenor.com/view/banana-banana-shake-shake-banana-banana-moving-moving-banana-gif-12687898822034433972",
+      "label": "clean"
+    },
+    {
+      "id": "1517726477280477278",
+      "author": "pentagram",
+      "ts": "2026-06-20 00:03",
+      "orig": "https://tenor.com/view/banana-fruit-gif-26786056",
+      "en": "https://tenor.com/view/banana-fruit-gif-26786056",
+      "pt": "https://tenor.com/view/banana-fruit-gif-26786056",
+      "label": "clean"
+    },
+    {
+      "id": "1517726580602834964",
+      "author": "pentagram",
+      "ts": "2026-06-20 00:03",
+      "orig": "Jak banany mogą być rasistowskie, to jest  evenement",
+      "en": "How bananas can be racist, that's evenement",
+      "pt": "Como as bananas podem ser racistas, isso é tudo",
+      "label": "clean"
+    },
+    {
+      "id": "1517727251947585739",
+      "author": "kraju",
+      "ts": "2026-06-20 00:06",
+      "orig": "nie wiem jakbym był czarny i ktoś mi by wstawił banana to byłbym zadowolony",
+      "en": "I don't know, if I was black and someone gave me a banana, I would be happy",
+      "pt": "Não sei, se eu fosse negro e alguém me desse uma banana, eu ficaria feliz",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517734043276414998",
+      "author": "kraju",
+      "ts": "2026-06-20 00:33",
+      "orig": "https://tenor.com/view/chuj-ci-na%C5%82eb-anime-gif-20641386",
+      "en": "https://tenor.com/view/chuj-ci-na%C5%82eb-anime-gif-20641386",
+      "pt": "https://tenor.com/view/chuj-ci-na%C5%82eb-anime-gif-20641386",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517726037037944952.png"
+}

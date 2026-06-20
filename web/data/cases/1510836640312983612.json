@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510836640312983612",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 23:45",
+  "orig": "to wychodze bez szwanku",
+  "en": "then I get out unscathed",
+  "pt": "então eu saio ileso",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510836640312983612",
+  "context": [
+    {
+      "id": "1510836515905732630",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:44",
+      "orig": "raz nos XD",
+      "en": "raz us XD",
+      "pt": "nos destrua XD",
+      "label": ""
+    },
+    {
+      "id": "1510836528375660744",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:44",
+      "orig": "kolanem swoim XD",
+      "en": "with his knee XD",
+      "pt": "com o joelho XD",
+      "label": ""
+    },
+    {
+      "id": "1510836546293600406",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:45",
+      "orig": "z przmieszczeniem hahaha",
+      "en": "with displacement hahaha",
+      "pt": "com deslocamento hahaha",
+      "label": "clean"
+    },
+    {
+      "id": "1510836549984452799",
+      "author": "entotus",
+      "ts": "2026-05-31 23:45",
+      "orig": "gdzie moja znajoma zbykłe potkniecie sie i juz zwichniete",
+      "en": "where my friend accidentally tripped and sprained herself",
+      "pt": "onde minha amiga acidentalmente tropeçou e se torceu",
+      "label": "clean"
+    },
+    {
+      "id": "1510836625016356965",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:45",
+      "orig": "no ja przez akro tez mam wrazenie ze umiem upadac, wiec tam gdzie 90% ludzi by cos zlamalo",
+      "en": "well, because of acro I also have the impression that I can fall, so where 90% of people would break something",
+      "pt": "bom, por causa do acro eu também tenho a impressão que posso cair, então onde 90% das pessoas quebrariam alguma coisa",
+      "label": "clean"
+    },
+    {
+      "id": "1510836683791143094",
+      "author": "entotus",
+      "ts": "2026-05-31 23:45",
+      "orig": "no genetyka",
+      "en": "well, genetics",
+      "pt": "bem, genética",
+      "label": "clean"
+    },
+    {
+      "id": "1510836748186554571",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:45",
+      "orig": "najlepsze jest to ze jak cos zlamaelem to wlasnie rpzez glupote",
+      "en": "The best thing is that when I break something, it was because I was stupid",
+      "pt": "O melhor é que quando quebrei alguma coisa foi porque fui burro",
+      "label": "clean"
+    },
+    {
+      "id": "1510836753223782571",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:45",
+      "orig": "a nie cos",
+      "en": "not something",
+      "pt": "não é algo",
+      "label": "clean"
+    },
+    {
+      "id": "1510836785046093955",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:45",
+      "orig": "np oge rozjebalem bo bylem 6h na treningu xD",
+      "en": "e.g. I fucked up because I was at training for 6 hours xD",
+      "pt": "por exemplo Eu estraguei tudo porque fiquei 6 horas treinando xD",
+      "label": ""
+    },
+    {
+      "id": "1510836805996384328",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:46",
+      "orig": "wzialem efedryne XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510836640312983612.png"
+}

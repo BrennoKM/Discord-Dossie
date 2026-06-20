@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511902373923127416",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-03 22:20",
+  "orig": "no ale banana mialo jeszcze rece i nogi",
+  "en": "Well, the banana still had arms and legs",
+  "pt": "Bem, a banana ainda tinha braços e pernas",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511902373923127416",
+  "context": [
+    {
+      "id": "1511902038257303622",
+      "author": "entotus",
+      "ts": "2026-06-03 22:18",
+      "orig": "i multikont",
+      "en": "",
+      "pt": "eu multikont",
+      "label": "clean"
+    },
+    {
+      "id": "1511902040845058150",
+      "author": "entotus",
+      "ts": "2026-06-03 22:18",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511902253748064286",
+      "author": "dudek15",
+      "ts": "2026-06-03 22:19",
+      "orig": "bedzie 900k jak w tej grze z bananami",
+      "en": "it will be 900k like in that banana game",
+      "pt": "serão 900 mil como naquele jogo da banana",
+      "label": "clean"
+    },
+    {
+      "id": "1511902262904098927",
+      "author": "entotus",
+      "ts": "2026-06-03 22:19",
+      "orig": "ogolnie ta cala polityka z skrzynkami zaczela sie od 30 maja jakos co nie",
+      "en": "In general, this whole policy with boxes started on May 30, somehow",
+      "pt": "No geral, toda essa política de caixas começou no dia 30 de maio, de alguma forma",
+      "label": "clean"
+    },
+    {
+      "id": "1511902271380914336",
+      "author": "entotus",
+      "ts": "2026-06-03 22:19",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511902386015309824",
+      "author": "lepryko",
+      "ts": "2026-06-03 22:20",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1511902422212153354",
+      "author": "entotus",
+      "ts": "2026-06-03 22:20",
+      "orig": "xDDDDDDDDDDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511902744489889822",
+      "author": "entotus",
+      "ts": "2026-06-03 22:21",
+      "orig": "dlatego bylo mowione za rekord steama w itemach pobili xD",
+      "en": "that's why it was said that they broke the Steam record in items xD",
+      "pt": "por isso foi dito que eles quebraram o recorde do Steam em itens xD",
+      "label": "clean"
+    },
+    {
+      "id": "1511902953731133573",
+      "author": "lepryko",
+      "ts": "2026-06-03 22:22",
+      "orig": "nic, tylko ai slopy robic i zarabiac xD",
+      "en": "nothing, just do stupid things and earn money xD",
+      "pt": "nada, apenas faça coisas estúpidas e ganhe dinheiro xD",
+      "label": ""
+    },
+    {
+      "id": "1511903020407980042",
+      "author": "entotus",
+      "ts": "2026-06-03 22:22",
+      "orig": "dobry marketing potrzebny",
+      "en": "good marketing needed",
+      "pt": "é necessário um bom marketing",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511902373923127416.png"
+}

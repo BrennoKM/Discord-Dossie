@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510626464108904568",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 09:50",
+  "orig": "to moze warto kupic z 20 i akcesoria opierdolic xD ?",
+  "en": "so maybe it's worth buying 20 and the accessories to fuck off xD?",
+  "pt": "então talvez valha a pena comprar 20 e os acessórios para se foder xD?",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510626464108904568",
+  "context": [
+    {
+      "id": "1510626023589417041",
+      "author": "d3_stro",
+      "ts": "2026-05-31 09:48",
+      "orig": "a runy macie jakos specjalnie ulepszane czy po kolei?",
+      "en": "Do you upgrade your runes in a special way or one at a time?",
+      "pt": "Você atualiza suas runas de uma maneira especial ou uma de cada vez?",
+      "label": ""
+    },
+    {
+      "id": "1510626056548253956",
+      "author": "kitsunszan21",
+      "ts": "2026-05-31 09:48",
+      "orig": "ja mam knighta 17 priest 24 ranger 24",
+      "en": "I have a knight 17 priest 24 ranger 24",
+      "pt": "Eu tenho um cavaleiro 17 sacerdote 24 ranger 24",
+      "label": ""
+    },
+    {
+      "id": "1510626099661639761",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:48",
+      "orig": "exp/skrzynki > gold",
+      "en": "exp/boxes > gold",
+      "pt": "exp/caixas > ouro",
+      "label": "clean"
+    },
+    {
+      "id": "1510626411805675601",
+      "author": "lepryko",
+      "ts": "2026-05-31 09:50",
+      "orig": "ej w sumie z act bossow leca akcesoria, i jak one chodza po 4-8zl, a kamienie na bossa po 70gr",
+      "en": "hey, actually, accessories are flying from act bosses, and they cost PLN 4-8, and boss stones cost PLN 70",
+      "pt": "ei, na verdade, os acessórios estão voando dos chefes de ação e custam PLN 4-8, e as pedras dos chefes custam PLN 70",
+      "label": "clean"
+    },
+    {
+      "id": "1510626450418438225",
+      "author": "d3_stro",
+      "ts": "2026-05-31 09:50",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510626469011787867",
+      "author": "d3_stro",
+      "ts": "2026-05-31 09:50",
+      "orig": "da się lepiej?",
+      "en": "Can it be better?",
+      "pt": "Pode ser melhor?",
+      "label": "clean"
+    },
+    {
+      "id": "1510626644543537352",
+      "author": "d3_stro",
+      "ts": "2026-05-31 09:50",
+      "orig": "no tak na bank ludzie robią",
+      "en": "well, that's definitely what people do",
+      "pt": "bem, isso é definitivamente o que as pessoas fazem",
+      "label": "clean"
+    },
+    {
+      "id": "1510626771853119528",
+      "author": "atsuuchiha",
+      "ts": "2026-05-31 09:51",
+      "orig": "To ranger + priest tak czy ranger+ knight ?",
+      "en": "Is it ranger + priest or ranger + knight?",
+      "pt": "É ranger + sacerdote ou ranger + cavaleiro?",
+      "label": ""
+    },
+    {
+      "id": "1510626778606207006",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:51",
+      "orig": "no ja sobie otwierałem wczoraj rano 42 soulstone'y na 3-10 i dostałem z 4-5 akcesoriów i to zielonych",
+      "en": "Well, yesterday morning I opened 42 soulstones for 3-10 and I got 4-5 accessories, and they were green.",
+      "pt": "Bem, ontem de manhã abri 42 soulstones por 3-10 e consegui 4-5 acessórios, e eles eram verdes.",
+      "label": ""
+    },
+    {
+      "id": "1510626781437104188",
+      "author": "xbiedro",
+      "ts": "2026-05-31 09:51",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510626464108904568.png"
+}

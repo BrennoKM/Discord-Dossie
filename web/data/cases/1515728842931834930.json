@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515728842931834930",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-14 11:45",
+  "orig": "widziałem tych rzydow xd",
+  "en": "I saw these people xd",
+  "pt": "Eu vi essas pessoas xD",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515728842931834930",
+  "context": [
+    {
+      "id": "1515728756680036583",
+      "author": "xbiedro",
+      "ts": "2026-06-14 11:44",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515728807603212299",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-14 11:45",
+      "orig": "no",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515728820269744128",
+      "author": "pentagram",
+      "ts": "2026-06-14 11:45",
+      "orig": "co jest",
+      "en": "what is",
+      "pt": "o que é",
+      "label": "clean"
+    },
+    {
+      "id": "1515728832735219794",
+      "author": "eruun_89",
+      "ts": "2026-06-14 11:45",
+      "orig": "oh nieee",
+      "en": "oh neeee",
+      "pt": "ah não",
+      "label": "clean"
+    },
+    {
+      "id": "1515728832949256402",
+      "author": "pentagram",
+      "ts": "2026-06-14 11:45",
+      "orig": "czemu zniklo",
+      "en": "why did it disappear?",
+      "pt": "por que desapareceu?",
+      "label": "clean"
+    },
+    {
+      "id": "1515728871087931502",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-14 11:45",
+      "orig": "dali nam 2 minuty na spam",
+      "en": "",
+      "pt": "dali nam 2 minutos na spam",
+      "label": "clean"
+    },
+    {
+      "id": "1515728874087125193",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-14 11:45",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1515728890369409126",
+      "author": "xbiedro",
+      "ts": "2026-06-14 11:45",
+      "orig": "ree nam dał pasa na 2 minuty",
+      "en": "ree gave us the belt for 2 minutes",
+      "pt": "ree nos deu o cinturão por 2 minutos",
+      "label": "clean"
+    },
+    {
+      "id": "1515728930785726556",
+      "author": "pentagram",
+      "ts": "2026-06-14 11:45",
+      "orig": "aha",
+      "en": "",
+      "pt": "ah",
+      "label": ""
+    },
+    {
+      "id": "1515728940529090722",
+      "author": "reeeheee",
+      "ts": "2026-06-14 11:45",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515728842931834930.png"
+}

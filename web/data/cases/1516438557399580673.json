@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516438557399580673",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-16 10:45",
+  "orig": "to mowie, wyrywaj pan xD",
+  "en": "so I say, get out of it xD",
+  "pt": "então eu digo, saia dessa xD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516438557399580673",
+  "context": [
+    {
+      "id": "1516438431964860427",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:44",
+      "orig": "potem w nocy sie zalalem krwia, poduszka cala czerwona, w ryju wioelku strup xD",
+      "en": "then at night I was covered in blood, my pillow was all red, there was a scab in my face xD",
+      "pt": "aí de noite eu estava coberto de sangue, meu travesseiro estava todo vermelho, tinha uma crosta na minha cara xD",
+      "label": ""
+    },
+    {
+      "id": "1516438441481474268",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:44",
+      "orig": "ja 2 na raz wyrwalem rok temu",
+      "en": "I had two of them pulled out at once a year ago",
+      "pt": "Eu tive dois deles retirados de uma vez há um ano",
+      "label": ""
+    },
+    {
+      "id": "1516438487987916890",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:45",
+      "orig": "mariusz wstawac zesrales sie xD",
+      "en": "Mariusz get up, you shit yourself xD",
+      "pt": "Mariusz levanta, você se cagou xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516438545101754449",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:45",
+      "orig": "mi doradzil ze lepiej wszystkie juz rwac xD",
+      "en": "he advised me that it's better to tear them all off xD",
+      "pt": "ele me aconselhou que é melhor arrancar todos eles xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516438555763675227",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:45",
+      "orig": "jeszcze mam ostatnia do wyrwania",
+      "en": "I still have the last one to grab",
+      "pt": "Ainda tenho o último para pegar",
+      "label": "clean"
+    },
+    {
+      "id": "1516438572008210472",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:45",
+      "orig": "a to pod narkoza?",
+      "en": "a to under narcosis?",
+      "pt": "um sob narcose?",
+      "label": "clean"
+    },
+    {
+      "id": "1516438584595321033",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:45",
+      "orig": "nie xD",
+      "en": "no xD",
+      "pt": "não xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516438606988705982",
+      "author": "pentagram",
+      "ts": "2026-06-16 10:45",
+      "orig": "Calu chuj dzisiaj mi spadło",
+      "en": "Damn, I lost an inch today",
+      "pt": "Droga, perdi um centímetro hoje",
+      "label": "offensive"
+    },
+    {
+      "id": "1516438626261532783",
+      "author": "pentagram",
+      "ts": "2026-06-16 10:45",
+      "orig": "Ktoś też tak ma?",
+      "en": "Anyone else have this?",
+      "pt": "Alguém mais tem isso?",
+      "label": ""
+    },
+    {
+      "id": "1516438643110051850",
+      "author": "mwahahahaa",
+      "ts": "2026-06-16 10:45",
+      "orig": "uspac cie mogli i operacyjnie ;p",
+      "en": "They could put you to sleep with surgery ;p",
+      "pt": "Eles poderiam fazer você dormir com uma cirurgia ;p",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516438557399580673.png"
+}

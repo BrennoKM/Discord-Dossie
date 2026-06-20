@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515075214822871151",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-12 16:27",
+  "orig": "wynocha",
+  "en": "get out",
+  "pt": "sair",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515075214822871151",
+  "context": [
+    {
+      "id": "1515072142264373248",
+      "author": "xbiedro",
+      "ts": "2026-06-12 16:15",
+      "orig": "także im mniej slotów tym lepiej",
+      "en": "so the fewer slots the better",
+      "pt": "então quanto menos slots melhor",
+      "label": "clean"
+    },
+    {
+      "id": "1515072201911439400",
+      "author": "xbiedro",
+      "ts": "2026-06-12 16:16",
+      "orig": "bo jak coś się zjebie i przez przypadek otworzysz czy coś to szybko sobie nazbierasz",
+      "en": "because if something goes wrong and you accidentally open it or something, you will quickly collect it",
+      "pt": "porque se algo der errado e você acidentalmente abri-lo ou algo assim, você irá coletá-lo rapidamente",
+      "label": "clean"
+    },
+    {
+      "id": "1515072233331097660",
+      "author": "suuszi",
+      "ts": "2026-06-12 16:16",
+      "orig": "no",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515072240314486876",
+      "author": "suuszi",
+      "ts": "2026-06-12 16:16",
+      "orig": "dobra",
+      "en": "good",
+      "pt": "bom",
+      "label": ""
+    },
+    {
+      "id": "1515073772024238331",
+      "author": "zzjunim",
+      "ts": "2026-06-12 16:22",
+      "orig": "solo slayer meta?",
+      "en": "",
+      "pt": "meta de matador solo?",
+      "label": ""
+    },
+    {
+      "id": "1515075446671147029",
+      "author": "hnflzrdy",
+      "ts": "2026-06-12 16:28",
+      "orig": "thx",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515075800834117643",
+      "author": "qndel",
+      "ts": "2026-06-12 16:30",
+      "orig": "zgłaszam ich do discorda za spam xd",
+      "en": "I'm reporting them to discord for spam xd",
+      "pt": "Estou denunciando eles ao discord por spam xd",
+      "label": "clean"
+    },
+    {
+      "id": "1515079310019395726",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-12 16:44",
+      "orig": "common chesty widze dalej zbugowane",
+      "en": "common chesty views further bugged",
+      "pt": "visualizações comuns do peito ainda mais incomodadas",
+      "label": "clean"
+    },
+    {
+      "id": "1515079356161065010",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-12 16:44",
+      "orig": "niby full a 3 itemy z nich dostaniesz",
+      "en": "supposedly full and you will get 3 items from them",
+      "pt": "supostamente cheio e você receberá 3 itens deles",
+      "label": ""
+    },
+    {
+      "id": "1515079367879819404",
+      "author": "eruun_89",
+      "ts": "2026-06-12 16:44",
+      "orig": "i dobrze",
+      "en": "and that's good",
+      "pt": "e isso é bom",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515075214822871151.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515340835896561757",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-13 10:03",
+  "orig": "yk i wont let a single one go away without penalty",
+  "en": "",
+  "pt": "sim, eu não vou deixar nenhum ir embora sem penalidade",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515340835896561757",
+  "context": [
+    {
+      "id": "1515340210177577224",
+      "author": "eruun_89",
+      "ts": "2026-06-13 10:00",
+      "orig": "ciekawe jak to bedzie w poniedzialek z tym dropem",
+      "en": "I wonder what it will be like on Monday with this drop",
+      "pt": "Eu me pergunto como será na segunda-feira com essa queda",
+      "label": ""
+    },
+    {
+      "id": "1515340403216482465",
+      "author": "rayner.1986",
+      "ts": "2026-06-13 10:01",
+      "orig": "wiesz, nawet nie bylo by problemu bo ja mam sporo niebieskich to te 2-3 levele dzienie bym wbil, ale latam gdzie leca 65 level itemy i one przy levelu 41 kostki prawie nic expa nie daja, wiec musze teraz kilka dni latac na koszmarze bo inaczej tego nie wyleveluje :/",
+      "en": "you know, it wouldn't be a problem, because I have a lot of blue ones, I could reach these 2-3 levels in a day, but I fly everywhere with level 65 items and they don't give almost any EXP at the level of 41 cubes, so now I have to spend a few days on nightmare, otherwise I won't level it :/",
+      "pt": "você sabe, não seria um problema, porque eu tenho muitos azuis, eu poderia chegar a esses 2-3 níveis em um dia, mas eu voo para todos os lugares com itens de nível 65 e eles não dão quase nenhuma EXP no nível de 41 cubos, então agora tenho que passar alguns dias no pesadelo, caso contrário não vou nivelá-lo :/",
+      "label": ""
+    },
+    {
+      "id": "1515340539908718663",
+      "author": "reeeheee",
+      "ts": "2026-06-13 10:02",
+      "orig": "bro got lvl 10, and a 1day ban, guess he's happy about that 😂",
+      "en": "",
+      "pt": "mano pegou o nível 10 e foi banido por 1 dia, acho que ele está feliz com isso 😂",
+      "label": "clean"
+    },
+    {
+      "id": "1515340690266001567",
+      "author": "xbiedro",
+      "ts": "2026-06-13 10:02",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1515340762735181836",
+      "author": "xbiedro",
+      "ts": "2026-06-13 10:03",
+      "orig": "i applied to be the guardian of the poles",
+      "en": "",
+      "pt": "me inscrevi para ser o guardião dos pólos",
+      "label": "clean"
+    },
+    {
+      "id": "1515340842833805392",
+      "author": "xbiedro",
+      "ts": "2026-06-13 10:03",
+      "orig": "haha",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1515340847347138650",
+      "author": "eruun_89",
+      "ts": "2026-06-13 10:03",
+      "orig": "husariaaaa",
+      "en": "hussarsaaa",
+      "pt": "hussarsaaa",
+      "label": "clean"
+    },
+    {
+      "id": "1515340918536798228",
+      "author": "xferbuson",
+      "ts": "2026-06-13 10:03",
+      "orig": "kolczyk 111 obr, dps wzroslo do 15k",
+      "en": "earring 111 rpm, dps increased to 15k",
+      "pt": "brinco 111 rpm, dps aumentado para 15k",
+      "label": "clean"
+    },
+    {
+      "id": "1515341152461652140",
+      "author": "rayner.1986",
+      "ts": "2026-06-13 10:04",
+      "orig": "powiedzcie mi jedna rezcz. Czy jak poknuje bosa aktu ale jakis czlonek zespolu zginie, to nie dostaje skrzynki? bo faktycznie jak przezywa jeden to nichuja nie dostalem skrzynki ani razu.",
+      "en": "tell me one thing. If I perform a barefoot act but one of the team members dies, won't I get the box? because in fact, when one of them survives, I haven't received a box even once.",
+      "pt": "me diga uma coisa. Se eu fizer um ato descalço, mas um dos membros da equipe morrer, não receberei a caixa? porque na verdade, quando um deles sobrevive, não recebi uma caixa nem uma vez.",
+      "label": ""
+    },
+    {
+      "id": "1515341205746225164",
+      "author": "xbiedro",
+      "ts": "2026-06-13 10:04",
+      "orig": "nie ma to wpływu na drop",
+      "en": "this has no effect on drop",
+      "pt": "isso não tem efeito na queda",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515340835896561757.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511181416275116143",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-01 22:35",
+  "orig": "ta ludzie na głównym pisza ze lekko zwiekszyli drop",
+  "en": "these people on the main page write that they have slightly increased the drop",
+  "pt": "essas pessoas na página principal escrevem que aumentaram ligeiramente a queda",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511181416275116143",
+  "context": [
+    {
+      "id": "1511180831673159870",
+      "author": "entotus",
+      "ts": "2026-06-01 22:33",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511180944026112130",
+      "author": "xbiedro",
+      "ts": "2026-06-01 22:33",
+      "orig": "Może update w końcu kliknę 😆",
+      "en": "Maybe I'll finally click the update 😆",
+      "pt": "Talvez eu finalmente clique na atualização 😆",
+      "label": "clean"
+    },
+    {
+      "id": "1511181038733361212",
+      "author": "entotus",
+      "ts": "2026-06-01 22:33",
+      "orig": "a z tych niebieskich same sztabki mi lecą",
+      "en": "and these blue ones are just falling out of bars",
+      "pt": "e esses azuis estão caindo das grades",
+      "label": "clean"
+    },
+    {
+      "id": "1511181080210968647",
+      "author": "entotus",
+      "ts": "2026-06-01 22:34",
+      "orig": "ja na najnowszej wersji aktualnie jestem",
+      "en": "I'm currently on the latest version",
+      "pt": "Atualmente estou na versão mais recente",
+      "label": "clean"
+    },
+    {
+      "id": "1511181195621302322",
+      "author": "xbiedro",
+      "ts": "2026-06-01 22:34",
+      "orig": "Ok klikam",
+      "en": "Ok, I click",
+      "pt": "Ok, eu clico",
+      "label": "clean"
+    },
+    {
+      "id": "1511181436185739336",
+      "author": "entotus",
+      "ts": "2026-06-01 22:35",
+      "orig": "bo zauwazyli wiecej chestow",
+      "en": "because they noticed more chests",
+      "pt": "porque eles notaram mais baús",
+      "label": "clean"
+    },
+    {
+      "id": "1511181439360700578",
+      "author": "xbiedro",
+      "ts": "2026-06-01 22:35",
+      "orig": "Ej lol miałem już",
+      "en": "Hey lol I already had it",
+      "pt": "Oi haha ​​eu já peguei",
+      "label": "clean"
+    },
+    {
+      "id": "1511181463901437984",
+      "author": "xbiedro",
+      "ts": "2026-06-01 22:35",
+      "orig": "Force zrobili",
+      "en": "Force did",
+      "pt": "Força fez",
+      "label": "clean"
+    },
+    {
+      "id": "1511181480263684136",
+      "author": "xbiedro",
+      "ts": "2026-06-01 22:35",
+      "orig": "Jestem dumny",
+      "en": "I'm proud",
+      "pt": "estou orgulhoso",
+      "label": ""
+    },
+    {
+      "id": "1511181487184023572",
+      "author": "xbiedro",
+      "ts": "2026-06-01 22:35",
+      "orig": "Haha",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511181416275116143.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514882932928679956",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "256893456117399553",
+  "author": "pentagram",
+  "ts": "2026-06-12 03:43",
+  "orig": "o kurwa",
+  "en": "o fight",
+  "pt": "ó luta",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514882932928679956",
+  "context": [
+    {
+      "id": "1514882764497883136",
+      "author": "qndel",
+      "ts": "2026-06-12 03:43",
+      "orig": "no",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514882856923693136",
+      "author": "pentagram",
+      "ts": "2026-06-12 03:43",
+      "orig": "taa",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514882902867972199",
+      "author": "qndel",
+      "ts": "2026-06-12 03:43",
+      "orig": "no to zawsze jakiś item lvl 20-30 wpadnie ;p",
+      "en": "well, there will always be an item lvl 20-30 ;p",
+      "pt": "bem, sempre haverá um item de nível 20-30 ;p",
+      "label": "clean"
+    },
+    {
+      "id": "1514882910375641151",
+      "author": "pentagram",
+      "ts": "2026-06-12 03:43",
+      "orig": "ale ze wrocic na 30 lvl po iemki zeby expic skrzynie?",
+      "en": "but to go back to lvl 30 to get the chests?",
+      "pt": "mas voltar ao nível 30 para pegar os baús?",
+      "label": "clean"
+    },
+    {
+      "id": "1514882917778849852",
+      "author": "qndel",
+      "ts": "2026-06-12 03:43",
+      "orig": "musisz nimi kostkę paść xD",
+      "en": "you have to hit the dice with them xD",
+      "pt": "você tem que acertar os dados com eles xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514882945494814864",
+      "author": "qndel",
+      "ts": "2026-06-12 03:43",
+      "orig": "nom xD",
+      "en": "name xD",
+      "pt": "nome xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514882968659820595",
+      "author": "pentagram",
+      "ts": "2026-06-12 03:44",
+      "orig": "a synteza czy alchemia?",
+      "en": "what about synthesis or alchemy?",
+      "pt": "e quanto à síntese ou alquimia?",
+      "label": ""
+    },
+    {
+      "id": "1514882969381376180",
+      "author": "qndel",
+      "ts": "2026-06-12 03:44",
+      "orig": "ja w sumie jakoś fartem dobiłem do tego 50",
+      "en": "I somehow managed to get to 50 by accident",
+      "pt": "De alguma forma, consegui chegar aos 50 por acidente",
+      "label": ""
+    },
+    {
+      "id": "1514883006215749754",
+      "author": "qndel",
+      "ts": "2026-06-12 03:44",
+      "orig": "ja tylko syntezę jechałem",
+      "en": "I was only doing synthesis",
+      "pt": "Eu estava apenas fazendo síntese",
+      "label": ""
+    },
+    {
+      "id": "1514883039816319039",
+      "author": "qndel",
+      "ts": "2026-06-12 03:44",
+      "orig": "bo alchemia dawała śmieszne ilości złota",
+      "en": "because alchemy yielded ridiculous amounts of gold",
+      "pt": "porque a alquimia rendeu quantidades ridículas de ouro",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514882932928679956.png"
+}

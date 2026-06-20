@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516054861467095103",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "300653187260612608",
+  "author": "zieloooony",
+  "ts": "2026-06-15 09:20",
+  "orig": "o ja pierdole XDDDDDDDDD",
+  "en": "",
+  "pt": "o ja pierdole XDDDDDDDDDD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516054861467095103",
+  "context": [
+    {
+      "id": "1516054824678985739",
+      "author": "entotus",
+      "ts": "2026-06-15 09:20",
+      "orig": "xDDDDDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516054837370949814",
+      "author": "ativ3k",
+      "ts": "2026-06-15 09:20",
+      "orig": "z tym nugget to mozna sie pomylic",
+      "en": "You can go wrong with this nugget",
+      "pt": "Você pode dar errado com essa pepita",
+      "label": "clean"
+    },
+    {
+      "id": "1516054851568795648",
+      "author": "ativ3k",
+      "ts": "2026-06-15 09:20",
+      "orig": "uwaga na czarnuchow",
+      "en": "watch out for niggers",
+      "pt": "cuidado com os negros",
+      "label": "racist"
+    },
+    {
+      "id": "1516054855125307432",
+      "author": "xferbuson",
+      "ts": "2026-06-15 09:20",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516054858233548903",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "\"critical issue\"",
+      "en": "",
+      "pt": "\"questão crítica\"",
+      "label": "clean"
+    },
+    {
+      "id": "1516054867733516429",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "brzmi powaznie",
+      "en": "sounds serious",
+      "pt": "parece sério",
+      "label": ""
+    },
+    {
+      "id": "1516054871642603654",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:20",
+      "orig": "XDDDD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516054878521135206",
+      "author": "zieloooony",
+      "ts": "2026-06-15 09:20",
+      "orig": "ale agenci Xd",
+      "en": "but agents Xd",
+      "pt": "mas agentes Xd",
+      "label": ""
+    },
+    {
+      "id": "1516054879099949157",
+      "author": "thesweetfish",
+      "ts": "2026-06-15 09:20",
+      "orig": "task bar delay",
+      "en": "",
+      "pt": "atraso na barra de tarefas",
+      "label": ""
+    },
+    {
+      "id": "1516054882103328849",
+      "author": "lepryko",
+      "ts": "2026-06-15 09:20",
+      "orig": "XDXDXDXDXD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516054861467095103.png"
+}

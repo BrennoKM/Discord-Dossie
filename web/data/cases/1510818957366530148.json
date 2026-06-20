@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510818957366530148",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 22:35",
+  "orig": "typu blackrock",
+  "en": "",
+  "pt": "tipo rocha negra",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510818957366530148",
+  "context": [
+    {
+      "id": "1510818732727861248",
+      "author": "entotus",
+      "ts": "2026-05-31 22:34",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1510818808988696626",
+      "author": "entotus",
+      "ts": "2026-05-31 22:34",
+      "orig": "jak sie nazywala ta topka tych korpo na swiecie",
+      "en": "What was the name of this top group of corporations in the world?",
+      "pt": "Qual era o nome desse importante grupo de corporações do mundo?",
+      "label": ""
+    },
+    {
+      "id": "1510818818971406427",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:34",
+      "orig": "musialem po laptopa specjalnie do nowego jorku zapierdalac xD",
+      "en": "I had to go to New York especially to get my laptop xD",
+      "pt": "Eu tive que ir para Nova York especialmente para pegar meu laptop xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510818892103024760",
+      "author": "entotus",
+      "ts": "2026-05-31 22:34",
+      "orig": "po mam znajomego ktory pracuje w takim o",
+      "en": "I have a friend who works in such a place",
+      "pt": "Eu tenho um amigo que trabalha em um lugar assim",
+      "label": "clean"
+    },
+    {
+      "id": "1510818943005229276",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:35",
+      "orig": "ale hedge fundy czy wielkie korpo amerykanskie",
+      "en": "but hedge funds or large American corporations",
+      "pt": "mas os fundos de hedge ou as grandes corporações americanas",
+      "label": "clean"
+    },
+    {
+      "id": "1510818980980457522",
+      "author": "entotus",
+      "ts": "2026-05-31 22:35",
+      "orig": "aaa",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510819093337346191",
+      "author": "entotus",
+      "ts": "2026-05-31 22:35",
+      "orig": "mozna powiedziec ze latwa robota",
+      "en": "You could say it's an easy job",
+      "pt": "Você poderia dizer que é um trabalho fácil",
+      "label": "clean"
+    },
+    {
+      "id": "1510819113025667183",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:35",
+      "orig": "ja to w sumie robie dla prywatnego hedhe fundu",
+      "en": "I'm actually doing it for a private fund",
+      "pt": "Na verdade, estou fazendo isso por um fundo privado",
+      "label": "clean"
+    },
+    {
+      "id": "1510819124811403365",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:35",
+      "orig": "tam pracuje moze 20 osob",
+      "en": "maybe 20 people work there",
+      "pt": "talvez 20 pessoas trabalhem lá",
+      "label": ""
+    },
+    {
+      "id": "1510819179651923989",
+      "author": "lepryko",
+      "ts": "2026-05-31 22:36",
+      "orig": "wiec nie ma tego korpo shitu",
+      "en": "so there's no such corporate shit",
+      "pt": "então não existe essa merda corporativa",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510818957366530148.png"
+}

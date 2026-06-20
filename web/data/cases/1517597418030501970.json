@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517597418030501970",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 15:30",
+  "orig": "o kurwa",
+  "en": "o fight",
+  "pt": "ó luta",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517597418030501970",
+  "context": [
+    {
+      "id": "1517597294378225796",
+      "author": "entotus",
+      "ts": "2026-06-19 15:29",
+      "orig": "ta ale da sie to objesc",
+      "en": "yeah, but it's manageable",
+      "pt": "sim, mas é administrável",
+      "label": ""
+    },
+    {
+      "id": "1517597296207069377",
+      "author": "entotus",
+      "ts": "2026-06-19 15:29",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517597390004031569",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "to juz wole trainera odpalic",
+      "en": "I'd rather run the trainer",
+      "pt": "Prefiro dirigir o treinador",
+      "label": ""
+    },
+    {
+      "id": "1517597409713324134",
+      "author": "entotus",
+      "ts": "2026-06-19 15:30",
+      "orig": "jak zmienią wszystko na server side to dużo kont padnie",
+      "en": "if they change everything to server side, many accounts will die",
+      "pt": "se eles mudarem tudo para o lado do servidor, muitas contas morrerão",
+      "label": ""
+    },
+    {
+      "id": "1517597414314475651",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "i zrespic gotowe sety",
+      "en": "and recreate the finished sets",
+      "pt": "e recriar os conjuntos finalizados",
+      "label": "clean"
+    },
+    {
+      "id": "1517597426154868796",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "mamy to widzowie",
+      "en": "we have this viewers",
+      "pt": "temos esses espectadores",
+      "label": "clean"
+    },
+    {
+      "id": "1517597446451236957",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "https://tenor.com/view/minion-banana-gif-minion-minions-gif-81650879192259967",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517597512217923776",
+      "author": "entotus",
+      "ts": "2026-06-19 15:30",
+      "orig": "te 50% comiców upadnie xD",
+      "en": "these 50% of comics will fail xD",
+      "pt": "esses 50% dos quadrinhos vão falhar xD",
+      "label": "clean"
+    },
+    {
+      "id": "1517597531960381620",
+      "author": "kraju",
+      "ts": "2026-06-19 15:30",
+      "orig": "https://tenor.com/view/oondasta-oondastochka-gif-4756026591458658000",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517597566332702730",
+      "author": "entotus",
+      "ts": "2026-06-19 15:30",
+      "orig": "https://tenor.com/view/oondasta-oondastochka-gif-4756026591458658000",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517597418030501970.png"
+}

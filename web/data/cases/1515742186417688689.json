@@ -1,0 +1,110 @@
+{
+  "msg_id": "1515742186417688689",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-14 12:38",
+  "orig": "once you go black you can never go back",
+  "en": "",
+  "pt": "uma vez que você fica preto, você nunca mais poderá voltar",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1515742186417688689",
+  "context": [
+    {
+      "id": "1515741880820699247",
+      "author": "xbiedro",
+      "ts": "2026-06-14 12:37",
+      "orig": "ms jest do farmy nie do pushowania",
+      "en": "ms is for farming not for pushing",
+      "pt": "ms é para cultivar, não para empurrar",
+      "label": ""
+    },
+    {
+      "id": "1515741887573655774",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-14 12:37",
+      "orig": "a i tak z nich masz 1/3 moze tego dropu",
+      "en": "and you still get maybe 1/3 of this drop",
+      "pt": "e você ainda recebe talvez 1/3 dessa queda",
+      "label": ""
+    },
+    {
+      "id": "1515741979810599026",
+      "author": "staszek1969",
+      "ts": "2026-06-14 12:37",
+      "orig": "Graty lecisz z koksem",
+      "en": "Congratulations, you're flying with coke",
+      "pt": "Parabéns, você está voando com cocaína",
+      "label": "clean"
+    },
+    {
+      "id": "1515742026451255297",
+      "author": "staszek1969",
+      "ts": "2026-06-14 12:37",
+      "orig": "<:yes:1510575498160377896>",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1515742074949992609",
+      "author": "eruun_89",
+      "ts": "2026-06-14 12:37",
+      "orig": "ja tez nie dotykam tylko wszedlem na mailboxa i wywaliło komunikat ze 5 bialych skrzynek idzie do usunięcia",
+      "en": "I don't touch it either, I just went to the mailbox and got a message saying that 5 white mailboxes are to be deleted",
+      "pt": "Eu também não toco, apenas fui até a caixa de correio e recebi uma mensagem dizendo que 5 caixas de correio brancas devem ser excluídas",
+      "label": "clean"
+    },
+    {
+      "id": "1515742211587964958",
+      "author": "xbiedro",
+      "ts": "2026-06-14 12:38",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1515742930583949323",
+      "author": "_scrolllock",
+      "ts": "2026-06-14 12:41",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515743102889885847",
+      "author": "jukieeee",
+      "ts": "2026-06-14 12:41",
+      "orig": "hi",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515743886201458971",
+      "author": "qndel",
+      "ts": "2026-06-14 12:45",
+      "orig": "gtfo",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1515743928735764510",
+      "author": "hxia663",
+      "ts": "2026-06-14 12:45",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1515742186417688689.png"
+}

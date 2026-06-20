@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512134143063101613",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "361459591176912897",
+  "author": "entotus",
+  "ts": "2026-06-04 13:41",
+  "orig": "jeśli wszystkie białe zapełnione i nie umiesz zbierać białych",
+  "en": "if all the whites are full and you can't collect the whites",
+  "pt": "se todas as claras estiverem cheias e você não conseguir coletá-las",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512134143063101613",
+  "context": [
+    {
+      "id": "1512127364820373586",
+      "author": "apeks001",
+      "ts": "2026-06-04 13:14",
+      "orig": "i 2 pytanie gdzie sie skrzynki otwiera bo pokazuje ze je dostaje a ich nie mam",
+      "en": "and the 2nd question is where to open the boxes because it shows that I get them but I don't have them",
+      "pt": "e a 2ª pergunta é onde abrir as caixas porque mostra que as recebo mas não as tenho",
+      "label": ""
+    },
+    {
+      "id": "1512132176873783516",
+      "author": "entotus",
+      "ts": "2026-06-04 13:33",
+      "orig": "ackUpThisFolder_ButDontShipItWithYourGame i BurstDebugInformation_DoNotShip xDDDD",
+      "en": "",
+      "pt": "ackUpThisFolder_ButDontShipItWithYourGame e BurstDebugInformation_DoNotShip xDDDD",
+      "label": ""
+    },
+    {
+      "id": "1512133855220338808",
+      "author": "kajzerka0657",
+      "ts": "2026-06-04 13:40",
+      "orig": "O co chodzi z tym, że nie otwierając zwykłych chestów ma się większą szansę na niebieską? Przecież niebieska i tak tylko na koniec poziomu może wypaść? Jakiś zboostowany przez to % jest ?",
+      "en": "What's the deal with the fact that by not opening regular chests you have a greater chance of getting the blue one? After all, the blue one can only appear at the end of the level anyway? Is there some % boosted by this?",
+      "pt": "Qual é o problema com o fato de que ao não abrir baús normais você tem mais chances de conseguir o azul? Afinal, o azul só pode aparecer no final da fase mesmo? Existe alguma% impulsionada por isso?",
+      "label": ""
+    },
+    {
+      "id": "1512133975542468708",
+      "author": "entotus",
+      "ts": "2026-06-04 13:40",
+      "orig": "interwały na to masz",
+      "en": "you have intervals for that",
+      "pt": "você tem intervalos para isso",
+      "label": "clean"
+    },
+    {
+      "id": "1512134079322001538",
+      "author": "entotus",
+      "ts": "2026-06-04 13:40",
+      "orig": "bo wszystkie chesty mają interwałna 7 minut",
+      "en": "because all chests have an interval of 7 minutes",
+      "pt": "pois todos os baús tem intervalo de 7 minutos",
+      "label": "clean"
+    },
+    {
+      "id": "1512134174276980768",
+      "author": "entotus",
+      "ts": "2026-06-04 13:41",
+      "orig": "to gra bedzie ci probowala sboyc inne",
+      "en": "then the game will try to make you different ones",
+      "pt": "então o jogo tentará torná-lo diferente",
+      "label": "clean"
+    },
+    {
+      "id": "1512134203343372328",
+      "author": "entotus",
+      "ts": "2026-06-04 13:41",
+      "orig": "czyli niebieskie",
+      "en": "i.e. blue",
+      "pt": "ou seja, azul",
+      "label": "clean"
+    },
+    {
+      "id": "1512134208104169645",
+      "author": "kajzerka0657",
+      "ts": "2026-06-04 13:41",
+      "orig": "a czyli jak spadnie zwykła to przez 7 min  żadna inna nie spada ?",
+      "en": "so when a regular one falls, no other falls for 7 minutes?",
+      "pt": "então, quando um normal cai, nenhum outro cai por 7 minutos?",
+      "label": ""
+    },
+    {
+      "id": "1512134240077348986",
+      "author": "entotus",
+      "ts": "2026-06-04 13:41",
+      "orig": "ta",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512134351008043058",
+      "author": "entotus",
+      "ts": "2026-06-04 13:42",
+      "orig": "i masz cykl 21 minut",
+      "en": "and you have a cycle of 21 minutes",
+      "pt": "e você tem um ciclo de 21 minutos",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1512134143063101613.png"
+}

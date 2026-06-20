@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516033404305674260",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "271569103859220480",
+  "author": "rayner.1986",
+  "ts": "2026-06-15 07:55",
+  "orig": "jak źle ustawisz cene to zawiśnie i chuj",
+  "en": "If you set the price wrong, it will hang and shit",
+  "pt": "Se você definir o preço errado, ele vai travar e cagar",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516033404305674260",
+  "context": [
+    {
+      "id": "1516033149224882186",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 07:54",
+      "orig": "i dać synowi do szkoły",
+      "en": "and send my son to school",
+      "pt": "e mandar meu filho para a escola",
+      "label": ""
+    },
+    {
+      "id": "1516033168300314756",
+      "author": "entotus",
+      "ts": "2026-06-15 07:54",
+      "orig": "xDDDD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516033312089440347",
+      "author": "kraju",
+      "ts": "2026-06-15 07:55",
+      "orig": "no ja czekam bo mam 4 itemy beyond 80 lvl na market xD trzeba korzystac dopóki ceny nie spadna w dół",
+      "en": "well, I'm waiting because I have 4 items beyond lvl 80 on the market xD I have to use it until the prices go down",
+      "pt": "bom, estou esperando porque tenho 4 itens além do nível 80 no mercado xD tenho que usar até os preços baixarem",
+      "label": ""
+    },
+    {
+      "id": "1516033387452960910",
+      "author": "lepryko",
+      "ts": "2026-06-15 07:55",
+      "orig": "ja pamietma jak bylem mlody",
+      "en": "I remember when I was young",
+      "pt": "Eu me lembro quando eu era jovem",
+      "label": "clean"
+    },
+    {
+      "id": "1516033388744802435",
+      "author": "eruun_89",
+      "ts": "2026-06-15 07:55",
+      "orig": "Emocje jak na otwarciu pierwszego Hita w Warszawie",
+      "en": "Emotions like at the opening of the first Hit in Warsaw",
+      "pt": "Emoções como na abertura do primeiro Hit em Varsóvia",
+      "label": "clean"
+    },
+    {
+      "id": "1516033409250758696",
+      "author": "lepryko",
+      "ts": "2026-06-15 07:55",
+      "orig": "miale sok winogrownowy z caprio",
+      "en": "miale grape juice with caprio",
+      "pt": "suco de uva miale com caprio",
+      "label": "clean"
+    },
+    {
+      "id": "1516033421820825680",
+      "author": "lepryko",
+      "ts": "2026-06-15 07:55",
+      "orig": "i mi spadl za kanape",
+      "en": "he also fell behind my sofa",
+      "pt": "ele também caiu atrás do meu sofá",
+      "label": "clean"
+    },
+    {
+      "id": "1516033440372363337",
+      "author": "lepryko",
+      "ts": "2026-06-15 07:55",
+      "orig": "wyjalem po 3 latach",
+      "en": "I left after 3 years",
+      "pt": "Saí depois de 3 anos",
+      "label": "clean"
+    },
+    {
+      "id": "1516033445455859825",
+      "author": "lepryko",
+      "ts": "2026-06-15 07:55",
+      "orig": "otworzylem",
+      "en": "I opened it",
+      "pt": "eu abri",
+      "label": "clean"
+    },
+    {
+      "id": "1516033463096967208",
+      "author": "lepryko",
+      "ts": "2026-06-15 07:55",
+      "orig": "to kurwilo juz winem xD",
+      "en": "this was fucking wine xD",
+      "pt": "isso era vinho de merda xD",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516033404305674260.png"
+}

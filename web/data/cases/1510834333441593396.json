@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510834333441593396",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 23:36",
+  "orig": "wzieli mnie, to mysle a wejde pogadma se z nimi mam recepte wiec wyjebane jaja",
+  "en": "They took me, so I think I'll go in and talk to them, I have a prescription, so fuck off.",
+  "pt": "Eles me levaram, então acho que vou entrar e falar com eles, tenho receita, então vá se foder.",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510834333441593396",
+  "context": [
+    {
+      "id": "1510834209311166585",
+      "author": "entotus",
+      "ts": "2026-05-31 23:35",
+      "orig": "palisz se blanta jakas babka lat 70 patrzy i dzwoni na policje diabeł sie pojawił",
+      "en": "you're smoking a blunt, some woman from the 70s looks at it and calls the police, the devil has appeared",
+      "pt": "você está fumando um cigarro, uma mulher dos anos 70 olha e chama a polícia, o diabo apareceu",
+      "label": ""
+    },
+    {
+      "id": "1510834247269617714",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:35",
+      "orig": "mialem sytuacje ze na dworzec szedlem",
+      "en": "I had a situation where I was walking to the station",
+      "pt": "Tive uma situação em que estava caminhando para a estação",
+      "label": ""
+    },
+    {
+      "id": "1510834261110820864",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:35",
+      "orig": "i mialem blanta przy sobie",
+      "en": "and I had a blunt with me",
+      "pt": "e eu tive uma briga comigo",
+      "label": "clean"
+    },
+    {
+      "id": "1510834276805902417",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "i mysle pojde se sciezka spale",
+      "en": "even the mind will go down the path of sleep",
+      "pt": "até a mente seguirá o caminho do sono",
+      "label": "clean"
+    },
+    {
+      "id": "1510834297396002947",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "i lodówa zajechala xD",
+      "en": "and the ice cream arrived xD",
+      "pt": "e o sorvete chegou xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510834347249500160",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "i cos tma pogadali",
+      "en": "",
+      "pt": "eu sou tma pogadali",
+      "label": "clean"
+    },
+    {
+      "id": "1510834354178363392",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "skomentowal",
+      "en": "he commented",
+      "pt": "ele comentou",
+      "label": "clean"
+    },
+    {
+      "id": "1510834364500672602",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "ze grubasa skrecilem xD",
+      "en": "I made it fat xD",
+      "pt": "Eu engordei xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510834381764169870",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "wyszedlem z lodowy i mowie do nich",
+      "en": "I got out of the ice and I'm talking to them",
+      "pt": "Saí do gelo e estou conversando com eles",
+      "label": ""
+    },
+    {
+      "id": "1510834394972033024",
+      "author": "lepryko",
+      "ts": "2026-05-31 23:36",
+      "orig": "ze ja go tu zaraz zjaram",
+      "en": "I'm about to eat it up here",
+      "pt": "Estou prestes a comê-lo aqui",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510834333441593396.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510599180165316648",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-05-31 08:01",
+  "orig": "i robienie +15 zeby sie blyszczalo jak psu jajca",
+  "en": "and doing +15 to make it shine like a dog's eggs",
+  "pt": "e fazendo +15 para fazê-lo brilhar como os ovos de um cachorro",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510599180165316648",
+  "context": [
+    {
+      "id": "1510599091363774516",
+      "author": "lepryko",
+      "ts": "2026-05-31 08:01",
+      "orig": "zeby ulepszyc kolejny",
+      "en": "to improve the next one",
+      "pt": "para melhorar o próximo",
+      "label": ""
+    },
+    {
+      "id": "1510599108866347139",
+      "author": "lepryko",
+      "ts": "2026-05-31 08:01",
+      "orig": "TRI cyz jak to tam szlo",
+      "en": "TRI cyz how it went",
+      "pt": "TRI cyz como foi",
+      "label": ""
+    },
+    {
+      "id": "1510599119373205524",
+      "author": "lepryko",
+      "ts": "2026-05-31 08:01",
+      "orig": "frustrujace XD",
+      "en": "",
+      "pt": "frustração XD",
+      "label": "clean"
+    },
+    {
+      "id": "1510599126788608191",
+      "author": "kraju",
+      "ts": "2026-05-31 08:01",
+      "orig": "metin2 i czarowanie kowala XD?",
+      "en": "metin2 and blacksmith magic XD?",
+      "pt": "metin2 e magia de ferreiro XD?",
+      "label": "clean"
+    },
+    {
+      "id": "1510599150448939040",
+      "author": "lepryko",
+      "ts": "2026-05-31 08:01",
+      "orig": "tylko MU online xD",
+      "en": "only MU online xD",
+      "pt": "só MU online xD",
+      "label": "clean"
+    },
+    {
+      "id": "1510599252739624961",
+      "author": "xbiedro",
+      "ts": "2026-05-31 08:02",
+      "orig": "https://klipy.com/gifs/metin2-metin2-let-me-in-login",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510599320813047828",
+      "author": "kraju",
+      "ts": "2026-05-31 08:02",
+      "orig": "e to ja jeszcze pamietam jak było od zajebania polskich serverów xd",
+      "en": "I still remember what it was like after the Polish servers were fucked up xd",
+      "pt": "Ainda me lembro como foi depois que os servidores poloneses foram fodidos xd",
+      "label": "clean"
+    },
+    {
+      "id": "1510599377939595374",
+      "author": "lepryko",
+      "ts": "2026-05-31 08:02",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1510599432473935912",
+      "author": "xbiedro",
+      "ts": "2026-05-31 08:02",
+      "orig": "ja lubie klimat expa w metku",
+      "en": "I like the EXP atmosphere in the tag",
+      "pt": "Eu gosto da atmosfera EXP na tag",
+      "label": ""
+    },
+    {
+      "id": "1510599462035128534",
+      "author": "xbiedro",
+      "ts": "2026-05-31 08:02",
+      "orig": "(early metku)",
+      "en": "",
+      "pt": "(metku inicial)",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510599180165316648.png"
+}

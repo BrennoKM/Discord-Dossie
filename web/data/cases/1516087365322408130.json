@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516087365322408130",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-15 11:29",
+  "orig": "p2w jeszcze ujdzie jak dla mnie ale wygląda jak psi zwis",
+  "en": "p2w will still pass for me, but it looks like a dog's slack",
+  "pt": "p2w ainda vai passar por mim, mas parece folga de cachorro",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516087365322408130",
+  "context": [
+    {
+      "id": "1516086722889384006",
+      "author": "xbiedro",
+      "ts": "2026-06-15 11:27",
+      "orig": "albo shakes and fidget czy coś takiego",
+      "en": "or shakes and fidget or something like that",
+      "pt": "ou treme e fica inquieto ou algo assim",
+      "label": ""
+    },
+    {
+      "id": "1516086764694147133",
+      "author": "xbiedro",
+      "ts": "2026-06-15 11:27",
+      "orig": "nwm czy dobrze nazwę pamiętam",
+      "en": "I don't know if I remember the name correctly",
+      "pt": "Não sei se lembro o nome corretamente",
+      "label": ""
+    },
+    {
+      "id": "1516087109293707346",
+      "author": "zieloooony",
+      "ts": "2026-06-15 11:28",
+      "orig": "uciekaj od tej gry to jest oficjalne p2w ta gra",
+      "en": "run away from this game this is official p2w this game",
+      "pt": "fuja desse jogo isso é oficial p2w esse jogo",
+      "label": "clean"
+    },
+    {
+      "id": "1516087322310086756",
+      "author": "qndel",
+      "ts": "2026-06-15 11:29",
+      "orig": "timeout dostają małe czy duże?",
+      "en": "do they get small or large timeout?",
+      "pt": "eles obtêm um tempo limite pequeno ou grande?",
+      "label": "clean"
+    },
+    {
+      "id": "1516087351556837476",
+      "author": "qndel",
+      "ts": "2026-06-15 11:29",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516087414630912020",
+      "author": "xbiedro",
+      "ts": "2026-06-15 11:30",
+      "orig": "za siurki bany",
+      "en": "for peeing bans",
+      "pt": "para proibições de fazer xixi",
+      "label": "clean"
+    },
+    {
+      "id": "1516087427775598692",
+      "author": "eruun_89",
+      "ts": "2026-06-15 11:30",
+      "orig": "małe i juz mokre",
+      "en": "small and already wet",
+      "pt": "pequeno e já molhado",
+      "label": "clean"
+    },
+    {
+      "id": "1516087473913069668",
+      "author": "qndel",
+      "ts": "2026-06-15 11:30",
+      "orig": "ja jakieś overlooting zainstalowałem ostatnio",
+      "en": "I recently installed some overlooting",
+      "pt": "Recentemente instalei alguns overloots",
+      "label": "clean"
+    },
+    {
+      "id": "1516087517223321832",
+      "author": "qndel",
+      "ts": "2026-06-15 11:30",
+      "orig": "całkiem przyjemnie się pykało ale raczej gra na dzień-dwa 😄",
+      "en": "It was quite enjoyable, but it's more of a game for a day or two 😄",
+      "pt": "Foi bastante divertido, mas é mais um jogo de um ou dois dias 😄",
+      "label": ""
+    },
+    {
+      "id": "1516087519995760660",
+      "author": "entotus",
+      "ts": "2026-06-15 11:30",
+      "orig": "I mikro siurki też ?",
+      "en": "And micro pees too?",
+      "pt": "E micro xixi também?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516087365322408130.png"
+}

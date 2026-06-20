@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512341051573145600",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-05 03:23",
+  "orig": "tylko skośno okie małpy użyły ostatnich szarych komórek i 2 iq i sprawdziły mój profil na dc i zobaczyli ze steam jesT XD",
+  "en": "only the slant-eyed monkeys used the last of their gray cells and 2 IQ and checked my profile on DC and saw that steam was on XD",
+  "pt": "apenas os macacos de olhos puxados usaram o que restava de suas células cinzentas e 2 QI e verificaram meu perfil em DC e viram que o vapor estava no XD",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512341051573145600",
+  "context": [
+    {
+      "id": "1512340489137819781",
+      "author": "kraju",
+      "ts": "2026-06-05 03:21",
+      "orig": "pomijam fakt że spierdolili wytyczne steam(steam dał cały kod co mieli dodać do gry żeby drop normalnie działał) to nawet to spierdolili",
+      "en": "I'm not even mentioning the fact that they fucked up Steam's guidelines (Steam provided all the code they had to add to the game to make the drop work normally), they even fucked it up",
+      "pt": "Não estou nem mencionando o fato de que eles estragaram as diretrizes do Steam (o Steam forneceu todo o código que eles tiveram que adicionar ao jogo para fazer o drop funcionar normalmente), eles até estragaram tudo",
+      "label": ""
+    },
+    {
+      "id": "1512340504379916418",
+      "author": "kraju",
+      "ts": "2026-06-05 03:21",
+      "orig": "bo ai tego nie ogarnia xD",
+      "en": "because ai doesn't understand it xD",
+      "pt": "porque ai não entende xD",
+      "label": ""
+    },
+    {
+      "id": "1512340773901828167",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 03:22",
+      "orig": "No dokładnie, mi wczoraj wyjebało strike z komunikatem że coś wykryto i może się skończyć banem w momencie jak w Warframe relikt otwierałem a miałem odpalony alecaframe na overwolfie w celu sprawdzenia wartości platyny i już miałem takie halo kurwa  o co chodzi. Później zacząłem czytać wszystkie dyskusje że ludzie bany dostają z dupy to stwierdziłem dobra walić tą gierkę a tu cyk rano niespodzianka.",
+      "en": "Exactly, yesterday I had a strike with a message that something had been detected and could result in a ban, when I was opening the relic in Warframe and I had Alecaframe on Overwolf to check the platinum value and I was already wondering what the fuck was going on. Then I started reading all the discussions about people getting banned from their asses, so I decided to stop playing this game, and then there was a surprise in the morning.",
+      "pt": "Exatamente, ontem recebi um strike com mensagem de que algo havia sido detectado e poderia resultar em banimento, quando eu estava abrindo a relíquia no Warframe e estava com Alecaframe no Overwolf para verificar o valor de platina e já estava me perguntando o que diabos estava acontecendo. Então comecei a ler todas as discussões sobre pessoas sendo banidas, então decidi parar de jogar esse jogo, e então houve uma surpresa pela manhã.",
+      "label": "clean"
+    },
+    {
+      "id": "1512340794240012438",
+      "author": "kraju",
+      "ts": "2026-06-05 03:22",
+      "orig": "spoko ale zaraz dostaniemy kolejnego ai slopa XD",
+      "en": "cool, but we'll soon get another ai slop XD",
+      "pt": "legal, mas em breve teremos outro ai slop XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512340894349656164",
+      "author": "kraju",
+      "ts": "2026-06-05 03:22",
+      "orig": "spoko ja na tym koncie ani jednego flaga nie miałem xD",
+      "en": "cool, I didn't have a single flag on this account xD",
+      "pt": "legal, eu não tinha nenhuma flag nessa conta xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512341274835943506",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 03:24",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512341304053334088",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:24",
+      "orig": "nie zarobili ? 😄",
+      "en": "didn't they earn? 😄",
+      "pt": "eles não ganharam? 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1512341325566181377",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 03:24",
+      "orig": "XDDD",
+      "en": "XDD",
+      "pt": "XDD",
+      "label": "clean"
+    },
+    {
+      "id": "1512341342494396558",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:24",
+      "orig": "jest kurwa",
+      "en": "it's a whore",
+      "pt": "é uma puta",
+      "label": ""
+    },
+    {
+      "id": "1512341350610374779",
+      "author": "xbiedro",
+      "ts": "2026-06-05 03:24",
+      "orig": "wkońcu",
+      "en": "at last",
+      "pt": "afinal",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512341051573145600.png"
+}

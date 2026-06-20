@@ -1,0 +1,110 @@
+{
+  "msg_id": "1514481509967466566",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-11 01:08",
+  "orig": "zastanawiam się czy jechać za to na wakacje czy odpierdolić się jak księżniczka w błyszczące itemy jak sie ustabilizują ceny",
+  "en": "I'm wondering whether I should go on holiday or fuck off like a princess with shiny items when the prices stabilize.",
+  "pt": "Estou me perguntando se devo sair de férias ou me foder como uma princesa com itens brilhantes quando os preços estabilizarem.",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1514481509967466566",
+  "context": [
+    {
+      "id": "1514468217270173696",
+      "author": "knustzera",
+      "ts": "2026-06-11 00:16",
+      "orig": "<:tank:1510575444087541943>",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1514481021419126875",
+      "author": "xbiedro",
+      "ts": "2026-06-11 01:06",
+      "orig": "też czekam z niecierpliwością",
+      "en": "I'm also looking forward to it",
+      "pt": "Também estou ansioso por isso",
+      "label": ""
+    },
+    {
+      "id": "1514481080151834794",
+      "author": "xbiedro",
+      "ts": "2026-06-11 01:07",
+      "orig": "ale już syntezuje immortale i materiały niektóre",
+      "en": "but he is already synthesizing immortals and some materials",
+      "pt": "mas ele já está sintetizando imortais e alguns materiais",
+      "label": "clean"
+    },
+    {
+      "id": "1514481100762910921",
+      "author": "xbiedro",
+      "ts": "2026-06-11 01:07",
+      "orig": "miejsca zaczyna brakować xd",
+      "en": "I'm running out of space xd",
+      "pt": "Estou ficando sem espaço xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514481262826623129",
+      "author": "xbiedro",
+      "ts": "2026-06-11 01:07",
+      "orig": "nawet craft na immortal kolczyki siadł 🤙",
+      "en": "even crafting immortal earrings has failed 🤙",
+      "pt": "até mesmo a confecção de brincos imortais falhou 🤙",
+      "label": "clean"
+    },
+    {
+      "id": "1514481529114333217",
+      "author": "xbiedro",
+      "ts": "2026-06-11 01:08",
+      "orig": "😂",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1514481620554481805",
+      "author": "xbiedro",
+      "ts": "2026-06-11 01:09",
+      "orig": "najbardziej to się modle żeby soulstoney zostały przez chwilę na 20zł xD",
+      "en": "I pray that Soulstones stay at PLN 20 for a while xD",
+      "pt": "Rezo para que Soulstones permaneçam em PLN 20 por um tempo xD",
+      "label": "clean"
+    },
+    {
+      "id": "1514482497050902568",
+      "author": "keita2005",
+      "ts": "2026-06-11 01:12",
+      "orig": "hi",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1514482498610921473",
+      "author": "keita2005",
+      "ts": "2026-06-11 01:12",
+      "orig": "hi",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1514482500297031781",
+      "author": "keita2005",
+      "ts": "2026-06-11 01:12",
+      "orig": "hi",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1514481509967466566.png"
+}

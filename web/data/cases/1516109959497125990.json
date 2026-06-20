@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516109959497125990",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-15 12:59",
+  "orig": "to ejden chuj",
+  "en": "that's a load of crap",
+  "pt": "isso é um monte de porcaria",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516109959497125990",
+  "context": [
+    {
+      "id": "1516109898079797540",
+      "author": "qndel",
+      "ts": "2026-06-15 12:59",
+      "orig": "ja chcętylko moje 20 zł",
+      "en": "I just want my PLN 20",
+      "pt": "Eu só quero meus 20 PLN",
+      "label": ""
+    },
+    {
+      "id": "1516109901175193600",
+      "author": "qndel",
+      "ts": "2026-06-15 12:59",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516109928375259176",
+      "author": "lepryko",
+      "ts": "2026-06-15 12:59",
+      "orig": "tu nie ma co quitowac",
+      "en": "there is no point in quitting here",
+      "pt": "não adianta desistir aqui",
+      "label": ""
+    },
+    {
+      "id": "1516109936516403291",
+      "author": "lepryko",
+      "ts": "2026-06-15 12:59",
+      "orig": "w tle niech se leci",
+      "en": "let it play in the background",
+      "pt": "deixe tocar em segundo plano",
+      "label": ""
+    },
+    {
+      "id": "1516109954879328309",
+      "author": "lepryko",
+      "ts": "2026-06-15 12:59",
+      "orig": "poki cyypto nie kkiopie",
+      "en": "as long as Cypto doesn't kick",
+      "pt": "contanto que Cypto não chute",
+      "label": ""
+    },
+    {
+      "id": "1516109980904722532",
+      "author": "radziol",
+      "ts": "2026-06-15 12:59",
+      "orig": "a wiadomo czy chesty leca na offline?",
+      "en": "do you know if chests are going offline?",
+      "pt": "você sabe se os baús estão ficando offline?",
+      "label": "clean"
+    },
+    {
+      "id": "1516110003864600671",
+      "author": "qndel",
+      "ts": "2026-06-15 12:59",
+      "orig": "nie leća",
+      "en": "not flying",
+      "pt": "não voando",
+      "label": "clean"
+    },
+    {
+      "id": "1516110009384046683",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:59",
+      "orig": "napewno nie lol",
+      "en": "definitely not lol",
+      "pt": "definitivamente não haha",
+      "label": "clean"
+    },
+    {
+      "id": "1516110030208893158",
+      "author": "radziol",
+      "ts": "2026-06-15 12:59",
+      "orig": "eh",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516110044180123859",
+      "author": "zieloooony",
+      "ts": "2026-06-15 13:00",
+      "orig": "u mnie leci w tle gram w co innego albo ide do pracy to zostawiam",
+      "en": "It's playing in the background, I'm playing something else or I'm going to work and I leave it on",
+      "pt": "Está tocando em segundo plano, estou tocando outra coisa ou vou trabalhar e deixo ligado",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516109959497125990.png"
+}

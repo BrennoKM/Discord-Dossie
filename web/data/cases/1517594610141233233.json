@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517594610141233233",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-19 15:19",
+  "orig": "taki rasizm jakby ci ziomek wbił do chaty i darł mordę po jakiemuś, a ty każesz po polsku wypierdalać xD",
+  "en": "such racism as if your friend broke into your house and punched someone in the face and you told him to fuck off in Polish xD",
+  "pt": "tanto racismo como se seu amigo invadisse sua casa e desse um soco na cara de alguém e você mandasse ele se foder em polonês xD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.8,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517594610141233233",
+  "context": [
+    {
+      "id": "1517594495636738128",
+      "author": "kraju",
+      "ts": "2026-06-19 15:18",
+      "orig": "oglądają xD",
+      "en": "they are watching xD",
+      "pt": "eles estão assistindo xD",
+      "label": "clean"
+    },
+    {
+      "id": "1517594541056721056",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:18",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517594553589432484",
+      "author": "entotus",
+      "ts": "2026-06-19 15:18",
+      "orig": "xDD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517594553732038870",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:18",
+      "orig": "Ja tu wchodzi małpa to czuje się mega niekomfortowo, czy w takim razie powinni wyrzucic małpy z DC? Czuje się atakowany",
+      "en": "When a monkey comes in here, he feels very uncomfortable, so should they throw the monkeys out of DC? He feels attacked",
+      "pt": "Quando um macaco chega aqui, ele se sente muito desconfortável, então eles deveriam expulsar os macacos de DC? Ele se sente atacado",
+      "label": "racist"
+    },
+    {
+      "id": "1517594566604361789",
+      "author": "kraju",
+      "ts": "2026-06-19 15:19",
+      "orig": "ale szczerze banana bym opierdolił",
+      "en": "but honestly, I'd give up on the banana",
+      "pt": "mas honestamente, eu desistiria da banana",
+      "label": "clean"
+    },
+    {
+      "id": "1517594621096755283",
+      "author": "kraju",
+      "ts": "2026-06-19 15:19",
+      "orig": "to tak nie zadziała jestes biały",
+      "en": "it won't work like that, you're white",
+      "pt": "não vai funcionar assim, você é branco",
+      "label": "clean"
+    },
+    {
+      "id": "1517594659646603385",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:19",
+      "orig": "I hetero :/",
+      "en": "",
+      "pt": "Eu hetero :/",
+      "label": "clean"
+    },
+    {
+      "id": "1517594687890784417",
+      "author": "entotus",
+      "ts": "2026-06-19 15:19",
+      "orig": "mam takiego jednego znajomego",
+      "en": "I have one friend like that",
+      "pt": "Eu tenho um amigo assim",
+      "label": "clean"
+    },
+    {
+      "id": "1517594746309181640",
+      "author": "xbiedro",
+      "ts": "2026-06-19 15:19",
+      "orig": "https://klipy.com/gifs/side-eye-dog-suspicious-look-1",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517594774008238183",
+      "author": "kraju",
+      "ts": "2026-06-19 15:19",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517594610141233233.png"
+}

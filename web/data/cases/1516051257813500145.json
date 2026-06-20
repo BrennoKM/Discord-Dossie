@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516051257813500145",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-15 09:06",
+  "orig": "nie, do domu iść",
+  "en": "no, go home",
+  "pt": "não, vá para casa",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516051257813500145",
+  "context": [
+    {
+      "id": "1516051178138370288",
+      "author": "_i.p.p.o",
+      "ts": "2026-06-15 09:06",
+      "orig": "info jeszcze nie ma XD",
+      "en": "no info yet XD",
+      "pt": "ainda não há informações XD",
+      "label": ""
+    },
+    {
+      "id": "1516051187986858126",
+      "author": "kraju",
+      "ts": "2026-06-15 09:06",
+      "orig": "zamknac dostęp dla nich i problem z głowy XD",
+      "en": "close access to them and the problem will be solved XD",
+      "pt": "feche o acesso a eles e o problema será resolvido XD",
+      "label": ""
+    },
+    {
+      "id": "1516051200590745630",
+      "author": "xferbuson",
+      "ts": "2026-06-15 09:06",
+      "orig": "To mam czekac na update czy co",
+      "en": "So should I wait for an update or something?",
+      "pt": "Então devo esperar por uma atualização ou algo assim?",
+      "label": "clean"
+    },
+    {
+      "id": "1516051250150375494",
+      "author": "rayner.1986",
+      "ts": "2026-06-15 09:06",
+      "orig": "możesz czekać albo czekać 😄",
+      "en": "you can wait or wait 😄",
+      "pt": "você pode esperar ou esperar 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1516051251249549322",
+      "author": "xferbuson",
+      "ts": "2026-06-15 09:06",
+      "orig": "Oni maja najwiekszy udzial w clickerach",
+      "en": "They have the largest share of clickers",
+      "pt": "Eles têm a maior parcela de clickers",
+      "label": "clean"
+    },
+    {
+      "id": "1516051265807978577",
+      "author": "qndel",
+      "ts": "2026-06-15 09:06",
+      "orig": ": D",
+      "en": "",
+      "pt": ":D",
+      "label": "clean"
+    },
+    {
+      "id": "1516051266491383849",
+      "author": "eruun_89",
+      "ts": "2026-06-15 09:06",
+      "orig": "piszą w chatgpt przeprosiny",
+      "en": "they write an apology in chatgpt",
+      "pt": "eles escrevem um pedido de desculpas no chatgpt",
+      "label": "clean"
+    },
+    {
+      "id": "1516051298619887707",
+      "author": "entotus",
+      "ts": "2026-06-15 09:06",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516051368631210185",
+      "author": "gabilovski",
+      "ts": "2026-06-15 09:06",
+      "orig": "14",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516051372678578246",
+      "author": "xferbuson",
+      "ts": "2026-06-15 09:06",
+      "orig": "Czekaja az dzienny limit im sie odblokuje",
+      "en": "They are waiting for their daily limit to be unlocked",
+      "pt": "Eles estão esperando que seu limite diário seja desbloqueado",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516051257813500145.png"
+}

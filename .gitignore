@@ -4,6 +4,7 @@ session.json
 __pycache__/
 *.pyc
 data/
+!web/data/
 cards/
 dossie*.html
 cache_*.json
@@ -12,4 +13,4 @@ logs/
 db/
 .claude/channels/
 .playwright-mcp/
-*.png
+web/screenshots/*.png

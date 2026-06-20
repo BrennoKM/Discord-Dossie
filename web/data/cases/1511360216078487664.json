@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511360216078487664",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-02 10:25",
+  "orig": "akurat iotemki szybki schodza xD",
+  "en": "Iotemki are going away quickly xD",
+  "pt": "Iotemki vai embora rapidamente xD",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511360216078487664",
+  "context": [
+    {
+      "id": "1511360102756651018",
+      "author": "lepryko",
+      "ts": "2026-06-02 10:25",
+      "orig": "ja bym juz wypowiedzenie pisal XD",
+      "en": "I would have written my notice already XD",
+      "pt": "Eu já teria escrito meu aviso XD",
+      "label": ""
+    },
+    {
+      "id": "1511360147828641992",
+      "author": "eurogabka",
+      "ts": "2026-06-02 10:25",
+      "orig": "jeszcze supporter pack i mozna zbierac na losowe giery na steamie",
+      "en": "there is also a supporter pack and you can collect money for random games on Steam",
+      "pt": "há também um pacote de torcedor e você pode coletar dinheiro para jogos aleatórios no Steam",
+      "label": ""
+    },
+    {
+      "id": "1511360148889669773",
+      "author": "xbiedro",
+      "ts": "2026-06-02 10:25",
+      "orig": "elegancko",
+      "en": "elegantly",
+      "pt": "elegantemente",
+      "label": "clean"
+    },
+    {
+      "id": "1511360177197285486",
+      "author": "xbiedro",
+      "ts": "2026-06-02 10:25",
+      "orig": "szkoda że botów nie banują",
+      "en": "It's a pity they don't ban bots",
+      "pt": "É uma pena que eles não proíbam os bots",
+      "label": "clean"
+    },
+    {
+      "id": "1511360182276591730",
+      "author": "eurogabka",
+      "ts": "2026-06-02 10:25",
+      "orig": "myslalem ze bedzie pol dnia sie sprzedawac",
+      "en": "I thought it would take half a day to sell",
+      "pt": "Achei que demoraria meio dia para vender",
+      "label": ""
+    },
+    {
+      "id": "1511360228107747468",
+      "author": "eurogabka",
+      "ts": "2026-06-02 10:25",
+      "orig": "a nawet 5 minut nie minelo",
+      "en": "and not even 5 minutes have passed",
+      "pt": "e nem 5 minutos se passaram",
+      "label": ""
+    },
+    {
+      "id": "1511360251629404313",
+      "author": "lepryko",
+      "ts": "2026-06-02 10:26",
+      "orig": "soulstony",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1511360259883663460",
+      "author": "lepryko",
+      "ts": "2026-06-02 10:26",
+      "orig": "to juz w ogole",
+      "en": "it's all over now",
+      "pt": "está tudo acabado agora",
+      "label": "clean"
+    },
+    {
+      "id": "1511360356826484747",
+      "author": "eurogabka",
+      "ts": "2026-06-02 10:26",
+      "orig": "te to ja sobie zostawiam/uzywam, gemy zbierac musze bo nie mam",
+      "en": "I keep/use these, I have to collect gems because I don't have them",
+      "pt": "Eu guardo/uso isso, tenho que coletar joias porque não as tenho",
+      "label": ""
+    },
+    {
+      "id": "1511360361515978944",
+      "author": "xbiedro",
+      "ts": "2026-06-02 10:26",
+      "orig": "szczególnie teraz jak yebane skrzynki nie lecą xD",
+      "en": "especially now when the damn boxes aren't flying xD",
+      "pt": "especialmente agora que as malditas caixas não estão voando xD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511360216078487664.png"
+}

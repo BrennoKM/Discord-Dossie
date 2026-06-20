@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512101156430680184",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "258891606873210880",
+  "author": "ativ3k",
+  "ts": "2026-06-04 11:30",
+  "orig": "po czym ta sama skrzynka wraca mi przez poczte",
+  "en": "then the same box comes back to me through the post office",
+  "pt": "então a mesma caixa volta para mim pelos correios",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512101156430680184",
+  "context": [
+    {
+      "id": "1512100896832622623",
+      "author": "lepryko",
+      "ts": "2026-06-04 11:29",
+      "orig": "ale juz chyba ogarneli xD",
+      "en": "but I think they already figured it out xD",
+      "pt": "mas acho que eles já descobriram xD",
+      "label": ""
+    },
+    {
+      "id": "1512101059886059713",
+      "author": "ativ3k",
+      "ts": "2026-06-04 11:29",
+      "orig": "pewnie 100% tokenów poszlo na gierke i zabrakło tokenów na PrawnikGPT",
+      "en": "probably 100% of the tokens went to the game and there were no tokens for PrawnikGPT",
+      "pt": "provavelmente 100% dos tokens foram para o jogo e não havia tokens para PrawnikGPT",
+      "label": ""
+    },
+    {
+      "id": "1512101069491142656",
+      "author": "lepryko",
+      "ts": "2026-06-04 11:29",
+      "orig": "Kim Jong Un juz ma wasze hasla",
+      "en": "Kim Jong Un already has your slogans",
+      "pt": "Kim Jong Un já tem seus slogans",
+      "label": "clean"
+    },
+    {
+      "id": "1512101087232917534",
+      "author": "entotus",
+      "ts": "2026-06-04 11:29",
+      "orig": "wam tez tak lecą te niebieskie skrzynki ?",
+      "en": "Do you also like these blue boxes?",
+      "pt": "Você também gosta dessas caixas azuis?",
+      "label": "clean"
+    },
+    {
+      "id": "1512101136528707797",
+      "author": "ativ3k",
+      "ts": "2026-06-04 11:30",
+      "orig": "mi to lecą co chwile powiadomienia ze mi skrzynke zajebali xD",
+      "en": "I keep receiving notifications that my mailbox has been messed up xD",
+      "pt": "Continuo recebendo notificações de que minha caixa de correio está bagunçada xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512101164458709123",
+      "author": "lepryko",
+      "ts": "2026-06-04 11:30",
+      "orig": "mi tez xD",
+      "en": "my complexion xD",
+      "pt": "minha pele xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512101164793987223",
+      "author": "entotus",
+      "ts": "2026-06-04 11:30",
+      "orig": "gra jest z south korea",
+      "en": "the game is from south korea",
+      "pt": "o jogo é da Coreia do Sul",
+      "label": "clean"
+    },
+    {
+      "id": "1512101166517850304",
+      "author": "entotus",
+      "ts": "2026-06-04 11:30",
+      "orig": "xd",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1512101183375020213",
+      "author": "lepryko",
+      "ts": "2026-06-04 11:30",
+      "orig": "kupilem soulstone na hell",
+      "en": "I bought soulstone on hell",
+      "pt": "Eu comprei soulstone no inferno",
+      "label": ""
+    },
+    {
+      "id": "1512101187468525589",
+      "author": "ativ3k",
+      "ts": "2026-06-04 11:30",
+      "orig": "po czym znowu dostjae kominukat ze mi zajebali skrzynke xDD",
+      "en": "after which again dostjae communication with me fucked the box xDD",
+      "pt": "depois disso novamente a comunicação dostjae comigo fodeu a caixa xDD",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512101156430680184.png"
+}

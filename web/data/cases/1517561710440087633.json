@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517561710440087633",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "191929666754314240",
+  "author": "qndel",
+  "ts": "2026-06-19 13:08",
+  "orig": "\"przestali produkować, nie mamy na magazynie, wykurwiaj\"",
+  "en": "\"they stopped producing, we don't have it in stock, fuck off\"",
+  "pt": "\"pararam de produzir, não temos em estoque, vai se foder\"",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517561710440087633",
+  "context": [
+    {
+      "id": "1517561615539638283",
+      "author": "qndel",
+      "ts": "2026-06-19 13:08",
+      "orig": "mieli na stronce promkę 900 -> 200, limitowana ilość, kupiłem",
+      "en": "They had a promotion of 900 -> 200 on their website, limited quantity, I bought it",
+      "pt": "Tinham promoção de 900 -> 200 no site deles, quantidade limitada, comprei",
+      "label": ""
+    },
+    {
+      "id": "1517561649198796840",
+      "author": "lepryko",
+      "ts": "2026-06-19 13:08",
+      "orig": "mnie ost ZUS ojebal XD",
+      "en": "ZUS pissed me off XD",
+      "pt": "ZUS me irritou XD",
+      "label": ""
+    },
+    {
+      "id": "1517561661437907107",
+      "author": "qndel",
+      "ts": "2026-06-19 13:08",
+      "orig": "po 2 tyg pytam jak tam moje zamówienie, \"aaa o chuj, nie ma i nie będzie\"",
+      "en": "after 2 weeks I ask how my order is going, \"oh shit, it's gone and it won't be\"",
+      "pt": "depois de 2 semanas eu pergunto como está meu pedido, \"ah, merda, acabou e não vai mais\"",
+      "label": "offensive"
+    },
+    {
+      "id": "1517561667087630518",
+      "author": "qndel",
+      "ts": "2026-06-19 13:08",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517561674381525143",
+      "author": "lepryko",
+      "ts": "2026-06-19 13:08",
+      "orig": "musialem zaplacic 11k wyrownania XD",
+      "en": "I had to pay 11k compensation XD",
+      "pt": "Tive que pagar uma indenização de 11k XD",
+      "label": "clean"
+    },
+    {
+      "id": "1517561751380561970",
+      "author": "qndel",
+      "ts": "2026-06-19 13:08",
+      "orig": "strona bezczelnie pokazuje że mają na magazynie 😄",
+      "en": "the website brazenly shows that they have them in stock 😄",
+      "pt": "o site mostra descaradamente que os tem em estoque 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1517561782426800272",
+      "author": "qndel",
+      "ts": "2026-06-19 13:08",
+      "orig": "pisałem do rzecznika konsumenta",
+      "en": "I wrote to the consumer ombudsman",
+      "pt": "Escrevi ao Provedor do Consumidor",
+      "label": "clean"
+    },
+    {
+      "id": "1517561811665158284",
+      "author": "qndel",
+      "ts": "2026-06-19 13:08",
+      "orig": "jakaś babka wkurwiona że dupę zawracam",
+      "en": "Some woman is pissed that I'm bothering her ass",
+      "pt": "Alguma mulher está chateada porque eu estou incomodando a bunda dela",
+      "label": "clean"
+    },
+    {
+      "id": "1517561844695306303",
+      "author": "qndel",
+      "ts": "2026-06-19 13:08",
+      "orig": "\"i co pan chcesz? do sądu se idź\" XD",
+      "en": "\"and what do you want? go to court\" XD",
+      "pt": "\"e o que você quer? ir a tribunal\" XD",
+      "label": ""
+    },
+    {
+      "id": "1517561936680714290",
+      "author": "qndel",
+      "ts": "2026-06-19 13:09",
+      "orig": "nie umiała maili z załączników otworzyć",
+      "en": "She couldn't open emails with attachments",
+      "pt": "Ela não conseguia abrir e-mails com anexos",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517561710440087633.png"
+}

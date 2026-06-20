@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516099906866253835",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-15 12:19",
+  "orig": "xDD kurwa 40 minut czekaj bo server is busy o ja pierdole XD",
+  "en": "xDD fuck wait 40 minutes because the server is busy oh fuck XD",
+  "pt": "xDD porra, espere 40 minutos porque o servidor está ocupado, porra XD",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516099906866253835",
+  "context": [
+    {
+      "id": "1516099723512254605",
+      "author": "entotus",
+      "ts": "2026-06-15 12:19",
+      "orig": "zapełni ci sie pewnie",
+      "en": "It will probably be full for you",
+      "pt": "Provavelmente estará cheio para você",
+      "label": "clean"
+    },
+    {
+      "id": "1516099764553252984",
+      "author": "entotus",
+      "ts": "2026-06-15 12:19",
+      "orig": "ja tez tak mam",
+      "en": "I have this too",
+      "pt": "Eu também tenho isso",
+      "label": "clean"
+    },
+    {
+      "id": "1516099836779172040",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:19",
+      "orig": "chyba już im się odwidziało",
+      "en": "I guess they've already lost their minds",
+      "pt": "Eu acho que eles já perderam a cabeça",
+      "label": "clean"
+    },
+    {
+      "id": "1516099843225944064",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:19",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516099869775892580",
+      "author": "entotus",
+      "ts": "2026-06-15 12:19",
+      "orig": "no mowie zapełni ci sie",
+      "en": "Well, I'm telling you, it'll be full",
+      "pt": "Bem, estou lhe dizendo, estará cheio",
+      "label": "clean"
+    },
+    {
+      "id": "1516099933122592839",
+      "author": "kraju",
+      "ts": "2026-06-15 12:19",
+      "orig": "i czekam az server mi registration zrobi",
+      "en": "and I'm waiting for the server to register me",
+      "pt": "e estou esperando o servidor me registrar",
+      "label": "clean"
+    },
+    {
+      "id": "1516099944006549595",
+      "author": "xbiedro",
+      "ts": "2026-06-15 12:19",
+      "orig": "co się zapełni",
+      "en": "what will fill up",
+      "pt": "o que vai preencher",
+      "label": "clean"
+    },
+    {
+      "id": "1516099966748328008",
+      "author": "entotus",
+      "ts": "2026-06-15 12:19",
+      "orig": "dźwignia",
+      "en": "lever",
+      "pt": "alavanca",
+      "label": "clean"
+    },
+    {
+      "id": "1516100002554974289",
+      "author": "entotus",
+      "ts": "2026-06-15 12:20",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516100064571953367",
+      "author": "entotus",
+      "ts": "2026-06-15 12:20",
+      "orig": "no ogolnie fajny filmik na ph znalazłem",
+      "en": "Well, overall, I found a nice video on ph",
+      "pt": "Bem, no geral, encontrei um vídeo legal sobre ph",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1516099906866253835.png"
+}

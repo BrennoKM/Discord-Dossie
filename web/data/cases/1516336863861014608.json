@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516336863861014608",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "271569103859220480",
+  "author": "rayner.1986",
+  "ts": "2026-06-16 04:01",
+  "orig": "do tej pory udalo mi sie złapać tylko czarną perłę",
+  "en": "So far I have only managed to catch a black pearl",
+  "pt": "Até agora só consegui pegar uma pérola negra",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516336863861014608",
+  "context": [
+    {
+      "id": "1516336196349988934",
+      "author": "eruun_89",
+      "ts": "2026-06-16 03:58",
+      "orig": "to lepsze",
+      "en": "that's better",
+      "pt": "isso é melhor",
+      "label": ""
+    },
+    {
+      "id": "1516336318756552745",
+      "author": "rayner.1986",
+      "ts": "2026-06-16 03:59",
+      "orig": "a weź to znajdź 😄",
+      "en": "and go find it 😄",
+      "pt": "e vá encontrá-lo 😄",
+      "label": ""
+    },
+    {
+      "id": "1516336403456196648",
+      "author": "rayner.1986",
+      "ts": "2026-06-16 03:59",
+      "orig": "to raczej nie na moim levelu",
+      "en": "it's probably not at my level",
+      "pt": "provavelmente não está no meu nível",
+      "label": "clean"
+    },
+    {
+      "id": "1516336493441060945",
+      "author": "eruun_89",
+      "ts": "2026-06-16 03:59",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1516336704276008970",
+      "author": "rayner.1986",
+      "ts": "2026-06-16 04:00",
+      "orig": "jakas szansa minimalna jest 😄",
+      "en": "there is a minimal chance 😄",
+      "pt": "há uma chance mínima 😄",
+      "label": "clean"
+    },
+    {
+      "id": "1516338631424475297",
+      "author": "makowskyy2",
+      "ts": "2026-06-16 04:08",
+      "orig": "Panowie mam dwie sprawy:\n1. normalni uzytkownicy nie moga wysylac ssow i innych obrazow na chacie?\n2. Który luk bedzie lepszy, arcana 65lvl czy immo 80lvl",
+      "en": "Gentlemen, I have two issues:\n1. normal users can't send sss and other images in the chat?\n2. Which hatch will be better, arcana 65lvl or immo 80lvl",
+      "pt": "Senhores, tenho dois problemas:\n1. usuários normais não podem enviar sss e outras imagens no chat?\n2. Qual escotilha será melhor, arcana 65lvl ou immo 80lvl",
+      "label": ""
+    },
+    {
+      "id": "1516338709895581766",
+      "author": "rayner.1986",
+      "ts": "2026-06-16 04:08",
+      "orig": "1. Tak dopiero 10 level moze wysyłać",
+      "en": "1. Yes, only level 10 can send",
+      "pt": "1. Sim, apenas o nível 10 pode enviar",
+      "label": "clean"
+    },
+    {
+      "id": "1516338744104583208",
+      "author": "makowskyy2",
+      "ts": "2026-06-16 04:08",
+      "orig": "bo tak szczerze ta arcana wyglada lepiej",
+      "en": "because honestly this arcana looks better",
+      "pt": "porque honestamente esse arcano parece melhor",
+      "label": ""
+    },
+    {
+      "id": "1516338809438994483",
+      "author": "makowskyy2",
+      "ts": "2026-06-16 04:09",
+      "orig": "ale mistrzu biedro mowil ze te luk jest wystarczajacy xD",
+      "en": "but Master Biedro said that the gap was sufficient xD",
+      "pt": "mas Mestre Biedro disse que a diferença era suficiente xD",
+      "label": ""
+    },
+    {
+      "id": "1516340072595718248",
+      "author": "kraju",
+      "ts": "2026-06-16 04:14",
+      "orig": "jak masz arcana 65 lvl to git ale jeśli masz immo 80 lvl to shadow bow better oczywiscie do zwyklego clear bo na boss rush arcane 65 better",
+      "en": "if you have arcana lvl 65 then it's fine but if you have immo lvl 80 then shadow bow better of course to regular clear because for boss rush arcane 65 better",
+      "pt": "se você tiver arcano lvl 65, então tudo bem, mas se você tiver immo lvl 80, então shadow bow é melhor, é claro, para regular clear, porque para boss rush arcano 65 é melhor",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516336863861014608.png"
+}

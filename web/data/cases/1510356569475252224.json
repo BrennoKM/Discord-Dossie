@@ -1,0 +1,110 @@
+{
+  "msg_id": "1510356569475252224",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-05-30 15:57",
+  "orig": "ale widze ze ten war nie potrzebny bez nerfa priesta XD",
+  "en": "but I see that this war is not needed without the priest nerf XD",
+  "pt": "mas vejo que essa guerra não é necessária sem o padre nerf XD",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1510356569475252224",
+  "context": [
+    {
+      "id": "1510356213617922231",
+      "author": "xbiedro",
+      "ts": "2026-05-30 15:56",
+      "orig": "100% kryta daje",
+      "en": "It gives 100% coverage",
+      "pt": "Dá 100% de cobertura",
+      "label": ""
+    },
+    {
+      "id": "1510356232437760101",
+      "author": "kraju",
+      "ts": "2026-05-30 15:56",
+      "orig": "ale war i tak sie wyjebal ;v",
+      "en": "but war fucked up anyway ;v",
+      "pt": "mas a guerra fodeu de qualquer maneira ;v",
+      "label": ""
+    },
+    {
+      "id": "1510356287961960469",
+      "author": "kraju",
+      "ts": "2026-05-30 15:56",
+      "orig": "chyba jednak fire res musze dodac",
+      "en": "I guess I have to add fire res though",
+      "pt": "Acho que tenho que adicionar resolução de fogo",
+      "label": "clean"
+    },
+    {
+      "id": "1510356384875544776",
+      "author": "xbiedro",
+      "ts": "2026-05-30 15:57",
+      "orig": "no duration i cd trzeba mieć ale wtedy masz 100% uptime lol",
+      "en": "no duration and CD you have to have but then you have 100% uptime lol",
+      "pt": "sem duração e CD você precisa ter, mas então você tem 100% de tempo de atividade haha",
+      "label": "clean"
+    },
+    {
+      "id": "1510356484633002074",
+      "author": "xbiedro",
+      "ts": "2026-05-30 15:57",
+      "orig": "dopóki nie przejdą się do następnego spota",
+      "en": "until they move on to the next spot",
+      "pt": "até que eles passem para o próximo local",
+      "label": "clean"
+    },
+    {
+      "id": "1510356617995096064",
+      "author": "7li3l",
+      "ts": "2026-05-30 15:57",
+      "orig": "ten ranger pod predkosc ataku czy dmg",
+      "en": "this ranger under attack speed or dmg",
+      "pt": "este ranger sob velocidade de ataque ou dano",
+      "label": ""
+    },
+    {
+      "id": "1510356624802316419",
+      "author": "7li3l",
+      "ts": "2026-05-30 15:58",
+      "orig": "bardziej",
+      "en": "more",
+      "pt": "mais",
+      "label": ""
+    },
+    {
+      "id": "1510356669819785337",
+      "author": "xbiedro",
+      "ts": "2026-05-30 15:58",
+      "orig": "lvl31+ attack speed",
+      "en": "",
+      "pt": "lvl31+ velocidade de ataque",
+      "label": "clean"
+    },
+    {
+      "id": "1510356681568293027",
+      "author": "kraju",
+      "ts": "2026-05-30 15:58",
+      "orig": "ja się głowie jak nightmare 2-8/2-9 zrobic a wystarczy reroll patcha",
+      "en": "I'm thinking like a 2-8/2-9 nightmare, just rerolling the patch would be enough",
+      "pt": "Estou pensando como um pesadelo 2-8/2-9, apenas relançar o patch seria o suficiente",
+      "label": ""
+    },
+    {
+      "id": "1510356750136643745",
+      "author": "kraju",
+      "ts": "2026-05-30 15:58",
+      "orig": "XDD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1510356569475252224.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516435301709512735",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-16 10:32",
+  "orig": "porzadny murzynek",
+  "en": "a decent black man",
+  "pt": "um negro decente",
+  "label": "racist",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516435301709512735",
+  "context": [
+    {
+      "id": "1516435099250462720",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:31",
+      "orig": "aplikowales na internetoweog woznego xD ?",
+      "en": "did you apply for an online janitor job xD?",
+      "pt": "você se inscreveu para um emprego de zelador online xD?",
+      "label": ""
+    },
+    {
+      "id": "1516435155584028824",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:31",
+      "orig": "a ja przecież na playteście dostałem muty za tłumaczenie jak cheatować",
+      "en": "and I got mutes on the playtest for explaining how to cheat",
+      "pt": "e fiquei mudo no playtest por explicar como trapacear",
+      "label": ""
+    },
+    {
+      "id": "1516435173951144077",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:31",
+      "orig": "xD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516435223183622294",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:32",
+      "orig": "ale teraz jestem nowym człowiekiem",
+      "en": "but now I'm a new man",
+      "pt": "mas agora sou um novo homem",
+      "label": "clean"
+    },
+    {
+      "id": "1516435244583092475",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:32",
+      "orig": "resocjalizacja te sprawy",
+      "en": "resocialization these matters",
+      "pt": "ressocialização esses assuntos",
+      "label": "clean"
+    },
+    {
+      "id": "1516435307065643180",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:32",
+      "orig": "zgadza się",
+      "en": "That's right",
+      "pt": "Isso mesmo",
+      "label": "clean"
+    },
+    {
+      "id": "1516435470605615256",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:33",
+      "orig": "teraz mogę pilnować aby nasz kanał był przyjemny i bezpieczny w użytku dla każdego członka społeczności",
+      "en": "now I can ensure that our channel is pleasant and safe to use for every member of the community",
+      "pt": "agora posso garantir que nosso canal seja agradável e seguro para todos os membros da comunidade",
+      "label": "clean"
+    },
+    {
+      "id": "1516435535739228182",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:33",
+      "orig": "to polowe powinienes zbanowac tu xd",
+      "en": "you should ban half of them here xd",
+      "pt": "você deveria banir metade deles aqui xd",
+      "label": "clean"
+    },
+    {
+      "id": "1516435567553020104",
+      "author": "lepryko",
+      "ts": "2026-06-16 10:33",
+      "orig": "w tym pewnie mnie xD",
+      "en": "probably including me xD",
+      "pt": "provavelmente me incluindo xD",
+      "label": ""
+    },
+    {
+      "id": "1516435653728927975",
+      "author": "xbiedro",
+      "ts": "2026-06-16 10:33",
+      "orig": "właśnie o tym mówiłem przed chwilą, zrobiłem ładne podsumowanie jakby ktoś jednak czytał",
+      "en": "This is what I was talking about a moment ago, I made a nice summary in case anyone reads it",
+      "pt": "É disso que eu estava falando há pouco, fiz um belo resumo caso alguém leia",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516435301709512735.png"
+}

@@ -1,0 +1,110 @@
+{
+  "msg_id": "1511043947089100990",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-01 13:29",
+  "orig": "opierdol kamienie i kup0 se 3 stash taby xd",
+  "en": "fuck off the stones and buy 0 se 3 stash tabs xd",
+  "pt": "foda-se as pedras e compre 0 ou 3 abas de esconderijo xd",
+  "label": "xenophobic",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.9,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1511043947089100990",
+  "context": [
+    {
+      "id": "1511039010708000969",
+      "author": "xferbuson",
+      "ts": "2026-06-01 13:09",
+      "orig": "Poczekam se tą godzinke, maja dac update",
+      "en": "I'll wait this hour, they'll give me an update",
+      "pt": "Vou esperar esta hora, eles vão me dar uma atualização",
+      "label": ""
+    },
+    {
+      "id": "1511039034955141282",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-01 13:09",
+      "orig": "tez mozna",
+      "en": "you can too",
+      "pt": "você também pode",
+      "label": ""
+    },
+    {
+      "id": "1511039113048887528",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-01 13:09",
+      "orig": "klejnoty na bossa sobie zuzyj",
+      "en": "Use up your gems for the boss",
+      "pt": "Use suas joias para o chefe",
+      "label": "clean"
+    },
+    {
+      "id": "1511039216744665312",
+      "author": "xferbuson",
+      "ts": "2026-06-01 13:10",
+      "orig": "dropnie itemek 25lvl i nie przerobie go xd",
+      "en": "I will drop a lvl 25 item and I won't convert it xd",
+      "pt": "Vou dropar um item de nível 25 e não vou convertê-lo xd",
+      "label": "clean"
+    },
+    {
+      "id": "1511039502658048080",
+      "author": "xferbuson",
+      "ts": "2026-06-01 13:11",
+      "orig": "chyba ze zle ich rozumiem, bo cos pisali ze nie bedzie mozna syntezowac 25lvl w gore",
+      "en": "unless I understand them wrong, because they wrote something that you won't be able to synthesize lvl 25 higher",
+      "pt": "a menos que eu tenha entendido errado, porque eles escreveram algo que você não conseguirá sintetizar no nível 25 superior",
+      "label": "clean"
+    },
+    {
+      "id": "1511044064240210142",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-01 13:29",
+      "orig": "szkoda ze to nie czerwone",
+      "en": "Too bad it's not red",
+      "pt": "Pena que não é vermelho",
+      "label": "clean"
+    },
+    {
+      "id": "1511044107731210590",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-01 13:29",
+      "orig": "w sumie dobra mysl, z itemow dlc kupic",
+      "en": "Overall, it's a good idea to buy some of the DLC items",
+      "pt": "No geral, é uma boa ideia comprar alguns dos itens DLC",
+      "label": "clean"
+    },
+    {
+      "id": "1511044122763460699",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-01 13:29",
+      "orig": "po 20 bedzie grind",
+      "en": "after 8 p.m. there will be a grind",
+      "pt": "depois das 20h haverá uma moagem",
+      "label": "clean"
+    },
+    {
+      "id": "1511044149229392022",
+      "author": "guliox",
+      "ts": "2026-06-01 13:29",
+      "orig": "Ktoś wie jak to naprawić?",
+      "en": "Anyone know how to fix this?",
+      "pt": "Alguém sabe como consertar isso?",
+      "label": ""
+    },
+    {
+      "id": "1511044227906408448",
+      "author": "chlorophyteore_",
+      "ts": "2026-06-01 13:30",
+      "orig": "1. czekac na update\n2. cofnac gre do poprzedniej wersji",
+      "en": "1. wait for the update\n2. roll back the game to the previous version",
+      "pt": "1. aguarde a atualização\n2. reverter o jogo para a versão anterior",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1511043947089100990.png"
+}

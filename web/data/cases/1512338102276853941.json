@@ -1,0 +1,110 @@
+{
+  "msg_id": "1512338102276853941",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-05 03:11",
+  "orig": "tu sedno rozgarnieta małpa by zrobiła cała grę zależną od serwera",
+  "en": "here's the point, a brainy monkey would make the entire game dependent on the server",
+  "pt": "aqui está o ponto, um macaco inteligente tornaria o jogo inteiro dependente do servidor",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1512338102276853941",
+  "context": [
+    {
+      "id": "1512334277117739158",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 02:56",
+      "orig": "No to jest hit xDD",
+      "en": "Well, this is a hit xDD",
+      "pt": "Bem, isso é um sucesso xDD",
+      "label": ""
+    },
+    {
+      "id": "1512335462700810260",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 03:01",
+      "orig": "Nie wiem, wrócę z roboty to zrobię ten ban appeal. Wyślę im logi i niech ściągną to gówno albo  niech wgl zrobią rollback dla wszystkich i niech zamkną chwilowo rynek i go odblokują jak sobie poradzą z botami i ogarną lepiej ac xD",
+      "en": "I don't know, when I get back from work I'll file a ban appeal. I'll send them the logs and let them download this shit or let them do a rollback for everyone and let them close the market for a while and unblock it when they can deal with the bots and get better at AC xD",
+      "pt": "Não sei, quando voltar do trabalho vou entrar com recurso de banimento. Vou mandar os logs para eles e deixar eles baixarem essa merda ou deixar eles fazerem um rollback para todo mundo e deixar eles fecharem o mercado por um tempo e desbloquearem quando puderem lidar com os bots e melhorar no AC xD",
+      "label": ""
+    },
+    {
+      "id": "1512337514889875506",
+      "author": "kraju",
+      "ts": "2026-06-05 03:09",
+      "orig": "poczekasz sobie w chuj xD",
+      "en": "You'll have to wait a damn long time xD",
+      "pt": "Você vai ter que esperar muito tempo xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512337548117282918",
+      "author": "kraju",
+      "ts": "2026-06-05 03:09",
+      "orig": "jak oni po pierwszej fali nie ogarneli xD",
+      "en": "how did they not understand it after the first wave xD",
+      "pt": "como eles não entenderam depois da primeira onda xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512337695026839582",
+      "author": "kraju",
+      "ts": "2026-06-05 03:10",
+      "orig": "jak te zjeby jedyne co umieją zrobić to kupic assenty z unity + sprompowac ai zeby skleił tego ulepa xD",
+      "en": "like these fuckers, all they know how to do is buy assets from Unity + promote Ai to make it better xD",
+      "pt": "como esses filhos da puta, tudo o que eles sabem fazer é comprar ativos do Unity + promover Ai para torná-lo melhor xD",
+      "label": "clean"
+    },
+    {
+      "id": "1512338113710784543",
+      "author": "kraju",
+      "ts": "2026-06-05 03:11",
+      "orig": "a nie klient side XD",
+      "en": "a never client side XD",
+      "pt": "nunca do lado do cliente XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512338157486735451",
+      "author": "patryk2502",
+      "ts": "2026-06-05 03:11",
+      "orig": "pisz do steam po prostu",
+      "en": "just write to steam",
+      "pt": "basta escrever para o Steam",
+      "label": ""
+    },
+    {
+      "id": "1512338171059241111",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 03:11",
+      "orig": "Właśnie przeczytałem ten wywiad co go kurwa mieli czas udzielić.  TA WSZYSCY CHCĄ BY BANY BYŁY CHOCIAŻ PO JEDNYM STRIKE’u XD",
+      "en": "I just read this interview, who the fuck had time to give it.  YES EVERYONE WANTS THERE TO BE BANNED AT LEAST ONE STRIKE XD",
+      "pt": "Acabei de ler essa entrevista, quem diabos teve tempo de dar.  SIM, TODO MUNDO QUER QUE SEJA BANIDO PELO MENOS UM STRIKE XD",
+      "label": "clean"
+    },
+    {
+      "id": "1512338243692265643",
+      "author": "kraju",
+      "ts": "2026-06-05 03:12",
+      "orig": "",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1512338256069398539",
+      "author": "tsuakashi",
+      "ts": "2026-06-05 03:12",
+      "orig": "Steam nic nie zrobi, w chuju to mają.",
+      "en": "Steam won't do anything, they don't give a damn.",
+      "pt": "O Steam não fará nada, eles não se importam.",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1512338102276853941.png"
+}

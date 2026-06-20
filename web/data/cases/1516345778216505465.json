@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516345778216505465",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "271569103859220480",
+  "author": "rayner.1986",
+  "ts": "2026-06-16 04:36",
+  "orig": "o druga czarna perła 😄",
+  "en": "oh, the second black pearl 😄",
+  "pt": "ah, a segunda pérola negra 😄",
+  "label": "suspicious",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516345778216505465",
+  "context": [
+    {
+      "id": "1516345520422129704",
+      "author": "qndel",
+      "ts": "2026-06-16 04:35",
+      "orig": "mhm",
+      "en": "",
+      "pt": "humm",
+      "label": ""
+    },
+    {
+      "id": "1516345575941865512",
+      "author": "rayner.1986",
+      "ts": "2026-06-16 04:35",
+      "orig": "gratki",
+      "en": "congratulations",
+      "pt": "Parabéns",
+      "label": ""
+    },
+    {
+      "id": "1516345730355429436",
+      "author": "qndel",
+      "ts": "2026-06-16 04:36",
+      "orig": "i tak czerwone lepsze xD",
+      "en": "red is better anyway xD",
+      "pt": "vermelho é melhor de qualquer maneira xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516345768057901138",
+      "author": "radziol",
+      "ts": "2026-06-16 04:36",
+      "orig": "mi jak dropi immortal item to caly czas ta sama klata",
+      "en": "Whenever an immortal item drops, it's always the same problem",
+      "pt": "Sempre que um item imortal cai, é sempre o mesmo problema",
+      "label": "clean"
+    },
+    {
+      "id": "1516345775263715368",
+      "author": "radziol",
+      "ts": "2026-06-16 04:36",
+      "orig": "nic wiecej",
+      "en": "nothing more",
+      "pt": "nada mais",
+      "label": "clean"
+    },
+    {
+      "id": "1516345813469626438",
+      "author": "eruun_89",
+      "ts": "2026-06-16 04:36",
+      "orig": "mam takie same",
+      "en": "I have the same ones",
+      "pt": "eu tenho os mesmos",
+      "label": "clean"
+    },
+    {
+      "id": "1516345843459035246",
+      "author": "rayner.1986",
+      "ts": "2026-06-16 04:37",
+      "orig": "faktycznie",
+      "en": "really",
+      "pt": "realmente",
+      "label": "clean"
+    },
+    {
+      "id": "1516346104512380938",
+      "author": "rayner.1986",
+      "ts": "2026-06-16 04:38",
+      "orig": "teraz nie moge sie przebic przez 3-7 piekło. Znowu mi kapłan zdycha. PEwnie tym razem za mało chaosu.",
+      "en": "now I can't get through 3-7 hell. My priest is dying again. Probably not enough chaos this time.",
+      "pt": "agora não consigo passar do inferno 3-7. Meu padre está morrendo novamente. Provavelmente não é caos suficiente desta vez.",
+      "label": "clean"
+    },
+    {
+      "id": "1516346215464439929",
+      "author": "eruun_89",
+      "ts": "2026-06-16 04:38",
+      "orig": "lec na solo rangera z bugiem od priesta",
+      "en": "go solo ranger with a bug from priest",
+      "pt": "vá sozinho como ranger com um bug do padre",
+      "label": ""
+    },
+    {
+      "id": "1516346274788671550",
+      "author": "eruun_89",
+      "ts": "2026-06-16 04:38",
+      "orig": "ja tak caly torrment 3 wyczyscilem",
+      "en": "I cleaned the entire torrment 3",
+      "pt": "Limpei todo o tormento 3",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516345778216505465.png"
+}

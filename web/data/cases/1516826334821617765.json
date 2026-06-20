@@ -1,0 +1,110 @@
+{
+  "msg_id": "1516826334821617765",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "73518952218628096",
+  "author": "lepryko",
+  "ts": "2026-06-17 12:26",
+  "orig": "no mnie sciagaja za 2 miesiace znow do NYC, to moze mi wymienia na M5 XDXDXDXDXD",
+  "en": "Well, they're taking me back to NYC in 2 months, so maybe they'll exchange it for an M5 XDXDXDXDXD",
+  "pt": "Bem, eles vão me levar de volta para Nova York em 2 meses, então talvez eles troquem por um M5 XDXDXDXDXD",
+  "label": "suspicious",
+  "label_source": "context_review",
+  "old_label": "suspicious",
+  "confidence": 0.95,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1516826334821617765",
+  "context": [
+    {
+      "id": "1516826151178342491",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:25",
+      "orig": "M4 Pro jak lord",
+      "en": "M4 For how lord",
+      "pt": "M4 Pois como senhor",
+      "label": ""
+    },
+    {
+      "id": "1516826168945283172",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:25",
+      "orig": "chociaz mogli M5 dac xD",
+      "en": "although they could have given the M5 xD",
+      "pt": "embora eles pudessem ter dado o M5 xD",
+      "label": ""
+    },
+    {
+      "id": "1516826179766714530",
+      "author": "shioae",
+      "ts": "2026-06-17 12:25",
+      "orig": "Klocek z dupy wyjety nie dziala",
+      "en": "The block taken out of the ass doesn't work",
+      "pt": "O bloco tirado da bunda não funciona",
+      "label": "clean"
+    },
+    {
+      "id": "1516826234716291163",
+      "author": "entotus",
+      "ts": "2026-06-17 12:25",
+      "orig": "a wlasnie tbh na linuxie nie działa",
+      "en": "and tbh it doesn't work on linux",
+      "pt": "e para ser honesto, não funciona no Linux",
+      "label": "clean"
+    },
+    {
+      "id": "1516826251338453094",
+      "author": "shioae",
+      "ts": "2026-06-17 12:25",
+      "orig": "m5 max here xD",
+      "en": "",
+      "pt": "m5 máximo aqui xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516826379381903552",
+      "author": "shioae",
+      "ts": "2026-06-17 12:26",
+      "orig": "Le to ja juz m6 bede mial xD",
+      "en": "But I'll already have an M6 xD",
+      "pt": "Mas já terei uma M6 xD",
+      "label": "clean"
+    },
+    {
+      "id": "1516826397178597506",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:26",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1516826444003676220",
+      "author": "lepryko",
+      "ts": "2026-06-17 12:26",
+      "orig": "najwazniejsze ze za darmo XD",
+      "en": "the most important thing is that it's free XD",
+      "pt": "o mais importante é que é grátis XD",
+      "label": "clean"
+    },
+    {
+      "id": "1516826494905618625",
+      "author": "shioae",
+      "ts": "2026-06-17 12:26",
+      "orig": "Kurwa zdjecie bym wyslal; ale nie moge",
+      "en": "I would fucking send a photo; but I can't",
+      "pt": "Eu mandaria uma foto; mas eu não posso",
+      "label": ""
+    },
+    {
+      "id": "1516826536387416216",
+      "author": "shioae",
+      "ts": "2026-06-17 12:27",
+      "orig": "Mam gdzies jak lezy ich 10 u mnie w rogu w domu jako podporka na doniczke",
+      "en": "I have 10 of them lying around in the corner of my house as a support for a flowerpot",
+      "pt": "Tenho 10 deles espalhados no canto da minha casa como suporte para um vaso de flores",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1516826334821617765.png"
+}

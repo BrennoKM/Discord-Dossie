@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517592300081909781",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "528317765119901716",
+  "author": "kraju",
+  "ts": "2026-06-19 15:09",
+  "orig": "tzn poczekaj wbije 10 lvl bedziemy małpie banana podawac",
+  "en": "i.e. wait, I'll reach lvl 10, we'll give the monkey a banana",
+  "pt": "ou seja, espere, chegarei ao nível 10, daremos uma banana ao macaco",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.6,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517592300081909781",
+  "context": [
+    {
+      "id": "1517592136881799439",
+      "author": "entotus",
+      "ts": "2026-06-19 15:09",
+      "orig": "mam zdjecie pra pra dziadka",
+      "en": "I have a photo of my great-great-grandfather",
+      "pt": "Eu tenho uma foto do meu tataravô",
+      "label": "clean"
+    },
+    {
+      "id": "1517592146876694619",
+      "author": "kraju",
+      "ts": "2026-06-19 15:09",
+      "orig": "ale on byłelektrykiem na wysokościach",
+      "en": "but he was an electrician on high",
+      "pt": "mas ele era um eletricista no alto",
+      "label": "clean"
+    },
+    {
+      "id": "1517592184440754277",
+      "author": "kraju",
+      "ts": "2026-06-19 15:09",
+      "orig": "na hełmie taki fajny znaczek 2 piorunów miał",
+      "en": "He had a cool symbol of 2 lightning bolts on his helmet",
+      "pt": "Ele tinha um símbolo legal de 2 raios em seu capacete",
+      "label": "clean"
+    },
+    {
+      "id": "1517592218305695925",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:09",
+      "orig": "https://tenor.com/view/minion-banana-gif-minion-minions-gif-81650879192259967",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592262081773670",
+      "author": "kraju",
+      "ts": "2026-06-19 15:09",
+      "orig": "nie zaczynaj",
+      "en": "don't start",
+      "pt": "não comece",
+      "label": "clean"
+    },
+    {
+      "id": "1517592301759893674",
+      "author": "pentagram",
+      "ts": "2026-06-19 15:10",
+      "orig": "https://tenor.com/view/banana-fruit-gif-26786056",
+      "en": "",
+      "pt": "",
+      "label": "xenophobic"
+    },
+    {
+      "id": "1517592304712421599",
+      "author": "kraju",
+      "ts": "2026-06-19 15:10",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517592312014831676",
+      "author": "entotus",
+      "ts": "2026-06-19 15:10",
+      "orig": "https://giphy.com/gifs/banana-banaan-schommel-fzOomnj2aGVCgZ0eJG",
+      "en": "",
+      "pt": "",
+      "label": "suspicious"
+    },
+    {
+      "id": "1517592358642909424",
+      "author": "qndel",
+      "ts": "2026-06-19 15:10",
+      "orig": "https://tenor.com/view/illusion-huh-wtf-bruh-fish-gif-12789465345130665109",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517592389672243221",
+      "author": "entotus",
+      "ts": "2026-06-19 15:10",
+      "orig": "xDDD",
+      "en": "xDD",
+      "pt": "xDD",
+      "label": "clean"
+    }
+  ],
+  "screenshot": "screenshots/1517592300081909781.png"
+}

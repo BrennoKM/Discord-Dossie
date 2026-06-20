@@ -1,0 +1,110 @@
+{
+  "msg_id": "1517583713976717322",
+  "channel_id": "1510279576721428612",
+  "channel_name": "chat-polish",
+  "author_id": "277191334744293378",
+  "author": "xbiedro",
+  "ts": "2026-06-19 14:35",
+  "orig": "chuj, pierdole ich",
+  "en": "fuck, fuck them",
+  "pt": "foda-se, foda-se eles",
+  "label": "offensive",
+  "label_source": "ai_review",
+  "old_label": "",
+  "confidence": 0.7,
+  "reason": "",
+  "discord_link": "https://discord.com/channels/1427722762809770126/1510279576721428612/1517583713976717322",
+  "context": [
+    {
+      "id": "1517583459046920214",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:34",
+      "orig": "nie będę wystrzeliwał swoich",
+      "en": "I won't shoot mine",
+      "pt": "Eu não vou atirar no meu",
+      "label": "clean"
+    },
+    {
+      "id": "1517583482203672647",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:34",
+      "orig": "moralniak wjechał",
+      "en": "the morality rode in",
+      "pt": "a moralidade entrou",
+      "label": "clean"
+    },
+    {
+      "id": "1517583581453750272",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:35",
+      "orig": "też jestem rasistą, i też im piszę żeby spierdalali",
+      "en": "I'm also a racist, and I also tell them to fuck off",
+      "pt": "Eu também sou racista e também digo para eles se foderem",
+      "label": "racist"
+    },
+    {
+      "id": "1517583604631207957",
+      "author": "qndel",
+      "ts": "2026-06-19 14:35",
+      "orig": "😄",
+      "en": "",
+      "pt": "",
+      "label": "clean"
+    },
+    {
+      "id": "1517583669017972947",
+      "author": "xbiedro",
+      "ts": "2026-06-19 14:35",
+      "orig": "kim jestem by siedzieć na stołku gdy moi za dobrą reakcje dostają po głowie",
+      "en": "Who am I to sit on a stool when my friends get hit in the head for a good reaction?",
+      "pt": "Quem sou eu para sentar em um banquinho quando meus amigos levam uma pancada na cabeça por uma boa reação?",
+      "label": "clean"
+    },
+    {
+      "id": "1517583895275765982",
+      "author": "qndel",
+      "ts": "2026-06-19 14:36",
+      "orig": "i teraz kurwa qndel na helpera i się skończy dzień dziecka",
+      "en": "and now fucking qndel on helper and children's day will be over",
+      "pt": "e agora a porra do qndel no ajudante e o dia das crianças vai acabar",
+      "label": ""
+    },
+    {
+      "id": "1517583901164310559",
+      "author": "qndel",
+      "ts": "2026-06-19 14:36",
+      "orig": "XD",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517583962761859203",
+      "author": "qndel",
+      "ts": "2026-06-19 14:36",
+      "orig": "https://tenor.com/view/all-according-to-plaaaa-gif-20242824",
+      "en": "",
+      "pt": "",
+      "label": ""
+    },
+    {
+      "id": "1517584149949448323",
+      "author": "kangurekxkanmuru",
+      "ts": "2026-06-19 14:37",
+      "orig": "To chyba z naszej natury wynika brak posłuszeństwa innym narodom",
+      "en": "It is probably our nature to disobey other nations",
+      "pt": "Provavelmente é nossa natureza desobedecer outras nações",
+      "label": ""
+    },
+    {
+      "id": "1517584351439880313",
+      "author": "reeeheee",
+      "ts": "2026-06-19 14:38",
+      "orig": "I heard polish people love outsiders?",
+      "en": "",
+      "pt": "Ouvi dizer que os poloneses adoram estranhos?",
+      "label": ""
+    }
+  ],
+  "screenshot": "screenshots/1517583713976717322.png"
+}
