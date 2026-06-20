@@ -24,7 +24,7 @@ from etl.common import (
     load_json, save_json, load_jsonl, append_jsonl,
     meta_path, messages_path, authors_path,
     estimate_channel_msgs, save_meta,
-    log, log_section, log_progress,
+    log, log_section, log_progress, ts,
 )
 
 
@@ -100,33 +100,57 @@ def extract(channel_id: str, channel_name: str, limit: int = 0):
         return f"{h_}h{m_:02d}m" if h_ else f"{m_}m{s_:02d}s"
 
     if fully_extracted:
-        # Modo delta: busca so o novo
-        new_msgs = []
-        after    = last_id
+        # Modo delta: busca mensagens novas (after=last_id, ordem cronologica)
+        # Usa max(existing_ids) como cursor real, nao o meta (pode estar desatualizado)
+        after         = max(existing_ids) if existing_ids else last_id
+        known_total   = len(existing_ids)
+        total_new     = 0
+        total_estimate = estimate_channel_msgs(channel_id) or known_total
+        log(f"Total estimado no canal: {total_estimate:,} mensagens")
+
         while True:
             batch = fetch_batch(channel_id, after=after)
             if not batch:
                 break
             batch.sort(key=lambda m: m["id"])
+
+            new_in_batch = []
             for m in batch:
                 if m["id"] not in existing_ids:
                     cm = compact(m)
-                    new_msgs.append(cm)
+                    new_in_batch.append(cm)
                     authors[m["author"]["id"]] = compact_author(m["author"])
                     existing_ids.add(m["id"])
+
+            if new_in_batch:
+                append_jsonl(msgs_file, new_in_batch)
+                total_new += len(new_in_batch)
+                now = time.time()
+                msg_times.extend([now] * len(new_in_batch))
+
             after = batch[-1]["id"]
+            # Salva cursor a cada lote para retomar se cancelar
+            meta["last_id"] = after
             batch_count += 1
-            log(f"  Lote {batch_count}: +{len(batch)} msgs | novas acumuladas: {len(new_msgs)}")
-            time.sleep(0.4)
+
+            if batch_count % 10 == 0:
+                save_json(auths_file, authors)
+                save_meta(channel_id, meta)
+
+            rate       = current_rate()
+            rlabel     = f"{rate:.0f} msgs/s" if rate >= 1 else f"{rate:.1f} msgs/s"
+            current    = known_total + total_new
+            total_show = max(total_estimate, current)
+            log_progress(current, total_show, f"lote {batch_count} | +{total_new} novas | {rlabel}")
+
+            time.sleep(0.2)
             if len(batch) < 100:
                 break
 
-        if new_msgs:
-            new_msgs.sort(key=lambda m: m["id"])
-            append_jsonl(msgs_file, new_msgs)
-            total_new = len(new_msgs)
-            meta["last_id"] = new_msgs[-1]["id"]
-            log(f"Delta salvo: +{total_new} mensagens novas")
+        print(flush=True)
+        if total_new:
+            meta["last_id"] = max(existing_ids)
+            log(f"Delta concluido: +{total_new} mensagens novas | total: {len(existing_ids):,}")
         else:
             log(f"Nenhuma mensagem nova encontrada.")
 

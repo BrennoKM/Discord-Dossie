@@ -103,24 +103,37 @@ def translate_msgs(msgs: list[dict], channel_id: str, username: str) -> int:
 
 # ── modo rapido: search API ───────────────────────────────────────────────────
 
-def search_user_messages(uid: str, username: str, state: dict) -> dict[str, list]:
-    """Busca mensagens do usuario via search API, resumivel via state."""
+def search_user_messages(uid: str, username: str, state: dict, asc: bool = False) -> dict[str, list]:
+    """
+    Busca mensagens do usuario via search API, resumivel via state.
+    asc=True: mais antiga para mais recente (util para cobrir gaps que o extract nao pegou).
+    asc=False (padrao): mais recente para mais antiga.
+    """
+    order_key    = "asc" if asc else "desc"
     by_channel: dict[str, list] = {}
-    already_done = state.get(f"search:{uid}") == "done"
-    last_max_id  = state.get(f"search_max_id:{uid}")
-    offset       = 0 if already_done else state.get(f"search_offset:{uid}", 0)
+    state_prefix = f"search_{order_key}"
+    already_done = state.get(f"{state_prefix}:{uid}") == "done"
+    last_max_id  = state.get(f"{state_prefix}_max_id:{uid}")
+    offset       = 0 if already_done else state.get(f"{state_prefix}_offset:{uid}", 0)
     total        = None
     fetched      = 0
     new_max_id   = "0"
     authors      = load_json(authors_path(), {})
 
-    params: dict = {"author_id": uid, "offset": offset, "limit": 25}
+    params: dict = {
+        "author_id":  uid,
+        "offset":     offset,
+        "limit":      25,
+        "sort_by":    "timestamp",
+        "sort_order": order_key,
+    }
     if already_done and last_max_id:
-        params["min_id"] = str(int(last_max_id) + 1)
-        log(f"  [search] @{username} incremental (min_id > {last_max_id})...")
+        key = "min_id" if asc else "max_id"
+        params[key] = str(int(last_max_id) + (1 if asc else -1))
+        log(f"  [search {order_key}] @{username} incremental ({key}={params[key]})...")
     else:
         verb = "retomando" if offset else "completo"
-        log(f"  [search] @{username} {verb} (offset {offset})...")
+        log(f"  [search {order_key}] @{username} {verb} (offset {offset})...")
 
     # Cache de existing_ids por canal pra dedup rapido
     existing_cache: dict[str, set] = {}
@@ -146,7 +159,8 @@ def search_user_messages(uid: str, username: str, state: dict) -> dict[str, list
         h_, m_ = divmod(m_, 60)
         return f"{h_}h{m_:02d}m" if h_ else f"{m_}m{s_:02d}s"
 
-    retries = 0
+    retries         = 0
+    saturated_pages = 0
     while True:
         try:
             r = requests.get(SEARCH_URL, headers=DISCORD_HEADERS, params=params, timeout=15)
@@ -175,6 +189,8 @@ def search_user_messages(uid: str, username: str, state: dict) -> dict[str, list
 
         # Agrupa mensagens da pagina por canal pra salvar com dedup
         page_by_ch: dict[str, list[dict]] = {}
+        page_seen  = 0
+        page_dupes = 0
         for context in data.get("messages", []):
             for raw in context:
                 if raw.get("author", {}).get("id") != uid:
@@ -185,6 +201,9 @@ def search_user_messages(uid: str, username: str, state: dict) -> dict[str, list
                 by_channel.setdefault(ch_id, []).append(cm)
                 page_by_ch.setdefault(ch_id, []).append(cm)
                 fetched += 1
+                page_seen += 1
+                if cm["id"] in _existing(ch_id):
+                    page_dupes += 1
                 if cm["id"] > new_max_id:
                     new_max_id = cm["id"]
 
@@ -196,10 +215,22 @@ def search_user_messages(uid: str, username: str, state: dict) -> dict[str, list
                 append_jsonl(messages_path(ch_id), new)
                 existing.update(m["id"] for m in new)
 
+        # Detecta saturacao: N paginas consecutivas 100% duplicatas = extract ja cobriu
+        if page_seen > 0 and page_dupes == page_seen:
+            saturated_pages += 1
+        else:
+            saturated_pages = 0
+
+        SATURATION_LIMIT = 3
+        if saturated_pages >= SATURATION_LIMIT:
+            log(f"\n  {SATURATION_LIMIT} paginas consecutivas ja conhecidas, extract ja cobriu esta regiao. Parando.")
+            break
+
         page_times.append(time.time())
-        processed      = params["offset"] + 25
+        processed       = params["offset"] + 25
         remaining_pages = max(0, (total - processed)) // 25
-        log_progress(min(processed, total), total, f"ETA: {eta_str(remaining_pages)}")
+        dupe_info       = f" | {page_dupes}/{page_seen} ja conhecidas" if page_dupes else ""
+        log_progress(min(processed, total), total, f"ETA: {eta_str(remaining_pages)}{dupe_info}")
 
         if fetched >= total or not data.get("messages"):
             break
@@ -207,8 +238,8 @@ def search_user_messages(uid: str, username: str, state: dict) -> dict[str, list
         params["offset"] = params.get("offset", 0) + 25
 
         # Salva progresso a cada pagina pra permitir Ctrl+C limpo
-        state[f"search_offset:{uid}"] = params["offset"]
-        state[f"search_max_id:{uid}"] = new_max_id
+        state[f"{state_prefix}_offset:{uid}"] = params["offset"]
+        state[f"{state_prefix}_max_id:{uid}"] = new_max_id
         save_json(STATE_FILE, state)
 
         time.sleep(1.5)
@@ -216,7 +247,7 @@ def search_user_messages(uid: str, username: str, state: dict) -> dict[str, list
     print(flush=True)
     save_json(authors_path(), authors)
     if new_max_id != "0":
-        state[f"search_max_id:{uid}"] = new_max_id
+        state[f"{state_prefix}_max_id:{uid}"] = new_max_id
     log(f"  @{username}: {fetched} msgs em {len(by_channel)} canais")
     return by_channel
 
@@ -250,7 +281,7 @@ def full_scan_all(targets: list, channels: list, state: dict) -> dict[str, dict[
         ch_name = ALL_CHANNELS.get(ch_id, ch_id)
 
         if state.get(f"full_ch:{ch_id}") == "done":
-            # Canal ja varrido — filtra do arquivo existente
+            # Canal ja varrido : filtra do arquivo existente
             existing = load_jsonl(messages_path(ch_id))
             for m in existing:
                 if m["a"] in user_ids:
@@ -336,7 +367,7 @@ def full_scan_all(targets: list, channels: list, state: dict) -> dict[str, dict[
 
         state[f"full_ch:{ch_id}"] = "done"
         save_json(STATE_FILE, state)
-        print(f"\r  [{idx}/{total_ch}] #{ch_name}: concluido — {scanned:,} varridas | {found} dos suspeitos", flush=True)
+        print(f"\r  [{idx}/{total_ch}] #{ch_name}: concluido : {scanned:,} varridas | {found} dos suspeitos", flush=True)
 
     return by_user
 
@@ -372,7 +403,7 @@ def _save_profile(s: dict, by_channel: dict, mode: str):
     profiles = load_json(PROFILES_FILE, {})
 
     if not by_channel:
-        # Sem dados novos — mantem perfil existente, so atualiza modo
+        # Sem dados novos : mantem perfil existente, so atualiza modo
         if uid in profiles:
             profiles[uid]["mode"] = mode
             save_json(PROFILES_FILE, profiles)
@@ -423,6 +454,8 @@ def main():
                     help="Varre todos os canais (lento, preenche historico completo)")
     ap.add_argument("--search",    action="store_true",
                     help="Usa search API do Discord (rapido, ~1000 msgs por usuario)")
+    ap.add_argument("--asc",       action="store_true",
+                    help="Com --search: busca da mensagem mais antiga para a mais recente")
     args = ap.parse_args()
 
     suspects = load_json(suspects_path(), [])
@@ -444,15 +477,21 @@ def main():
     log(f"Suspeitos: {len(targets)} | Modo: {'--full-scan' if args.full_scan else '--search' if args.search else 'refresh'}")
 
     if args.search:
-        log_section("ETAPA 4 - Deep Fetch [search API]")
+        order = "asc" if args.asc else "desc"
+        log_section(f"ETAPA 4 - Deep Fetch [search API, ordem: {order}]")
         log(f"Usuarios: {', '.join('@' + s['username'] for s in targets)}")
 
         for s in targets:
             uid      = s["user_id"]
             username = s["username"]
 
-            log(f"\n  @{username} ({uid})")
-            by_channel = search_user_messages(uid, username, state)
+            # Conta msgs que ja temos localmente para este usuario
+            local_count = sum(
+                sum(1 for m in load_jsonl(messages_path(ch_id)) if m.get("a") == uid)
+                for ch_id in ALL_CHANNELS
+            )
+            log(f"\n  @{username} ({uid}) | ja temos {local_count:,} msgs localmente")
+            by_channel = search_user_messages(uid, username, state, asc=args.asc)
 
             if not by_channel:
                 log(f"  Nenhuma mensagem encontrada.")
