@@ -14,13 +14,14 @@ Uso:
 import argparse
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from etl.common import (
     ALL_CHANNELS, load_json, save_json, load_jsonl,
-    translations_path, messages_path,
-    log, log_section, log_progress,
+    translations_path, messages_path, authors_path,
+    log, log_section, log_progress, ts,
 )
 from deep_translator import GoogleTranslator
 
@@ -30,24 +31,53 @@ _tr_pt = GoogleTranslator(source="auto", target="pt")
 CHECKPOINT_EVERY = 20
 
 
-def translate(text: str) -> tuple[str, str]:
+def translate(text: str) -> tuple[str, str, str]:
+    """Retorna (en, pt, motivo_skip). EN e PT sao feitos em paralelo."""
     stripped = text.strip()
     if not stripped or len(stripped) < 3:
-        return "", ""
-    if stripped.startswith("http") or stripped.startswith("<@") or stripped.startswith("<:"):
-        return "", ""
+        return "", "", "muito curto"
+    if stripped.startswith("http"):
+        return "", "", "link"
+    if stripped.startswith("<@") or stripped.startswith("<:"):
+        return "", "", "mencao/emoji"
+    if len(stripped.encode("ascii", "ignore").decode().strip()) < 2 and len(stripped) < 5:
+        return "", "", "so emoji"
+
+    def _tr(target):
+        try:
+            return GoogleTranslator(source="auto", target=target).translate(stripped[:4999]) or ""
+        except Exception:
+            return ""
+
     try:
-        en = _tr_en.translate(stripped[:4999]) or ""
-        time.sleep(0.1)
-        pt = _tr_pt.translate(stripped[:4999]) or ""
-        time.sleep(0.1)
-        # Descarta se identico ao original (ja era EN ou PT)
-        if en.lower().strip() == stripped.lower().strip():
-            en = ""
-        return en, pt
+        with ThreadPoolExecutor(max_workers=2) as ex:
+            fut_en = ex.submit(_tr, "en")
+            fut_pt = ex.submit(_tr, "pt")
+            en = fut_en.result()
+            pt = fut_pt.result()
+
+        if not _valid(en, stripped): en = ""
+        if not _valid(pt, stripped): pt = ""
+
+        if not en and not pt:
+            return "", "", "sem traducao util"
+        return en, pt, ""
     except Exception as e:
-        log(f"Erro na traducao: {e}")
-        return "", ""
+        return "", "", f"erro: {e}"
+
+
+def _valid(result: str, original: str) -> bool:
+    """Descarta traducoes que sao identicas ao original ou lixo do Google."""
+    if not result:
+        return False
+    r = result.lower().strip()
+    if r == original.lower().strip():
+        return False
+    # Resposta de erro do Google Translate
+    garbage = ("error 500", "server error", "that's an error", "please try again later")
+    if any(g in r for g in garbage):
+        return False
+    return True
 
 
 def run(channel_id: str, force: bool = False):
@@ -60,6 +90,7 @@ def run(channel_id: str, force: bool = False):
 
     trans_file   = translations_path(channel_id)
     translations = load_json(trans_file, {})
+    authors      = load_json(authors_path(), {})
 
     # Pendentes: tem conteudo e ainda nao foram traduzidas (ou force=True)
     pending = [
@@ -80,44 +111,70 @@ def run(channel_id: str, force: bool = False):
         return
 
     translated_now = 0
+    skipped        = 0
     errors         = 0
-    recent         = []  # ultimas traducoes para exibir
+    recent         = []
+    skip_counts    = {}
+    RECENT_MAX     = 5
+    # linhas por entrada: @autor, OR, EN, PT, em branco = 5
+    # mais 1 da barra de progresso
+    block_height   = 0  # quantas linhas o bloco atual ocupa
+
+    def redraw():
+        nonlocal block_height
+        if block_height:
+            print(f"\033[{block_height}A\033[J", end="", flush=True)
+
+        lines = 0
+
+        # Cabecalho com stats atualizados
+        done_so_far = already + i + 1
+        print(f"  Processadas: {done_so_far:,}/{total:,} | traduzidas: {translated_now:,} | puladas: {skipped:,} | erros: {errors}", flush=True)
+        lines += 1
+
+        # Bloco das ultimas traducoes
+        if recent:
+            print(flush=True); lines += 1
+            for author_e, ts_e, orig_e, en_e, pt_e in recent:
+                print(f"  @{author_e} | {ts_e[:16]}", flush=True);                lines += 1
+                print(f"  OR: {orig_e[:110].replace(chr(10), ' ')}", flush=True); lines += 1
+                if en_e: print(f"  EN: {en_e[:110]}", flush=True);                lines += 1
+                if pt_e: print(f"  PT: {pt_e[:110]}", flush=True);                lines += 1
+                print(flush=True);                                                 lines += 1
+
+        pct    = (already + i + 1) / total * 100
+        filled = int(28 * (already + i + 1) / total)
+        bar    = "#" * filled + "-" * (28 - filled)
+        print(f"  [{bar}] {pct:.1f}%", flush=True)
+        lines += 1
+
+        block_height = lines
 
     for i, m in enumerate(pending):
-        en, pt = translate(m["c"])
+        en, pt, skip_reason = translate(m["c"])
 
-        if en or pt:
+        if skip_reason:
+            if skip_reason.startswith("erro"):
+                errors += 1
+            else:
+                translations[m["id"]] = {"skip": skip_reason}
+                skipped += 1
+            skip_counts[skip_reason] = skip_counts.get(skip_reason, 0) + 1
+        else:
             translations[m["id"]] = {"en": en, "pt": pt}
             translated_now += 1
-            recent.append((m["c"], en, pt))
-            if len(recent) > 5:
+            author = authors.get(m.get("a", ""), {}).get("u", "?")
+            recent.append((author, m.get("ts", ""), m["c"], en, pt))
+            if len(recent) > RECENT_MAX:
                 recent.pop(0)
-        else:
-            errors += 1
 
-        # Checkpoint a cada N traducoes
+        redraw()
+
         if (i + 1) % CHECKPOINT_EVERY == 0:
             save_json(trans_file, translations)
 
-            # Limpa tela e mostra progresso + ultimas traducoes
-            print("\033[2J\033[H", end="", flush=True)
-            pct = (already + i + 1) / total * 100
-            log(f"Progresso: {already + i + 1:,}/{total:,} ({pct:.1f}%) | traduzidas: {translated_now} | erros: {errors}")
-            print(flush=True)
-            print("  Ultimas traducoes:", flush=True)
-            print(f"  {'-'*70}", flush=True)
-            for orig, ten, tpt in recent:
-                orig_short = orig[:80].replace("\n", " ")
-                en_short   = ten[:80].replace("\n", " ") if ten else "-"
-                pt_short   = tpt[:80].replace("\n", " ") if tpt else "-"
-                print(f"  OR: {orig_short}", flush=True)
-                print(f"  EN: {en_short}", flush=True)
-                print(f"  PT: {pt_short}", flush=True)
-                print(flush=True)
-
-    # Salva final
     save_json(trans_file, translations)
-    print(flush=True)
+    print(flush=True)  # quebra a linha da barra
     log(f"Concluido: {translated_now} novas traducoes | erros: {errors}")
     log(f"Total em translations.json: {len(translations):,}")
 
