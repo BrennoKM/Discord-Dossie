@@ -1,0 +1,910 @@
+// ── i18n ──────────────────────────────────────────────────────────────────────
+
+const STRINGS = {
+  'pt-BR': {
+    header_title:    'Dossiê de Infrações',
+    header_sub:      'Evidências de racismo e xenofobia detectadas por IA',
+    tab_home:        'Início',
+    tab_cases:       'Casos',
+    tab_ranking:     'Ranking',
+    filter_all:      'Todos',
+    filter_racist:   'Racismo',
+    filter_xeno:     'Xenofobia',
+    filter_offensive:'Ofensivo',
+    filter_suspicious:'Suspeito',
+    sidebar_filter:  'FILTRAR POR',
+    sidebar_ranking: 'TOP INFRATORES',
+    stat_total:      'Total de Casos',
+    stat_racist:     'Racismo',
+    stat_xeno:       'Xenofobia',
+    stat_offensive:  'Ofensivo',
+    stat_suspicious: 'Suspeito',
+    wc_worst:        'PIORES CASOS',
+    wc_author:       'Autor',
+    wc_channel:      'Canal',
+    wc_date:         'Data',
+    wc_msg_id:       'ID da Mensagem',
+    wc_original:     'MENSAGEM ORIGINAL',
+    wc_en:           'TRADUÇÃO EN',
+    wc_ptbr:         'TRADUÇÃO PT-BR',
+    wc_ai_label:     'Classificado por IA',
+    wc_ctx_review:   'Revisado com contexto',
+    wc_confidence:   'confiança',
+    wc_reason:       'Motivo',
+    btn_open:        'Abrir no Discord',
+    btn_report:      'Denunciar',
+    btn_copy:        'Copiar',
+    btn_copied:      'Copiado!',
+    ctx_title:         'CONTEXTO DA CONVERSA',
+    ctx_target:        'MENSAGEM EM QUESTÃO',
+    ctx_translation:   'Tradução:',
+    no_screenshot:   'Sem print',
+    cases_title:     'Lista de Casos',
+    cases_search:    'Buscar por autor, mensagem, tradução ou canal...',
+    btn_random:      'Aleatório',
+    dashboard_title: 'Dashboard',
+    dash_by_label:   'Infrações por tipo',
+    dash_by_user:    'Top infratores (casos)',
+    dash_by_channel: 'Por canal',
+    dash_score:      'Pontuação de gravidade',
+    dash_source:     'Fonte da classificação',
+    ranking_title:   'Ranking de Infratores',
+    per_page:        'por página',
+    prev:            'Anterior',
+    next:            'Próximo',
+    report_how:      'Como denunciar: clique em "Abrir no Discord", vá à mensagem, clique nos três pontos → Denunciar',
+    label_racist:    'RACISMO',
+    label_xenophobic:'XENOFOBIA',
+    label_offensive: 'OFENSIVO',
+    label_suspicious:'SUSPEITO',
+    label_clean:     'LIMPO',
+    source_ai:       'IA',
+    source_ctx:      'IA + Contexto',
+    no_cases:        'Nenhum caso encontrado.',
+    generated_at:    'Gerado em',
+    total_suspects:  'suspeitos',
+    total_cases:     'casos',
+    copy_template:   (c, lang) => {
+      const label = STRINGS[lang].label_names[c.label] || c.label.toUpperCase();
+      const lines = [
+        `⚠️ INFRAÇÃO DETECTADA [${label}]`,
+        `👤 Autor: ${c.author}`,
+        `📢 Canal: #${c.channel_name}`,
+        `🕐 Data: ${c.ts}`,
+        ``,
+        `📝 Mensagem original:`,
+        c.orig,
+      ];
+      if (c.en) { lines.push(``, `🇬🇧 EN:`, c.en); }
+      if (c.pt) { lines.push(``, `🇧🇷 PT-BR:`, c.pt); }
+      lines.push(``, `🔗 Link: ${c.discord_link}`);
+      if (c.reason) lines.push(``, `💬 Motivo: ${c.reason}`);
+      return lines.join('\n');
+    },
+    label_names: {
+      racist: 'RACISMO', xenophobic: 'XENOFOBIA',
+      offensive: 'OFENSIVO', suspicious: 'SUSPEITO', clean: 'LIMPO',
+    },
+  },
+  'en': {
+    header_title:    'Infraction Dossier',
+    header_sub:      'Evidence of racism and xenophobia detected by AI',
+    tab_home:        'Home',
+    tab_cases:       'Cases',
+    tab_ranking:     'Ranking',
+    filter_all:      'All',
+    filter_racist:   'Racism',
+    filter_xeno:     'Xenophobia',
+    filter_offensive:'Offensive',
+    filter_suspicious:'Suspicious',
+    sidebar_filter:  'FILTER BY',
+    sidebar_ranking: 'TOP OFFENDERS',
+    stat_total:      'Total Cases',
+    stat_racist:     'Racism',
+    stat_xeno:       'Xenophobia',
+    stat_offensive:  'Offensive',
+    stat_suspicious: 'Suspicious',
+    wc_worst:        'WORST CASES',
+    wc_author:       'Author',
+    wc_channel:      'Channel',
+    wc_date:         'Date',
+    wc_msg_id:       'Message ID',
+    wc_original:     'ORIGINAL MESSAGE',
+    wc_en:           'EN TRANSLATION',
+    wc_ptbr:         'PT-BR TRANSLATION',
+    wc_ai_label:     'Classified by AI',
+    wc_ctx_review:   'Context-reviewed',
+    wc_confidence:   'confidence',
+    wc_reason:       'Reason',
+    btn_open:        'Open in Discord',
+    btn_report:      'Report',
+    btn_copy:        'Copy',
+    btn_copied:      'Copied!',
+    ctx_title:         'CONVERSATION CONTEXT',
+    ctx_target:        'MESSAGE IN QUESTION',
+    ctx_translation:   'Translation:',
+    no_screenshot:   'No screenshot',
+    cases_title:     'Cases List',
+    cases_search:    'Search by author, message, translation or channel...',
+    btn_random:      'Random',
+    dashboard_title: 'Dashboard',
+    dash_by_label:   'Infractions by type',
+    dash_by_user:    'Top offenders (cases)',
+    dash_by_channel: 'By channel',
+    dash_score:      'Severity score',
+    dash_source:     'Classification source',
+    ranking_title:   'Offenders Ranking',
+    per_page:        'per page',
+    prev:            'Previous',
+    next:            'Next',
+    report_how:      'How to report: click "Open in Discord", go to the message, click the three dots → Report',
+    label_racist:    'RACISM',
+    label_xenophobic:'XENOPHOBIA',
+    label_offensive: 'OFFENSIVE',
+    label_suspicious:'SUSPICIOUS',
+    label_clean:     'CLEAN',
+    source_ai:       'AI',
+    source_ctx:      'AI + Context',
+    no_cases:        'No cases found.',
+    generated_at:    'Generated at',
+    total_suspects:  'suspects',
+    total_cases:     'cases',
+    copy_template:   (c, lang) => {
+      const label = STRINGS[lang].label_names[c.label] || c.label.toUpperCase();
+      const lines = [
+        `⚠️ INFRACTION DETECTED [${label}]`,
+        `👤 Author: ${c.author}`,
+        `📢 Channel: #${c.channel_name}`,
+        `🕐 Date: ${c.ts}`,
+        ``,
+        `📝 Original message:`,
+        c.orig,
+      ];
+      if (c.en) { lines.push(``, `🇬🇧 EN:`, c.en); }
+      if (c.pt) { lines.push(``, `🇧🇷 PT-BR:`, c.pt); }
+      lines.push(``, `🔗 Link: ${c.discord_link}`);
+      if (c.reason) lines.push(``, `💬 Reason: ${c.reason}`);
+      return lines.join('\n');
+    },
+    label_names: {
+      racist: 'RACISM', xenophobic: 'XENOPHOBIA',
+      offensive: 'OFFENSIVE', suspicious: 'SUSPICIOUS', clean: 'CLEAN',
+    },
+  },
+};
+
+// ── State ──────────────────────────────────────────────────────────────────────
+
+const state = {
+  lang:         'pt-BR',
+  tab:          'home',
+  filter:       'all',
+  filterUser:   null,
+  casesPage:    0,
+  casesSearch:  '',
+  wcIndex:      0,
+  meta:         null,
+  suspects:     [],
+  casesIndex:   [],
+  caseCache:    {},
+};
+
+const PER_PAGE        = 20;
+const SUSPECTS_PER_PAGE = 6;
+let   suspectsPage    = 0;
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+
+const s  = () => STRINGS[state.lang];
+const $  = (id) => document.getElementById(id);
+const el = (tag, cls, inner) => {
+  const e = document.createElement(tag);
+  if (cls)   e.className = cls;
+  if (inner !== undefined) e.innerHTML = inner;
+  return e;
+};
+
+function labelColor(label) {
+  return { racist: 'var(--red)', xenophobic: 'var(--ora)', offensive: 'var(--ylw)', suspicious: 'var(--pur)', clean: 'var(--grn)' }[label] || 'var(--txt2)';
+}
+
+function labelDot(label) {
+  return `<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${labelColor(label)};margin-right:6px;"></span>`;
+}
+
+function labelBadge(label) {
+  const names = s().label_names;
+  return `<span class="wc-label-badge badge-${label}">${names[label] || label}</span>`;
+}
+
+function avatarLetter(name) {
+  return (name || '?')[0].toUpperCase();
+}
+
+function filteredCases() {
+  return state.casesIndex.filter(c => {
+    if (state.filter !== 'all' && c.label !== state.filter) return false;
+    if (state.filterUser && c.author_id !== state.filterUser) return false;
+    if (state.casesSearch) {
+      const q = state.casesSearch.toLowerCase();
+      return (
+        c.author.toLowerCase().includes(q) ||
+        (c.orig_preview || '').toLowerCase().includes(q) ||
+        (c.en_preview || '').toLowerCase().includes(q) ||
+        (c.pt_preview || '').toLowerCase().includes(q) ||
+        c.channel_name.toLowerCase().includes(q)
+      );
+    }
+    return true;
+  });
+}
+
+function showToast(msg) {
+  const t = $('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+async function fetchCase(msgId) {
+  if (state.caseCache[msgId]) return state.caseCache[msgId];
+  const r = await fetch(`data/cases/${msgId}.json`);
+  const c = await r.json();
+  state.caseCache[msgId] = c;
+  return c;
+}
+
+// ── Init ───────────────────────────────────────────────────────────────────────
+
+async function init() {
+  const [meta, suspects, casesIndex] = await Promise.all([
+    fetch('data/meta.json').then(r => r.json()),
+    fetch('data/suspects.json').then(r => r.json()),
+    fetch('data/cases_index.json').then(r => r.json()),
+  ]);
+
+  state.meta       = meta;
+  state.suspects   = suspects;
+  state.casesIndex = casesIndex;
+
+  renderAll();
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+
+function renderAll() {
+  renderHeader();
+  renderNav();
+  renderStatsBar();
+  renderSidebar();
+  renderContent();
+}
+
+function renderHeader() {
+  const guildName = state.meta?.guild_name || '';
+  const title = guildName ? `${s().header_title}: ${guildName}` : s().header_title;
+  $('header-title').textContent = title;
+  $('header-sub').textContent   = s().header_sub;
+  $('lang-select').value        = state.lang;
+}
+
+function renderNav() {
+  ['home','cases','ranking'].forEach(tab => {
+    const btn = $(`tab-${tab}`);
+    btn.textContent = s()[`tab_${tab}`];
+    btn.classList.toggle('active', state.tab === tab);
+  });
+}
+
+function renderStatsBar() {
+  if (!state.meta) return;
+  const m = state.meta;
+  $('stat-total').querySelector('.num').textContent = m.total_cases;
+  $('stat-total').querySelector('.lbl').textContent = s().stat_total;
+  const statTotal = $('stat-total');
+  statTotal.querySelector('.num').textContent = m.total_cases;
+  statTotal.querySelector('.lbl').textContent = s().stat_total;
+  statTotal.style.cursor = 'pointer';
+  statTotal.onclick = () => { state.filter = 'all'; state.filterUser = null; state.wcIndex = 0; state.casesPage = 0; renderSidebar(); renderContent(); };
+
+  ['racist','xenophobic','offensive','suspicious'].forEach(l => {
+    const el2 = $(`stat-${l}`);
+    el2.querySelector('.num').textContent = m.by_label[l] || 0;
+    const lbl = l === 'xenophobic' ? s().stat_xeno : s()[`stat_${l}`];
+    el2.querySelector('.lbl').textContent = lbl;
+    el2.style.cursor = 'pointer';
+    el2.onclick = () => {
+      state.filter = l; state.filterUser = null; state.wcIndex = 0; state.casesPage = 0;
+      // fica na aba atual — se for ranking, vai pra home; senão fica onde está
+      if (state.tab === 'ranking') state.tab = 'home';
+      renderNav(); renderSidebar(); renderContent();
+    };
+  });
+}
+
+function renderSidebar() {
+  renderFilters();
+  renderRankingSidebar();
+}
+
+function renderFilters() {
+  const container = $('sidebar-filters');
+  container.innerHTML = '';
+
+  const filters = [
+    ['all',        s().filter_all,       'dot-all'],
+    ['racist',     s().filter_racist,    'dot-racist'],
+    ['xenophobic', s().filter_xeno,      'dot-xenophobic'],
+    ['offensive',  s().filter_offensive, 'dot-offensive'],
+    ['suspicious', s().filter_suspicious,'dot-suspicious'],
+  ];
+
+  filters.forEach(([val, label, cls]) => {
+    const count = val === 'all' ? state.casesIndex.length
+      : state.casesIndex.filter(c => c.label === val).length;
+
+    const btn = el('button', `filter-btn${state.filter === val ? ' active' : ''}`);
+    btn.innerHTML = `<span class="${cls}"></span>${label}<span class="badge">${count}</span>`;
+    btn.onclick = () => {
+      state.filter     = val;
+      state.filterUser = null;
+      state.casesPage  = 0;
+      state.wcIndex    = 0;
+      renderSidebar();
+      renderContent();
+    };
+    container.appendChild(btn);
+  });
+
+  $('sidebar-filter-title').textContent = s().sidebar_filter;
+}
+
+function renderRankingSidebar() {
+  const container = $('sidebar-ranking');
+  container.innerHTML = '';
+  $('sidebar-ranking-title').textContent = s().sidebar_ranking;
+
+  const top = [...state.suspects].slice(0, 10);
+
+  top.forEach((u, i) => {
+    const row = el('div', `rank-item${state.filterUser === u.user_id ? ' active' : ''}`);
+    const score = u.counts.racist * 3 + u.counts.xenophobic * 2 + u.counts.offensive;
+    row.innerHTML = `
+      <span class="rank-num">${i+1}</span>
+      <div class="rank-avatar">${avatarLetter(u.username)}</div>
+      <div class="rank-info">
+        <div class="rank-name">${u.username}</div>
+        <div class="rank-sub">${u.total} casos</div>
+      </div>
+      <span class="rank-score">${score}pts</span>
+    `;
+    row.onclick = () => {
+      state.filterUser = state.filterUser === u.user_id ? null : u.user_id;
+      state.casesPage  = 0;
+      state.wcIndex    = 0;
+      renderSidebar();
+      renderContent();
+    };
+    container.appendChild(row);
+  });
+}
+
+function renderContent() {
+  $('page-home').style.display    = state.tab === 'home'    ? '' : 'none';
+  $('page-cases').style.display   = state.tab === 'cases'   ? '' : 'none';
+  $('page-ranking').style.display = state.tab === 'ranking' ? '' : 'none';
+
+  if (state.tab === 'home')    renderHome();
+  if (state.tab === 'cases')   renderCasesPage();
+  if (state.tab === 'ranking') renderRankingPage();
+}
+
+// ── HOME ──────────────────────────────────────────────────────────────────────
+
+function renderHome() {
+  const cases = filteredCases();
+  if (!cases.length) {
+    $('worst-case').innerHTML = `<div class="loading">${s().no_cases}</div>`;
+    $('ctx-section').innerHTML = '';
+    return;
+  }
+
+  const c = cases[state.wcIndex] || cases[0];
+  loadAndRenderWC(c);
+}
+
+async function loadAndRenderWC(indexEntry) {
+  $('worst-case').innerHTML = `<div class="loading"><div class="spinner"></div> Carregando...</div>`;
+
+  const c = await fetchCase(indexEntry.msg_id);
+  const cases = filteredCases();
+  const idx   = cases.findIndex(x => x.msg_id === c.msg_id);
+
+  const wc = $('worst-case');
+  wc.className = ``;
+  wc.classList.add(c.label);
+
+  const confPct  = Math.round((c.confidence || 0) * 100);
+  const confCls  = confPct >= 80 ? 'high' : confPct >= 60 ? 'mid' : 'low';
+  const srcLabel = c.label_source === 'context_review' ? s().source_ctx : s().source_ai;
+
+  let screenshotHtml = '';
+  if (c.screenshot) {
+    screenshotHtml = `<div class="wc-screenshot"><img src="${c.screenshot}" alt="screenshot"></div>`;
+  }
+
+  let messagesHtml = `
+    <div class="msg-block">
+      <div class="msg-lang">${s().wc_original}</div>
+      <div class="msg-text">${escHtml(c.orig)}</div>
+    </div>
+  `;
+  if (c.en && c.en.trim()) {
+    messagesHtml += `
+      <div class="msg-block">
+        <div class="msg-lang">🇬🇧 ${s().wc_en}</div>
+        <div class="msg-text">${escHtml(c.en)}</div>
+      </div>
+    `;
+  }
+  if (c.pt && c.pt.trim()) {
+    messagesHtml += `
+      <div class="msg-block">
+        <div class="msg-lang">🇧🇷 ${s().wc_ptbr}</div>
+        <div class="msg-text">${escHtml(c.pt)}</div>
+      </div>
+    `;
+  }
+
+  wc.innerHTML = `
+    <div class="wc-header">
+      <div class="wc-header-top">
+        <span class="meta-chip"><span class="icon">📌</span>${s().wc_worst}</span>
+        ${labelBadge(c.label)}
+      </div>
+      <div class="wc-nav">
+        <button id="wc-random" class="wc-btn-random" title="${s().btn_random}">🎲</button>
+        <button id="wc-prev" title="Anterior">&#8592;</button>
+        <span class="wc-counter">${(idx + 1)} / ${cases.length}</span>
+        <button id="wc-next" title="Próximo">&#8594;</button>
+      </div>
+    </div>
+    <div class="wc-body">
+      ${screenshotHtml}
+      <div class="wc-main">
+        <div class="wc-meta">
+          <span class="meta-chip"><span class="icon">👤</span><strong>${escHtml(c.author)}</strong></span>
+          <span class="meta-chip"><span class="icon">📢</span>#${escHtml(c.channel_name)}</span>
+          <span class="meta-chip"><span class="icon">🕐</span>${escHtml(c.ts)}</span>
+          <span class="meta-chip"><span class="icon">🔗</span><code style="font-size:11px;word-break:break-all">${c.msg_id}</code></span>
+        </div>
+        <div class="wc-ai-info">
+          <span>🤖 ${s().wc_ai_label}</span>
+          ${labelBadge(c.label)}
+          <span>${srcLabel}</span>
+          <div class="confidence-bar"><div class="confidence-fill ${confCls}" style="width:${confPct}%"></div></div>
+          <span style="color:var(--txt)">${confPct}% ${s().wc_confidence}</span>
+          ${c.label_source === 'context_review' ? `<span style="color:var(--grn);font-size:11px">✓ ${s().wc_ctx_review}</span>` : ''}
+        </div>
+        ${c.reason ? `<div class="msg-block" style="margin-bottom:14px"><div class="msg-lang">${s().wc_reason}</div><div class="msg-text" style="color:var(--txt2);font-style:italic">${escHtml(c.reason)}</div></div>` : ''}
+        <div class="wc-messages">${messagesHtml}</div>
+        <div class="wc-actions">
+          <a class="btn btn-primary" href="${c.discord_link}" target="_blank" rel="noopener">
+            🔗 ${s().btn_open}
+          </a>
+          <button class="btn btn-danger" onclick="openReportGuide('${c.discord_link}')">
+            🚩 ${s().btn_report}
+          </button>
+          <button class="btn btn-copy" id="btn-copy-expose" onclick="copyExpose(this, '${c.msg_id}')">
+            📋 ${s().btn_copy}
+          </button>
+        </div>
+        <div style="margin-top:8px;font-size:11px;color:var(--txt2)">${s().report_how}</div>
+      </div>
+    </div>
+  `;
+
+  $('wc-prev').onclick = () => {
+    state.wcIndex = (idx - 1 + cases.length) % cases.length;
+    renderHome();
+  };
+  $('wc-next').onclick = () => {
+    state.wcIndex = (idx + 1) % cases.length;
+    renderHome();
+  };
+  $('wc-random').onclick = () => {
+    let r;
+    do { r = Math.floor(Math.random() * cases.length); } while (cases.length > 1 && r === idx);
+    state.wcIndex = r;
+    renderHome();
+  };
+
+  renderContext(c);
+}
+
+function renderContext(c) {
+  const sec = $('ctx-section');
+  if (!c.context || !c.context.length) { sec.innerHTML = ''; return; }
+
+  let rows = '';
+  for (const m of c.context) {
+    const hasLabel  = m.label && m.label !== 'clean';
+    const labelHtml = hasLabel ? `<span class="wc-label-badge badge-${m.label} ctx-label-inline">${s().label_names[m.label] || m.label}</span>` : '';
+    const clickable = hasLabel ? `data-mid="${m.id}" style="cursor:pointer"` : '';
+
+    const hasEn = m.en && m.en.trim() && m.en.trim() !== m.orig.trim();
+    const hasPt = m.pt && m.pt.trim() && m.pt.trim() !== m.orig.trim();
+
+    let transBlock = '';
+    if (hasEn || hasPt) {
+      transBlock = `
+        <div class="ctx-quote">
+          <div class="ctx-quote-label">${s().ctx_translation}</div>
+          ${hasEn ? `<div class="ctx-quote-line">🇬🇧 ${escHtml(m.en)}</div>` : ''}
+          ${hasPt ? `<div class="ctx-quote-line">🇧🇷 ${escHtml(m.pt)}</div>` : ''}
+        </div>
+      `;
+    }
+
+    rows += `
+      <div class="ctx-msg${hasLabel ? ' ctx-has-label' : ''}" ${clickable}>
+        <div class="ctx-avatar">${avatarLetter(m.author)}</div>
+        <div class="ctx-body">
+          <div class="ctx-author">${escHtml(m.author)}<span class="ctx-ts">${escHtml(m.ts || '')}</span>${labelHtml}</div>
+          <div class="ctx-text">${escHtml(m.orig)}</div>
+          ${transBlock}
+        </div>
+      </div>
+    `;
+  }
+
+  sec.innerHTML = `
+    <div class="context-section">
+      <div class="context-title">${s().ctx_title}</div>
+      ${rows}
+    </div>
+  `;
+
+  // clique em mensagens com badge abre o caso
+  sec.querySelectorAll('[data-mid]').forEach(el2 => {
+    el2.addEventListener('click', () => {
+      const mid = el2.dataset.mid;
+      const idx = filteredCases().findIndex(x => x.msg_id === mid);
+      if (idx !== -1) {
+        state.tab     = 'home';
+        state.wcIndex = idx;
+        renderNav();
+        renderContent();
+      }
+    });
+  });
+}
+
+// ── CASES PAGE ────────────────────────────────────────────────────────────────
+
+function renderCasesPage() {
+  const cases = filteredCases();
+  const total  = cases.length;
+  const pages  = Math.ceil(total / PER_PAGE);
+  const page   = Math.min(state.casesPage, pages - 1);
+  const slice  = cases.slice(page * PER_PAGE, (page + 1) * PER_PAGE);
+
+  $('cases-page-title').textContent = s().cases_title;
+  $('cases-search-input').placeholder = s().cases_search;
+  $('cases-search-input').value = state.casesSearch;
+
+  const list = $('cases-list');
+  list.innerHTML = '';
+
+  if (!slice.length) {
+    list.innerHTML = `<div class="loading">${s().no_cases}</div>`;
+  }
+
+  slice.forEach(c => {
+    const row = el('div', 'case-row');
+    let transHtml = '';
+    if (c.en_preview || c.pt_preview) {
+      transHtml = `<div class="case-trans-block">
+        <div class="case-trans-label">${s().ctx_translation}</div>`;
+      if (c.en_preview) transHtml += `<div class="case-trans-line"><span class="case-trans-flag">🇬🇧</span>${escHtml(c.en_preview)}</div>`;
+      if (c.pt_preview) transHtml += `<div class="case-trans-line"><span class="case-trans-flag">🇧🇷</span>${escHtml(c.pt_preview)}</div>`;
+      transHtml += `</div>`;
+    }
+    row.innerHTML = `
+      <span class="case-label" style="background:${labelColor(c.label)}"></span>
+      <div class="case-info">
+        <div class="case-author">${escHtml(c.author)} <span class="case-channel-inline">#${escHtml(c.channel_name)}</span></div>
+        <div class="case-orig-label">Original</div>
+        <div class="case-preview">${escHtml(c.orig_preview || '')}</div>
+        ${transHtml}
+      </div>
+      <div class="case-meta">
+        <div class="case-ts">${escHtml(c.ts)}</div>
+        ${labelBadge(c.label)}
+      </div>
+    `;
+    row.onclick = () => {
+      state.tab      = 'home';
+      state.wcIndex  = filteredCases().findIndex(x => x.msg_id === c.msg_id);
+      renderNav();
+      renderContent();
+    };
+    list.appendChild(row);
+  });
+
+  renderPagination(pages, page);
+}
+
+function renderPagination(pages, current) {
+  const pg = $('pagination');
+  pg.innerHTML = '';
+  if (pages <= 1) return;
+
+  const prev = el('button', `page-btn`, '&#8592;');
+  prev.disabled = current === 0;
+  prev.onclick  = () => { state.casesPage = current - 1; renderCasesPage(); };
+  pg.appendChild(prev);
+
+  const range = pagRange(current, pages);
+  range.forEach(p => {
+    if (p === '...') {
+      pg.appendChild(el('span', '', '...'));
+    } else {
+      const btn = el('button', `page-btn${p === current ? ' active' : ''}`, p + 1);
+      btn.onclick = () => { state.casesPage = p; renderCasesPage(); };
+      pg.appendChild(btn);
+    }
+  });
+
+  const next = el('button', `page-btn`, '&#8594;');
+  next.disabled = current === pages - 1;
+  next.onclick  = () => { state.casesPage = current + 1; renderCasesPage(); };
+  pg.appendChild(next);
+}
+
+function pagRange(current, total) {
+  if (total <= 7) return Array.from({length: total}, (_, i) => i);
+  const r = [];
+  if (current < 4) {
+    for (let i = 0; i < 5; i++) r.push(i);
+    r.push('...'); r.push(total - 1);
+  } else if (current > total - 5) {
+    r.push(0); r.push('...');
+    for (let i = total - 5; i < total; i++) r.push(i);
+  } else {
+    r.push(0); r.push('...');
+    for (let i = current - 1; i <= current + 1; i++) r.push(i);
+    r.push('...'); r.push(total - 1);
+  }
+  return r;
+}
+
+// ── RANKING PAGE ──────────────────────────────────────────────────────────────
+
+function barChart(data, colorFn) {
+  const max = Math.max(...data.map(d => d.value), 1);
+  return data.map(d => {
+    const pct = Math.round((d.value / max) * 100);
+    return `
+      <div class="dash-bar-row">
+        <span class="dash-bar-label">${escHtml(d.label)}</span>
+        <div class="dash-bar-wrap">
+          <div class="dash-bar-fill" style="width:${pct}%;background:${colorFn(d)}"></div>
+        </div>
+        <span class="dash-bar-val">${d.value}</span>
+      </div>
+    `;
+  }).join('');
+}
+
+function donutChart(data) {
+  const total  = data.reduce((s, d) => s + d.value, 0) || 1;
+  const r = 40, cx = 50, cy = 50, stroke = 14;
+  const circ = 2 * Math.PI * r;
+  let offset = 0;
+  const arcs = data.map(d => {
+    const dash = (d.value / total) * circ;
+    const arc  = `<circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="${d.color}"
+      stroke-width="${stroke}" stroke-dasharray="${dash} ${circ - dash}"
+      stroke-dashoffset="${-offset}" transform="rotate(-90 ${cx} ${cy})"/>`;
+    offset += dash;
+    return arc;
+  }).join('');
+  const legend = data.map(d => `
+    <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:var(--txt)">
+      <span style="width:10px;height:10px;border-radius:50%;background:${d.color};flex-shrink:0"></span>
+      ${escHtml(d.label)} <span style="color:var(--txt2);margin-left:auto">${d.value}</span>
+    </div>`).join('');
+  return `
+    <div style="display:flex;align-items:center;gap:16px;">
+      <svg viewBox="0 0 100 100" width="90" height="90" style="flex-shrink:0">${arcs}
+        <text x="50" y="54" text-anchor="middle" fill="var(--white)" font-size="14" font-weight="700">${total}</text>
+      </svg>
+      <div style="flex:1;display:flex;flex-direction:column;gap:5px;">${legend}</div>
+    </div>`;
+}
+
+function renderDashboard() {
+  const m = state.meta;
+  if (!m) return '';
+
+  const labelData = [
+    { label: s().filter_racist,     value: m.by_label.racist     || 0, color: 'var(--red)' },
+    { label: s().filter_xeno,       value: m.by_label.xenophobic || 0, color: 'var(--ora)' },
+    { label: s().filter_offensive,  value: m.by_label.offensive  || 0, color: 'var(--ylw)' },
+    { label: s().filter_suspicious, value: m.by_label.suspicious || 0, color: 'var(--pur)' },
+  ];
+
+  const top10 = state.suspects.slice(0, 10).map(u => ({
+    label: u.username,
+    value: u.total,
+    score: u.counts.racist * 3 + u.counts.xenophobic * 2 + u.counts.offensive,
+  }));
+
+  const byCh = {};
+  state.casesIndex.forEach(c => { byCh[c.channel_name] = (byCh[c.channel_name] || 0) + 1; });
+  const byChannel = Object.entries(byCh).sort((a,b)=>b[1]-a[1]).map(([l,v])=>({label:l,value:v}));
+
+  // score = 3×racist + 2×xeno + 1×offensive
+  const byScore = state.suspects.slice(0, 10).map(u => ({
+    label: u.username,
+    value: u.counts.racist * 3 + u.counts.xenophobic * 2 + u.counts.offensive,
+  }));
+
+  // fonte da classificacao
+  const aiOnly  = state.casesIndex.filter(c => c.label_source === 'ai_review').length;
+  const ctxRev  = state.casesIndex.filter(c => c.label_source === 'context_review').length;
+  const sourceData = [
+    { label: s().source_ai,  value: aiOnly, color: 'var(--acc)' },
+    { label: s().source_ctx, value: ctxRev, color: 'var(--grn)' },
+  ];
+
+  return `
+    <div class="dash-grid">
+      <div class="dash-card">
+        <div class="dash-card-title">${s().dash_by_label}</div>
+        ${donutChart(labelData)}
+      </div>
+      <div class="dash-card">
+        <div class="dash-card-title">${s().dash_by_user}</div>
+        <div class="dash-bars">${barChart(top10, ()=>'var(--acc)')}</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-card-title">${s().dash_by_channel}</div>
+        <div class="dash-bars">${barChart(byChannel, ()=>'var(--txt2)')}</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-card-title">${s().dash_score}</div>
+        <div class="dash-bars">${barChart(byScore, d => {
+          const v = d.value;
+          return v > 50 ? 'var(--red)' : v > 20 ? 'var(--ora)' : 'var(--ylw)';
+        })}</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-card-title">${s().dash_source}</div>
+        ${donutChart(sourceData)}
+      </div>
+    </div>
+  `;
+}
+
+function renderRankingPage() {
+  $('ranking-title').textContent = s().ranking_title;
+  $('ranking-dashboard').innerHTML = renderDashboard();
+
+  const totalPages = Math.ceil(state.suspects.length / SUSPECTS_PER_PAGE);
+  suspectsPage = Math.min(suspectsPage, totalPages - 1);
+  const slice  = state.suspects.slice(suspectsPage * SUSPECTS_PER_PAGE, (suspectsPage + 1) * SUSPECTS_PER_PAGE);
+
+  const grid = $('ranking-grid');
+  grid.innerHTML = '';
+
+  slice.forEach(u => {
+    const card = el('div', 'suspect-card');
+    const chans = u.channels.map(c => `#${c}`).join(', ');
+    card.innerHTML = `
+      <div class="sc-header">
+        <div class="sc-avatar">${avatarLetter(u.username)}</div>
+        <div>
+          <div class="sc-name">${escHtml(u.username)}</div>
+          <div class="sc-channels">${escHtml(chans)}</div>
+        </div>
+      </div>
+      <div class="sc-counts">
+        <div class="sc-count racist">
+          <div class="n">${u.counts.racist}</div>
+          <div class="l">${s().filter_racist}</div>
+        </div>
+        <div class="sc-count xenophobic">
+          <div class="n">${u.counts.xenophobic}</div>
+          <div class="l">Xeno</div>
+        </div>
+        <div class="sc-count offensive">
+          <div class="n">${u.counts.offensive}</div>
+          <div class="l">${s().filter_offensive}</div>
+        </div>
+        <div class="sc-count suspicious">
+          <div class="n">${u.counts.suspicious}</div>
+          <div class="l">${s().filter_suspicious}</div>
+        </div>
+      </div>
+    `;
+    card.onclick = () => {
+      state.tab        = 'home';
+      state.filterUser = u.user_id;
+      state.wcIndex    = 0;
+      renderNav();
+      renderSidebar();
+      renderContent();
+    };
+    grid.appendChild(card);
+  });
+
+  // paginação dos cards
+  const pg = $('ranking-pagination');
+  pg.innerHTML = '';
+  if (totalPages > 1) {
+    const prev = el('button', 'page-btn', '&#8592;');
+    prev.disabled = suspectsPage === 0;
+    prev.onclick  = () => { suspectsPage--; renderRankingPage(); };
+    pg.appendChild(prev);
+    for (let i = 0; i < totalPages; i++) {
+      const btn = el('button', `page-btn${i === suspectsPage ? ' active' : ''}`, i + 1);
+      btn.onclick = () => { suspectsPage = i; renderRankingPage(); };
+      pg.appendChild(btn);
+    }
+    const next = el('button', 'page-btn', '&#8594;');
+    next.disabled = suspectsPage === totalPages - 1;
+    next.onclick  = () => { suspectsPage++; renderRankingPage(); };
+    pg.appendChild(next);
+  }
+}
+
+// ── Actions ───────────────────────────────────────────────────────────────────
+
+async function copyExpose(btn, msgId) {
+  const c = await fetchCase(msgId);
+  const text = s().copy_template(c, state.lang);
+  await navigator.clipboard.writeText(text);
+  btn.textContent = `✓ ${s().btn_copied}`;
+  btn.classList.add('copied');
+  showToast(s().btn_copied);
+  setTimeout(() => {
+    btn.textContent = `📋 ${s().btn_copy}`;
+    btn.classList.remove('copied');
+  }, 2500);
+}
+
+function openReportGuide(link) {
+  window.open(link, '_blank', 'noopener');
+  showToast(s().report_how);
+}
+
+// ── Events ────────────────────────────────────────────────────────────────────
+
+function escHtml(str) {
+  return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  $('lang-select').addEventListener('change', e => {
+    state.lang = e.target.value;
+    renderAll();
+  });
+
+  ['home','cases','ranking'].forEach(tab => {
+    $(`tab-${tab}`).addEventListener('click', () => {
+      state.tab = tab;
+      renderNav();
+      renderContent();
+    });
+  });
+
+  $('cases-search-input').addEventListener('input', e => {
+    state.casesSearch = e.target.value;
+    state.casesPage   = 0;
+    renderCasesPage();
+  });
+
+  init();
+});

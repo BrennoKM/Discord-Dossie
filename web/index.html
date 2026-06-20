@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dossiê de Infrações</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header id="header">
+  <h1>
+    <span class="dot"></span>
+    <span id="header-title">Dossiê de Infrações</span>
+  </h1>
+  <div class="header-right">
+    <small id="header-sub" style="color:var(--txt2)"></small>
+    <select id="lang-select">
+      <option value="pt-BR">🇧🇷 PT-BR</option>
+      <option value="en">🇬🇧 EN</option>
+    </select>
+  </div>
+</header>
+
+<!-- NAV TABS -->
+<nav id="nav">
+  <button class="nav-tab active" id="tab-home">Início</button>
+  <button class="nav-tab" id="tab-cases">Casos</button>
+  <button class="nav-tab" id="tab-ranking">Ranking</button>
+</nav>
+
+<!-- STATS BAR -->
+<div id="stats-bar">
+  <div class="stat-item" id="stat-total">
+    <div class="num">-</div><div class="lbl">Total</div>
+  </div>
+  <div class="stat-item racist" id="stat-racist">
+    <div class="num">-</div><div class="lbl">Racismo</div>
+  </div>
+  <div class="stat-item xenophobic" id="stat-xenophobic">
+    <div class="num">-</div><div class="lbl">Xenofobia</div>
+  </div>
+  <div class="stat-item offensive" id="stat-offensive">
+    <div class="num">-</div><div class="lbl">Ofensivo</div>
+  </div>
+  <div class="stat-item suspicious" id="stat-suspicious">
+    <div class="num">-</div><div class="lbl">Suspeito</div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<div id="main">
+
+  <!-- SIDEBAR -->
+  <aside id="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-title" id="sidebar-filter-title">FILTRAR POR</div>
+      <div id="sidebar-filters"></div>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-title" id="sidebar-ranking-title">TOP INFRATORES</div>
+      <div id="sidebar-ranking"></div>
+    </div>
+  </aside>
+
+  <!-- CONTENT -->
+  <div id="content">
+
+    <!-- HOME PAGE -->
+    <div id="page-home">
+      <div id="worst-case" class="loading">
+        <div class="spinner"></div>
+      </div>
+      <div id="ctx-section"></div>
+    </div>
+
+    <!-- CASES PAGE -->
+    <div id="page-cases" style="display:none">
+      <h2 id="cases-page-title" style="margin-bottom:14px">Casos</h2>
+      <div id="search-bar" style="margin-bottom:14px">
+        <span style="color:var(--txt2)">🔍</span>
+        <input type="text" id="cases-search-input" placeholder="Buscar...">
+      </div>
+      <div id="cases-list"></div>
+      <div id="pagination"></div>
+    </div>
+
+    <!-- RANKING PAGE -->
+    <div id="page-ranking" style="display:none">
+      <h2 id="ranking-title" style="margin-bottom:14px">Ranking</h2>
+      <div id="ranking-dashboard" style="margin-bottom:20px"></div>
+      <hr style="border:none;border-top:1px solid var(--bor);margin-bottom:20px">
+      <div id="ranking-grid"></div>
+      <div id="ranking-pagination" style="display:flex;align-items:center;justify-content:center;gap:6px;padding:16px 0;"></div>
+    </div>
+
+  </div>
+</div>
+
+<!-- TOAST -->
+<div id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

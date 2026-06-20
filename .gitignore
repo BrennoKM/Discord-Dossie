@@ -11,3 +11,5 @@ config.json
 logs/
 db/
 .claude/channels/
+.playwright-mcp/
+*.png
