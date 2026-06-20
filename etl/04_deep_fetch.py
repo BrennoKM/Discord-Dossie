@@ -56,7 +56,7 @@ def scan_channel_for_users(channel_id: str, user_ids: set) -> dict:
     ch_name   = ALL_CHANNELS.get(channel_id, channel_id)
     msgs_file = messages_path(channel_id)
     meta      = load_json(meta_path(channel_id), {})
-    authors   = load_json(authors_path(channel_id), {})
+    authors   = load_json(authors_path(), {})
 
     existing_ids = {m["id"] for m in load_jsonl(msgs_file)}
     result       = defaultdict(list)
@@ -95,7 +95,7 @@ def scan_channel_for_users(channel_id: str, user_ids: set) -> dict:
 
         # Checkpoint a cada 50 lotes
         if (scanned // 100) % 50 == 0:
-            save_json(authors_path(channel_id), authors)
+            save_json(authors_path(), authors)
             meta["oldest_id"]  = before
             meta["total_msgs"] = len(existing_ids)
             save_json(meta_path(channel_id), meta)

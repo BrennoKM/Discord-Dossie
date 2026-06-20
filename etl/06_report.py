@@ -269,7 +269,7 @@ def build_expose_text(msg: dict, author: dict) -> str:
 
 def run(channel_id: str, min_confidence: float = 0.7):
     msgs     = load_jsonl(messages_path(channel_id))
-    authors  = load_json(authors_path(channel_id), {})
+    authors  = load_json(authors_path(), {})
     trans    = load_json(translations_path(channel_id), {})
     review   = load_json(ai_review_path(channel_id), {})
     ch_name  = ALL_CHANNELS.get(channel_id, channel_id)

@@ -47,7 +47,7 @@ def extract(channel_id: str, channel_name: str, limit: int = 0):
 
     meta       = load_json(meta_path(channel_id), {})
     msgs_file  = messages_path(channel_id)
-    auths_file = authors_path(channel_id)
+    auths_file = authors_path()
     authors    = load_json(auths_file, {})
 
     # Carrega IDs ja existentes para deduplicacao

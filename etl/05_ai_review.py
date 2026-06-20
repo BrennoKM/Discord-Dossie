@@ -91,7 +91,7 @@ def run(channel_id: str, top_n: int = 0, user_id: str = ""):
     log_section(f"ETAPA 5 - Revisao IA (Groq): canal {channel_id}")
 
     msgs     = load_jsonl(messages_path(channel_id))
-    authors  = load_json(authors_path(channel_id), {})
+    authors  = load_json(authors_path(), {})
     trans    = load_json(translations_path(channel_id), {})
     review   = load_json(ai_review_path(channel_id), {})
     suspects = load_json(suspects_path(), [])

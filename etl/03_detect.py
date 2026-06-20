@@ -57,7 +57,7 @@ def run(channel_id: str):
     log_section(f"ETAPA 3 - Deteccao: canal {channel_id}")
 
     msgs    = load_jsonl(messages_path(channel_id))
-    authors = load_json(authors_path(channel_id), {})
+    authors = load_json(authors_path(), {})
     trans   = load_json(translations_path(channel_id), {})
     ch_name = ALL_CHANNELS.get(channel_id, channel_id)
 

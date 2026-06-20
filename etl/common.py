@@ -91,8 +91,8 @@ def channel_dir(channel_id: str) -> Path:
 def messages_path(channel_id: str) -> Path:
     return channel_dir(channel_id) / "messages.jsonl"
 
-def authors_path(channel_id: str) -> Path:
-    return channel_dir(channel_id) / "authors.json"
+def authors_path() -> Path:
+    return DATA_DIR / "authors.json"
 
 def translations_path(channel_id: str) -> Path:
     return channel_dir(channel_id) / "translations.json"
