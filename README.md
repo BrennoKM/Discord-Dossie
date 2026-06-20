@@ -7,6 +7,8 @@
 
 # Discord-Dossie - Task Bar Hero
 
+**[Ver dossiê online](https://brennokm.github.io/Discord-Dossie/)**
+
 ## Contexto
 
 Este projeto é um ETL simples desenvolvido em pouco tempo com o objetivo de analisar comportamentos inadequados dentro de um servidor do Discord. O servidor em questão é o **Task Bar Hero (TBH)**, comunidade de um jogo RPG idle, cujo canal `#chat-polish` concentrou uma série de mensagens com conteúdo racista e xenofóbico, em sua maioria escritas em polonês, tornando a moderação especialmente difícil para administradores que não falam o idioma.

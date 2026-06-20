@@ -13,4 +13,3 @@ logs/
 db/
 .claude/channels/
 .playwright-mcp/
-web/screenshots/*.png
