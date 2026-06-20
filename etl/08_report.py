@@ -229,6 +229,7 @@ def write_web(cases: list, suspects: list, channel_ids: list):
         "msg_id":       c["msg_id"],
         "author":       c["author"],
         "author_id":    c["author_id"],
+        "channel_id":   c["channel_id"],
         "channel_name": c["channel_name"],
         "ts":           c["ts"],
         "label":        c["label"],
